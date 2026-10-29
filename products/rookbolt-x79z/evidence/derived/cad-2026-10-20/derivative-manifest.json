@@ -1,0 +1,47 @@
+[
+  {
+    "file": "X79Z-inspection.FCStd",
+    "bytes": 4291992,
+    "sha256": "d811292f814b3f3fb8ba2a5da716b8f16bf65390afc3ca5c86098263676ff743"
+  },
+  {
+    "file": "assembly-mesh.json",
+    "bytes": 58085552,
+    "sha256": "147630d978dd61d01af46f3a71ce100c85ec62c2f20f3349d7e5fcac69c7796f"
+  },
+  {
+    "file": "assembly-views.png",
+    "bytes": 129637,
+    "sha256": "89d479a5a9420180eabd1d3f1fe190bc8b335dd4b16803a9a0916a20cf336843"
+  },
+  {
+    "file": "inspection-mesh.json",
+    "bytes": 9304592,
+    "sha256": "6390fe5fca899acd40a6eeba84913bcbc5d2c82c22e9a1d1b8c622b942a0d7a2"
+  },
+  {
+    "file": "shape-inventory.json",
+    "bytes": 48636,
+    "sha256": "9f4ca26732119370a517d3925c0ff2fe06d00e66db70730c605aeb383785cf81"
+  },
+  {
+    "file": "solid-inventory-views.png",
+    "bytes": 172728,
+    "sha256": "5867a0dc2885e18337a5e1edf89ed8bead66ace7189f807ddda90ee84ea118b3"
+  },
+  {
+    "file": "x79z-cad-inspect.py",
+    "bytes": 931,
+    "sha256": "d0b425773bd2d9bea6adb93078bb38377ec32f4c4c2e8dc4726f4dc81c28630a"
+  },
+  {
+    "file": "x79z-cad-mesh-coarse.py",
+    "bytes": 892,
+    "sha256": "854c5503077e5e1b50468f64fd9af5de58edb98f2e0abf95c837387a714afcbe"
+  },
+  {
+    "file": "x79z-cad-render-complete.py",
+    "bytes": 1953,
+    "sha256": "021ebb66fd31b033e1cfd4d6479b80dea62e2d288e1d6b9f13aeaa3713ef7ff3"
+  }
+]

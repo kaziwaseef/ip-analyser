@@ -1,0 +1,97 @@
+[
+  {
+    "path": "evidence/raw/analysis-instruction-2026-10-20.md",
+    "sha256": "4055d53d152d5d448bd1a90985b3428488a9e88853f0cf58d58ed82014568be4",
+    "bytes": 695
+  },
+  {
+    "path": "evidence/raw/intake-2026-10-20.md",
+    "sha256": "01afbd17c50716fdafe8fe9ee1e4e7ab0ad5dc0d3d1818fed96e8a65d4114c27",
+    "bytes": 812
+  },
+  {
+    "path": "evidence/raw/supplier-package/CNIPA_Patent_Certificate_ZL202421742990.1_CN222884700U.pdf",
+    "sha256": "eb8b28b66bfbb4950eedb4c5469d9116bb33ddbd92a6865b7477813193296777",
+    "bytes": 1030523
+  },
+  {
+    "path": "evidence/raw/supplier-package/CNIPA_Patent_Evaluation_Report_Positive_FTO_220701.pdf",
+    "sha256": "329419178a1474ca1f958916f89ee6b868c414e2cf99db9929c5fc1ac9505e65",
+    "bytes": 165986
+  },
+  {
+    "path": "evidence/raw/supplier-package/CTI_RoHS_Test_Report_ABS_Resin_A2250369486105001C.pdf",
+    "sha256": "edd6272cd00a5dd9c0130f978a3874c6da9f5d1b5486165d66eb2293aa206827",
+    "bytes": 864079
+  },
+  {
+    "path": "evidence/raw/supplier-package/CTI_RoHS_Test_Report_Silicone_Rubber_A2260155444101001E.pdf",
+    "sha256": "c42107535987eca67cc4c4e2f391aef3ddb3d849296c89725f1879dfad6a3ed7",
+    "bytes": 784774
+  },
+  {
+    "path": "evidence/raw/supplier-package/Pony_MSDS_Test_Report_NdFeB_Magnet_5446_MUIVD21G8305157U3.pdf",
+    "sha256": "ee3147af80f8ca98ffbc69b2f1fa0422a9ae4c5138fa184072edc0135a41c8ab",
+    "bytes": 3843749
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/Add-on clip for non magnetic phones.png",
+    "sha256": "927710c128d3f0c1792725fbf498278d7d4ae85a15c09d29db7ea779c6de2bae",
+    "bytes": 336406
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_01_70mm_Suction_and_Dual_Arm_Reach.jpg",
+    "sha256": "7efbac91902a4bbb8e835bce9bd45fcd2577669ca14b49a5ec1a3c26841683e0",
+    "bytes": 480292
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_02_N52_Magnetic_Array_Exploded_Callout.jpg",
+    "sha256": "94b4e2d890671f4696b5a1944c54a1393eed0f31f1bca61bf8dda121e63bd4f9",
+    "bytes": 304247
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_03_360_Turntable_and_Internal_Cam_Explosion.jpg",
+    "sha256": "b50802e5bacffdf672e7ef5fbbb98dce14eba4671e7d54a55ad250e25ebd3508",
+    "bytes": 356303
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_04_Kinematic_Degrees_of_Freedom_Angles.jpg",
+    "sha256": "6601b75f4e69da287a42db94c924e9e2709179dc925320adc550931367ec08ed",
+    "bytes": 481550
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_05_Folded_Profile_and_Substrate_Surfaces.jpg",
+    "sha256": "8d41b2f5a6627c64ebd13894d89da6085ad875555eb227d044aef61e0276b71d",
+    "bytes": 452315
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_06_Washable_PU_Base_and_Multi_Scenarios.jpg",
+    "sha256": "d18a5363ba6c4cbf384cd29e39337e22f34d4f8e15bb72299eb0e4cf886f0798",
+    "bytes": 640530
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_07_Dual_State_Folded_vs_Extended_Hero.jpg",
+    "sha256": "2f8b07bdfddb4c6bc51ce326719ba841646ec17f3ec64bb42a24feb34995fe10",
+    "bytes": 200459
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_08_2D_Engineering_Dimensional_Schematic.jpg",
+    "sha256": "03474145458b000260be68c4fc351988ff874336cf7c82a3e7bc9f3f15770e9f",
+    "bytes": 380798
+  },
+  {
+    "path": "evidence/raw/supplier-package/Product video/1791015907852.mp4",
+    "sha256": "a2887e4a4e119a8a71f6b2fa7b5f41cded4e8b3377f9b48cd9d338a1922abbbd",
+    "bytes": 3466596
+  },
+  {
+    "path": "evidence/raw/supplier-package/X79Z 3D File.stp",
+    "sha256": "c1d0c77402efb8e981831766eb159e058598048761cae918aa2dd57ab0b3fbe5",
+    "bytes": 13550775
+  },
+  {
+    "path": "evidence/raw/supplier-package/X79Z details .pdf",
+    "sha256": "f684ca5b2941b907fac16a0ab218954e0bd93e4cf16424b8f11c3c11ebf7b307",
+    "bytes": 1872803
+  }
+]

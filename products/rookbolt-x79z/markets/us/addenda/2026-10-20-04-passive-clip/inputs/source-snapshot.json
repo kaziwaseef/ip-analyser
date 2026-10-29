@@ -1,0 +1,115 @@
+[
+  {
+    "id": "S-031",
+    "document": "US12395201B2",
+    "title": "Adaptive support accessory for mobile devices \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12395201B2.google-patents.html",
+        "bytes": 858691,
+        "sha256": "272e3ea3f494c6555512ce11f1c5e2a1d0896de66a97973e1496fdf5bd0e5bea"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12395201B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-041",
+    "document": "US20230291234A1",
+    "title": "Wireless charging stand \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20230291234A1.google-patents.html",
+        "bytes": 280526,
+        "sha256": "449724fadc409db5deeb19912017eaaddb29fde5d6579426528464ed14606dab"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US20230291234A1.pdf",
+        "bytes": 718211,
+        "sha256": "2b3666589a5138d26515f2b13ecdebf2de99a337232f0e00b247877aba0dbb0f"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20230291234A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-080",
+    "document": "US11796126B2",
+    "title": "US11796126B2",
+    "files": [
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US11796126B2.html",
+        "bytes": 607032,
+        "sha256": "2ad2efd98c29f57c68d7a30a84da53296cd7cde8067740cdba89b9bb1d7d54bd"
+      },
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US11796126B2.pdf",
+        "bytes": 2545264,
+        "sha256": "edc458faf881c16f5d41de21d48a69960112c45107c3988036ba9c008122f066"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US11796126B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Full independent claims and relevant dependencies; frozen extracts in run02",
+    "inspection": "Operative text read. Current status/prosecution/title not officially verified. US11796126 granted claims distinguished from its A1"
+  },
+  {
+    "id": "S-081",
+    "document": "US12442483B2",
+    "title": "US12442483B2",
+    "files": [
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US12442483B2.html",
+        "bytes": 441394,
+        "sha256": "d3b39af1ef6f3bb545cc93bf3c558a2524103f96f14933dba0661db139d4d62e"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12442483B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Full independent claims and relevant dependencies; frozen extracts in run02",
+    "inspection": "Operative text read. Current status/prosecution/title not officially verified. US11796126 granted claims distinguished from its A1"
+  },
+  {
+    "id": "S-082",
+    "document": "US20250323990A1",
+    "title": "US20250323990A1",
+    "files": [
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US20250323990A1.html",
+        "bytes": 162870,
+        "sha256": "b366419cc2524dfc231ee4adfcdfe464c89d9dac0cab5454d4f98ac4882d509a"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20250323990A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Full independent claims and relevant dependencies; frozen extracts in run02",
+    "inspection": "Operative text read. Current status/prosecution/title not officially verified. US11796126 granted claims distinguished from its A1"
+  },
+  {
+    "id": "S-086",
+    "title": "User confirms negative front-face test and passive metal clip",
+    "files": [
+      {
+        "path": "evidence/raw/passive-clip-confirmation-2026-10-20.md",
+        "bytes": 1033,
+        "sha256": "9f5d1d37b53169809a69ab8aeab91b38d3b82f913a037ab004503e8790e36f14"
+      }
+    ],
+    "url": "User response to detached-clip attraction question",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Full question context and exact answer",
+    "inspection": "User reports test outcome and passive metal construction; no internal material audit"
+  }
+]

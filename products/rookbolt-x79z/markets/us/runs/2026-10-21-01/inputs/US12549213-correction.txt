@@ -1,0 +1,34 @@
+ 
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+CERTIFICATE OF CORRECTION 
+PATENT NO. 
+ 
+: 12,549,213 B2 
+APPLICATION NO. 
+: 17/935054 
+DATED  
+ 
+: February 10, 2026 
+INVENTOR(S)  
+: Timothy J. Rasmussen et al. 
+ 
+It is certified that error appears in the above-identified patent and that said Letters Patent is hereby corrected as shown below: 
+In the Claims  
+ 
+Under Column no. 23, Claim 1, Line nos. 30-31, Replace: 
+“and aperture, wholly disposed within the internal volume; and”  
+With: 
+--and-- 
+ 
+Under Column no. 25, Claim 16, Line no. 14, Replace: 
+“wherein;”  
+With: 
+--wherein:-- 
+Signed and Sealed this 
+Fifteenth Day of September, 2026   
+ 
+John A. Squires  
+Director of the United States Patent and Trademark Office 
+  
+Page 1 of 1 

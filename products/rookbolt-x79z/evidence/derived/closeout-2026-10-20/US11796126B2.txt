@@ -1,0 +1,2267 @@
+US11796126B2 - Magnetic attachment multi-configuration gripping clip for electronic devices 
+ - Google Patents
+US11796126B2 - Magnetic attachment multi-configuration gripping clip for electronic devices 
+ - Google Patents
+ Magnetic attachment multi-configuration gripping clip for electronic devices 
+ Download PDF
+Info
+ Publication number
+ US11796126B2
+ US11796126B2
+ US17/576,940
+ US202217576940A
+ US11796126B2
+ US 11796126 B2
+ US11796126 B2
+ US 11796126B2
+ US 202217576940 A
+ US202217576940 A
+ US 202217576940A
+ US 11796126 B2
+ US11796126 B2
+ US 11796126B2
+ Authority
+ US
+ United States
+ Prior art keywords
+ magnetic
+ gripping
+ support
+ clip
+ mounting surface
+ Prior art date
+ 2021-01-16
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Active
+ Application number
+ US17/576,940
+ Other versions
+ US20220228708A1
+ (en
+ Inventor
+ Hen-Li Philip Chao
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Vijim Ltd
+ Videndum Media Solutions SpA
+ Original Assignee
+ Videndum Media Solutions SpA
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2021-01-16
+ Filing date
+ 2022-01-15
+ Publication date
+ 2023-10-24
+ 2022-01-15
+ Application filed by Videndum Media Solutions SpA
+ filed
+ Critical
+ Videndum Media Solutions SpA
+ 2022-01-15
+ Priority to US17/576,940
+ priority
+ Critical
+ patent/US11796126B2/en
+ 2022-07-21
+ Publication of US20220228708A1
+ publication
+ Critical
+ patent/US20220228708A1/en
+ 2023-07-06
+ Assigned to VITEC IMAGING SOLUTIONS SPA
+ reassignment
+ VITEC IMAGING SOLUTIONS SPA
+ ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+ Assignors: Chao, Hen-Li Philip
+ 2023-07-07
+ Assigned to VIDENDUM MEDIA SOLUTIONS SPA
+ reassignment
+ VIDENDUM MEDIA SOLUTIONS SPA
+ CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).
+ Assignors: VITEC IMAGING SOLUTIONS SPA
+ 2023-10-24
+ Application granted
+ granted
+ Critical
+ 2023-10-24
+ Publication of US11796126B2
+ publication
+ Critical
+ patent/US11796126B2/en
+ 2025-10-15
+ Assigned to VIJIM LIMITED
+ reassignment
+ VIJIM LIMITED
+ ASSIGNMENT OF ASSIGNOR'S INTEREST
+ Assignors: VITEC IMAGING SOLUTIONS SPA
+ Status
+ Active
+ legal-status
+ Critical
+ Current
+ 2042-01-15
+ Anticipated expiration
+ legal-status
+ Critical
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F16M13/022—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle repositionable
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B2/00—Friction-grip releasable fastenings
+ F16B2/20—Clips, i.e. with gripping action effected solely by the inherent resistance to deformation of the material of the fastening
+ F16B2/22—Clips, i.e. with gripping action effected solely by the inherent resistance to deformation of the material of the fastening of resilient material, e.g. rubbery material
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B1/00—Devices for securing together, or preventing relative movement between, constructional elements or machine parts
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/041—Allowing quick release of the apparatus
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/08—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a vertical axis, e.g. panoramic heads
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/10—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/10—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis
+ F16M11/105—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis the horizontal axis being the roll axis, e.g. for creating a landscape-portrait rotation
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/12—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting in more than one direction
+ F16M11/14—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting in more than one direction with ball-joint
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/2007—Undercarriages with or without wheels comprising means allowing pivoting adjustment
+ F16M11/2021—Undercarriages with or without wheels comprising means allowing pivoting adjustment around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/24—Undercarriages with or without wheels changeable in height or length of legs, also for transport only, e.g. by means of tubes screwed into each other
+ F16M11/242—Undercarriages with or without wheels changeable in height or length of legs, also for transport only, e.g. by means of tubes screwed into each other by spreading of the legs
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/24—Undercarriages with or without wheels changeable in height or length of legs, also for transport only, e.g. by means of tubes screwed into each other
+ F16M11/40—Undercarriages with or without wheels changeable in height or length of legs, also for transport only, e.g. by means of tubes screwed into each other by means of coilable or bendable legs or spiral shaped legs
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/04—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or holding steady relative to, a person, e.g. by chains, e.g. rifle butt or pistol grip supports, supports attached to the chest or head
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F21—LIGHTING
+ F21S—NON-PORTABLE LIGHTING DEVICES; SYSTEMS THEREOF; VEHICLE LIGHTING DEVICES SPECIALLY ADAPTED FOR VEHICLE EXTERIORS
+ F21S9/00—Lighting devices with a built-in power supply; Systems employing lighting devices with a built-in power supply
+ F21S9/02—Lighting devices with a built-in power supply; Systems employing lighting devices with a built-in power supply the power supply being a battery or accumulator
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F21—LIGHTING
+ F21V—FUNCTIONAL FEATURES OR DETAILS OF LIGHTING DEVICES OR SYSTEMS THEREOF; STRUCTURAL COMBINATIONS OF LIGHTING DEVICES WITH OTHER ARTICLES, NOT OTHERWISE PROVIDED FOR
+ F21V21/00—Supporting, suspending, or attaching arrangements for lighting devices; Hand grips
+ F21V21/08—Devices for easy attachment to any desired place, e.g. clip, clamp, magnet
+ F21V21/096—Magnetic devices
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F21—LIGHTING
+ F21V—FUNCTIONAL FEATURES OR DETAILS OF LIGHTING DEVICES OR SYSTEMS THEREOF; STRUCTURAL COMBINATIONS OF LIGHTING DEVICES WITH OTHER ARTICLES, NOT OTHERWISE PROVIDED FOR
+ F21V21/00—Supporting, suspending, or attaching arrangements for lighting devices; Hand grips
+ F21V21/14—Adjustable mountings
+ F21V21/26—Pivoted arms
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/04—Supports for telephone transmitters or receivers
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B11/00—Connecting constructional elements or machine parts by sticking or pressing them together, e.g. cold pressure welding
+ F16B11/006—Connecting constructional elements or machine parts by sticking or pressing them together, e.g. cold pressure welding by gluing
+ F16B2001/0035—
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B2200/00—Constructional details of connections not covered for in other groups of this subclass
+ F16B2200/83—Use of a magnetic material
+Definitions
+ the present invention
+ relates to accessories for an electronic device, and more particularly to a magnetic attachment for attaching and/or using the device.
+ Cellular telephones
+ are increasingly used to support video conferencing and other video activities. Also, users may want to be able to support other accessory items, and may want to have them attached to the telephone, or to its case.
+ What is called for
+ is a device which can provide a more secure way to hold the device, such as a cellular telephone, and which can support accessories.
+ FIGS. 1 A- 1 F
+ are views of a clip support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 2 A- 2 B
+ present views of a clip support with magnetic connector supporting a cellphone according to some embodiments of the present invention.
+ FIGS. 3 A- 3 C
+ are views of a clip support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 4 A-B
+ present views of a clip support with magnetic connector supporting a cellphone according to some embodiments of the present invention.
+ FIGS. 5 A- 5 C
+ are views of a microphone with magnetic connector according to some embodiments of the present invention.
+ FIGS. 6 A- 6 B
+ are views of a microphone with magnetic connector on a cellphone according to some embodiments of the present invention.
+ FIGS. 7 A- 7 E
+ are views of a flip up light with magnetic connector according to some embodiments of the present invention.
+ FIGS. 8 A- 8 C
+ are views of a flip up light with magnetic connector in a flipped up configuration according to some embodiments of the present invention.
+ FIGS. 9 A- 9 B
+ present views of a flip up light with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 10 A- 10 B
+ present views of a flip up light with magnetic connector in a flipped up configuration on a cell phone according to some embodiments of the present invention.
+ FIGS. 11 A- 11 C
+ present views of a support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 12 A- 12 B
+ present views of a support with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 13 A- 13 B
+ present views of an adhesive support with magnetic connector according to some embodiments of the present invention.
+ FIG. 14
+ presents oblique views of an adhesive support with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 15 A- 15 C
+ present views of a magnetic connector with cold shoe mount according to some embodiments of the present invention.
+ FIG. 16
+ presents oblique views of a magnetic connector with cold shoe mount on a cell phone according to some embodiments of the present invention.
+ FIG. 17
+ presents oblique views of a magnetic connector with a parallel plate mount according to some embodiments of the present invention.
+ FIG. 18
+ presents oblique views of a magnetic connector with a parallel plate mount on a cell phone according to some embodiments of the present invention.
+ FIG. 19 A- 19 C
+ present views of a magnetic connector with legs according to some embodiments of the present invention.
+ FIG. 20
+ is an oblique view of a magnetic connector with legs in a stowed configuration on a cell phone according to some embodiments of the present invention.
+ FIGS. 21 A- 21 B
+ are views of a magnetic connector with legs in a deployed configuration on a cell phone according to some embodiments of the present invention.
+ FIGS. 22 A- 22 B
+ present views of a clip support with magnetic connector according to some embodiments of the present invention.
+ FIG. 23
+ is a view of a clip support with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 24 A- 24 B
+ present views of a clip support with ring and magnetic connector according to some embodiments of the present invention.
+ FIG. 25
+ is a view of a clip support with ring and magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 26 A- 26 F
+ are views of a support with magnetic connector and arms in a flat configuration according to some embodiments of the present invention.
+ FIGS. 27 A-B
+ are views of a support with magnetic connector and arms in a flat configuration with cell phone according to some embodiments of the present invention.
+ FIGS. 28 A- 28 B
+ are views of a support with magnetic connector and arms in a gripping configuration according to some embodiments of the present invention.
+ FIGS. 29 A- 29 B
+ are views of a support with magnetic connector and arms in a gripping configuration with a cell phone according to some embodiments of the present invention.
+ FIGS. 30 A- 30 V and 30 X- 30 AA
+ are views of a second embodiment of a magnetic gripping clip according to some embodiments of the present invention.
+ FIGS. 31 A- 31 C
+ are views of a support with magnetic connector and vent clip according to some embodiments of the present invention.
+ FIGS. 32 A- 32 B
+ are views of a support with magnetic connector and vent clip and cell phone according to some embodiments of the present invention.
+ FIGS. 33 A- 33 C
+ are views of an auxiliary battery with magnetic connector and vent clip according to some embodiments of the present invention.
+ FIGS. 34 A- 34 B
+ are views of an auxiliary battery with magnetic connector and vent clip on a cell phone according to some embodiments of the present invention.
+ FIGS. 35 A-C
+ are views of an auxiliary battery and battery holder with magnetic connector and vent clip according to some embodiments of the present invention.
+ FIG. 36
+ presents orthogonal views of a clip support with cold shoes and magnetic connector according to some embodiments of the present invention.
+ FIG. 37 A- 37 B
+ are views of a clip support with a deployable cold shoe and magnetic connector according to some embodiments of the present invention.
+ FIG. 38 A- 38 C
+ are views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 39 A
+ is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 39 B
+ is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 39 C
+ is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 40
+ is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 41 A- 41 E
+ are views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 42 A- 42 B
+ are views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 43 A- 43 C
+ are views of a magnetic charger holder according to some embodiments of the present invention.
+ FIG. 44
+ presents views of a magnetic connector according to some embodiments of the present invention.
+ FIGS. 45 A- 45 C
+ present views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 46 A- 46 B
+ illustrate views of a second embodiment of a magnetic gripping clip on a tripod according to some embodiments of the present invention.
+ a support for holding an electronic device, such as a cellular telephone, that attaches to the electronic device with a magnetic connector
+ may have support arms that can grip the electronic device.
+ a magnetic mounting surface
+ may include an annular magnet at its outer area, which is adapted to magnetically hold an electronic device such as a cellular telephone.
+ the support arms
+ may be able to move from a first position perpendicular to the magnetic mounting surface to a second positions parallel to the magnetic mounting surface.
+ the support arms
+ may be extendible from a central portion and this extension may be resisted by internal springs.
+ a cellular telephone
+ may be held within the extended arms to provide gripping support to the telephone. In the parallel configuration, the extendable arms may provide a further mounting surface for stability of the phone on its magnetic mounting surface.
+ a clip support with magnetic connector 100
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the clip support 100
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip support 100
+ may have a circular, or substantially circular, connection body 101 coupled to a first bracket support 102 .
+ the first bracket support 102
+ is coupled to a second bracket support 104 .
+ the first bracket support 102 and the second bracket support 104
+ may be joined at a right angle.
+ the bottom surface 108 of the second bracket support 104
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 106 .
+ the magnetic coupler 103
+ may present a flat surface 107 such that the surface 107 is adapted to couple to a magnetic coupling area of a cellular telephone.
+ Side rails 105 on the second bracket support 104
+ allow for insertion and retention by a clip receiver, as may be seen on a tripod or other support structure.
+ FIG. 11 C
+ illustrates a cross-section of a magnetic coupling body as seen in embodiments of the present invention.
+ a front cover 245
+ provides the mating surface to the device, such as a cellular telephone.
+ the front cover 245
+ may be of a frictional or resilient material to add to the security of the attachment.
+ a circular magnet 243
+ resides within the coupling body 244 .
+ the circular magnet 243
+ may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick.
+ the circular magnet 243
+ allows for coupling of the cellular telephone to the clip support, or other accessory as described herein, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature. The circular nature of the interface allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+ FIG. 2 A
+ illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 100 in a landscape configuration.
+ the rear side 113 of the cellular telephone 110
+ may contain a circular magnetic interface feature.
+ Camera lenses 111
+ may allow for imaging away from the rear side 113 of the cellular telephone 110 .
+ the front side 112 of the cellular telephone 110
+ is away from the clip support 100 .
+ FIG. 2 B
+ illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 100 in a portrait configuration.
+ a clip support with magnetic connector 140
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the clip support 140
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip support 140
+ may have a circular, or substantially circular, connection body 141 coupled to a first bracket support 142 .
+ the first bracket support 142
+ is coupled to a second bracket support 144 .
+ the first bracket support 142 and the second bracket support 104
+ may be joined at a right angle.
+ the bottom surface 108 of the second bracket support 144
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 146 .
+ the magnetic coupler
+ may present a flat surface 143 such that the surface 147 is adapted to couple to a magnetic coupling area of a cellular telephone.
+ Side rails 15 on the second bracket support 14
+ allow for insertion and retention by an Arca-Swiss clip receiver, as may be seen on a tripod or other support structure.
+ FIG. 4 A
+ illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 140 in a landscape configuration.
+ FIG. 4 B
+ illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 140 in a portrait configuration.
+ a microphone with magnetic connector 180
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the microphone 180
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the microphone 180
+ may have a circular, or substantially circular, connection body 183 .
+ the circular body
+ may include battery and one or more microphones.
+ An on-off switch
+ may also be found on the exterior of the circular body.
+ the microphone battery
+ may be recharged using a charger with a cable such as a USB cable, and may have the appropriate port.
+ the microphone battery
+ may be charged without a cable, such as with a magsafe system.
+ the microphone
+ may be covered with an appropriate wind screening material 181 .
+ the microphone 180
+ may be annular with a through hole 182 .
+ FIGS. 6 A- 6 B
+ illustrate the microphone with magnetic connector on a cellular telephone 110 .
+ a deployable light with magnetic connector 220
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the deployable light 220
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the deployable light 220
+ may have a circular, or substantially circular, connection body 223 .
+ the connection body
+ may have a cover 235 which provides the mating surface to the device, such as a cellular telephone.
+ the cover 235
+ may be of a frictional or resilient material to add to the security of the attachment.
+ a magnet
+ which may be a circular magnet, resides within the coupling body connection.
+ the circular, annular, magnet
+ may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick.
+ the circular magnet
+ allows for coupling of the cellular telephone to the deployable light, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature.
+ the circular nature of the interface
+ allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+ connection body 223
+ may culminate in a pivot 221 which is adapted to allow for the deployment of a lighting element 230 .
+ connection body 223
+ may include a battery electrically coupled to the lighting element 230 .
+ the battery
+ may reside within the annulus of the circular magnet.
+ An on/off button and cord ports for charging
+ may be found on the extension 222 or other suitable location.
+ the lighting element 230
+ is laid over the connection body.
+ the lighting element 224
+ may be a circular, annular, lighting element with an inner surface 234 .
+ the connection body 223
+ may have a raised external surface 235 .
+ the inner surface 234 of the lighting element 224
+ may reside around external surface 235 of the connection body 223 in the stowed configuration.
+ the lighting element 224
+ is comprised of a plurality of LEDs arranged in a circular pattern.
+ FIG. 7 D
+ illustrates a variation of the lighting element further including a tab 239 which is an extension of the back surface 235 of the connection body 223 a .
+ the lighting element 224 a of this variation
+ may also have a recess 229 to allow room for the tab 239 .
+ This tab 230 and recess 229
+ may allow a user to utilize the recess 229 , for example with a fingernail, to more easily move the lighting element from the stowed configuration to the deployed configuration.
+ FIG. 7 E
+ illustrates an exploded view of a connection body 223 , illustrating a battery 226 which may reside in a recess 227 within the annulus of the circular magnet.
+ a top surface plate 225 of the connection body
+ resides over the battery 226 and is the outside surface of this portion of the connection body.
+ FIGS. 8 A- 8 C
+ illustrate the lighting element in a deployed configuration.
+ the deployable light
+ may have detents, or a mechanical stop, such that the lighting element is held in the deployed configuration with sufficient force that the lighting element will not pivot away from the deployed configuration in normal use, without further force purposefully applied by the user.
+ a gap 238 between the raised external surface 235 of the connection body 223 and the raised area of the extension portion 231
+ allows the circular lighting element 224 to fit into the gap when the deployable light 220 is in the stowed configuration.
+ a charging port 236
+ is adapted to allow for the coupling of an external charging cord to the deployable light.
+ the charging port
+ may be compatible with a USB-C plug.
+ One or more control buttons 237
+ allow the user to turn the lighting element of the deployable light on and off. In some aspects, the control buttons 237 may also allow the user to select various brightness levels for the light.
+ FIGS. 9 A and 9 B
+ illustrate the deployable light 220 on a cellular telephone 110 , with the light in a stowed configuration.
+ the magnet within the connection body 223
+ has magnetically coupled to the cellular telephone 110 .
+ This stowed configuration
+ allows for the light to shine in a direction to the rear of the cellular telephone.
+ FIGS. 10 A and 10 B
+ illustrate the deployable light 220 on a cellular telephone 110 , with the light in a deployed configuration.
+ This deployed configuration
+ allows for the light to shine in a direction to the front of the cellular telephone.
+ a user
+ may use the cellular telephone for video recording or communication using the forward facing camera function of the cellular telephone, which may allow the user to observe themself in real time during the video call, for example.
+ a support with magnetic connector 240
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the support 240
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the support 240
+ may have a circular, or substantially circular, connection body 241 which presents a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ a threaded insert 242
+ allows for attachment of the support 240 to a support structure with a threaded post.
+ FIGS. 12 A and 12 B
+ illustrate the support 240 on a cellular telephone 110 .
+ a support with magnetic connector 260
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the support 260
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the support 260
+ may have a circular, or substantially circular, connection body 265 which presents a flat surface 261 such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ An adhesive surface 265
+ allows for attachment of the support 260 to a surface.
+ FIG. 14
+ illustrates the support 260 on a cellular telephone 110 .
+ a cold shoe clip with magnetic connector 280
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the cold shoe clip with magnetic connector 180
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the cold shoe clip with magnetic connector 180
+ may have a circular, or substantially circular, connection body 281 .
+ the circular body
+ may include an extension with a cold shoe clip 284 .
+ the cold shoe clip
+ may have a bottom mounting surface 285 .
+ a tightening nut 283
+ is adapted to cinch down and tighten to hold the cold shoe clip to it mating interface.
+ FIG. 16
+ illustrate the cold shoe clip with magnetic connector 280 on a cellular telephone 110 .
+ a support with magnetic connector 300
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the support 300
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the support 300
+ may have a circular, or substantially circular, connection body which presents a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ a multi-planar extension 301
+ allows for attachment of the support 300 to a support structure with a mating structure.
+ FIG. 18
+ illustrates the support 300 on a cellular telephone 110 .
+ a tripod with magnetic connector 320
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the tripod with magnetic connector 320
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the tripod with magnetic connector 320
+ may have a circular, or substantially circular, connection body which presents a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ a trio of legs 322 , 323 , 324
+ is adapted to stow in plane with each other and the connection body, and to pivot 325 to a deployed configuration.
+ the legs
+ may have plug extensions 327 .
+ FIG. 20
+ illustrates the tripod with magnetic connector 320 in a stowed configuration on a cellular telephone 110 .
+ FIGS. 21 A and 21 B
+ illustrate the tripod with magnetic connector 320 in a deployed position with the legs 322 , 323 , 324 extended in order to support a cellular telephone.
+ a clip with magnetic connector 360
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the clip with magnetic connector 360
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip with magnetic connector 360
+ may have a circular, or substantially circular, connection body 361 .
+ the circular body
+ may include a recess 363 with a clip 362 within the recess, which may be adapted to clip into a clip receiver, such as may be seen on a tripod.
+ FIG. 23
+ illustrate the clip with magnetic connector 360 on a cellular telephone 110 .
+ a clip and ring with magnetic connector 380
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the clip and ring with magnetic connector 380
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip and ring with magnetic connector 380
+ may have a circular, or substantially circular, connection body.
+ the circular body
+ may include a recess 383 with a clip 382 within the recess, which may be adapted to clip into a clip receiver, such as may be seen on a tripod.
+ a deployable ring 384
+ may also reside in the recess 383 .
+ the ring 384
+ may stow into the recess, and the deploy to allow for the insertion of a finger, for example.
+ FIG. 25
+ illustrates the clip and ring with magnetic connector 380 on a cellular telephone 110 .
+ a first embodiment of a magnetic gripping clip for an electronic device 400
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the gripping clip with magnetic connector 400
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the gripping clip with magnetic connector 400
+ may have a circular, or substantially circular, magnetic connection body 401 .
+ the circular magnetic connection body
+ may be coupled to a clip body cross bracket 403 which may be rotatably coupled to the clip main post.
+ the cross bracket
+ may be centrally connected, at its center, to the main post 402 .
+ the clip body cross bracket
+ has a first gripping arm 404 and a second gripping arm 405 , which may be extendable relative to the clip body cross bracket 403 .
+ a main post 402
+ has a first end and a second end. The first end of said main post is coupled to the clip body cross bracket 403 .
+ a mount 408
+ is coupled to the main post. The mount 408 may have a threaded insert 409 such that the mount 408 may be coupled to threaded post, such as seen on a tripod.
+ FIGS. 26 C- 26 F
+ illustrate the gripping arms 404 , 405 in a flat configuration.
+ FIGS. 26 B and 28 A -B
+ illustrate the gripping arms 404 , 405 in a gripping configuration.
+ the gripping arms 404 , 405
+ are adapted to rotate from a position in plane with the clip body 403 to a gripping position perpendicular to the clip body at a twist interface 406 , 407 .
+ the twist interface
+ may have detents such that the gripping arms can be set either in plane, or perpendicular, as shown comparatively in FIGS. 26 A and 26 B , for example.
+ the gripping arms
+ may be extendable outward, and resisted with springs within the clip body, allowing for gripping of devices of various dimension.
+ FIGS. 27 A and 27 B
+ illustrate the gripping clip with magnetic connector 400 with a cellular telephone 110 .
+ the flat configuration
+ allows for the coupling of the cellular telephone when no extra forces are placed upon the cellular telephone, for example.
+ FIGS. 29 A and 29 B
+ illustrate the gripping clip with magnetic connector 400 with a cellular telephone 110 in a gripping configuration.
+ the gripping configuration
+ allows for the coupling of the cellular telephone when extra forces may be placed upon the cellular telephone, for example, and provides the security of the gripping arms to maintain telephone retention.
+ a second embodiment of a magnetic gripping clip for an electronic device 420
+ is adapted to magnetically couple to and support an electronic device, such as a cellular telephone.
+ the magnetic gripping clip for an electronic device 420
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the magnetic gripping clip for an electronic device 420
+ may have a circular, or substantially circular, magnetic connection body 401 .
+ the circular magnetic connection body
+ may be coupled to a clip body cross bracket 403 which may be rotatably coupled to the clip main post.
+ the cross bracket
+ may be centrally connected, at its center, to the main post 440 .
+ the clip body cross bracket
+ has a first gripping arm 404 and a second gripping arm 405 , which may be extendable relative to the clip body cross bracket 403 .
+ the gripping arms 404 , 405
+ are adapted to rotate from a position in plane with the clip body 403 to a gripping position perpendicular to the clip body at a twist interface 406 , 407 .
+ the twist interface
+ may have detents such that the gripping arms can be set either in plane, or perpendicular.
+ the gripping arms
+ may be extendable outward, and resisted with springs within the clip body, allowing for gripping of devices of various dimension.
+ a main post 440
+ has a first end and a second end. The first end of the main post is coupled to the clip body cross bracket 403 . The second end the main post may have various threaded mounting inserts coupled to the main post.
+ the mount 408
+ may have a threaded insert 428 on a bottom surface such that the mount 408 may be coupled to threaded
+ FIGS. 30 A-C
+ illustrate the magnetic gripping clip 420 in a first configuration wherein the first gripping arm 404 and the second gripping arm 404 are positioned to be parallel to the mounting surface of the magnetic connection body 401 .
+ the cross bracket 403
+ is perpendicular to the main post in this exemplary configuration.
+ a device
+ such as a cellular telephone can magnetically couple to the magnet in the magnetic connection body.
+ the extended gripping arms
+ present a planar surface extension which may support the back surface of the cellular telephone. The planar surface extension reduces the torque which might be put onto the magnetic connection by limiting the amount of overhang of the telephone from the mounting surface.
+ FIGS. 30 H-J
+ further illustrate the magnetic gripping clip 420 wherein the first gripping arm 404 and the second gripping arm 404 are positioned to be parallel to the mounting surface of the magnetic connection body 401 .
+ the first extension arm 424 and the first gripping arm 404
+ are seen extended from the cross bracket 403 on a first sliding section 425
+ the second extension arm 423 and the second gripping arm 405
+ are seen extended from the cross bracket 403 on a second sliding section 426 .
+ the sliding sections 425 , 426
+ resist extension with the use of one or more springs configures to resist the extension of the extension arms.
+ FIGS. 30 H-J
+ further illustrate the magnetic gripping clip 420 which a cellular telephone mounted therein.
+ the extension arms 423 , 424
+ have been somewhat extended, showing a portion of the sliders 425 , 426 .
+ the cellular telephone 430
+ is magnetically held in place on the mounting connection body 401 , and then is further held by the gripping arms 404 , 405 , which are pulled in by the springs within the cross bracket 403 .
+ the gripping arms 404 , 405
+ are adapted to rotate from a position in plane with the clip body 403 to a gripping position perpendicular to the clip body at a twist interface 406 , 407 .
+ the twist interface
+ may have detents such that the gripping arms can be set either in plane, or perpendicular, as shown comparatively in FIGS. 26 A and 26 B , for example.
+ the gripping arms
+ may be extendable outward, and resisted with springs within the clip body, allowing for gripping of devices of various dimension.
+ the gripping arms 404 , 405
+ are in a configuration perpendicular to the mounting surface of the mounting connection body. Resilient pads 431 , 432 reset into the gripping arms 404 , 405 help hold the cellular telephone firmly.
+ FIGS. 30 K-M
+ illustrate the magnetic gripping clip 420 in a configuration where the cross bracket 403 is perpendicular to the main post 440 , and the gripping arms 404 , 405 are configured to be parallel to the mounting surface of the mounting connection body.
+ the extended surface provided by the gripping arms in this configuration
+ enhances the stability of the mounting of the cellular telephone 430 to the magnetic gripping clip 440 despite not using the gripping aspect of the clip.
+ the plane of the backside of the gripping arms
+ is coplanar with the mounting surface of the mounting connection body.
+ FIGS. 30 N-O
+ illustrate the magnetic gripping clip in an orientation wherein the cross bracket 403 is at an angle (45 degrees) to the main post 440 with the gripping arms in a configuration perpendicular to the magnetic mounting surface.
+ a rotatable joint 434 between the cross bracket and the main post
+ may be set with detents that allow for the cross bracket to be rotated when enough rotational force in applied, but then snaps into preset angular positions that then have sufficient detent for normal use.
+ FIGS. 30 P-Q
+ illustrate the magnetic gripping clip in an orientation wherein the cross bracket 403 is at an angle (45 degrees) to the main post 440 with the gripping arms in a configuration parallel to the magnetic mounting surface.
+ a rotatable joint 434 between the cross bracket and the main post
+ may be set with detents that allow for the cross bracket to be rotated when enough rotational force in applied, but then snaps into preset angular positions that then have sufficient detent for normal use.
+ FIGS. 30 R-V
+ illustrate the magnetic gripping clip in an orientation wherein the cross bracket 403 is parallel to the main post 440 with the gripping arms in various configurations.
+ a rotatable joint 434 between the cross bracket and the main post
+ may be set with detents that allow for the cross bracket to be rotated when enough rotational force in applied, but then snaps into preset angular positions that then have sufficient detent for normal use.
+ FIGS. 30 X-Y
+ illustrate the magnetic gripping clip 420 with a cellular telephone 430 mounted in a configuration wherein the cross bracket 403 is parallel to the main post 440 and the gripping arms are perpendicular to the magnetic mounting surface, and gripping the telephone.
+ FIGS. 30 Z -AA
+ illustrate the magnetic gripping clip 420 with a cellular telephone 430 mounted in a configuration wherein the cross bracket 403 is parallel to the main post 440 and the gripping arms are parallel to the magnetic mounting surface, and providing further mounting surface support for the telephone.
+ a magnetic gripping clip 420
+ supports a telephone 430 .
+ the magnetic gripping clip
+ is mounted onto a tripod 441 .
+ the tripod 441
+ has a threaded post 442 which screws in the threaded mating insert on the bottom of the main post of the magnetic gripping clip 420 .
+ Flexible extensions 443
+ are fastened to threaded mating inserts along the side of the main post of the magnetic gripping clip and allow for further mounting of accessories, such as lights and other devices.
+ a platform vent clip with magnetic connector 460
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the platform vent clip with magnetic connector 460
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the platform vent clip with magnetic connector 460
+ may have a circular, or substantially circular, magnetic connector 461 with a platform 462 .
+ the platform 462
+ may also have a magnetic key 463 for interfaces which include a keyed interface.
+ the platform 462
+ may be coupled to a vent clip 464 .
+ the vent clip
+ may have an internal recess 406 with a compressible pad 406 .
+ a tightening ring 467
+ may tighten the vent clip into place, and may be used in conjunction a ball joint.
+ the platform vent clip with magnetic connector
+ may be placed onto a fin of an auto vent, and a cellular telephone then placed upon the platform and magnetically coupled.
+ FIGS. 31 A and 31 B
+ illustrate a cellular telephone 110 on a vent clip with magnetic connector 460 .
+ an auxiliary battery with magnetic connector 500
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the auxiliary battery with magnetic connector 500
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the auxiliary battery with magnetic connector 500
+ may have a circular, or substantially circular, connection body 501 .
+ the circular body
+ may contain a battery within it that is adapted to provide power to a mated device.
+ a cord connector 503 and cable slot 504
+ may facilitate powered recharging of the auxiliary battery.
+ FIGS. 33 A and 33 B
+ illustrate the auxiliary battery with magnetic connector 500 coupled to a cellular telephone 110 .
+ an auxiliary battery and receptacle 540
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the auxiliary battery and receptacle 540
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the circular body
+ may contain a battery within it that is adapted to provide power to a mated device.
+ a recess 543
+ is adapted to receive a puck type charger as may be used with a cellular telephone. The puck may reside within the recess against a surface 544 and may be contained with a slight interference fit.
+ a cord connector 544 and cable slot 555
+ may facilitate powered recharging of the auxiliary battery.
+ the charging puck
+ may have its cable plugged into the cord connector 544 to allow the use of the charging puck to route the battery power from the auxiliary battery and receptacle 540 .
+ the auxiliary battery and receptacle 540 with a charging puck in its recess
+ may then be magnetically coupled to the cellular telephone.
+ a clip support with magnetic connector
+ is seen with a flip out cold shoe mount.
+ device supports with a magnetic connector
+ are adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the device support
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the device support
+ may have a circular, or substantially circular, connection body coupled to a bracket support, or the circular magnetic interface may be embedded within a surface of the device support.
+ the magnetic coupler
+ may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ FIG. 44
+ illustrates a cross-section of a magnetic coupling body as seen in embodiments of the present invention.
+ a front cover 245
+ provides the mating surface to the device, such as a cellular telephone.
+ a circular magnet 243
+ resides within the coupling body 244 .
+ the circular magnet 243
+ may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick.
+ the circular magnet 243
+ allows for coupling of the cellular telephone to the clip support, or other accessory as described herein, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature.
+ the circular nature of the interface
+ allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+ a device support with magnetic connector, folding stand, and rotating mount 600
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the device support 600
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip support 600
+ may have a circular, or substantially circular, connection body 603 rotatably coupled to a first bracket support 602 .
+ the first bracket support 602
+ is pivotally coupled to a second bracket support 601 .
+ the first bracket support 602 and the second bracket support 601
+ may be joined at pivot adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed.
+ the bottom surface of the second bracket support 601
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 607 .
+ the magnetic coupler 603
+ may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ the pivoting of the rotatable connection body 603
+ allows the magnetic interface to face either direction.
+ Side rails 604 on the second bracket support 601
+ may be extendable to act as an outrigger for enhanced stability.
+ a device support with magnetic connector, folding stand, and rotating mount 620
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the device support 620
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip support 620
+ may have a first bracket support 625 rotatably and pivotally coupled to a second bracket support 621 .
+ the first bracket support 625
+ is rotatably coupled at a pivot joint to a second bracket support 621 .
+ the first bracket support 625 and the second bracket support 621
+ may be joined at pivot adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed.
+ the bottom surface of the second bracket support
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 622 .
+ the magnetic coupler 626
+ may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ the second bracket support 621
+ may spread out at a sliding coupler 628 such that a first portion 621 a and a second portion 621 b configure for enhanced stability.
+ a device support with magnetic connector, folding stand, and rotating mount 640
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the device support 640
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip support 640
+ may have a first bracket support 645 spherically coupled to a second bracket support 641 .
+ the first bracket support 645 and the second bracket support 641
+ may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed.
+ the bottom surface of the second bracket support
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 642 .
+ the magnetic coupler 646
+ may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ the second bracket support 641
+ may spread out at a sliding coupler such that a first portion 641 a and a second portion 641 b configure for enhanced stability.
+ the second bracket support
+ may have interfaces 647 adapted to fit into tripod mounting clips.
+ a device support with magnetic connector and rotating mount 660
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the device support 660
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the clip support 660
+ may have a first bracket support 665 spherically coupled to a second bracket support 661 .
+ the first bracket support 665 and the second bracket support 661
+ may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed.
+ the first bracket 665
+ may have a mirror 666 on a side opposite of the magnetic interface.
+ the bottom surface of the second bracket support
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 662 .
+ the magnetic coupler 646
+ may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ the second bracket support 661
+ may spread out at a sliding coupler such that a first portion 661 a and a second portion 661 b configure for enhanced stability.
+ the second bracket support
+ may have interfaces 667 adapted to fit into tripod mounting clips.
+ FIG. 40
+ illustrates another embodiment 680 of a device support with magnetic connector and rotating mount.
+ the device support 680
+ represents another variation of a folding base with spreadable portions, wherein the upper bracket may both pivot and rotate relative to the lower bracket.
+ a device support with magnetic connector 700
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the device support 700
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the circular magnetic interface
+ may be embedded within a band 704 .
+ the device support 700
+ may have a first bracket support 701 pivotally coupled to a second bracket support 702 .
+ the first bracket support 701 and the second bracket support 702
+ may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed.
+ the bottom surface of the second bracket support
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 705 .
+ the magnetic coupler 704
+ may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ FIGS. 4 D and 4 E
+ illustrate a cellular telephone 710 coupled to the device support 700 .
+ a device support with magnetic connector and charger 740
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the device support 700
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface 751 .
+ the circular magnetic interface
+ may include a charging aspect adapted to charge a supported device, such as a cellular telephone.
+ the device support 740
+ may have a first bracket support 741 pivotally coupled to a second bracket support 742 at a pivot 743 .
+ the first bracket support 741 and the second bracket support 742
+ may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed.
+ the bottom surface of the second bracket support
+ may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 745 .
+ the magnetic coupler 740
+ may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ a charger support 760
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the charger support 760
+ couples to a charging disc which contains a circular interface adapted to couple to a cellular telephone. In this way the charger support 760 may support the cellular telephone through the intermediate coupling of the charger support 760 .
+ the device support 760
+ may have a first bracket support 760 with a recesses 764 within protruding bracket arms 763 .
+ the first bracket support 760
+ is coupled to a second bracket support portion 762 .
+ the second bracket support portion
+ may act as a stand alone support or may be coupled to a tripod or other device.
+ a magnetic coupling charging disc 765
+ may reside within the recesses 764 .
+ the charging disc
+ may include an external power cord 766 which may route through a slot 767 within the bracket.
+ a support with magnetic connector 800
+ is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+ the support 800
+ couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface.
+ the support 800
+ may have a circular, or substantially circular, connection body which presents a flat surface 802 such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ An adhesive surface 803
+ allows for attachment of the support 260 to a surface.
+ the adhesive mounting surface 803
+ may be parallel to the flat surface 802 for mounting to a cellular telephone.
+ a plurality of slots 801 within the central portion 804 of the connection body
+ are adapted to allow for routing, and fastening, of a power cord which may be coupled to the supported device.
+ the power cord
+ may be routed through a hollow central section which is accessed through the slots 801 .
+ the cord
+ may thusly remain with the support 800 .
+ a front cover
+ provides the mating surface to the device, such as a cellular telephone.
+ the front cover
+ may be of a frictional or resilient material to add to the security of the attachment.
+ a circular magnet
+ resides within the connection body.
+ the circular magnet
+ may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick.
+ the circular magnet
+ allows for coupling of the cellular telephone to the clip support, or other accessory as described herein, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature.
+ the circular nature of the interface
+ allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Signal Processing
+ (AREA)
+ Telephone Set Structure
+ (AREA)
+Abstract
+A support for holding an electronic device, such as a cellular telephone, that attaches to the electronic device with a magnetic connector. The support may have support arms that can grip the electronic device. A magnetic mounting surface may include an annular magnet at its outer area, which is adapted to magnetically hold an electronic device such as a cellular telephone. The support arms may be able to move from a first position perpendicular to the magnetic mounting surface to a second positions parallel to the magnetic mounting surface. The support arms may be extendible from a central portion and this extension may be resisted by internal springs. A cellular telephone may be held within the extended arms to provide gripping support to the telephone. In the parallel configuration, the extendable arms may provide a further mounting surface for stability of the phone on its magnetic mounting surface.
+Description
+ CROSS-REFERENCE TO RELATED APPLICATIONS
+This application claims the benefit of U.S. Provisional Application No. 63/138,399 to Chao, filed Jan. 16, 2021, which is hereby incorporated by reference in its entirety. This application claims the benefit of U.S. Provisional Application No. 63/177,967 to Chao, filed Apr. 22, 2021, which is hereby incorporated by reference in its entirety.
+ BACKGROUND
+ Field of the Invention
+The present invention relates to accessories for an electronic device, and more particularly to a magnetic attachment for attaching and/or using the device.
+ Description of Related Art
+Cellular telephones are increasingly used to support video conferencing and other video activities. Also, users may want to be able to support other accessory items, and may want to have them attached to the telephone, or to its case.
+What is called for is a device which can provide a more secure way to hold the device, such as a cellular telephone, and which can support accessories.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+ FIGS. 1A-1F are views of a clip support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 2A-2B present views of a clip support with magnetic connector supporting a cellphone according to some embodiments of the present invention.
+ FIGS. 3A-3C are views of a clip support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 4A-B present views of a clip support with magnetic connector supporting a cellphone according to some embodiments of the present invention.
+ FIGS. 5A-5C are views of a microphone with magnetic connector according to some embodiments of the present invention.
+ FIGS. 6A-6B are views of a microphone with magnetic connector on a cellphone according to some embodiments of the present invention.
+ FIGS. 7A-7E are views of a flip up light with magnetic connector according to some embodiments of the present invention.
+ FIGS. 8A-8C are views of a flip up light with magnetic connector in a flipped up configuration according to some embodiments of the present invention.
+ FIGS. 9A-9B present views of a flip up light with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 10A-10B present views of a flip up light with magnetic connector in a flipped up configuration on a cell phone according to some embodiments of the present invention.
+ FIGS. 11A-11C present views of a support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 12A-12B present views of a support with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 13A-13B present views of an adhesive support with magnetic connector according to some embodiments of the present invention.
+ FIG. 14 presents oblique views of an adhesive support with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 15A-15C present views of a magnetic connector with cold shoe mount according to some embodiments of the present invention.
+invention.
+ FIG. 16 presents oblique views of a magnetic connector with cold shoe mount on a cell phone according to some embodiments of the present invention.
+ FIG. 17 presents oblique views of a magnetic connector with a parallel plate mount according to some embodiments of the present invention.
+ FIG. 18 presents oblique views of a magnetic connector with a parallel plate mount on a cell phone according to some embodiments of the present invention.
+ FIG. 19A-19C present views of a magnetic connector with legs according to some embodiments of the present invention.
+ FIG. 20 is an oblique view of a magnetic connector with legs in a stowed configuration on a cell phone according to some embodiments of the present invention.
+ FIGS. 21A-21B are views of a magnetic connector with legs in a deployed configuration on a cell phone according to some embodiments of the present invention.
+ FIGS. 22A-22B present views of a clip support with magnetic connector according to some embodiments of the present invention.
+ FIG. 23 is a view of a clip support with magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 24A-24B present views of a clip support with ring and magnetic connector according to some embodiments of the present invention.
+ FIG. 25 is a view of a clip support with ring and magnetic connector on a cell phone according to some embodiments of the present invention.
+ FIGS. 26A-26F are views of a support with magnetic connector and arms in a flat configuration according to some embodiments of the present invention.
+ FIGS. 27A-B are views of a support with magnetic connector and arms in a flat configuration with cell phone according to some embodiments of the present invention.
+ FIGS. 28A-28B are views of a support with magnetic connector and arms in a gripping configuration according to some embodiments of the present invention.
+ FIGS. 29A-29B are views of a support with magnetic connector and arms in a gripping configuration with a cell phone according to some embodiments of the present invention.
+ FIGS. 30A-30V and 30X-30AA are views of a second embodiment of a magnetic gripping clip according to some embodiments of the present invention.
+ FIGS. 31A-31C are views of a support with magnetic connector and vent clip according to some embodiments of the present invention.
+ FIGS. 32A-32B are views of a support with magnetic connector and vent clip and cell phone according to some embodiments of the present invention.
+ FIGS. 33A-33C are views of an auxiliary battery with magnetic connector and vent clip according to some embodiments of the present invention.
+ FIGS. 34A-34B are views of an auxiliary battery with magnetic connector and vent clip on a cell phone according to some embodiments of the present invention.
+ FIGS. 35A-C are views of an auxiliary battery and battery holder with magnetic connector and vent clip according to some embodiments of the present invention.
+ FIG. 36 presents orthogonal views of a clip support with cold shoes and magnetic connector according to some embodiments of the present invention.
+ FIG. 37A-37B are views of a clip support with a deployable cold shoe and magnetic connector according to some embodiments of the present invention.
+ FIG. 38A-38C are views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 39A is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 39B is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 39C is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIG. 40 is an oblique view of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 41A-41E are views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 42A-42B are views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 43A-43C are views of a magnetic charger holder according to some embodiments of the present invention.
+ FIG. 44 presents views of a magnetic connector according to some embodiments of the present invention.
+ FIGS. 45A-45C present views of a device support with magnetic connector according to some embodiments of the present invention.
+ FIGS. 46A-46B illustrate views of a second embodiment of a magnetic gripping clip on a tripod according to some embodiments of the present invention.
+ SUMMARY OF THE INVENTION
+A support for holding an electronic device, such as a cellular telephone, that attaches to the electronic device with a magnetic connector. The support may have support arms that can grip the electronic device. A magnetic mounting surface may include an annular magnet at its outer area, which is adapted to magnetically hold an electronic device such as a cellular telephone. The support arms may be able to move from a first position perpendicular to the magnetic mounting surface to a second positions parallel to the magnetic mounting surface. The support arms may be extendible from a central portion and this extension may be resisted by internal springs. A cellular telephone may be held within the extended arms to provide gripping support to the telephone. In the parallel configuration, the extendable arms may provide a further mounting surface for stability of the phone on its magnetic mounting surface.
+ DETAILED DESCRIPTION
+In some embodiments of the present invention, as seen in FIGS. 1A-1F, a clip support with magnetic connector 100 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the clip support 100 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip support 100 may have a circular, or substantially circular, connection body 101 coupled to a first bracket support 102. The first bracket support 102 is coupled to a second bracket support 104. The first bracket support 102 and the second bracket support 104 may be joined at a right angle. The bottom surface 108 of the second bracket support 104 may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 106. The magnetic coupler 103 may present a flat surface 107 such that the surface 107 is adapted to couple to a magnetic coupling area of a cellular telephone. Side rails 105 on the second bracket support 104 allow for insertion and retention by a clip receiver, as may be seen on a tripod or other support structure.
+ FIG. 11C illustrates a cross-section of a magnetic coupling body as seen in embodiments of the present invention. A front cover 245 provides the mating surface to the device, such as a cellular telephone. In some aspects, the front cover 245 may be of a frictional or resilient material to add to the security of the attachment. A circular magnet 243 resides within the coupling body 244. In some aspects, the circular magnet 243 may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick. The circular magnet 243 allows for coupling of the cellular telephone to the clip support, or other accessory as described herein, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature. The circular nature of the interface allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+ FIG. 2A illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 100 in a landscape configuration. The rear side 113 of the cellular telephone 110 may contain a circular magnetic interface feature. Camera lenses 111 may allow for imaging away from the rear side 113 of the cellular telephone 110. The front side 112 of the cellular telephone 110 is away from the clip support 100. FIG. 2B illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 100 in a portrait configuration.
+In some embodiments of the present invention, as seen in FIGS. 3A-3C, a clip support with magnetic connector 140 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the clip support 140 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip support 140 may have a circular, or substantially circular, connection body 141 coupled to a first bracket support 142. The first bracket support 142 is coupled to a second bracket support 144. The first bracket support 142 and the second bracket support 104 may be joined at a right angle. The bottom surface 108 of the second bracket support 144 may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 146. The magnetic coupler may present a flat surface 143 such that the surface 147 is adapted to couple to a magnetic coupling area of a cellular telephone. Side rails 15 on the second bracket support 14 allow for insertion and retention by an Arca-Swiss clip receiver, as may be seen on a tripod or other support structure.
+ FIG. 4A illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 140 in a landscape configuration. FIG. 4B illustrates a cellular telephone 110 coupled to a clip support with magnetic connector 140 in a portrait configuration.
+In some embodiments of the present invention, as seen in FIGS. 5A-5C, a microphone with magnetic connector 180 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the microphone 180 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The microphone 180 may have a circular, or substantially circular, connection body 183. The circular body may include battery and one or more microphones. An on-off switch may also be found on the exterior of the circular body. In some aspects, the microphone battery may be recharged using a charger with a cable such as a USB cable, and may have the appropriate port. In some aspects, the microphone battery may be charged without a cable, such as with a magsafe system. The microphone may be covered with an appropriate wind screening material 181. The microphone 180 may be annular with a through hole 182. FIGS. 6A-6B illustrate the microphone with magnetic connector on a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIGS. 7A-7C, a deployable light with magnetic connector 220 is adapted to magnetically couple to an electronic device, such as a cellular telephone.
+In some aspects, the deployable light 220 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The deployable light 220 may have a circular, or substantially circular, connection body 223. The connection body may have a cover 235 which provides the mating surface to the device, such as a cellular telephone. In some aspects, the cover 235 may be of a frictional or resilient material to add to the security of the attachment. A magnet, which may be a circular magnet, resides within the coupling body connection. In some aspects, the circular, annular, magnet may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick. The circular magnet allows for coupling of the cellular telephone to the deployable light, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature. The circular nature of the interface allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+An extension portion 231 of the connection body 223 may culminate in a pivot 221 which is adapted to allow for the deployment of a lighting element 230. In some aspects, the connection body 223 may include a battery electrically coupled to the lighting element 230. In some aspects, the battery may reside within the annulus of the circular magnet. An on/off button and cord ports for charging may be found on the extension 222 or other suitable location.
+In the stowed configuration of FIGS. 7A-7C, the lighting element 230 is laid over the connection body. The lighting element 224 may be a circular, annular, lighting element with an inner surface 234. The connection body 223 may have a raised external surface 235. In some aspects, the inner surface 234 of the lighting element 224 may reside around external surface 235 of the connection body 223 in the stowed configuration. In some aspects, the lighting element 224 is comprised of a plurality of LEDs arranged in a circular pattern.
+ FIG. 7D illustrates a variation of the lighting element further including a tab 239 which is an extension of the back surface 235 of the connection body 223 a. The lighting element 224 a of this variation may also have a recess 229 to allow room for the tab 239. This tab 230 and recess 229 may allow a user to utilize the recess 229, for example with a fingernail, to more easily move the lighting element from the stowed configuration to the deployed configuration. FIG. 7E illustrates an exploded view of a connection body 223, illustrating a battery 226 which may reside in a recess 227 within the annulus of the circular magnet. A top surface plate 225 of the connection body resides over the battery 226 and is the outside surface of this portion of the connection body.
+ FIGS. 8A-8C illustrate the lighting element in a deployed configuration. In the deployed configuration the lighting element has been deployed 180 degrees from its position in the stowed configuration. The deployable light may have detents, or a mechanical stop, such that the lighting element is held in the deployed configuration with sufficient force that the lighting element will not pivot away from the deployed configuration in normal use, without further force purposefully applied by the user. A gap 238 between the raised external surface 235 of the connection body 223 and the raised area of the extension portion 231 allows the circular lighting element 224 to fit into the gap when the deployable light 220 is in the stowed configuration.
+A charging port 236 is adapted to allow for the coupling of an external charging cord to the deployable light. In some aspects, the charging port may be compatible with a USB-C plug. One or more control buttons 237 allow the user to turn the lighting element of the deployable light on and off. In some aspects, the control buttons 237 may also allow the user to select various brightness levels for the light.
+ FIGS. 9A and 9B illustrate the deployable light 220 on a cellular telephone 110, with the light in a stowed configuration. The magnet within the connection body 223 has magnetically coupled to the cellular telephone 110. This stowed configuration allows for the light to shine in a direction to the rear of the cellular telephone. FIGS. 10A and 10B illustrate the deployable light 220 on a cellular telephone 110, with the light in a deployed configuration. This deployed configuration allows for the light to shine in a direction to the front of the cellular telephone. In the deployed configuration, a user may use the cellular telephone for video recording or communication using the forward facing camera function of the cellular telephone, which may allow the user to observe themself in real time during the video call, for example.
+In some embodiments of the present invention, as seen in FIGS. 11A-11C, a support with magnetic connector 240 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the support 240 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The support 240 may have a circular, or substantially circular, connection body 241 which presents a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. A threaded insert 242 allows for attachment of the support 240 to a support structure with a threaded post. FIGS. 12A and 12B illustrate the support 240 on a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIGS. 13A and 13B a support with magnetic connector 260 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the support 260 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The support 260 may have a circular, or substantially circular, connection body 265 which presents a flat surface 261 such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. An adhesive surface 265 allows for attachment of the support 260 to a surface. FIG. 14 illustrates the support 260 on a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIGS. 15A-15C, a cold shoe clip with magnetic connector 280 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the cold shoe clip with magnetic connector 180 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The cold shoe clip with magnetic connector 180 may have a circular, or substantially circular, connection body 281. The circular body may include an extension with a cold shoe clip 284. The cold shoe clip may have a bottom mounting surface 285. A tightening nut 283 is adapted to cinch down and tighten to hold the cold shoe clip to it mating interface. FIG. 16 illustrate the cold shoe clip with magnetic connector 280 on a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIG. 17 , a support with magnetic connector 300 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the support 300 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The support 300 may have a circular, or substantially circular, connection body which presents a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. A multi-planar extension 301 allows for attachment of the support 300 to a support structure with a mating structure. FIG. 18 illustrates the support 300 on a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIGS. 19A-19C, a tripod with magnetic connector 320 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the tripod with magnetic connector 320 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The tripod with magnetic connector 320 may have a circular, or substantially circular, connection body which presents a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. A trio of legs 322, 323, 324 is adapted to stow in plane with each other and the connection body, and to pivot 325 to a deployed configuration. The legs may have plug extensions 327.
+ FIG. 20 illustrates the tripod with magnetic connector 320 in a stowed configuration on a cellular telephone 110. FIGS. 21A and 21B illustrate the tripod with magnetic connector 320 in a deployed position with the legs 322, 323, 324 extended in order to support a cellular telephone.
+In some embodiments of the present invention, as seen in FIGS. 22A and 22B, a clip with magnetic connector 360 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the clip with magnetic connector 360 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip with magnetic connector 360 may have a circular, or substantially circular, connection body 361. The circular body may include a recess 363 with a clip 362 within the recess, which may be adapted to clip into a clip receiver, such as may be seen on a tripod. FIG. 23 illustrate the clip with magnetic connector 360 on a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIGS. 24A and 24B, a clip and ring with magnetic connector 380 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the clip and ring with magnetic connector 380 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip and ring with magnetic connector 380 may have a circular, or substantially circular, connection body. The circular body may include a recess 383 with a clip 382 within the recess, which may be adapted to clip into a clip receiver, such as may be seen on a tripod. A deployable ring 384 may also reside in the recess 383. The ring 384 may stow into the recess, and the deploy to allow for the insertion of a finger, for example. FIG. 25 illustrates the clip and ring with magnetic connector 380 on a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIGS. 26A-26F, a first embodiment of a magnetic gripping clip for an electronic device 400 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the gripping clip with magnetic connector 400 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The gripping clip with magnetic connector 400 may have a circular, or substantially circular, magnetic connection body 401. The circular magnetic connection body may be coupled to a clip body cross bracket 403 which may be rotatably coupled to the clip main post. The cross bracket may be centrally connected, at its center, to the main post 402. The clip body cross bracket has a first gripping arm 404 and a second gripping arm 405, which may be extendable relative to the clip body cross bracket 403. A main post 402 has a first end and a second end. The first end of said main post is coupled to the clip body cross bracket 403. A mount 408 is coupled to the main post. The mount 408 may have a threaded insert 409 such that the mount 408 may be coupled to threaded post, such as seen on a tripod.
+ FIGS. 26C-26F illustrate the gripping arms 404, 405 in a flat configuration. FIGS. 26B and 28A-B illustrate the gripping arms 404, 405 in a gripping configuration. The gripping arms 404, 405 are adapted to rotate from a position in plane with the clip body 403 to a gripping position perpendicular to the clip body at a twist interface 406, 407. The twist interface may have detents such that the gripping arms can be set either in plane, or perpendicular, as shown comparatively in FIGS. 26A and 26B, for example. The gripping arms may be extendable outward, and resisted with springs within the clip body, allowing for gripping of devices of various dimension.
+ FIGS. 27A and 27B illustrate the gripping clip with magnetic connector 400 with a cellular telephone 110. The flat configuration allows for the coupling of the cellular telephone when no extra forces are placed upon the cellular telephone, for example. FIGS. 29A and 29B illustrate the gripping clip with magnetic connector 400 with a cellular telephone 110 in a gripping configuration. The gripping configuration allows for the coupling of the cellular telephone when extra forces may be placed upon the cellular telephone, for example, and provides the security of the gripping arms to maintain telephone retention.
+In some embodiments of the present invention, as seen in FIGS. 30A-30AA, a second embodiment of a magnetic gripping clip for an electronic device 420 is adapted to magnetically couple to and support an electronic device, such as a cellular telephone. In some aspects, the magnetic gripping clip for an electronic device 420 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The magnetic gripping clip for an electronic device 420 may have a circular, or substantially circular, magnetic connection body 401. The circular magnetic connection body may be coupled to a clip body cross bracket 403 which may be rotatably coupled to the clip main post. The cross bracket may be centrally connected, at its center, to the main post 440. The clip body cross bracket has a first gripping arm 404 and a second gripping arm 405, which may be extendable relative to the clip body cross bracket 403. The gripping arms 404, 405 are adapted to rotate from a position in plane with the clip body 403 to a gripping position perpendicular to the clip body at a twist interface 406, 407. The twist interface may have detents such that the gripping arms can be set either in plane, or perpendicular. The gripping arms may be extendable outward, and resisted with springs within the clip body, allowing for gripping of devices of various dimension. A main post 440 has a first end and a second end. The first end of the main post is coupled to the clip body cross bracket 403. The second end the main post may have various threaded mounting inserts coupled to the main post. The mount 408 may have a threaded insert 428 on a bottom surface such that the mount 408 may be coupled to threaded post, such as seen on a tripod.
+ FIGS. 30A-C illustrate the magnetic gripping clip 420 in a first configuration wherein the first gripping arm 404 and the second gripping arm 404 are positioned to be parallel to the mounting surface of the magnetic connection body 401. The cross bracket 403 is perpendicular to the main post in this exemplary configuration. In such a configuration, a device such as a cellular telephone can magnetically couple to the magnet in the magnetic connection body. The extended gripping arms present a planar surface extension which may support the back surface of the cellular telephone. The planar surface extension reduces the torque which might be put onto the magnetic connection by limiting the amount of overhang of the telephone from the mounting surface. In contrast, FIGS. 30D-G illustrate the magnetic gripping clip 420 wherein the first gripping arm 404 and the second gripping arm 404 are positioned to be parallel to the mounting surface of the magnetic connection body 401. The first extension arm 424 and the first gripping arm 404 are seen extended from the cross bracket 403 on a first sliding section 425, and the second extension arm 423 and the second gripping arm 405 are seen extended from the cross bracket 403 on a second sliding section 426. In some aspects, the sliding sections 425, 426 resist extension with the use of one or more springs configures to resist the extension of the extension arms. FIGS. 30H-J further illustrate the magnetic gripping clip 420 which a cellular telephone mounted therein. In this exemplary configuration, the extension arms 423, 424 have been somewhat extended, showing a portion of the sliders 425, 426. The cellular telephone 430 is magnetically held in place on the mounting connection body 401, and then is further held by the gripping arms 404, 405, which are pulled in by the springs within the cross bracket 403. The gripping arms 404, 405 are adapted to rotate from a position in plane with the clip body 403 to a gripping position perpendicular to the clip body at a twist interface 406, 407. The twist interface may have detents such that the gripping arms can be set either in plane, or perpendicular, as shown comparatively in FIGS. 26A and 26B, for example. The gripping arms may be extendable outward, and resisted with springs within the clip body, allowing for gripping of devices of various dimension. The gripping arms 404, 405 are in a configuration perpendicular to the mounting surface of the mounting connection body. Resilient pads 431, 432 reset into the gripping arms 404, 405 help hold the cellular telephone firmly.
+ FIGS. 30K-M illustrate the magnetic gripping clip 420 in a configuration where the cross bracket 403 is perpendicular to the main post 440, and the gripping arms 404, 405 are configured to be parallel to the mounting surface of the mounting connection body. As can be seen, the extended surface provided by the gripping arms in this configuration enhances the stability of the mounting of the cellular telephone 430 to the magnetic gripping clip 440 despite not using the gripping aspect of the clip. The plane of the backside of the gripping arms is coplanar with the mounting surface of the mounting connection body.
+ FIGS. 30N-O illustrate the magnetic gripping clip in an orientation wherein the cross bracket 403 is at an angle (45 degrees) to the main post 440 with the gripping arms in a configuration perpendicular to the magnetic mounting surface. A rotatable joint 434 between the cross bracket and the main post may be set with detents that allow for the cross bracket to be rotated when enough rotational force in applied, but then snaps into preset angular positions that then have sufficient detent for normal use.
+ FIGS. 30P-Q illustrate the magnetic gripping clip in an orientation wherein the cross bracket 403 is at an angle (45 degrees) to the main post 440 with the gripping arms in a configuration parallel to the magnetic mounting surface. A rotatable joint 434 between the cross bracket and the main post may be set with detents that allow for the cross bracket to be rotated when enough rotational force in applied, but then snaps into preset angular positions that then have sufficient detent for normal use.
+ FIGS. 30R-V illustrate the magnetic gripping clip in an orientation wherein the cross bracket 403 is parallel to the main post 440 with the gripping arms in various configurations. A rotatable joint 434 between the cross bracket and the main post may be set with detents that allow for the cross bracket to be rotated when enough rotational force in applied, but then snaps into preset angular positions that then have sufficient detent for normal use.
+ FIGS. 30X-Y illustrate the magnetic gripping clip 420 with a cellular telephone 430 mounted in a configuration wherein the cross bracket 403 is parallel to the main post 440 and the gripping arms are perpendicular to the magnetic mounting surface, and gripping the telephone. FIGS. 30Z-AA illustrate the magnetic gripping clip 420 with a cellular telephone 430 mounted in a configuration wherein the cross bracket 403 is parallel to the main post 440 and the gripping arms are parallel to the magnetic mounting surface, and providing further mounting surface support for the telephone.
+In some embodiments of the present invention, as seen in FIGS. 46A-B, a magnetic gripping clip 420 supports a telephone 430. The magnetic gripping clip is mounted onto a tripod 441. In some aspects, the tripod 441 has a threaded post 442 which screws in the threaded mating insert on the bottom of the main post of the magnetic gripping clip 420. Flexible extensions 443 are fastened to threaded mating inserts along the side of the main post of the magnetic gripping clip and allow for further mounting of accessories, such as lights and other devices.
+In some embodiments of the present invention, as seen in FIGS. 30A-30C, a platform vent clip with magnetic connector 460 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the platform vent clip with magnetic connector 460 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The platform vent clip with magnetic connector 460 may have a circular, or substantially circular, magnetic connector 461 with a platform 462. The platform 462 may also have a magnetic key 463 for interfaces which include a keyed interface. The platform 462 may be coupled to a vent clip 464. The vent clip may have an internal recess 406 with a compressible pad 406. A tightening ring 467 may tighten the vent clip into place, and may be used in conjunction a ball joint. In an exemplary use, the platform vent clip with magnetic connector may be placed onto a fin of an auto vent, and a cellular telephone then placed upon the platform and magnetically coupled. FIGS. 31A and 31B illustrate a cellular telephone 110 on a vent clip with magnetic connector 460.
+In some embodiments of the present invention, as seen in FIGS. 32A-32C, an auxiliary battery with magnetic connector 500 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the auxiliary battery with magnetic connector 500 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The auxiliary battery with magnetic connector 500 may have a circular, or substantially circular, connection body 501. The circular body may contain a battery within it that is adapted to provide power to a mated device. A cord connector 503 and cable slot 504 may facilitate powered recharging of the auxiliary battery. FIGS. 33A and 33B illustrate the auxiliary battery with magnetic connector 500 coupled to a cellular telephone 110.
+In some embodiments of the present invention, as seen in FIGS. 34A-34C, an auxiliary battery and receptacle 540 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the auxiliary battery and receptacle 540 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The circular body may contain a battery within it that is adapted to provide power to a mated device. A recess 543 is adapted to receive a puck type charger as may be used with a cellular telephone. The puck may reside within the recess against a surface 544 and may be contained with a slight interference fit. A cord connector 544 and cable slot 555 may facilitate powered recharging of the auxiliary battery. The charging puck may have its cable plugged into the cord connector 544 to allow the use of the charging puck to route the battery power from the auxiliary battery and receptacle 540. The auxiliary battery and receptacle 540 with a charging puck in its recess may then be magnetically coupled to the cellular telephone.
+In some embodiments of the present invention, as seen in FIGS. 36A and 36B, a clip support with magnetic connector is seen with a flip out cold shoe mount.
+In embodiments of the present invention, device supports with a magnetic connector are adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the device support couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The device support may have a circular, or substantially circular, connection body coupled to a bracket support, or the circular magnetic interface may be embedded within a surface of the device support. The magnetic coupler may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+ FIG. 44 illustrates a cross-section of a magnetic coupling body as seen in embodiments of the present invention. A front cover 245 provides the mating surface to the device, such as a cellular telephone. A circular magnet 243 resides within the coupling body 244. In some aspects, the circular magnet 243 may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick. The circular magnet 243 allows for coupling of the cellular telephone to the clip support, or other accessory as described herein, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature. The circular nature of the interface allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+In some embodiments of the present invention, as seen in FIGS. 38A-38C, a device support with magnetic connector, folding stand, and rotating mount 600 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the device support 600 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip support 600 may have a circular, or substantially circular, connection body 603 rotatably coupled to a first bracket support 602. The first bracket support 602 is pivotally coupled to a second bracket support 601. The first bracket support 602 and the second bracket support 601 may be joined at pivot adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed. The bottom surface of the second bracket support 601 may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 607. The magnetic coupler 603 may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. The pivoting of the rotatable connection body 603 allows the magnetic interface to face either direction. Side rails 604 on the second bracket support 601 may be extendable to act as an outrigger for enhanced stability.
+In some embodiments of the present invention, as seen in FIG. 39A, a device support with magnetic connector, folding stand, and rotating mount 620 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the device support 620 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip support 620 may have a first bracket support 625 rotatably and pivotally coupled to a second bracket support 621. The first bracket support 625 is rotatably coupled at a pivot joint to a second bracket support 621. The first bracket support 625 and the second bracket support 621 may be joined at pivot adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed. The bottom surface of the second bracket support may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 622. The magnetic coupler 626 may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. The second bracket support 621 may spread out at a sliding coupler 628 such that a first portion 621 a and a second portion 621 b configure for enhanced stability.
+In some embodiments of the present invention, as seen in FIG. 39B, a device support with magnetic connector, folding stand, and rotating mount 640 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the device support 640 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip support 640 may have a first bracket support 645 spherically coupled to a second bracket support 641. The first bracket support 645 and the second bracket support 641 may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed. The bottom surface of the second bracket support may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 642. The magnetic coupler 646 may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. The second bracket support 641 may spread out at a sliding coupler such that a first portion 641 a and a second portion 641 b configure for enhanced stability. The second bracket support may have interfaces 647 adapted to fit into tripod mounting clips.
+In some embodiments of the present invention, as seen in FIG. 39C, a device support with magnetic connector and rotating mount 660 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the device support 660 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The clip support 660 may have a first bracket support 665 spherically coupled to a second bracket support 661. The first bracket support 665 and the second bracket support 661 may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed. The first bracket 665 may have a mirror 666 on a side opposite of the magnetic interface. The bottom surface of the second bracket support may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 662. The magnetic coupler 646 may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. The second bracket support 661 may spread out at a sliding coupler such that a first portion 661 a and a second portion 661 b configure for enhanced stability. The second bracket support may have interfaces 667 adapted to fit into tripod mounting clips.
+ FIG. 40 illustrates another embodiment 680 of a device support with magnetic connector and rotating mount. The device support 680 represents another variation of a folding base with spreadable portions, wherein the upper bracket may both pivot and rotate relative to the lower bracket.
+In some embodiments of the present invention, as seen in FIGS. 41A-E, a device support with magnetic connector 700 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the device support 700 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The circular magnetic interface may be embedded within a band 704. The device support 700 may have a first bracket support 701 pivotally coupled to a second bracket support 702. The first bracket support 701 and the second bracket support 702 may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed. The bottom surface of the second bracket support may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 705. The magnetic coupler 704 may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. FIGS. 4D and 4E illustrate a cellular telephone 710 coupled to the device support 700.
+In some embodiments of the present invention, as seen in FIGS. 42A-B, a device support with magnetic connector and charger 740 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the device support 700 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface 751. The circular magnetic interface may include a charging aspect adapted to charge a supported device, such as a cellular telephone. The device support 740 may have a first bracket support 741 pivotally coupled to a second bracket support 742 at a pivot 743. The first bracket support 741 and the second bracket support 742 may be adapted to allow for placing into different angular configurations while having sufficient holding force to retain the position once placed. The bottom surface of the second bracket support may be a flat surface adapted to reside on a support, such as a tripod head, and may be fastened to a threaded post of a tripod or other support using the threaded insert 745. The magnetic coupler 740 may present a flat surface such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone.
+In some embodiments of the present invention, as seen in FIGS. 43A-C, a charger support 760 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the charger support 760 couples to a charging disc which contains a circular interface adapted to couple to a cellular telephone. In this way the charger support 760 may support the cellular telephone through the intermediate coupling of the charger support 760. The device support 760 may have a first bracket support 760 with a recesses 764 within protruding bracket arms 763. The first bracket support 760 is coupled to a second bracket support portion 762. The second bracket support portion may act as a stand alone support or may be coupled to a tripod or other device. A magnetic coupling charging disc 765 may reside within the recesses 764. The charging disc may include an external power cord 766 which may route through a slot 767 within the bracket.
+In some embodiments of the present invention, as seen in FIGS. 45A-C a support with magnetic connector 800 is adapted to magnetically couple to an electronic device, such as a cellular telephone. In some aspects, the support 800 couples to a cellular telephone with a magnetic or magnetically susceptible interface, which may be a circular interface. The support 800 may have a circular, or substantially circular, connection body which presents a flat surface 802 such that the surface is adapted to couple to a magnetic coupling area of a cellular telephone. An adhesive surface 803 allows for attachment of the support 260 to a surface. The adhesive mounting surface 803 may be parallel to the flat surface 802 for mounting to a cellular telephone. A plurality of slots 801 within the central portion 804 of the connection body are adapted to allow for routing, and fastening, of a power cord which may be coupled to the supported device. The power cord may be routed through a hollow central section which is accessed through the slots 801. When the device is removed from the support, the cord may thusly remain with the support 800. A front cover provides the mating surface to the device, such as a cellular telephone. In some aspects, the front cover may be of a frictional or resilient material to add to the security of the attachment. A circular magnet resides within the connection body. In some aspects, the circular magnet may have an exterior diameter of 54 mm and an interior diameter of 46 mm, and may be 2.25 mm thick. The circular magnet allows for coupling of the cellular telephone to the clip support, or other accessory as described herein, to a mating magnetic, or magnetically susceptible, interface which also may circular in nature. The circular nature of the interface allows for held positional fit of the clip support to the cellular telephone, and may draw the clip support into this concentric fit if attached close to concentrically initially.
+As evident from the above description, a wide variety of embodiments may be configured from the description given herein and additional advantages and modifications will readily occur to those skilled in the art. The invention in its broader aspects is, therefore, not limited to the specific details and illustrative examples shown and described. Accordingly, departures from such details may be made without departing from the spirit or scope of the applicant's general invention.
+Claims (15)
+ The invention claimed is:
+1. A magnetic gripping clip for an electronic device, said magnetic gripping clip comprising:
+a main post, said main post having a first end and a second end;
+a cross bracket, said cross bracket centrally coupled along a back surface to said first end of said main post;
+a first extension arm on a first side of said cross bracket;
+a second extension arm of a second side of said cross bracket;
+a first gripping arm coupled to said first extension arm;
+a second gripping arm coupled to said second extension arm; and
+a magnetic connection body, said magnetic connection body comprising:
+a flat mounting surface on a first side; and
+a magnet within said magnetic connection body under said flat mounting surface,
+wherein said first extension arm is extendable from said cross bracket, and wherein said second extension arm is extendable from said cross bracket, and wherein said first gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said second gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface.
+2. The magnetic gripping clip of claim 1 wherein the extension of said first extension arm from said cross bracket is resisted by a spring, and wherein the extension of said second extension arm from said cross bracket is resisted by a spring.
+3. The magnetic gripping clip of claim 1 wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip.
+4. The magnetic gripping clip of claim 2 wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip.
+5. A magnetic gripping clip for an electronic device, said magnetic gripping clip comprising:
+a main post, said main post having a first end and a second end;
+a cross bracket, said cross bracket centrally coupled along a back surface to said first end of said main post; and
+a magnetic connection body, said magnetic connection body comprising:
+a flat mounting surface on a first side;
+a magnet within said magnetic connection body under said flat mounting surface;
+a first extension arm on a first side of said cross bracket;
+a second extension arm of a second side of said cross bracket;
+a first gripping arm coupled to said first extension arm; and
+a second gripping arm coupled to said second extension arm,
+wherein said first extension arm is extendable from said cross bracket, and wherein said second extension arm is extendable from said cross bracket, and wherein said first gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said second gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip, and wherein said cross bracket is rotatably coupled to said main post.
+6. A magnetic gripping clip for an electronic device, said magnetic gripping clip comprising:
+a main post, said main post having a first end and a second end;
+a cross bracket, said cross bracket centrally coupled along a back surface to said first end of said main post; and
+a magnetic connection body, said magnetic connection body comprising:
+a flat mounting surface on a first side;
+a magnet within said magnetic connection body under said flat mounting surface;
+a first extension arm on a first side of said cross bracket;
+a second extension arm of a second side of said cross bracket;
+a first gripping arm coupled to said first extension arm; and
+a second gripping arm coupled to said second extension arm,
+wherein said first extension arm is extendable from said cross bracket, and wherein said second extension arm is extendable from said cross bracket, and wherein the extension of said first extension arm from said cross bracket is resisted by a spring, and wherein the extension of said second extension arm from said cross bracket is resisted by a spring, and wherein said first gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said second gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip, and wherein said cross bracket is rotatably coupled to said main post.
+7. The magnetic gripping clip of claim 1 wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+8. The magnetic gripping clip of claim 3 wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+9. The magnetic gripping clip of claim 5 wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+10. The magnetic gripping clip of claim 6 wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+11. The magnetic gripping clip of claim 9 wherein said main post comprises one or more threaded mounting inserts along its side surface.
+12. The magnetic gripping clip of claim 10 wherein said main post comprises one or more threaded mounting inserts along its side surface.
+13. The magnetic gripping clip of claim 1 where said magnet is an annular magnet under an outer area of said flat mounting surface.
+14. The magnetic gripping clip of claim 6 where said magnet is an annular magnet under an outer area of said flat mounting surface.
+15. The magnetic gripping clip of claim 10 where said magnet is an annular magnet under an outer area of said flat mounting surface.
+ US17/576,940
+ 2021-01-16
+ 2022-01-15
+ Magnetic attachment multi-configuration gripping clip for electronic devices 
+ Active
+ US11796126B2
+ (en)
+Priority Applications (1)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ US17/576,940
+ US11796126B2
+ (en)
+ 2021-01-16
+ 2022-01-15
+ Magnetic attachment multi-configuration gripping clip for electronic devices 
+Applications Claiming Priority (3)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ US202163138399P
+ 2021-01-16
+ 2021-01-16
+ US202163177967P
+ 2021-04-22
+ 2021-04-22
+ US17/576,940
+ US11796126B2
+ (en)
+ 2021-01-16
+ 2022-01-15
+ Magnetic attachment multi-configuration gripping clip for electronic devices 
+Publications (2)
+ Publication Number
+ Publication Date
+ US20220228708A1
+ US20220228708A1
+ (en)
+ 2022-07-21
+ US11796126B2
+ true
+ US11796126B2
+ (en)
+ 2023-10-24
+Family
+ID=82406154
+Family Applications (3)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US17/576,942
+ Active
+ 2042-05-02
+ US11920727B2
+ (en)
+ 2021-01-16
+ 2022-01-15
+ Deployable light for electronic devices 
+ US17/576,944
+ Abandoned
+ US20220228709A1
+ (en)
+ 2021-01-16
+ 2022-01-15
+ Magnetic Support Structures For Electronic Devices 
+ US17/576,940
+ Active
+ US11796126B2
+ (en)
+ 2021-01-16
+ 2022-01-15
+ Magnetic attachment multi-configuration gripping clip for electronic devices 
+Family Applications Before (2)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US17/576,942
+ Active
+ 2042-05-02
+ US11920727B2
+ (en)
+ 2021-01-16
+ 2022-01-15
+ Deployable light for electronic devices 
+ US17/576,944
+ Abandoned
+ US20220228709A1
+ (en)
+ 2021-01-16
+ 2022-01-15
+ Magnetic Support Structures For Electronic Devices 
+Country Status (3)
+ Country
+ Link
+ US
+ (3)
+ US11920727B2
+ (en)
+ EP
+ (1)
+ EP4277810A4
+ (en)
+ WO
+ (1)
+ WO2022155560A2
+ (en)
+Cited By (5)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20240418308A1
+ (en)
+ *
+ 2023-06-19
+ 2024-12-19
+ Ollin, Inc.
+ Magnetic stand mount 
+ US20250003547A1
+ (en)
+ *
+ 2023-06-28
+ 2025-01-02
+ Randy T. Nagata
+ Universal holder 
+ US20250361971A1
+ (en)
+ *
+ 2024-05-21
+ 2025-11-27
+ Alan Joonatan Rebane
+ Portable and Height-Adjustable Monitor Stand with Universal Magnetic Attachment Mechanism 
+ US12649013B2
+ (en)
+ *
+ 2023-05-12
+ 2026-06-09
+ Blueprint Technology Co., Ltd.
+ Fragrance diffuser with magnetic component 
+ US12702727B2
+ (en)
+ *
+ 2023-12-14
+ 2026-08-11
+ Blueprint Technology Co., Ltd.
+ Thin magnetic absorption fragrance device 
+Families Citing this family (25)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US11320724B2
+ (en)
+ *
+ 2019-05-13
+ 2022-05-03
+ Peak Design
+ Close-pack, high-aspect-ratio camera tripod 
+ US11724651B2
+ (en)
+ *
+ 2020-12-30
+ 2023-08-15
+ Shahroukh M. Kazempour
+ Smart phone mount for vehicles 
+ CN115962394A
+ (en)
+ *
+ 2021-08-02
+ 2023-04-14
+ 魏耀红
+ Multifunctional support and support assembly 
+ US12181782B2
+ (en)
+ *
+ 2022-02-02
+ 2024-12-31
+ Painted Arrow LLC
+ Magnetic smartphone mount for sporting equipment such as a compound bow, traditional bow, rifle, or crossbow 
+ US12029367B2
+ (en)
+ *
+ 2022-07-06
+ 2024-07-09
+ Munchkin, Inc.
+ Magnetic tool set 
+ USD1022983S1
+ (en)
+ *
+ 2022-09-21
+ 2024-04-16
+ Yusen LIANG
+ Magnetic car phone holder 
+ IT202200003987U1
+ (en)
+ *
+ 2022-10-04
+ 2024-04-04
+ Ferraris Group S A G L
+ Support device for a portable processing and/or telecommunication apparatus or an accessory
+ USD1045836S1
+ (en)
+ 2022-12-02
+ 2024-10-08
+ Sonos, Inc.
+ Stand for an audio device 
+ USD1076886S1
+ (en)
+ *
+ 2022-12-02
+ 2025-05-27
+ Sonos, Inc.
+ Wall mount for an audio device 
+ USD1076885S1
+ (en)
+ 2022-12-02
+ 2025-05-27
+ Sonos, Inc.
+ Wall mount for an audio device 
+ USD1073651S1
+ (en)
+ 2022-12-02
+ 2025-05-06
+ Sonos, Inc.
+ Wall mount for an audio device 
+ USD1043651S1
+ (en)
+ *
+ 2022-12-06
+ 2024-09-24
+ Apple Inc.
+ Mounting accessory 
+ IT202300007755A1
+ (en)
+ *
+ 2023-04-20
+ 2024-10-20
+ Salubermd Inc
+ Health Device Adapter for Handheld Electronic Devices
+ USD1095511S1
+ (en)
+ *
+ 2023-08-01
+ 2025-09-30
+ Shenzhen Baseus Technology Co., Ltd
+ Magnetic phone holder 
+ CN220554032U
+ (en)
+ *
+ 2023-08-23
+ 2024-03-01
+ 范裕雄
+ Strap type bracket 
+ TWM652645U
+ (en)
+ *
+ 2023-10-17
+ 2024-03-11
+ 范裕雄
+ Foldable magnetic stand device
+ USD1085067S1
+ (en)
+ *
+ 2023-10-27
+ 2025-07-22
+ Shenzhen Simengqi Technology Co., Ltd.
+ Phone stand 
+ USD1020630S1
+ (en)
+ *
+ 2023-12-06
+ 2024-04-02
+ Guoping Li
+ EV charger holder 
+ USD1085066S1
+ (en)
+ *
+ 2023-12-11
+ 2025-07-22
+ Shenzhen Baseus Technology Co., Ltd
+ Magnetic phone holder 
+ USD1132259S1
+ (en)
+ *
+ 2024-01-22
+ 2026-06-30
+ Method Golf USA, LLC
+ Angled connector including magnets 
+ WO2025231022A1
+ (en)
+ *
+ 2024-04-30
+ 2025-11-06
+ Becton, Dickinson And Company
+ Flow sensor system 
+ USD1127793S1
+ (en)
+ *
+ 2024-06-21
+ 2026-05-26
+ Weiyu (Shenzhen) Technology Co., Ltd.
+ Magnetic support for mobile phone 
+ CN222706533U
+ (en)
+ *
+ 2024-06-24
+ 2025-04-01
+ 杰克布库·克里斯托夫
+ Sucking disc support 
+ USD1083902S1
+ (en)
+ *
+ 2024-07-18
+ 2025-07-15
+ Weiyu (Shenzhen) Technology Co., Ltd.
+ Magnetic support 
+ USD1077789S1
+ (en)
+ *
+ 2025-01-10
+ 2025-06-03
+ Hongzhi Chen
+ Mobile phone holder 
+Citations (26)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US5025966A
+ (en)
+ *
+ 1990-05-07
+ 1991-06-25
+ Potter Stephen B
+ Magnetic tool holder 
+ US5921658A
+ (en)
+ 1997-03-25
+ 1999-07-13
+ Alert Safety Lite Products Co., Inc.
+ Fluorescent utility light 
+ US20040188576A1
+ (en)
+ *
+ 2003-03-27
+ 2004-09-30
+ Carnevali Jeffrey D.
+ Magnetic mounting platform 
+ US20060102818A1
+ (en)
+ 2004-11-16
+ 2006-05-18
+ Carnevali Jeffrey D
+ Locking ratchet base 
+ US20130068915A1
+ (en)
+ *
+ 2011-09-21
+ 2013-03-21
+ The Joy Factory, Inc.
+ Detachable mounting systems for electronic devices 
+ US20140097306A1
+ (en)
+ *
+ 2012-03-24
+ 2014-04-10
+ Daymen Us, Inc.
+ Adjustable Mounting Clip And System Using Same 
+ US20150122858A1
+ (en)
+ *
+ 2013-11-04
+ 2015-05-07
+ Omix-Ada, Inc.
+ Multi-Device Dash Mount for Vehicles 
+ US9038971B1
+ (en)
+ *
+ 2012-11-14
+ 2015-05-26
+ Beau Thomas Guthrie
+ Mobile computing platform holding device 
+ US20160161052A1
+ (en)
+ *
+ 2014-12-04
+ 2016-06-09
+ Stephen D. Griggs
+ Accessory mount for portable electronic devices 
+ CN205510160U
+ (en)
+ 2016-04-07
+ 2016-08-24
+ 东莞市顺辉电子科技有限公司
+ A car mobile phone holder
+ US9616821B2
+ (en)
+ *
+ 2013-11-28
+ 2017-04-11
+ David ELHARAR
+ Apparatus for securing a mobile device to a steering wheel 
+ US9616822B1
+ (en)
+ *
+ 2016-07-21
+ 2017-04-11
+ Leslie Ronald Hamilton
+ Mobile device attachment for a golf cart 
+ CN107176108A
+ (en)
+ 2017-06-13
+ 2017-09-19
+ 孙博文
+ Fixing device for smart phone
+ CN206664466U
+ (en)
+ 2017-03-10
+ 2017-11-24
+ 洪伟裕
+ A kind of spring folding vehicle-mounted bracket 
+ US9845058B2
+ (en)
+ *
+ 2014-07-23
+ 2017-12-19
+ Bracketron, Inc.
+ Heavy duty magnet mount 
+ US10259400B1
+ (en)
+ *
+ 2018-06-19
+ 2019-04-16
+ Cpc Co., Ltd.
+ One-touch type supporting holder 
+ US10505392B2
+ (en)
+ *
+ 2016-12-01
+ 2019-12-10
+ Scosche Industries, Inc.
+ Magnetic device mount 
+ US10502247B2
+ (en)
+ *
+ 2016-09-05
+ 2019-12-10
+ Bury Sp.Z.O.O.
+ Holder system for an electronic apparatus 
+ CN209845045U
+ (en)
+ 2019-06-25
+ 2019-12-24
+ 深圳宇朔工业设计有限公司
+ Vehicle-mounted mobile phone support 
+ US10563683B2
+ (en)
+ *
+ 2016-05-02
+ 2020-02-18
+ Yona Lebovitz
+ Magnetic mobile-device mount 
+ US10583790B2
+ (en)
+ *
+ 2016-08-25
+ 2020-03-10
+ Daniel Cotton
+ Adjustable electronic device mount 
+ US10988197B1
+ (en)
+ *
+ 2020-05-29
+ 2021-04-27
+ Leslie Ronald Hamilton
+ Retaining assembly to attach one or more mobile devices to a mobile object 
+ US20210271156A1
+ (en)
+ *
+ 2018-11-19
+ 2021-09-02
+ Winners' Sun Plastic & Electronic (Shenzhen) Co., Ltd.
+ Selfie device 
+ US20220244624A1
+ (en)
+ *
+ 2019-05-13
+ 2022-08-04
+ Peak Design
+ Close-pack, high-aspect-ratio camera tripod 
+ US11516328B2
+ (en)
+ *
+ 2020-10-20
+ 2022-11-29
+ Nite Ize, Inc.
+ Systems and methods for an adjustable, quck release, positive pressure, electronic device holder 
+ US11548451B2
+ (en)
+ *
+ 2019-07-31
+ 2023-01-10
+ Peak Design
+ Mobile device mounting system 
+Family Cites Families (28)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US4506317A
+ (en)
+ *
+ 1984-02-08
+ 1985-03-19
+ Duddy James J
+ Magnetic support for flashlight 
+ US5577697A
+ (en)
+ *
+ 1995-09-22
+ 1996-11-26
+ Accordino; Carmine L.
+ Flashlight accessory 
+ ITAN960024A1
+ (en)
+ *
+ 1996-06-27
+ 1997-12-29
+ Prisma Di Tarulli Dario
+ UNIVERSAL MAGNETIC SUPPORT TO SUPPORT A MOBILE PHONE
+ US6888940B1
+ (en)
+ *
+ 2000-04-12
+ 2005-05-03
+ Daniel Deppen
+ Magnetic holder for cell phones and the like 
+ US6957978B2
+ (en)
+ *
+ 2003-07-31
+ 2005-10-25
+ Drew Zoller
+ Cord retainer 
+ US20070023559A1
+ (en)
+ *
+ 2005-07-26
+ 2007-02-01
+ James Scapillato
+ Electronic device case 
+ US7422486B2
+ (en)
+ *
+ 2006-09-22
+ 2008-09-09
+ Itt Manufacturing Enterprises, Inc.
+ Connectors to connect modules to electronic devices 
+ US7644895B2
+ (en)
+ *
+ 2007-10-22
+ 2010-01-12
+ Min-Li Tseng
+ Clamping device for electronic products 
+ ITTV20070182A1
+ (en)
+ *
+ 2007-11-14
+ 2009-05-15
+ Walmec Spa
+ MAGNETIC DEVICE FOR THE SUPPORT, PARTICULARLY IN THE CAR, OF A PORTABLE ELECTRONIC EQUIPMENT.
+ US20110192857A1
+ (en)
+ *
+ 2008-12-18
+ 2011-08-11
+ Wayne Philip Rothbaum
+ Magnetically Attached Accessories (For A Case) for a Portable Electronics Device 
+ US9486910B2
+ (en)
+ *
+ 2013-12-30
+ 2016-11-08
+ Kaylor Global, Inc.
+ Tablet computer holder 
+ TWI627032B
+ (en)
+ *
+ 2014-05-15
+ 2018-06-21
+ 佳能企業股份有限公司
+ Clamper 
+ US20160150861A1
+ (en)
+ *
+ 2014-12-02
+ 2016-06-02
+ Aevoe International Ltd.
+ Mountable case assembly 
+ US20160209733A1
+ (en)
+ *
+ 2015-01-19
+ 2016-07-21
+ Yoshiko Akai
+ Holder for mobile devices to take self-portraits or selfies remotely 
+ US9821724B2
+ (en)
+ *
+ 2015-02-10
+ 2017-11-21
+ Ping Zhang
+ Mounting apparatus for portable electronic device 
+ US9800283B2
+ (en)
+ *
+ 2015-06-17
+ 2017-10-24
+ Airo Collective, Inc.
+ Mobile device holder 
+ DE202017001222U1
+ (en)
+ *
+ 2017-03-08
+ 2017-04-04
+ Harald Richter
+ Holding device, in particular for mobile phones
+ US10463116B2
+ (en)
+ *
+ 2018-01-08
+ 2019-11-05
+ Popsockets Llc
+ Expandable socket accessory 
+ US10244854B1
+ (en)
+ *
+ 2018-01-12
+ 2019-04-02
+ Tzumi Electronics LLC
+ Gripping apparatus for handheld devices 
+ CN112638204B
+ (en)
+ *
+ 2018-07-03
+ 2023-04-04
+ 鲍勃斯科特有限责任公司
+ Extendable device for portable electronic device 
+ US20200116298A1
+ (en)
+ *
+ 2018-10-12
+ 2020-04-16
+ Investment Group «Kopernik», LLC
+ Stand Holder for a Mobile Device 
+ CN209046706U
+ (en)
+ *
+ 2018-12-24
+ 2019-06-28
+ 李国斌
+ Support is inhaled to gasbag formula magnetism 
+ US10638627B1
+ (en)
+ *
+ 2019-02-05
+ 2020-04-28
+ Philip Stime
+ Polygonally-shaped finger grip for a portable electronic device 
+ US10774871B1
+ (en)
+ *
+ 2019-03-15
+ 2020-09-15
+ Quest Usa Corp.
+ Sliding hinge collapsible discs 
+ US10897984B2
+ (en)
+ *
+ 2019-04-08
+ 2021-01-26
+ Nebro, Llc
+ Secure device grip 
+ US20200328017A1
+ (en)
+ *
+ 2019-04-10
+ 2020-10-15
+ Encased Products Inc.
+ Magnetic mount connector for a portable electronic device 
+ US11299106B2
+ (en)
+ *
+ 2019-06-20
+ 2022-04-12
+ Pro-Gard Products, Llc
+ Mounting system for a mobile microphone 
+ KR102301971B1
+ (en)
+ *
+ 2020-08-26
+ 2021-09-16
+ 김예슬
+ Accessories for electronic devices 
+ 2022
+ 2022-01-15
+ US
+ US17/576,942
+ patent/US11920727B2/en
+ active
+ Active
+ 2022-01-15
+ US
+ US17/576,944
+ patent/US20220228709A1/en
+ not_active
+ Abandoned
+ 2022-01-15
+ US
+ US17/576,940
+ patent/US11796126B2/en
+ active
+ Active
+ 2022-01-16
+ EP
+ EP22740202.1A
+ patent/EP4277810A4/en
+ not_active
+ Withdrawn
+ 2022-01-16
+ WO
+ PCT/US2022/012651
+ patent/WO2022155560A2/en
+ not_active
+ Ceased
+Patent Citations (27)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US5025966A
+ (en)
+ *
+ 1990-05-07
+ 1991-06-25
+ Potter Stephen B
+ Magnetic tool holder 
+ US5921658A
+ (en)
+ 1997-03-25
+ 1999-07-13
+ Alert Safety Lite Products Co., Inc.
+ Fluorescent utility light 
+ US20040188576A1
+ (en)
+ *
+ 2003-03-27
+ 2004-09-30
+ Carnevali Jeffrey D.
+ Magnetic mounting platform 
+ US20060102818A1
+ (en)
+ 2004-11-16
+ 2006-05-18
+ Carnevali Jeffrey D
+ Locking ratchet base 
+ US20130068915A1
+ (en)
+ *
+ 2011-09-21
+ 2013-03-21
+ The Joy Factory, Inc.
+ Detachable mounting systems for electronic devices 
+ US20140097306A1
+ (en)
+ *
+ 2012-03-24
+ 2014-04-10
+ Daymen Us, Inc.
+ Adjustable Mounting Clip And System Using Same 
+ US9038971B1
+ (en)
+ *
+ 2012-11-14
+ 2015-05-26
+ Beau Thomas Guthrie
+ Mobile computing platform holding device 
+ US20150122858A1
+ (en)
+ *
+ 2013-11-04
+ 2015-05-07
+ Omix-Ada, Inc.
+ Multi-Device Dash Mount for Vehicles 
+ US9616821B2
+ (en)
+ *
+ 2013-11-28
+ 2017-04-11
+ David ELHARAR
+ Apparatus for securing a mobile device to a steering wheel 
+ US9845058B2
+ (en)
+ *
+ 2014-07-23
+ 2017-12-19
+ Bracketron, Inc.
+ Heavy duty magnet mount 
+ US11034309B2
+ (en)
+ *
+ 2014-07-23
+ 2021-06-15
+ Bracketron, Inc.
+ Heavy duty magnet mount 
+ US20160161052A1
+ (en)
+ *
+ 2014-12-04
+ 2016-06-09
+ Stephen D. Griggs
+ Accessory mount for portable electronic devices 
+ CN205510160U
+ (en)
+ 2016-04-07
+ 2016-08-24
+ 东莞市顺辉电子科技有限公司
+ A car mobile phone holder
+ US10563683B2
+ (en)
+ *
+ 2016-05-02
+ 2020-02-18
+ Yona Lebovitz
+ Magnetic mobile-device mount 
+ US9616822B1
+ (en)
+ *
+ 2016-07-21
+ 2017-04-11
+ Leslie Ronald Hamilton
+ Mobile device attachment for a golf cart 
+ US10583790B2
+ (en)
+ *
+ 2016-08-25
+ 2020-03-10
+ Daniel Cotton
+ Adjustable electronic device mount 
+ US10502247B2
+ (en)
+ *
+ 2016-09-05
+ 2019-12-10
+ Bury Sp.Z.O.O.
+ Holder system for an electronic apparatus 
+ US10505392B2
+ (en)
+ *
+ 2016-12-01
+ 2019-12-10
+ Scosche Industries, Inc.
+ Magnetic device mount 
+ CN206664466U
+ (en)
+ 2017-03-10
+ 2017-11-24
+ 洪伟裕
+ A kind of spring folding vehicle-mounted bracket 
+ CN107176108A
+ (en)
+ 2017-06-13
+ 2017-09-19
+ 孙博文
+ Fixing device for smart phone
+ US10259400B1
+ (en)
+ *
+ 2018-06-19
+ 2019-04-16
+ Cpc Co., Ltd.
+ One-touch type supporting holder 
+ US20210271156A1
+ (en)
+ *
+ 2018-11-19
+ 2021-09-02
+ Winners' Sun Plastic & Electronic (Shenzhen) Co., Ltd.
+ Selfie device 
+ US20220244624A1
+ (en)
+ *
+ 2019-05-13
+ 2022-08-04
+ Peak Design
+ Close-pack, high-aspect-ratio camera tripod 
+ CN209845045U
+ (en)
+ 2019-06-25
+ 2019-12-24
+ 深圳宇朔工业设计有限公司
+ Vehicle-mounted mobile phone support 
+ US11548451B2
+ (en)
+ *
+ 2019-07-31
+ 2023-01-10
+ Peak Design
+ Mobile device mounting system 
+ US10988197B1
+ (en)
+ *
+ 2020-05-29
+ 2021-04-27
+ Leslie Ronald Hamilton
+ Retaining assembly to attach one or more mobile devices to a mobile object 
+ US11516328B2
+ (en)
+ *
+ 2020-10-20
+ 2022-11-29
+ Nite Ize, Inc.
+ Systems and methods for an adjustable, quck release, positive pressure, electronic device holder 
+Cited By (7)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US12649013B2
+ (en)
+ *
+ 2023-05-12
+ 2026-06-09
+ Blueprint Technology Co., Ltd.
+ Fragrance diffuser with magnetic component 
+ US20240418308A1
+ (en)
+ *
+ 2023-06-19
+ 2024-12-19
+ Ollin, Inc.
+ Magnetic stand mount 
+ US12704216B2
+ (en)
+ *
+ 2023-06-19
+ 2026-08-11
+ Ollin, Inc.
+ Magnetic stand mount 
+ US20250003547A1
+ (en)
+ *
+ 2023-06-28
+ 2025-01-02
+ Randy T. Nagata
+ Universal holder 
+ US12644561B2
+ (en)
+ *
+ 2023-06-28
+ 2026-06-02
+ Randy T. Nagata
+ Universal holder 
+ US12702727B2
+ (en)
+ *
+ 2023-12-14
+ 2026-08-11
+ Blueprint Technology Co., Ltd.
+ Thin magnetic absorption fragrance device 
+ US20250361971A1
+ (en)
+ *
+ 2024-05-21
+ 2025-11-27
+ Alan Joonatan Rebane
+ Portable and Height-Adjustable Monitor Stand with Universal Magnetic Attachment Mechanism 
+Also Published As
+ Publication number
+ Publication date
+ US11920727B2
+ (en)
+ 2024-03-05
+ US20220228708A1
+ (en)
+ 2022-07-21
+ WO2022155560A2
+ (en)
+ 2022-07-21
+ EP4277810A4
+ (en)
+ 2025-03-05
+ US20220316689A1
+ (en)
+ 2022-10-06
+ US20220228709A1
+ (en)
+ 2022-07-21
+ WO2022155560A3
+ (en)
+ 2022-09-01
+ EP4277810A2
+ (en)
+ 2023-11-22
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US11920727B2
+ (en)
+ 2024-03-05
+ Deployable light for electronic devices 
+ US11388966B2
+ (en)
+ 2022-07-19
+ Device case with strap configurable for use with accessories 
+ US20240308436A1
+ (en)
+ 2024-09-19
+ Multi-use mount 
+ US7551225B2
+ (en)
+ 2009-06-23
+ Positioning accessory for camera-equipped wireless terminals 
+ KR100713495B1
+ (en)
+ 2007-05-02
+ Portable cradle
+ KR100754586B1
+ (en)
+ 2007-09-05
+ Portable folding cradle
+ CN104412700A
+ (en)
+ 2015-03-11
+ Adjustable mounting clip and system using same 
+ CN107528953A
+ (en)
+ 2017-12-29
+ Camera Smart Cases and Accessories for Phones
+ US20060098116A1
+ (en)
+ 2006-05-11
+ Digital camera having alternate functional covers 
+ JP2019537038A
+ (en)
+ 2019-12-19
+ Selfie device
+ KR20170135272A
+ (en)
+ 2017-12-08
+ Multipurpose smartphone holder 
+ KR101718295B1
+ (en)
+ 2017-03-20
+ Holder for portable device using magnetism 
+ US10250051B2
+ (en)
+ 2019-04-02
+ Electronic device docking station 
+ CN118475497A
+ (en)
+ 2024-08-09
+ Magnetic support structure for electronic device 
+ JP3114439U
+ (en)
+ 2005-10-27
+ Pan head for portable electronic equipment with electronic camera
+ JP3762126B2
+ (en)
+ 2006-04-05
+ Portable communication device
+ WO2019174018A1
+ (en)
+ 2019-09-19
+ Rotatable wireless charging intelligent terminal clamp and three-axis gyroscope stabilizer 
+ CN223463036U
+ (en)
+ 2025-10-21
+ Mobile phone protection shell with rotating support 
+ CN222316511U
+ (en)
+ 2025-01-07
+ Bracket and electronic equipment accessory
+ CN220173282U
+ (en)
+ 2023-12-12
+ Support and charging equipment 
+ CN222128127U
+ (en)
+ 2024-12-06
+ Support structure of magnetic finger ring buckle
+ CN110830828B
+ (en)
+ 2021-07-16
+ 5G signal set-top box 
+ CN220511229U
+ (en)
+ 2024-02-20
+ Earphone charging box 
+ CN213244084U
+ (en)
+ 2021-05-18
+ Cell-phone light filling support 
+ KR200356039Y1
+ (en)
+ 2004-07-12
+ A tripod for charging camera phone 
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2022-01-15
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+ 2022-03-28
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION
+ 2022-12-14
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NON FINAL ACTION MAILED
+ 2022-12-27
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+ 2023-06-14
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+ 2023-07-06
+ AS
+ Assignment
+ Owner name:
+ VITEC IMAGING SOLUTIONS SPA, ITALY
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CHAO, HEN-LI PHILIP;REEL/FRAME:064176/0730
+ Effective date:
+ 20221229
+ 2023-07-07
+ AS
+ Assignment
+ Owner name:
+ VIDENDUM MEDIA SOLUTIONS SPA, ITALY
+ Free format text:
+ CHANGE OF NAME;ASSIGNOR:VITEC IMAGING SOLUTIONS SPA;REEL/FRAME:064225/0862
+ Effective date:
+ 20220601
+ 2023-09-06
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+ 2023-10-04
+ STCF
+ Information on status: patent grant
+ Free format text:
+ PATENTED CASE
+ 2025-10-15
+ AS
+ Assignment
+ Owner name:
+ VIJIM LIMITED, CHINA
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:VITEC IMAGING SOLUTIONS SPA;REEL/FRAME:072572/0885
+ Effective date:
+ 20251013

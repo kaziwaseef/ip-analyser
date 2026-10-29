@@ -1,0 +1,9 @@
+# Focused name risk register
+
+As of2026-10-20. Apply [frozen rubric](inputs/rate-risk.md). Product F-015 and scope: S-001/S-090/S-099. This run resumes K-005; other findings are carried forward without rerun.
+
+| Finding | Rights, scope and evidence | Current concern and reasoning | Business impact | Confidence and coverage | Mitigation and residual result |
+| --- | --- | --- | --- | --- | --- |
+| K-005 | R-201/R-202, with R-203/R-204 comparisons and R-205 candidate. US proposed ROOKBOLT X79Z; intended travel/charging range sensitivity. S-065/S-066/S-092 first-party ROCBOLT use; S-095–S-097 pp1–2 full official records; S-091 queries; S-099/S-100 wider-range gap | 2 + U for bounded X79Z name review. Similar-use lead and related-goods prefix candidate require follow-up, while whole-sign/function differences bound the supported concern. Broader intended-range conclusion is U: exact goods and sufficient coverage/record details missing | A conflict could require relabeling, changing packaging/listings or delaying a launch across intended product lines. User reports no sales/application; existing branding spend, inventory and volumes unknown. No dispute or damages evidenced | High confidence in captured official fields, medium in bounded comparisons, low in ultimate confusion outcome. Expanded bounded federal access; complete brand clearance remains incomplete | Professional full-range clearance proposed, not performed. No consent/redesign/filing completed. Residual equals current2 + U; broader range U. No legal review or risk acceptance |
+
+ROOK GEAR is a candidate-only U rather than a proven right conflict. No favorable score is assigned to unperformed work. Concern scores are ordinal, not probabilities or sales permission. Other run01–03 findings and supplier deferrals remain separate.

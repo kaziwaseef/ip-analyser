@@ -1,0 +1,721 @@
+US20260012526A1 - Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+ - Google Patents
+US20260012526A1 - Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+ - Google Patents
+ Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+Info
+ Publication number
+ US20260012526A1
+ US20260012526A1
+ US19/187,354
+ US202519187354A
+ US2026012526A1
+ US 20260012526 A1
+ US20260012526 A1
+ US 20260012526A1
+ US 202519187354 A
+ US202519187354 A
+ US 202519187354A
+ US 2026012526 A1
+ US2026012526 A1
+ US 2026012526A1
+ Authority
+ US
+ United States
+ Prior art keywords
+ housing
+ mobile phone
+ vehicle
+ ball
+ rotatable
+ Prior art date
+ 2024-07-03
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Pending
+ Application number
+ US19/187,354
+ Inventor
+ Pengcheng Du
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Dongguan Jinchi Electronic Technology Co Ltd
+ Original Assignee
+ Dongguan Jinchi Electronic Technology Co Ltd
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2024-07-03
+ Filing date
+ 2025-04-23
+ Publication date
+ 2026-01-08
+ 2025-04-23
+ Application filed by Dongguan Jinchi Electronic Technology Co Ltd
+ filed
+ Critical
+ Dongguan Jinchi Electronic Technology Co Ltd
+ 2026-01-08
+ Publication of US20260012526A1
+ publication
+ Critical
+ patent/US20260012526A1/en
+ Status
+ Pending
+ legal-status
+ Critical
+ Current
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/04—Supports for telephone transmitters or receivers
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/041—Allowing quick release of the apparatus
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/10—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/12—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting in more than one direction
+ F16M11/125—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting in more than one direction for tilting and rolling
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/2007—Undercarriages with or without wheels comprising means allowing pivoting adjustment
+ F16M11/2035—Undercarriages with or without wheels comprising means allowing pivoting adjustment in more than one direction
+ F16M11/2064—Undercarriages with or without wheels comprising means allowing pivoting adjustment in more than one direction for tilting and panning
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F16M13/022—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle repositionable
+Definitions
+ the present disclosure
+ relates to the technical field of vehicle-mounted furniture, and in particular to a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ magsafe magnetic holders in a use environment of vehicle-mounted holders capable of being stuck on the market
+ are inconvenient for angle adjustment and incompatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder).
+ POPsockets
+ airbag ring holder
+ Ring
+ ordinary ring holder
+ holders capable of being stuck
+ are only stuck on one type of products, which is inapplicable to products that require different use scenarios.
+ a vehicle-mounted holder
+ is usually fixed on a plane console of a vehicle with glue.
+ dismounting
+ is inconvenient due to glue, and it is difficult to clean glue residue.
+ An objective of the present disclosure
+ is to provide a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed, so as to solve the problems mentioned in the background art.
+ a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed
+ including a ring body, a housing and a bottom housing, where a connection position is arranged in a center of a bottom of the housing, a silica gel sucker is arranged at a bottom of the bottom housing, and the bottom housing and the silica gel sucker are connected to the connection position through pins.
+ the ring body
+ is fixedly provided with a magnet, the magnet is provided with a panel, and the ring body is connected to a swing rod.
+ Two ends of the swing rod
+ are connected to a first connecting block or a second connecting block through a rotating shaft, the first connecting block is connected to the ring body through a screw, and the second connecting block is connected to the housing through screws.
+ An end, farthest away from the bottom housing, of the silica gel sucker
+ is fixedly provided with suction cups, and a decorative plate is arranged in a middle of the silica gel sucker.
+ insertion holes
+ are formed at a circumference of the connection position, and a ball plunger is mounted inside each insertion hole.
+ each ball plunger
+ is composed of a ball retainer housing, a spring and a ball, the ball retainer housing is fixedly mounted in the insertion hole, the spring is mounted inside the ball retainer housing, the spring is compressed and connected to the ball, and the ball is clamped on the ball retainer housing.
+ An inner wall of the bottom housing
+ is circumferentially provided with positioning grooves, and the balls extend out of the ball retainer housings and are connected to the positioning grooves.
+ a cable clip
+ is fixedly mounted at a top of the housing.
+ the ring body
+ is fixedly provided with the magnet, the magnet is provided with the panel, and the ring body is connected to the swing rod.
+ the ring body at an upper portion
+ can be compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder).
+ the hollow design of the ring body
+ is compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder) for use and is applicable to bare mobile phones of magsafe Iphone mobile phones and magsafe magnetic housings, and the mobile phone holder can be used in combination with ring iron sheets for mobile phones of other models.
+ the housing and the bottom housing
+ are tightly connected through the connection position and the pins, such that rotation of the mobile phone holder is realized.
+ the balls
+ are designed inside the housing and are in a compressed state.
+ the balls
+ are connected into the positioning grooves to realize the effect of keeping an angle unchanged after rotation, that is, the bottom housing can realize a high-angle rotation and hovering function.
+ the end, farthest away from the bottom housing, of the silica gel sucker
+ is fixedly provided with the suction cups, and the suction cups on the silica gel sucker can be directly adsorbed on a plane workbench of a vehicle.
+ FIG. 1
+ is a schematic exploded diagram of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 2
+ is a first perspective diagram of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 3
+ is a second perspective diagram of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 4
+ is sectional view of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 5
+ is a schematic structural diagram of a bottom housing in a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 6
+ is a schematic structural diagram of a ball plunger in a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 7
+ is a perspective diagram of a silica gel sucker in a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder
+ capable of being freely adsorbed, including a ring body 100 , a housing 300 and a bottom housing 500 , where a connection position 330 is arranged in a center of a bottom of the housing 300 , a silica gel sucker 510 is arranged at a bottom of the bottom housing 500 , and the bottom housing 500 and the silica gel sucker 510 are connected to the connection position 330 through pins 530 .
+ the ring body 100
+ is fixedly provided with a magnet 110 , the magnet 110 is provided with a panel 120 , and the ring body 100 is connected to a swing rod 200 .
+ the swing rod 200
+ can realize an up-and-down folding function, and the ring body 100 at an upper portion can be compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder).
+ the hollow design of the ring body 100
+ is compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder) for use and is applicable to bare mobile phones of magsafe Iphone mobile phones and magsafe magnetic housings, and the mobile phone holder can be used in combination with ring iron sheets for mobile phones of other models.
+ the rotating shaft 230
+ is arranged as a damping rotating shaft and has a 360-degree rotation and hovering function, such that the swing rod can swing, and a component at the upper portion can hover.
+ Insertion holes 320
+ are formed at a circumference of the connection position 330 , and a ball plunger 400 is mounted inside each insertion hole 320 .
+ Each ball plunger 400
+ includes a ball retainer housing 410 , a spring 420 and a ball 430 , the ball retainer housing 410 is fixedly mounted in the insertion hole 320 , the spring 420 is mounted inside the ball retainer housing 410 , the spring 420 is compressed and connected to the ball 430 , and the ball 430 is clamped on the ball retainer housing 410 .
+ An inner wall of the bottom housing 500
+ is circumferentially provided with positioning grooves 511 , and the balls 430 extend out of the ball retainer housings 410 and are connected to the positioning grooves 511 , thereby realizing a rotation function of the mobile phone holder.
+ the housing 300 and the bottom housing 500
+ are tightly connected through the connection position 330 and the pins 530 , such that rotation of the mobile phone holder is realized.
+ the balls 430
+ are designed inside the housing 300 and are in a compressed state.
+ the balls 430
+ are connected into the positioning grooves 511 to realize the effect of keeping an angle unchanged after rotation, that is, the bottom housing 500 can realize a 360-degree rotation and hovering function.
+ a cable clip 600
+ is fixedly mounted at a top of the housing 300 .
+ An end, farthest away from the bottom housing 500 , of the silica gel sucker 510
+ is fixedly provided with suction cups 520 , and a decorative plate 540 is arranged in a middle of the silica gel sucker 510 .
+ the suction cups 520 on the silica gel sucker 510
+ can be directly adsorbed on a plane workbench of a vehicle.
+ the working principle of the present disclosure
+ is: POPsockets (airbag ring holder), Ring (ordinary ring holder) or a mobile phone housing with metal are adsorbed on the ring body 100 , and the swing rod 200 can realize the up-and-down folding function.
+ the balls 430
+ are connected into the positioning grooves 511 by rotating the housing 300 or the bottom housing 500 , that is, the bottom housing 500 can realize the 360-degree rotation and hovering function.
+ a cable of the mobile phone
+ can be fixed on the cable clip 600 .
+ the end, farthest away from the bottom housing 500 , of the silica gel sucker 510
+ is fixedly provided with the suction cups 520 , and the suction cups 520 on the silica gel sucker 510 can be directly adsorbed on the plane workbench of the vehicle.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Signal Processing
+ (AREA)
+ Telephone Set Structure
+ (AREA)
+Abstract
+The present disclosure relates to a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed. The mobile phone holder includes a ring body, a housing and a bottom housing. A connection position is arranged in a bottom of the housing, a silica gel sucker is arranged at a bottom of the bottom housing, and the bottom housing and the silica gel sucker are connected to the connection position through pins. The ring body is provided with a magnet, the magnet is provided with a panel, and the ring body is connected to a swing rod. Two ends of the swing rod are connected to a first connecting block or a second connecting block through a rotating shaft, the first connecting block is connected to the ring body through a screw, and the second connecting block is connected to the housing through screws.
+Description
+ CROSS-REFERENCE TO RELATED APPLICATIONS
+The present application claims priority to Chinese Patent Application No. 202421551172.3, filed on Jul. 3, 2024, the entire disclosure of which is incorporated herein by reference.
+ TECHNICAL FIELD
+The present disclosure relates to the technical field of vehicle-mounted furniture, and in particular to a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ BACKGROUND
+At present, magsafe magnetic holders in a use environment of vehicle-mounted holders capable of being stuck on the market are inconvenient for angle adjustment and incompatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder). Generally, holders capable of being stuck are only stuck on one type of products, which is inapplicable to products that require different use scenarios.
+A vehicle-mounted holder is usually fixed on a plane console of a vehicle with glue. When a use position needs to be changed, dismounting is inconvenient due to glue, and it is difficult to clean glue residue.
+Therefore, a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being stuck is invented.
+ SUMMARY
+An objective of the present disclosure is to provide a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed, so as to solve the problems mentioned in the background art.
+To achieve the above objective, the present disclosure provides the technical solutions as follows:
+A vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed, including a ring body, a housing and a bottom housing, where a connection position is arranged in a center of a bottom of the housing, a silica gel sucker is arranged at a bottom of the bottom housing, and the bottom housing and the silica gel sucker are connected to the connection position through pins.
+The ring body is fixedly provided with a magnet, the magnet is provided with a panel, and the ring body is connected to a swing rod.
+Two ends of the swing rod are connected to a first connecting block or a second connecting block through a rotating shaft, the first connecting block is connected to the ring body through a screw, and the second connecting block is connected to the housing through screws.
+An end, farthest away from the bottom housing, of the silica gel sucker is fixedly provided with suction cups, and a decorative plate is arranged in a middle of the silica gel sucker.
+In a preferred embodiment of the present disclosure, insertion holes are formed at a circumference of the connection position, and a ball plunger is mounted inside each insertion hole.
+In a preferred embodiment of the present disclosure, each ball plunger is composed of a ball retainer housing, a spring and a ball, the ball retainer housing is fixedly mounted in the insertion hole, the spring is mounted inside the ball retainer housing, the spring is compressed and connected to the ball, and the ball is clamped on the ball retainer housing.
+An inner wall of the bottom housing is circumferentially provided with positioning grooves, and the balls extend out of the ball retainer housings and are connected to the positioning grooves.
+In a preferred embodiment of the present disclosure, a cable clip is fixedly mounted at a top of the housing.
+Additional aspects and advantages of the present disclosure will be set forth partially in the following description, which will become obvious in the following description, or may be learned by practice of the present disclosure.
+The ring body is fixedly provided with the magnet, the magnet is provided with the panel, and the ring body is connected to the swing rod. The ring body at an upper portion can be compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder). The hollow design of the ring body is compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder) for use and is applicable to bare mobile phones of magsafe Iphone mobile phones and magsafe magnetic housings, and the mobile phone holder can be used in combination with ring iron sheets for mobile phones of other models.
+The housing and the bottom housing are tightly connected through the connection position and the pins, such that rotation of the mobile phone holder is realized. The balls are designed inside the housing and are in a compressed state. The balls are connected into the positioning grooves to realize the effect of keeping an angle unchanged after rotation, that is, the bottom housing can realize a high-angle rotation and hovering function.
+The end, farthest away from the bottom housing, of the silica gel sucker is fixedly provided with the suction cups, and the suction cups on the silica gel sucker can be directly adsorbed on a plane workbench of a vehicle.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+The above-mentioned and/or additional aspects and advantages of the present disclosure will become apparent and easy to understand from the description of the examples with reference to the following accompanying drawings, in which:
+ FIG. 1 is a schematic exploded diagram of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 2 is a first perspective diagram of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 3 is a second perspective diagram of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 4 is sectional view of a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 5 is a schematic structural diagram of a bottom housing in a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 6 is a schematic structural diagram of a ball plunger in a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+ FIG. 7 is a perspective diagram of a silica gel sucker in a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed.
+In the figures: 100. ring body; 110. magnet; 120. panel. 130. screw; 200. swing rod; 210. first connecting block; 220. second connecting block; 230. rotating shaft; 300. housing; 320. insertion hole; 330. connection position; 400. ball plunger; 410. ball retainer housing; 420. spring; 430. ball; 500. bottom housing; 510. silica gel sucker; 511. positioning groove; 520. suction cup; 530. pin; 540. decorative plate; and 600. cable clip.
+ DETAILED DESCRIPTIONS OF THE EMBODIMENTS
+Examples of the present disclosure are described in detail below, instances of the examples are shown in the accompanying drawings, throughout which identical or similar reference numerals denote identical or similar elements or elements having identical or similar functions. The examples described below with reference to the accompanying drawings are exemplary and intended to explain the present disclosure, instead of being construed as limiting the present disclosure.
+Referring to FIGS. 1-7 , a vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed, including a ring body 100, a housing 300 and a bottom housing 500, where a connection position 330 is arranged in a center of a bottom of the housing 300, a silica gel sucker 510 is arranged at a bottom of the bottom housing 500, and the bottom housing 500 and the silica gel sucker 510 are connected to the connection position 330 through pins 530.
+The ring body 100 is fixedly provided with a magnet 110, the magnet 110 is provided with a panel 120, and the ring body 100 is connected to a swing rod 200. The swing rod 200 can realize an up-and-down folding function, and the ring body 100 at an upper portion can be compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder). The hollow design of the ring body 100 is compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder) for use and is applicable to bare mobile phones of magsafe Iphone mobile phones and magsafe magnetic housings, and the mobile phone holder can be used in combination with ring iron sheets for mobile phones of other models.
+Two ends of the swing rod 200 are connected to a first connecting block 210 or a second connecting block 220 through a rotating shaft 230, the first connecting block 210 is connected to the ring body 100 through a screw 130, and the second connecting block 220 is connected to the housing 300 through screws. The rotating shaft 230 is arranged as a damping rotating shaft and has a 360-degree rotation and hovering function, such that the swing rod can swing, and a component at the upper portion can hover.
+Insertion holes 320 are formed at a circumference of the connection position 330, and a ball plunger 400 is mounted inside each insertion hole 320. Each ball plunger 400 includes a ball retainer housing 410, a spring 420 and a ball 430, the ball retainer housing 410 is fixedly mounted in the insertion hole 320, the spring 420 is mounted inside the ball retainer housing 410, the spring 420 is compressed and connected to the ball 430, and the ball 430 is clamped on the ball retainer housing 410.
+An inner wall of the bottom housing 500 is circumferentially provided with positioning grooves 511, and the balls 430 extend out of the ball retainer housings 410 and are connected to the positioning grooves 511, thereby realizing a rotation function of the mobile phone holder. The housing 300 and the bottom housing 500 are tightly connected through the connection position 330 and the pins 530, such that rotation of the mobile phone holder is realized. The balls 430 are designed inside the housing 300 and are in a compressed state. The balls 430 are connected into the positioning grooves 511 to realize the effect of keeping an angle unchanged after rotation, that is, the bottom housing 500 can realize a 360-degree rotation and hovering function.
+A cable clip 600 is fixedly mounted at a top of the housing 300.
+An end, farthest away from the bottom housing 500, of the silica gel sucker 510 is fixedly provided with suction cups 520, and a decorative plate 540 is arranged in a middle of the silica gel sucker 510.
+The suction cups 520 on the silica gel sucker 510 can be directly adsorbed on a plane workbench of a vehicle.
+The working principle of the present disclosure is: POPsockets (airbag ring holder), Ring (ordinary ring holder) or a mobile phone housing with metal are adsorbed on the ring body 100, and the swing rod 200 can realize the up-and-down folding function. The balls 430 are connected into the positioning grooves 511 by rotating the housing 300 or the bottom housing 500, that is, the bottom housing 500 can realize the 360-degree rotation and hovering function. A cable of the mobile phone can be fixed on the cable clip 600. The end, farthest away from the bottom housing 500, of the silica gel sucker 510 is fixedly provided with the suction cups 520, and the suction cups 520 on the silica gel sucker 510 can be directly adsorbed on the plane workbench of the vehicle.
+Although the examples of the present disclosure have been illustrated and described, it should be understood that those of ordinary skill in the art may make various changes, modifications, replacements and variations to these examples without departing from the principle and purpose of the present disclosure, and the scope of the present disclosure is limited by the appended claims and their legal equivalents.
+Claims (4)
+ What is claimed is:
+ 1. A vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed, comprising a ring body, a housing and a bottom housing, wherein a connection position is arranged in a center of a bottom of the housing, a silica gel sucker is arranged at a bottom of the bottom housing, and the bottom housing and the silica gel sucker are connected to the connection position through pins;
+the ring body is fixedly provided with a magnet, the magnet is provided with a panel, and the ring body is connected to a swing rod; 
+two ends of the swing rod are connected to a first connecting block or a second connecting block through a rotating shaft, the first connecting block is connected to the ring body through a screw, and the second connecting block is connected to the housing through screws; and 
+an end, farthest away from the bottom housing, of the silica gel sucker is fixedly provided with suction cups, and a decorative plate is arranged in a middle of the silica gel sucker. 
+ 2. The vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed according to claim 1, wherein insertion holes are formed at a circumference of the connection position, and a ball plunger is mounted inside each insertion hole.
+ 3. The vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed according to claim 2, wherein each ball plunger comprises a ball retainer housing, a spring and a ball, the ball retainer housing is fixedly mounted in the insertion hole, the spring is mounted inside the ball retainer housing, the spring is compressed and connected to the ball, and the ball is clamped on the ball retainer housing; and
+an inner wall of the bottom housing is circumferentially provided with positioning grooves, and the balls extend out of the ball retainer housings and are connected to the positioning grooves. 
+ 4. The vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed according to claim 1, wherein a cable clip is fixedly mounted at a top of the housing.
+ US19/187,354
+ 2024-07-03
+ 2025-04-23
+ Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+ Pending
+ US20260012526A1
+ (en)
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN202421551172.3
+ 2024-07-03
+ CN202421551172
+ 2024-07-03
+Publications (1)
+ Publication Number
+ Publication Date
+ US20260012526A1
+ true
+ US20260012526A1
+ (en)
+ 2026-01-08
+Family
+ID=98370984
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US19/187,354
+ Pending
+ US20260012526A1
+ (en)
+ 2024-07-03
+ 2025-04-23
+ Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+Country Status (1)
+ Country
+ Link
+ US
+ (1)
+ US20260012526A1
+ (en)
+Citations (17)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US3071886A
+ (en)
+ *
+ 1961-02-13
+ 1963-01-08
+ Stiller Benjamin
+ Vacuum cup holding device 
+ US20050255898A1
+ (en)
+ *
+ 2004-03-31
+ 2005-11-17
+ Neotrends Products, Inc.
+ Cell phone and holder 
+ US20210237661A1
+ (en)
+ *
+ 2020-01-31
+ 2021-08-05
+ Kuryakyn Holdings, LLC
+ Mobile device holder configured to position in a cup holder 
+ US20210307187A1
+ (en)
+ *
+ 2021-01-09
+ 2021-09-30
+ Dongguan Xindingjian Electronic Technology Co., Ltd.
+ Adjustable foldable computer bracket 
+ US20220212608A1
+ (en)
+ *
+ 2021-01-06
+ 2022-07-07
+ Scosche Industries, Inc.
+ Retractable cup holder device mount 
+ US20230328164A1
+ (en)
+ *
+ 2022-04-06
+ 2023-10-12
+ U2O Global Co., Ltd.
+ Mobile phone holder 
+ US11796128B1
+ (en)
+ *
+ 2023-06-26
+ 2023-10-24
+ Guangdong Shuowei Technology Co., Ltd.
+ Two-in-one multi-functional magnetic bracket 
+ USD1013631S1
+ (en)
+ *
+ 2023-10-20
+ 2024-02-06
+ Yanhong Wang
+ Wireless charger 
+ USD1050107S1
+ (en)
+ *
+ 2024-03-28
+ 2024-11-05
+ Guangdong Shuowei Technology Co., Ltd.
+ Mobile phone holder 
+ US20240382020A1
+ (en)
+ *
+ 2024-06-24
+ 2024-11-21
+ Christophe Jakobuco
+ Suction cup holder 
+ USD1052575S1
+ (en)
+ *
+ 2024-08-08
+ 2024-11-26
+ Shenzhen Joyroom Technology Co., Ltd
+ Foldable magnetic car phone mount 
+ USD1084650S1
+ (en)
+ *
+ 2024-05-31
+ 2025-07-22
+ Shenzhen Huiwei Trading Co., Ltd.
+ Magnetic suction phone holder 
+ USD1101739S1
+ (en)
+ *
+ 2025-03-17
+ 2025-11-11
+ Shaowen Deng
+ Magnetic phone holder 
+ USD1101740S1
+ (en)
+ *
+ 2025-03-17
+ 2025-11-11
+ Shaowen Deng
+ Magnetic phone holder 
+ US20250389375A1
+ (en)
+ *
+ 2024-06-20
+ 2025-12-25
+ Shenzhen Yuecheng Yuezhen Industrial Development Co., Ltd
+ Mobile phone holder 
+ US12559288B2
+ (en)
+ *
+ 2024-08-15
+ 2026-02-24
+ Qingwei Lin
+ Vacuum cup lid with multi-angle adjustable magnetic phone holder 
+ US20260113396A1
+ (en)
+ *
+ 2024-10-23
+ 2026-04-23
+ Jinhua Deng
+ Mobile phone holder 
+ 2025
+ 2025-04-23
+ US
+ US19/187,354
+ patent/US20260012526A1/en
+ active
+ Pending
+Patent Citations (18)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US3071886A
+ (en)
+ *
+ 1961-02-13
+ 1963-01-08
+ Stiller Benjamin
+ Vacuum cup holding device 
+ US20050255898A1
+ (en)
+ *
+ 2004-03-31
+ 2005-11-17
+ Neotrends Products, Inc.
+ Cell phone and holder 
+ US20210237661A1
+ (en)
+ *
+ 2020-01-31
+ 2021-08-05
+ Kuryakyn Holdings, LLC
+ Mobile device holder configured to position in a cup holder 
+ US20220212608A1
+ (en)
+ *
+ 2021-01-06
+ 2022-07-07
+ Scosche Industries, Inc.
+ Retractable cup holder device mount 
+ US20210307187A1
+ (en)
+ *
+ 2021-01-09
+ 2021-09-30
+ Dongguan Xindingjian Electronic Technology Co., Ltd.
+ Adjustable foldable computer bracket 
+ US20230328164A1
+ (en)
+ *
+ 2022-04-06
+ 2023-10-12
+ U2O Global Co., Ltd.
+ Mobile phone holder 
+ US11796128B1
+ (en)
+ *
+ 2023-06-26
+ 2023-10-24
+ Guangdong Shuowei Technology Co., Ltd.
+ Two-in-one multi-functional magnetic bracket 
+ USD1013631S1
+ (en)
+ *
+ 2023-10-20
+ 2024-02-06
+ Yanhong Wang
+ Wireless charger 
+ USD1050107S1
+ (en)
+ *
+ 2024-03-28
+ 2024-11-05
+ Guangdong Shuowei Technology Co., Ltd.
+ Mobile phone holder 
+ USD1084650S1
+ (en)
+ *
+ 2024-05-31
+ 2025-07-22
+ Shenzhen Huiwei Trading Co., Ltd.
+ Magnetic suction phone holder 
+ US20250389375A1
+ (en)
+ *
+ 2024-06-20
+ 2025-12-25
+ Shenzhen Yuecheng Yuezhen Industrial Development Co., Ltd
+ Mobile phone holder 
+ US20240382020A1
+ (en)
+ *
+ 2024-06-24
+ 2024-11-21
+ Christophe Jakobuco
+ Suction cup holder 
+ US12471722B2
+ (en)
+ *
+ 2024-06-24
+ 2025-11-18
+ Christophe Jakobuco
+ Suction cup holder 
+ USD1052575S1
+ (en)
+ *
+ 2024-08-08
+ 2024-11-26
+ Shenzhen Joyroom Technology Co., Ltd
+ Foldable magnetic car phone mount 
+ US12559288B2
+ (en)
+ *
+ 2024-08-15
+ 2026-02-24
+ Qingwei Lin
+ Vacuum cup lid with multi-angle adjustable magnetic phone holder 
+ US20260113396A1
+ (en)
+ *
+ 2024-10-23
+ 2026-04-23
+ Jinhua Deng
+ Mobile phone holder 
+ USD1101739S1
+ (en)
+ *
+ 2025-03-17
+ 2025-11-11
+ Shaowen Deng
+ Magnetic phone holder 
+ USD1101740S1
+ (en)
+ *
+ 2025-03-17
+ 2025-11-11
+ Shaowen Deng
+ Magnetic phone holder 
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ CN204554253U
+ (en)
+ 2015-08-12
+ Fixing frame 
+ TWI553256B
+ (en)
+ 2016-10-11
+ Support device 
+ US20090072110A1
+ (en)
+ 2009-03-19
+ Apparatus for mounting an electronic device 
+ CN109639872B
+ (en)
+ 2023-12-19
+ Sucking disc formula cell phone stand 
+ CN212811934U
+ (en)
+ 2021-03-26
+ Damping base structure for Bluetooth sound equipment 
+ CN101135826A
+ (en)
+ 2008-03-05
+ Universal focusing ring 
+ CN208123798U
+ (en)
+ 2018-11-20
+ Rotary bracket structure and its runing rest 
+ US10020557B2
+ (en)
+ 2018-07-10
+ Holder and antenna fixing device using the same 
+ CN219087166U
+ (en)
+ 2023-05-26
+ A mobile phone case with a stand
+ CN217145842U
+ (en)
+ 2022-08-09
+ Formula electronic equipment support is inhaled to magnetism 
+ US20260019491A1
+ (en)
+ 2026-01-15
+ Vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways 
+ US20260116314A1
+ (en)
+ 2026-04-30
+ Magnetic and foldable mobile phone holder having charging function in vehicle and having retractable charging cable 
+ CN224260821U
+ (en)
+ 2026-05-19
+ Left torsion spring damper and right torsion spring damper for automobile small table plate 
+ CN213786716U
+ (en)
+ 2021-07-27
+ Multifunctional hook 
+ CN223663048U
+ (en)
+ 2025-12-12
+ Electronic device bracket
+ CN219843639U
+ (en)
+ 2023-10-17
+ Rotatory cell phone stand of accomodating 
+ CN216113136U
+ (en)
+ 2022-03-22
+ Electronic product support 
+ CN210670197U
+ (en)
+ 2020-06-02
+ Novel mobile phone support 
+ CN224178197U
+ (en)
+ 2026-04-28
+ Magnetic support 
+ CN220577819U
+ (en)
+ 2024-03-12
+ Pathogenic organism kit 
+ CN224191965U
+ (en)
+ 2026-05-01
+ A dual-powered phone holder
+ CN213731276U
+ (en)
+ 2021-07-20
+ A positioning and clamping device and clamping system
+ CN216356806U
+ (en)
+ 2022-04-19
+ Cell-phone earphone hole cover inner support structure that takes precautions against earthquakes 
+ CN208768138U
+ (en)
+ 2019-04-19
+ A mobile phone case with a ring holder
+ CN222793338U
+ (en)
+ 2025-04-25
+ Cup holder assembly with double-layer clamping mechanism
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2025-05-17
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION
+ 2026-07-23
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NON FINAL ACTION COUNTED, NOT YET MAILED
+ 2026-07-28
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NON FINAL ACTION MAILED

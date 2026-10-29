@@ -1,0 +1,79 @@
+Claims (
+17
+)
+What is claimed is:
+1. An alignment module comprising:
+an annular magnetic alignment component including a plurality of arcuate magnets, each arcuate magnet having:
+an inner arcuate region having a magnetic polarity oriented in a first axial direction;
+an outer arcuate region having a magnetic polarity oriented in a second axial direction opposite the first axial direction; and
+a non-magnetized central arcuate region disposed between the inner arcuate region and the outer arcuate region; and
+an encapsulating structure surrounding and holding the arcuate magnets in an annular arrangement, the encapsulating structure having a central opening inboard of the annular magnetic alignment component.
+2. The alignment module of
+claim 1
+further comprising:
+a rotational alignment component comprising a rectangular magnet,
+wherein the encapsulating structure further holds the rectangular magnet in a fixed position outboard of the annular magnetic alignment component.
+3. The alignment module of
+claim 1
+wherein the encapsulating structure has an annular shape.
+4. The alignment module of
+claim 3
+wherein the encapsulating structure comprises an annular front enclosure and an annular rear enclosure joined at inner and outer edges thereof.
+5. The alignment module of
+claim 4
+wherein the annular front enclosure and the annular rear enclosure are made of plastic.
+6. The alignment module of
+claim 5
+where the annular front enclosure and the annular rear enclosure are joined by a weld.
+7. The alignment module of
+claim 5
+where the annular front enclosure is formed in a first injection molding stage and the annular rear enclosure is injection molded onto the annular front enclosure.
+8. The alignment module of
+claim 1
+wherein the encapsulating structure comprises an annular front enclosure, an annular back enclosure, an annular inner side enclosure and an annular outer side enclosure and wherein the annular front enclosure and the annular back enclosure are joined to the annular inner side enclosure and the annular outer side enclosure by adhesive.
+9. An alignment module comprising:
+an annular magnetic alignment component including a plurality of arcuate magnets, each arcuate magnet having:
+an inner arcuate region having a magnetic polarity oriented in a first axial direction;
+an outer arcuate region having a magnetic polarity oriented in a second axial direction opposite the first axial direction; and
+a non-magnetized central arcuate region disposed between the inner arcuate region and the outer arcuate region;
+a rotational alignment component comprising a rectangular magnet and disposed outside a perimeter of the annular magnetic alignment component; and
+an encapsulating structure holding the annular magnetic alignment component and the rotational alignment component in a fixed spatial relationship to each other, the encapsulating structure comprising:
+a front planar layer;
+a back planar layer; and
+a magnet-holding layer made of a plastic material, the magnet-holding layer having a circular opening therethrough to accommodate the annular magnetic alignment component and a rectangular opening therethrough to accommodate the rectangular magnet,
+the magnet-holding layer further including a disc of the plastic material filling a region inboard of the annular magnetic alignment component.
+10. The alignment module of
+claim 9
+wherein the magnet-holding layer, the arcuate magnets, and the rectangular magnet have equal thicknesses.
+11. The alignment module of
+claim 9
+further comprising:
+a first adhesive layer attaching the front planar layer to the magnet-holding layer; and
+a second adhesive layer attaching the back planar layer to the magnet-holding layer.
+12. The alignment module of
+claim 9
+wherein the front planar layer and the back planar layer are rectangular layers with rounded corners.
+13. An alignment module comprising:
+an annular magnetic alignment component including a plurality of arcuate magnets, each arcuate magnet having:
+an inner arcuate region having a magnetic polarity oriented in a first axial direction;
+an outer arcuate region having a magnetic polarity oriented in a second axial direction opposite the first axial direction; and
+a non-magnetized central arcuate region disposed between the inner arcuate region and the outer arcuate region;
+an encapsulating structure surrounding and holding the arcuate magnets in an annular arrangement; and
+a near-field communication (NFC) coil disposed within the encapsulating structure inboard of and coaxial with the annular magnetic alignment component, the NFC coil coupled to an NFC tag circuit.
+14. The alignment module of
+claim 13
+wherein the encapsulating structure comprises:
+a front planar layer;
+a back planar layer; and
+a magnet-holding layer, the magnet-holding layer having a circular opening therethrough to accommodate the annular magnetic alignment component and the NFC coil.
+15. The alignment module of
+claim 14
+wherein the magnet-holding layer and the arcuate magnets have equal thicknesses.
+16. The alignment module of
+claim 14
+wherein the magnet-holding layer includes a disc of material filling a region inboard of the annular magnetic alignment component and the NFC coil.
+17. The alignment module of
+claim 14
+further comprising:
+a rotational alignment component comprising a rectangular magnet and disposed outboard of the annular magnetic alignment component,
+wherein the magnet-holding layer has a rectangular opening therethrough to accommodate the rotational alignment component.

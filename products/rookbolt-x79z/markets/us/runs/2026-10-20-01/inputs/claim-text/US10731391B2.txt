@@ -1,0 +1,69 @@
+Claims (
+17
+)
+What is claimed is:
+1. A suction-security system comprising:
+an adhesion membrane;
+a shield surrounding a top of the adhesion membrane;
+a post coupled to a central portion of the adhesion membrane, the post extending through the shield;
+a pin set in the post; and
+a swing arm including a hub through which a portion of the post extends, the hub including a helical inclined surface on which the pin rides such that rotation of the swing arm by less than a full turn about an axis extending through the post lifts the post in a direction along the axis and lifts the central portion of the adhesion membrane sufficiently to adhere the adhesion membrane to an anchor surface in contact with a portion of the adhesion membrane.
+2. The system of
+claim 1
+, wherein the swing arm comprises:
+a keyed nut including the helical inclined surface; and
+a socket shaped to detachably engage the keyed nut during the rotation of the swing arm.
+3. The system of
+claim 1
+, further comprising a locking pin, wherein:
+when the swing arm is in a position lifting the central portion of the adhesion membrane, the locking pin is movable between a first channel in the swing arm and a second channel in the shield; and
+the locking pin extending simultaneously into both the first channel and the second channel prevents rotation of swing arm.
+4. The system of
+claim 3
+, wherein the locking pin is ferromagnetic and movable out of the second channel using a magnet above the swing arm.
+5. The system of
+claim 3
+, wherein the locking pin is magnetized and responds to a magnet above the swing arm by moving in a first direction into the first channel or moving in a second direction into the second channel depending on an orientation of the magnet.
+6. The system of
+claim 1
+, wherein the shield comprises a wall positioned to contact a top surface of the adhesion membrane adjacent to a perimeter of the adhesion membrane.
+7. The system of
+claim 6
+, wherein the wall is sized and positioned to press on the perimeter of the adhesion membrane when the shield and membrane are pressed against a flat surface.
+8. The system of
+claim 6
+, wherein the wall comprises a ring positioned to contact the top surface of the adhesion membrane adjacent to the perimeter of the adhesion membrane, the ring being rotatable relative to other portions of the shield.
+9. The system of
+claim 1
+, wherein the shield comprises a bushing through which the post extends, the bushing making at least a portion of the shield rotatable about the post.
+10. The system of
+claim 1
+, wherein the shield comprises:
+a central portion surrounding the top of the adhesion membrane; and
+an extension extending from the central portion.
+11. The system of
+claim 10
+, wherein the extension comprises mounting structure for attachment of the suction security system to an enclosure with the extension being outside the enclosure and the central portion extending into an interior of the enclosure.
+12. The system of
+claim 1
+, further comprising an enclosure, wherein the shield is attached to the enclosure and positioned so that the adhesion membrane is outside the enclosure and the swing arm is inside the enclosure.
+13. The system of
+claim 12
+, wherein the enclosure is selected from a display case, a briefcase, a laptop case, a suitcase, or a backpack.
+14. The system of
+claim 12
+, wherein when adhered to the anchor surface, the suction system provides the enclosure with stability from shifting.
+15. A suction-security system comprising:
+an adhesion membrane;
+a shield surrounding a top of the adhesion membrane;
+a post coupled to a central portion of the adhesion membrane, the post extending through the shield;
+a swing arm coupled to the post such that rotation of the swing arm about an axis extending through the post lifts the post in a direction along the axis and lifts the central portion of the adhesion membrane in the direction along the axis; and
+a locking pin, wherein:
+when the swing arm is in a position lifting the central portion of the adhesion membrane, the locking pin is movable between a first channel in the swing arm and a second channel in the shield; and
+the locking pin extending simultaneously into both the first channel and the second channel prevents rotation of swing arm.
+16. The system of
+claim 15
+, wherein the locking pin is movable out of the second channel using a magnet adjacent to the swing arm.
+17. The system of
+claim 1
+, wherein engagement of the pin with the inclined surface limits rotation of the swing arm to less than a full turn about the axis extending through the post.

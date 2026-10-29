@@ -1,0 +1,3 @@
+# Focused evidence task
+
+Use the supplied physical-sample demonstration, ruler photo and user statement to update the exact S-007 clip comparison. US unchanged X79Z plus confirmed clip. Inspect actual frames and record limits, including unreviewed audio. Recheck the complete granted rotation and button/snap limitations, distinguish the current issued claim from its A1 and pending claims, and retain unrelated main-unit/status/design/permission gaps. Use saved source claims and the scope/evidence, utility, challenge, report prompts. Do not infer hidden magnets, polarity, gears, precise measurements or actual phone retention from external appearance. Do not overwrite completed runs. Prepare the next smallest user/manufacturer evidence request.

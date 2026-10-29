@@ -1,0 +1,1298 @@
+US7913963B2 - Device stand with suction base 
+ - Google Patents
+US7913963B2 - Device stand with suction base 
+ - Google Patents
+ Device stand with suction base 
+ Download PDF
+Info
+ Publication number
+ US7913963B2
+ US7913963B2
+ US12/427,705
+ US42770509A
+ US7913963B2
+ US 7913963 B2
+ US7913963 B2
+ US 7913963B2
+ US 42770509 A
+ US42770509 A
+ US 42770509A
+ US 7913963 B2
+ US7913963 B2
+ US 7913963B2
+ Authority
+ US
+ United States
+ Prior art keywords
+ sleeve
+ face
+ suction
+ suction base
+ shaft
+ Prior art date
+ 2008-08-22
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Expired - Fee Related, expires 2029-10-12
+ Application number
+ US12/427,705
+ Other versions
+ US20100044535A1
+ (en
+ Inventor
+ Gang Cheng
+ Meng-Hua He
+ Chun-Che Yen
+ Yu-Tao Chen
+ Te-Sheng Jan
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Hongfujin Precision Industry Shenzhen Co Ltd
+ Hon Hai Precision Industry Co Ltd
+ Original Assignee
+ Hongfujin Precision Industry Shenzhen Co Ltd
+ Hon Hai Precision Industry Co Ltd
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2008-08-22
+ Filing date
+ 2009-04-21
+ Publication date
+ 2011-03-29
+ 2009-04-21
+ Application filed by Hongfujin Precision Industry Shenzhen Co Ltd, Hon Hai Precision Industry Co Ltd
+ filed
+ Critical
+ Hongfujin Precision Industry Shenzhen Co Ltd
+ 2009-04-21
+ Assigned to HON HAI PRECISION INDUSTRY CO., LTD., HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD.
+ reassignment
+ HON HAI PRECISION INDUSTRY CO., LTD.
+ ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+ Assignors: JAN, TE-SHENG, CHEN, Yu-tao, YEN, CHUN-CHE, CHENG, GANG, HE, Meng-hua
+ 2010-02-25
+ Publication of US20100044535A1
+ publication
+ Critical
+ patent/US20100044535A1/en
+ 2011-03-29
+ Application granted
+ granted
+ Critical
+ 2011-03-29
+ Publication of US7913963B2
+ publication
+ Critical
+ patent/US7913963B2/en
+ Status
+ Expired - Fee Related
+ legal-status
+ Critical
+ Current
+ 2029-10-12
+ Adjusted expiration
+ legal-status
+ Critical
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+ 239000012528
+ membrane
+ Substances
+ 0.000
+ claims
+ description
+ 12
+ 230000000994
+ depressogenic effect
+ Effects
+ 0.000
+ claims
+ 2
+ 239000000853
+ adhesive
+ Substances
+ 0.000
+ description
+ 1
+ 230000001070
+ adhesive effect
+ Effects
+ 0.000
+ description
+ 1
+Images
+Classifications
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B47/00—Suction cups for attaching purposes; Equivalent means using adhesives
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B60R11/0241—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof for telephones
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B60R11/0252—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof for personal computers, e.g. laptops, notebooks
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B60R11/0258—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof for navigation systems
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R2011/0042—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means
+ B60R2011/0049—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means for non integrated articles
+ B60R2011/005—Connection with the vehicle part
+ B60R2011/0056—Connection with the vehicle part using suction cups
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R2011/0042—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means
+ B60R2011/0049—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means for non integrated articles
+ B60R2011/0064—Connection with the article
+ B60R2011/0071—Connection with the article using latches, clips, clamps, straps or the like
+Definitions
+ the present disclosure
+ relates to a device stand with a suction base.
+ a motor vehicle
+ may include a stand for supporting a mini computer, a mobile navigation apparatus, or a mobile phone.
+ the stand
+ is usually fixed on a surface inside the motor vehicle with fasteners or adhesive and cannot be easily moved if necessary.
+ FIG. 1
+ is a schematic, isometric view of a stand according to an exemplary embodiment, the stand including a suction base and a load-supporting module.
+ FIG. 2
+ is a schematic, isometric view of the suction base of FIG. 1 .
+ FIG. 3
+ is an exploded view of the suction base of FIG. 2 .
+ FIG. 4
+ is a section view of the suction base of FIG. 2 without a vacuum seal created.
+ FIG. 5
+ is a section view of the suction base of FIG. 2 with a vacuum seal created.
+ FIG. 6
+ is a exploded view of the load-supporting module of FIG. 1 .
+ FIG. 7
+ is a top plan view of the load-supporting module of FIG. 1 , with a top cover removed.
+ the stand 10
+ includes a suction base 20 and a load-supporting module 70 mounted on top of the suction base 20 .
+ the suction base 20
+ includes a suction piece 30 , a spring 56 , a fixing structure 40 for fitting over the suction piece 30 , pins 55 , a face cam 50 , a rotatable sleeve 57 , and a fixing cap 60 .
+ the suction piece 30
+ includes a membrane 31 and a shaft 32 extending upwardly from the membrane 31 .
+ the fixing structure 40
+ includes a shaft housing 41 and a sleeve 43 extending upwardly from the shaft housing 41 , and lower edge of the housing 41 forms a flange 45 .
+ the sleeve 43
+ defines axial running slots 42 .
+ An upper end of the sleeve 43
+ is closed.
+ the face cam 50
+ is ring-shaped and has a face 51 which includes grooves 53 defined therein.
+ the face cam 50
+ further includes axial rails 52 projected from an outer circumferential surface thereof.
+ the sleeve 43
+ receives the spring 56 , then is fit over the shaft 32 .
+ the spring 56
+ is positioned between the upper end of the sleeve 43 and the shaft 32 .
+ the face cam 50
+ is fit over the sleeve 43 .
+ One end of each of the pins 55
+ engages with the face 51 of the face cam 55 .
+ the other end of each of the pins 55
+ extends through the running slots 42 defined in the sleeve 43 and enters into holes 33 defined in the shaft 32 .
+ the rotatable sleeve 57
+ fits over the face cam 50 , and grooves (not shown) defined in an inner surface of the rotatable sleeve 57 engage with the rails 52 of the face cam 50 , thus to connect the rotatable sleeve 57 to the face cam 50 .
+ the fixing cap 60
+ is fixed to the upper end of the sleeve 43 by screws (not shown).
+ the suction base 20
+ is put on a flat surface, such as a window, ensuring the membrane 31 is flush against the surface, the pins 55 are initially at a lowest position on the face 51 . Then, the rotatable sleeve 57 is grasped and rotated, while holding the base 20 against the surface. During rotation of the sleeve 57 , which causes the face cam 50 to rotate, the pins 55 are driven along the face 51 until engaging in the grooves 53 .
+ the shaft 32
+ driven to move up by the pins 55 , pulls only a central portion of the membrane 31 away from the contacting surface, as the edge of the membrane 31 is limited by the flange 45 of the shaft housing 41 , forming a vacuum seal between the membrane 31 and the contact surface. In this way, the suction base 20 is fixed on the surface.
+ the suction base 20
+ can be easily removed from the flat surface by rotating the rotatable sleeve 57 . In this way, the membrane 31 is driven to move down, the vacuum between the membrane 31 and the surface of the flat surface is eliminated, and the suction base 20 is no longer fixed on the flat surface.
+ the load-supporting module 70
+ includes a housing 71 to house a pair of clamps 80 , a gear 91 , a torsion spring 92 , and a locking structure 95 .
+ the housing 71
+ is rectangle shaped, and includes a top cover 72 and a bottom cover 75 .
+ the top cover 72
+ defines grooves 73 therein.
+ the clamps 80
+ are L-shaped, and includes vertical parts 81 and horizontal parts 82 .
+ the horizontal parts 82
+ include rack gears 83 .
+ the rack gears 83
+ define a plurality of locking grooves 84 on outer sidewalls thereof.
+ the horizontal parts 82
+ are received by the grooves 73 of the top cover 72 .
+ the vertical parts 81
+ extend upwardly from the housing 71 .
+ the gear 91
+ is rotatably mounted in the housing 71 and meshes with the rack gears 83 respectively.
+ the torsion spring 92
+ fits over a shaft of the gear 91 .
+ the torsion spring 92
+ causes the gear 91 to rotate, and causes the clamps 80 to mesh with the gear 91 to move away from each other.
+ the locking structure 95
+ is used to lock the clamps 80 and thus to fix the clamps 80 at a position, or to unlock the clamps 80 to allow the clamps 80 to move.
+ the locking structure 95
+ includes a locking pin 96 , a spring 97 , and an elastic piece 98 .
+ the locking pin 96
+ is slidably mounted in the housing 71 .
+ the spring 97
+ fits over the locking pin 96 and causes the locking pin 96 to engage with a locking groove 84 of the clamp 80 , thus to lock the clamps 80 .
+ the elastic piece 98
+ is rotatably mounted in the housing 71 .
+ One end of the elastic piece 98
+ is fixed with the locking pin 96 .
+ the other end of the elastic piece 98
+ stays in an opening 74 of the housing 71 .
+ the elastic piece 98
+ receives a pressure at the opening 74 , the elastic piece 98 causes the locking pin 96 to move away from the locking groove 84 , thus to unlock the clamps 80 .
+ a device
+ when loading, a device is placed on the housing 71 .
+ the clamps 80
+ are pushed to move towards each other and clamp the device.
+ the locking structure 95
+ locks the clamps 80 .
+ the device
+ is fixed on the load-supporting module 70 .
+ the elastic piece 98 of the locking structure 95
+ is pressed down and the clamps 80 are unlocked.
+ the torsion spring 92
+ causes the clamps 80 to move away from each other. Then the device can be unloaded from the load-supporting module 70 .
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Hooks, Suction Cups, And Attachment By Adhesive Means
+ (AREA)
+ Containers And Packaging Bodies Having A Special Means To Remove Contents
+ (AREA)
+Abstract
+A device stand includes a suction base and a load-supporting module mounted on the suction base. The suction base includes a suction piece, a fixing structure, a face cam, pins, and a fixing cap. The fixing structure, configured for fitting over the suction piece, includes a shaft housing and a sleeve extending upwardly from the shaft housing. The sleeve defines axial running slots. The face cam fit over the sleeve of the fixing structure. One end of each of the pins engages with the face of the face cam, the other end of each of the pins passes through the axial running slots of the sleeve and connects with the shaft of the suction piece. The fixing cap is mounted on an upper end of the sleeve. The stand can be fixed to/taken off from a flat surface easily.
+Description
+ BACKGROUND
+1. Technical Field
+The present disclosure relates to a device stand with a suction base.
+2. Description of Related Art
+A motor vehicle may include a stand for supporting a mini computer, a mobile navigation apparatus, or a mobile phone. The stand is usually fixed on a surface inside the motor vehicle with fasteners or adhesive and cannot be easily moved if necessary.
+What is needed is a stand that can be easily relocated.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+Many aspects of the embodiments can be better understood with reference to the following drawings. The components in the drawings are not necessarily drawn to scale, the emphasis instead being placed upon clearly illustrating the principles of the present disclosure. Moreover, in the drawings, like reference numerals designate corresponding parts throughout the several views.
+ FIG. 1 is a schematic, isometric view of a stand according to an exemplary embodiment, the stand including a suction base and a load-supporting module.
+ FIG. 2 is a schematic, isometric view of the suction base of FIG. 1.
+ FIG. 3 is an exploded view of the suction base of FIG. 2.
+ FIG. 4 is a section view of the suction base of FIG. 2 without a vacuum seal created.
+ FIG. 5 is a section view of the suction base of FIG. 2 with a vacuum seal created.
+ FIG. 6 is a exploded view of the load-supporting module of FIG. 1.
+ FIG. 7 is a top plan view of the load-supporting module of FIG. 1, with a top cover removed.
+ DETAILED DESCRIPTION
+Referring to FIG. 1, a stand 10 according to an exemplary embodiment is disclosed. The stand 10 includes a suction base 20 and a load-supporting module 70 mounted on top of the suction base 20.
+Referring to FIGS. 2, 3 and 4, the suction base 20 includes a suction piece 30, a spring 56, a fixing structure 40 for fitting over the suction piece 30, pins 55, a face cam 50, a rotatable sleeve 57, and a fixing cap 60.
+The suction piece 30 includes a membrane 31 and a shaft 32 extending upwardly from the membrane 31.
+The fixing structure 40 includes a shaft housing 41 and a sleeve 43 extending upwardly from the shaft housing 41, and lower edge of the housing 41 forms a flange 45. The sleeve 43 defines axial running slots 42. An upper end of the sleeve 43 is closed.
+The face cam 50 is ring-shaped and has a face 51 which includes grooves 53 defined therein. The face cam 50 further includes axial rails 52 projected from an outer circumferential surface thereof.
+During assembly of the suction base 20, first, the sleeve 43 receives the spring 56, then is fit over the shaft 32. The spring 56 is positioned between the upper end of the sleeve 43 and the shaft 32. Second, the face cam 50 is fit over the sleeve 43. One end of each of the pins 55 engages with the face 51 of the face cam 55. The other end of each of the pins 55 extends through the running slots 42 defined in the sleeve 43 and enters into holes 33 defined in the shaft 32. Third, the rotatable sleeve 57 fits over the face cam 50, and grooves (not shown) defined in an inner surface of the rotatable sleeve 57 engage with the rails 52 of the face cam 50, thus to connect the rotatable sleeve 57 to the face cam 50. Finally, the fixing cap 60 is fixed to the upper end of the sleeve 43 by screws (not shown).
+Referring to FIGS. 4 and 5, in use, the suction base 20 is put on a flat surface, such as a window, ensuring the membrane 31 is flush against the surface, the pins 55 are initially at a lowest position on the face 51. Then, the rotatable sleeve 57 is grasped and rotated, while holding the base 20 against the surface. During rotation of the sleeve 57, which causes the face cam 50 to rotate, the pins 55 are driven along the face 51 until engaging in the grooves 53. Meanwhile, the shaft 32, driven to move up by the pins 55, pulls only a central portion of the membrane 31 away from the contacting surface, as the edge of the membrane 31 is limited by the flange 45 of the shaft housing 41, forming a vacuum seal between the membrane 31 and the contact surface. In this way, the suction base 20 is fixed on the surface.
+The suction base 20 can be easily removed from the flat surface by rotating the rotatable sleeve 57. In this way, the membrane 31 is driven to move down, the vacuum between the membrane 31 and the surface of the flat surface is eliminated, and the suction base 20 is no longer fixed on the flat surface.
+Referring to FIGS. 6 and 7, the load-supporting module 70 includes a housing 71 to house a pair of clamps 80, a gear 91, a torsion spring 92, and a locking structure 95.
+The housing 71 is rectangle shaped, and includes a top cover 72 and a bottom cover 75. The top cover 72 defines grooves 73 therein.
+The clamps 80 are L-shaped, and includes vertical parts 81 and horizontal parts 82. The horizontal parts 82 include rack gears 83. The rack gears 83 define a plurality of locking grooves 84 on outer sidewalls thereof. The horizontal parts 82 are received by the grooves 73 of the top cover 72. Referring to FIG. 1, the vertical parts 81 extend upwardly from the housing 71.
+The gear 91 is rotatably mounted in the housing 71 and meshes with the rack gears 83 respectively. The torsion spring 92 fits over a shaft of the gear 91. The torsion spring 92 causes the gear 91 to rotate, and causes the clamps 80 to mesh with the gear 91 to move away from each other.
+The locking structure 95 is used to lock the clamps 80 and thus to fix the clamps 80 at a position, or to unlock the clamps 80 to allow the clamps 80 to move.
+In the exemplary embodiment, the locking structure 95 includes a locking pin 96, a spring 97, and an elastic piece 98. The locking pin 96 is slidably mounted in the housing 71. The spring 97 fits over the locking pin 96 and causes the locking pin 96 to engage with a locking groove 84 of the clamp 80, thus to lock the clamps 80. The elastic piece 98 is rotatably mounted in the housing 71. One end of the elastic piece 98 is fixed with the locking pin 96. The other end of the elastic piece 98 stays in an opening 74 of the housing 71. When the elastic piece 98 receives a pressure at the opening 74, the elastic piece 98 causes the locking pin 96 to move away from the locking groove 84, thus to unlock the clamps 80.
+Referring also to FIG. 1, when loading, a device is placed on the housing 71. The clamps 80 are pushed to move towards each other and clamp the device. The locking structure 95 locks the clamps 80. In this way, the device is fixed on the load-supporting module 70. When unloading, the elastic piece 98 of the locking structure 95 is pressed down and the clamps 80 are unlocked. The torsion spring 92 causes the clamps 80 to move away from each other. Then the device can be unloaded from the load-supporting module 70.
+Moreover, it is to be understood that the invention may be embodied in other forms without departing from the spirit thereof. Thus, the present examples and embodiments are to be considered in all respects as illustrative and not restrictive, and the invention is not to be limited to the details given herein.
+Claims (10)
+1. A device stand comprising:
+a suction base comprising:
+a suction piece comprising a membrane and a shaft extending upwardly from the membrane;
+a fixing structure configured for fitting over the suction piece, comprising a shaft housing and a sleeve extending upwardly from the shaft housing, wherein the sleeve defines at least one axial running slot;
+a face cam fitting over the sleeve of the fixing structure and defining a face thereon;
+at least one pin, wherein one end of each pin engages with the face of the face cam, the other end of each of the pins passes through one of the at least one axial running slot of the sleeve and connects with the shaft of the suction piece; and
+a fixing cap mounted on an upper end of the sleeve; and
+a load-supporting module mounted on the suction base.
+2. The device stand of claim 1, wherein the face comprises depressed grooves on an upper end thereof for engaging with the at least one pin.
+3. The device stand of claim 1, further comprising a rotatable sleeve fitting over the face cam, configured for driving the face cam to rotate.
+4. The device stand of claim 1, wherein an upper end of the sleeve is closed.
+5. The device stand of claim 4, further comprising a spring disposed between the upper end of the sleeve and the shaft.
+6. A suction base of a device stand, the suction base comprising:
+a suction piece comprising a membrane and a shaft extending upwardly from the membrane;
+a fixing structure configured for fitting over the suction piece, comprising a shaft housing and a sleeve extending upwardly from the shaft housing, wherein the sleeve defines a plurality of axial running slots;
+a face cam fitting over the sleeve of the fixing structure and defining a face thereon;
+a plurality of pins, wherein one end of each of the pins engages with the face of the face cam, the other end of each of the pins passes through one of the plurality of axial running slots of the sleeve and connects with the shaft of the suction piece; and
+a fixing cap mounted on an upper end of the sleeve.
+7. The suction base of claim 6, wherein the face comprises depressed grooves on an upper end thereof for engaging with the plurality of pins.
+8. The suction base of claim 6, further comprising a rotatable sleeve fitting over the face cam, configured for driving the face cam to rotate.
+9. The suction base of claim 6, wherein an upper end of the sleeve is closed.
+10. The suction base of claim 9, further comprising a spring disposed between the upper end of the sleeve and the shaft. 
+ US12/427,705
+ 2008-08-22
+ 2009-04-21
+ Device stand with suction base 
+ Expired - Fee Related
+ US7913963B2
+ (en)
+Applications Claiming Priority (3)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN200810304154
+ 2008-08-22
+ CN2008103041544A
+ CN101654086B
+ (en)
+ 2008-08-22
+ 2008-08-22
+ Instrument base and adsorption base thereof 
+ CN200810304154.4
+ 2008-08-22
+Publications (2)
+ Publication Number
+ Publication Date
+ US20100044535A1
+ US20100044535A1
+ (en)
+ 2010-02-25
+ US7913963B2
+ true
+ US7913963B2
+ (en)
+ 2011-03-29
+Family
+ID=41695462
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US12/427,705
+ Expired - Fee Related
+ US7913963B2
+ (en)
+ 2008-08-22
+ 2009-04-21
+ Device stand with suction base 
+Country Status (2)
+ Country
+ Link
+ US
+ (1)
+ US7913963B2
+ (en)
+ CN
+ (1)
+ CN101654086B
+ (en)
+Cited By (30)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20090308993A1
+ (en)
+ *
+ 2008-06-17
+ 2009-12-17
+ Ta Shuo Chang
+ Article holder with suction cup 
+ US20110290975A1
+ (en)
+ *
+ 2010-05-26
+ 2011-12-01
+ Jow Tong Technology Co., Ltd.
+ Auxiliary securely holding device for electronic appliance 
+ US20120175484A1
+ (en)
+ *
+ 2011-01-06
+ 2012-07-12
+ Yang Hao
+ Dual-layer suction cup 
+ CN102778935A
+ (en)
+ *
+ 2011-05-13
+ 2012-11-14
+ 纬创资通股份有限公司
+ Electronic device and fixing device thereof 
+ US20130277510A1
+ (en)
+ *
+ 2012-04-24
+ 2013-10-24
+ Mao-Tung Chiu
+ Support Apparatus 
+ US20150076299A1
+ (en)
+ *
+ 2013-09-13
+ 2015-03-19
+ Cheng-Che Yu
+ Vacuum mount type support structure 
+ US20150129724A1
+ (en)
+ *
+ 2013-11-08
+ 2015-05-14
+ Kabushiki Kaisha Toshiba
+ Support device, attachment, and method of supporting electronic device 
+ US9709218B1
+ (en)
+ *
+ 2016-05-10
+ 2017-07-18
+ Hamid Mchatet
+ Computer suction mounting base assembly 
+ US9803682B1
+ (en)
+ *
+ 2016-08-11
+ 2017-10-31
+ Tsung-Chih Chang
+ Suction cup device 
+ US9987489B2
+ (en)
+ 2015-03-27
+ 2018-06-05
+ Elwha Llc
+ Controlling ear stimulation in response to electrical contact sensing 
+ US10039928B2
+ (en)
+ 2015-03-27
+ 2018-08-07
+ Equility Llc
+ Ear stimulation with neural feedback sensing 
+ US20180252358A1
+ (en)
+ *
+ 2016-12-15
+ 2018-09-06
+ Shenzhen Annaijia Electronics Co., Ltd
+ Full-automatic horizontal clamping holder 
+ USD831666S1
+ (en)
+ 2017-09-11
+ 2018-10-23
+ Kenu, Inc.
+ Portable device holder 
+ USD831665S1
+ (en)
+ 2017-09-11
+ 2018-10-23
+ Kenu, Inc.
+ Portable device holder 
+ USD843809S1
+ (en)
+ *
+ 2016-03-15
+ 2019-03-26
+ Engee Pty Limited
+ Grab bar 
+ USD848443S1
+ (en)
+ 2017-11-10
+ 2019-05-14
+ Kenu, Inc.
+ Portable device holder 
+ US10327984B2
+ (en)
+ 2015-03-27
+ 2019-06-25
+ Equility Llc
+ Controlling ear stimulation in response to image analysis 
+ USD858509S1
+ (en)
+ 2018-02-26
+ 2019-09-03
+ Kenu, Inc.
+ Dashboard vent mount for an electronic device 
+ US10398902B2
+ (en)
+ 2015-03-27
+ 2019-09-03
+ Equility Llc
+ Neural stimulation method and system with audio output 
+ US10406376B2
+ (en)
+ 2015-03-27
+ 2019-09-10
+ Equility Llc
+ Multi-factor control of ear stimulation 
+ USD859395S1
+ (en)
+ 2018-02-26
+ 2019-09-10
+ Kenu, Inc.
+ Portable device holder 
+ US20190369664A1
+ (en)
+ *
+ 2018-05-31
+ 2019-12-05
+ Annex Products Pty. Ltd.
+ Mount for handheld electronic devices 
+ US10501963B1
+ (en)
+ *
+ 2018-12-17
+ 2019-12-10
+ Nanning Fugui Precision Industrial Co., Ltd.
+ Locking device 
+ US10512783B2
+ (en)
+ 2015-03-27
+ 2019-12-24
+ Equility Llc
+ User interface method and system for ear stimulation 
+ US10518155B2
+ (en)
+ *
+ 2014-12-10
+ 2019-12-31
+ Darin Portnoff
+ Pool game device, system, and method 
+ USD877742S1
+ (en)
+ 2017-11-10
+ 2020-03-10
+ Kenu, Inc.
+ Electronic device attachment portion of a mount for an electronic device 
+ US10589105B2
+ (en)
+ 2015-03-27
+ 2020-03-17
+ The Invention Science Fund Ii, Llc
+ Method and system for controlling ear stimulation 
+ US10663104B2
+ (en)
+ *
+ 2017-09-25
+ 2020-05-26
+ Shenzhen Annaijia Electronics Co., Ltd.
+ Full-automatic horizontal clamping holder 
+ US11015626B2
+ (en)
+ *
+ 2018-10-08
+ 2021-05-25
+ Se-Kure Controls, Inc.
+ Support assembly for displaying a portable article 
+ US11364380B2
+ (en)
+ 2015-03-27
+ 2022-06-21
+ Elwha Llc
+ Nerve stimulation system, subsystem, headset, and earpiece 
+Families Citing this family (5)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN101767553B
+ (en)
+ *
+ 2010-03-16
+ 2012-06-20
+ 鸿富锦精密工业（深圳）有限公司
+ Universally rotating vehicle-mounted instrument and instrument pedestal thereof 
+ CN102090791B
+ (en)
+ *
+ 2010-12-21
+ 2013-03-06
+ 蒋清校
+ Anti-sliding fixing plate for vehicle-mounted instrument 
+ CN104006276B
+ (en)
+ *
+ 2014-05-28
+ 2016-04-27
+ 严虹桥
+ The hand-held auxiliary device of panel computer 
+ CN107606446A
+ (en)
+ *
+ 2017-10-19
+ 2018-01-19
+ 苏州傲儒塑胶有限公司
+ One kind is connected device and its method of work 
+ CN107875609A
+ (en)
+ *
+ 2017-12-05
+ 2018-04-06
+ 袁燕卫
+ The rotating of a kind of steel tube for dancing, static apparatus for fast switching 
+Citations (10)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN1142578A
+ (en)
+ 1995-03-24
+ 1997-02-12
+ 赫罗伊斯医疗有限公司
+ Rotation joint 
+ US6932306B2
+ (en)
+ *
+ 2001-11-08
+ 2005-08-23
+ Den Jun Zou
+ Rapid-actuated suction cup device 
+ US7226026B2
+ (en)
+ *
+ 2005-06-22
+ 2007-06-05
+ Christina Lin
+ Suction device 
+ CN201025277Y
+ (en)
+ 2007-03-02
+ 2008-02-20
+ 光宝科技股份有限公司
+ Sucker device and detachable electronic device placing frame with same 
+ US7469868B2
+ (en)
+ *
+ 2006-07-12
+ 2008-12-30
+ Bury Sp. Z O.O.
+ Vacuum suction cup, especially for a windshield of a mechanical vehicle 
+ US7475860B2
+ (en)
+ *
+ 2007-03-20
+ 2009-01-13
+ Li-Sheng Chien
+ Adsorption-detecting device 
+ US7537190B2
+ (en)
+ *
+ 2006-06-13
+ 2009-05-26
+ Eagle Fan
+ Holding device for electronic apparatus 
+ US7661648B2
+ (en)
+ *
+ 2008-01-30
+ 2010-02-16
+ Jow Tong Technology Co., Ltd.
+ Sucker device for a fixing support 
+ US7712720B1
+ (en)
+ *
+ 2008-12-22
+ 2010-05-11
+ Hong Fu Jin Precision Industry (Shenzhen) Co., Ltd.
+ Resizable device stand 
+ US7850133B2
+ (en)
+ *
+ 2007-08-22
+ 2010-12-14
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+Family Cites Families (5)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN2715474Y
+ (en)
+ *
+ 2004-06-11
+ 2005-08-03
+ 鸿富锦精密工业（深圳）有限公司
+ A hinge structure 
+ CN2826053Y
+ (en)
+ *
+ 2005-08-04
+ 2006-10-11
+ 蔡文峰
+ An Improved Suction Cup Support Arm Frame
+ DE202006003411U1
+ (en)
+ *
+ 2006-03-04
+ 2006-06-08
+ Richter, Harald
+ Equipment carrier with bendable replaceable support arm
+ GB2438626B
+ (en)
+ *
+ 2006-05-31
+ 2008-05-07
+ Northstar Systems Corp
+ Suction holder apparatus 
+ FR2902474A3
+ (en)
+ *
+ 2006-06-20
+ 2007-12-21
+ Northstar Systems Corp
+ Suction disc forming device for fixing e.g. cellular phone, on smooth surface, has rod including rectangular slot hole, and control element pivoted with projecting part of body via pivot shaft that passes through hole 
+ 2008
+ 2008-08-22
+ CN
+ CN2008103041544A
+ patent/CN101654086B/en
+ not_active
+ Expired - Fee Related
+ 2009
+ 2009-04-21
+ US
+ US12/427,705
+ patent/US7913963B2/en
+ not_active
+ Expired - Fee Related
+Patent Citations (11)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN1142578A
+ (en)
+ 1995-03-24
+ 1997-02-12
+ 赫罗伊斯医疗有限公司
+ Rotation joint 
+ US5685661A
+ (en)
+ 1995-03-24
+ 1997-11-11
+ Heraeus Med Gmbh
+ Rotation joint 
+ US6932306B2
+ (en)
+ *
+ 2001-11-08
+ 2005-08-23
+ Den Jun Zou
+ Rapid-actuated suction cup device 
+ US7226026B2
+ (en)
+ *
+ 2005-06-22
+ 2007-06-05
+ Christina Lin
+ Suction device 
+ US7537190B2
+ (en)
+ *
+ 2006-06-13
+ 2009-05-26
+ Eagle Fan
+ Holding device for electronic apparatus 
+ US7469868B2
+ (en)
+ *
+ 2006-07-12
+ 2008-12-30
+ Bury Sp. Z O.O.
+ Vacuum suction cup, especially for a windshield of a mechanical vehicle 
+ CN201025277Y
+ (en)
+ 2007-03-02
+ 2008-02-20
+ 光宝科技股份有限公司
+ Sucker device and detachable electronic device placing frame with same 
+ US7475860B2
+ (en)
+ *
+ 2007-03-20
+ 2009-01-13
+ Li-Sheng Chien
+ Adsorption-detecting device 
+ US7850133B2
+ (en)
+ *
+ 2007-08-22
+ 2010-12-14
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+ US7661648B2
+ (en)
+ *
+ 2008-01-30
+ 2010-02-16
+ Jow Tong Technology Co., Ltd.
+ Sucker device for a fixing support 
+ US7712720B1
+ (en)
+ *
+ 2008-12-22
+ 2010-05-11
+ Hong Fu Jin Precision Industry (Shenzhen) Co., Ltd.
+ Resizable device stand 
+Cited By (40)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US8087625B2
+ (en)
+ *
+ 2008-06-17
+ 2012-01-03
+ Ta Shuo Chang
+ Article holder with suction cup 
+ US20090308993A1
+ (en)
+ *
+ 2008-06-17
+ 2009-12-17
+ Ta Shuo Chang
+ Article holder with suction cup 
+ US20110290975A1
+ (en)
+ *
+ 2010-05-26
+ 2011-12-01
+ Jow Tong Technology Co., Ltd.
+ Auxiliary securely holding device for electronic appliance 
+ US8136780B2
+ (en)
+ *
+ 2010-05-26
+ 2012-03-20
+ Jow Tong Technology Co., Ltd.
+ Auxiliary securely holding device for electronic appliance 
+ US20120175484A1
+ (en)
+ *
+ 2011-01-06
+ 2012-07-12
+ Yang Hao
+ Dual-layer suction cup 
+ US8376295B2
+ (en)
+ *
+ 2011-01-06
+ 2013-02-19
+ Yang Hao
+ Dual-layer suction cup 
+ US8681492B2
+ (en)
+ *
+ 2011-05-13
+ 2014-03-25
+ Wistron Corporation
+ Fixing device and an electronic device using the same 
+ CN102778935A
+ (en)
+ *
+ 2011-05-13
+ 2012-11-14
+ 纬创资通股份有限公司
+ Electronic device and fixing device thereof 
+ US20120287560A1
+ (en)
+ *
+ 2011-05-13
+ 2012-11-15
+ Chin-Lung Fan
+ Fixing device and an electronic device using the same 
+ US8950715B2
+ (en)
+ *
+ 2012-04-24
+ 2015-02-10
+ Mao-Tung Chiu
+ Support apparatus 
+ US20130277510A1
+ (en)
+ *
+ 2012-04-24
+ 2013-10-24
+ Mao-Tung Chiu
+ Support Apparatus 
+ US20150076299A1
+ (en)
+ *
+ 2013-09-13
+ 2015-03-19
+ Cheng-Che Yu
+ Vacuum mount type support structure 
+ US20150129724A1
+ (en)
+ *
+ 2013-11-08
+ 2015-05-14
+ Kabushiki Kaisha Toshiba
+ Support device, attachment, and method of supporting electronic device 
+ US10518155B2
+ (en)
+ *
+ 2014-12-10
+ 2019-12-31
+ Darin Portnoff
+ Pool game device, system, and method 
+ US10039928B2
+ (en)
+ 2015-03-27
+ 2018-08-07
+ Equility Llc
+ Ear stimulation with neural feedback sensing 
+ US9987489B2
+ (en)
+ 2015-03-27
+ 2018-06-05
+ Elwha Llc
+ Controlling ear stimulation in response to electrical contact sensing 
+ US10293158B2
+ (en)
+ 2015-03-27
+ 2019-05-21
+ Equility Llc
+ Controlling ear stimulation in response to a status of a subject 
+ US10589105B2
+ (en)
+ 2015-03-27
+ 2020-03-17
+ The Invention Science Fund Ii, Llc
+ Method and system for controlling ear stimulation 
+ US10512783B2
+ (en)
+ 2015-03-27
+ 2019-12-24
+ Equility Llc
+ User interface method and system for ear stimulation 
+ US10406376B2
+ (en)
+ 2015-03-27
+ 2019-09-10
+ Equility Llc
+ Multi-factor control of ear stimulation 
+ US11364380B2
+ (en)
+ 2015-03-27
+ 2022-06-21
+ Elwha Llc
+ Nerve stimulation system, subsystem, headset, and earpiece 
+ US10398902B2
+ (en)
+ 2015-03-27
+ 2019-09-03
+ Equility Llc
+ Neural stimulation method and system with audio output 
+ US10327984B2
+ (en)
+ 2015-03-27
+ 2019-06-25
+ Equility Llc
+ Controlling ear stimulation in response to image analysis 
+ USD843809S1
+ (en)
+ *
+ 2016-03-15
+ 2019-03-26
+ Engee Pty Limited
+ Grab bar 
+ US9709218B1
+ (en)
+ *
+ 2016-05-10
+ 2017-07-18
+ Hamid Mchatet
+ Computer suction mounting base assembly 
+ US9803682B1
+ (en)
+ *
+ 2016-08-11
+ 2017-10-31
+ Tsung-Chih Chang
+ Suction cup device 
+ US20180252358A1
+ (en)
+ *
+ 2016-12-15
+ 2018-09-06
+ Shenzhen Annaijia Electronics Co., Ltd
+ Full-automatic horizontal clamping holder 
+ US10533699B2
+ (en)
+ *
+ 2016-12-15
+ 2020-01-14
+ Shenzhen Annaijia Electronics Co., Ltd.
+ Full-automatic horizontal clamping holder 
+ USD845962S1
+ (en)
+ 2017-09-11
+ 2019-04-16
+ Kenu, Inc.
+ Base portion of a portable device holder 
+ USD831665S1
+ (en)
+ 2017-09-11
+ 2018-10-23
+ Kenu, Inc.
+ Portable device holder 
+ USD831666S1
+ (en)
+ 2017-09-11
+ 2018-10-23
+ Kenu, Inc.
+ Portable device holder 
+ US10663104B2
+ (en)
+ *
+ 2017-09-25
+ 2020-05-26
+ Shenzhen Annaijia Electronics Co., Ltd.
+ Full-automatic horizontal clamping holder 
+ USD877742S1
+ (en)
+ 2017-11-10
+ 2020-03-10
+ Kenu, Inc.
+ Electronic device attachment portion of a mount for an electronic device 
+ USD848443S1
+ (en)
+ 2017-11-10
+ 2019-05-14
+ Kenu, Inc.
+ Portable device holder 
+ USD859395S1
+ (en)
+ 2018-02-26
+ 2019-09-10
+ Kenu, Inc.
+ Portable device holder 
+ USD858509S1
+ (en)
+ 2018-02-26
+ 2019-09-03
+ Kenu, Inc.
+ Dashboard vent mount for an electronic device 
+ US10649492B2
+ (en)
+ *
+ 2018-05-31
+ 2020-05-12
+ Annex Products Pty. Ltd.
+ Mount for handheld electronic devices 
+ US20190369664A1
+ (en)
+ *
+ 2018-05-31
+ 2019-12-05
+ Annex Products Pty. Ltd.
+ Mount for handheld electronic devices 
+ US11015626B2
+ (en)
+ *
+ 2018-10-08
+ 2021-05-25
+ Se-Kure Controls, Inc.
+ Support assembly for displaying a portable article 
+ US10501963B1
+ (en)
+ *
+ 2018-12-17
+ 2019-12-10
+ Nanning Fugui Precision Industrial Co., Ltd.
+ Locking device 
+Also Published As
+ Publication number
+ Publication date
+ US20100044535A1
+ (en)
+ 2010-02-25
+ CN101654086B
+ (en)
+ 2011-06-22
+ CN101654086A
+ (en)
+ 2010-02-24
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US20100044535A1
+ (en)
+ 2010-02-25
+ Device stand with suction base 
+ US20100044534A1
+ (en)
+ 2010-02-25
+ Resizable device stand 
+ US20100155562A1
+ (en)
+ 2010-06-24
+ Adjustable device stand 
+ US7712720B1
+ (en)
+ 2010-05-11
+ Resizable device stand 
+ US8605451B2
+ (en)
+ 2013-12-10
+ Chip card holding mechanism and portable electronic device using same 
+ US7140586B2
+ (en)
+ 2006-11-28
+ Apparatus capable of holding an object 
+ KR101542196B1
+ (en)
+ 2015-08-05
+ Cradle of the portable device 
+ US20090140531A1
+ (en)
+ 2009-06-04
+ Latch mechanism 
+ US8235429B2
+ (en)
+ 2012-08-07
+ Fixing base 
+ US7236354B2
+ (en)
+ 2007-06-26
+ Display device and stand thereof 
+ KR20180080744A
+ (en)
+ 2018-07-13
+ Mobility container apparatus of vehicle 
+ AU2014201908A1
+ (en)
+ 2014-11-06
+ Vacuum cleaner 
+ US20130112841A1
+ (en)
+ 2013-05-09
+ Supporting apparatus 
+ KR20190024562A
+ (en)
+ 2019-03-08
+ Battery cover structure for portable optical communication equipment and optical communication equipment 
+ KR20090034637A
+ (en)
+ 2009-04-08
+ Car Cradle
+ US8256804B2
+ (en)
+ 2012-09-04
+ Electronic apparatus and latching device thereof 
+ US10589692B2
+ (en)
+ 2020-03-17
+ Lockable roof accessory mounting interface 
+ CN104608705B
+ (en)
+ 2017-02-01
+ Concealed clamping device for mobile equipment 
+ US9341202B2
+ (en)
+ 2016-05-17
+ Support device 
+ CN201317327Y
+ (en)
+ 2009-09-30
+ Instrument base capable of adapting to instruments with different specifications 
+ KR20190054485A
+ (en)
+ 2019-05-22
+ Handle device 
+ KR101754892B1
+ (en)
+ 2017-07-19
+ Smart Phone Holder 
+ CN101740737B
+ (en)
+ 2012-11-21
+ Battery cover locking mechanism 
+ US9133977B2
+ (en)
+ 2015-09-15
+ Supporting mechanism for a portable electronic device and related rotary electronic system 
+ US20230383573A1
+ (en)
+ 2023-11-30
+ Protection apparatus 
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2009-04-21
+ AS
+ Assignment
+ Owner name:
+ HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHENG, GANG;HE, MENG-HUA;YEN, CHUN-CHE;AND OTHERS;SIGNING DATES FROM 20090410 TO 20090415;REEL/FRAME:022577/0162
+ Owner name:
+ HON HAI PRECISION INDUSTRY CO., LTD.,TAIWAN
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHENG, GANG;HE, MENG-HUA;YEN, CHUN-CHE;AND OTHERS;SIGNING DATES FROM 20090410 TO 20090415;REEL/FRAME:022577/0162
+ Owner name:
+ HON HAI PRECISION INDUSTRY CO., LTD., TAIWAN
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHENG, GANG;HE, MENG-HUA;YEN, CHUN-CHE;AND OTHERS;SIGNING DATES FROM 20090410 TO 20090415;REEL/FRAME:022577/0162
+ 2011-03-09
+ STCF
+ Information on status: patent grant
+ Free format text:
+ PATENTED CASE
+ 2014-09-23
+ FPAY
+ Fee payment
+ Year of fee payment:
+ 4
+ 2018-11-19
+ FEPP
+ Fee payment procedure
+ Free format text:
+ MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+ 2019-05-06
+ LAPS
+ Lapse for failure to pay maintenance fees
+ Free format text:
+ PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+ 2019-05-06
+ STCH
+ Information on status: patent discontinuation
+ Free format text:
+ PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+ 2019-05-28
+ FP
+ Lapsed due to failure to pay maintenance fee
+ Effective date:
+ 20190329

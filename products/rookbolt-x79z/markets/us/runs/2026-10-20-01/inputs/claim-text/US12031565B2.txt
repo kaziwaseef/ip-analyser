@@ -1,0 +1,115 @@
+Claims (
+35
+)
+What is claimed is:
+1. A suction mount system comprising:
+a suction cup having a first perimeter region; and
+a one-piece body rotatably connected to the suction cup and having a rib extending from a second perimeter region that movably engages and embeds into a material of the suction cup at the first perimeter region of the suction cup when the rib is rotated with the one-piece body to resist movement of the first perimeter region along a mounting surface as a center portion of the suction cup is pulled away from the mounting surface as the suction cup is mounted to the mounting surface,
+wherein the one-piece body comprises an outer annular wall having an exterior side and an interior side, and a plurality of longitudinal ribs extend lengthwise along the interior side substantially parallel to a central longitudinal axis of the one-piece body, at least one of the plurality of longitudinal ribs including at least one ridge at an end thereof to embed into the suction cup.
+2. The suction mount system of
+claim 1
+wherein the ridge is a discontinuous annular ridge.
+3. The suction mount system of
+claim 1
+, wherein the rib is a first continuous annular rib that embeds into the material of the suction cup at the first perimeter region of the suction cup.
+4. The suction mount system of
+claim 3
+further comprising a second continuous annular rib that embeds into the first perimeter region of the suction cup.
+5. The suction mount system of
+claim 1
+further comprising a threaded shaft mechanically connecting the suction cup to the one-piece body such that rotating of the one-piece body embeds the rib into the material of the suction cup at the first perimeter region of the suction cup.
+6. The suction mount system of
+claim 5
+further comprising a base at least partially molded into the suction cup and attached to the threaded shaft to attach the threaded shaft to the suction cup.
+7. The suction mount system of
+claim 6
+wherein the one-piece body defines a hole that is at least partially threaded and receives the threaded shaft.
+8. The suction mount system of
+claim 1
+wherein the one-piece body defines mounting holes for attaching accessories to the one-piece body.
+9. The suction mount system of
+claim 8
+further comprising a threaded nut at each of the mounting holes.
+10. The suction mount system of
+claim 9
+further including a bracket that mounts to the one-piece body using the mounting holes.
+11. The suction mount system of
+claim 10
+wherein the bracket defines a plurality of holes.
+12. The suction mount system of
+claim 11
+wherein at least two of the plurality of holes are elongated slots.
+13. The suction mount system of
+claim 10
+wherein the bracket includes at least two protrusions extending away from one another.
+14. The suction mount system of
+claim 10
+wherein the bracket includes a serrated face for mounting accessories at different angles relative to the one-piece mount body.
+15. The suction mount system of
+claim 1
+wherein the one-piece body defines a recess and a magnet resides in the recess.
+16. The suction mount system of
+claim 1
+further comprising a first accessory defining at least one hole for supporting an object.
+17. The suction mount system of
+claim 16
+wherein the at least one hole includes a plurality of holes for supporting different sized objects at the same time.
+18. The suction mount system of
+claim 16
+further comprising a second accessory supported by the first accessory and defining a plurality of holes for supporting different sized objects at the same time.
+19. The suction mount system of
+claim 18
+further comprising a third accessory supported by the second accessory for supporting at least one object.
+20. A method for attachment to a surface comprising:
+providing a suction cup having a first perimeter region and a one-piece mount body rotatably connected to the suction cup and the mount body having a rib extending from a second perimeter region;
+placing the suction cup against a surface;
+rotating the one-piece body; and
+movably engaging and embedding the rib into a material of the suction cup at the first perimeter region of the suction cup when the rib is rotated with the one-piece body to resist movement of the first perimeter region along a mounting surface as a central portion of the suction cup is pulled away from the mounting surface as the suction cup is mounted to the mounting surface,
+wherein the rib is a discontinuous annular rib and the mount body further includes a first continuous annular rib and a second continuous annular rib, and further comprising the step of embedding the discontinuous annular rib, the first continuous annular rib and the second continuous annular rib into the material of the suction cup at the first perimeter region of the suction cup upon rotating of the mount body.
+21. The method of
+claim 20
+further comprising the step of providing a threaded shaft mechanically connecting the suction cup to the mount body such that rotating of the mount body embeds the discontinuous annular rib, the first continuous annular rib and the second continuous annular rib into the material of the suction cup at the first perimeter region of the suction cup.
+22. The method of
+claim 20
+further comprising the step of attaching an accessory bracket to the mount body.
+23. The method of
+claim 22
+wherein the bracket includes a serrated face for mounting accessories at different angles relative to the mount body.
+24. The method of
+claim 22
+further comprising the step of attaching a first accessory defining at least one hole for supporting an object to the bracket.
+25. The method of
+claim 24
+wherein the at least one hole includes a plurality of holes for supporting different sized objects at the same time.
+26. The method of
+claim 24
+further comprising the step of attaching a second accessory to the first accessory and the second accessory defining a plurality of holes for supporting different sized objects at the same time.
+27. A mount for a suction mount system comprising:
+a one-piece body,
+the one-piece body comprising at least one rib projecting from the one-piece body to engage a suction cup, wherein the at least one rib is fixed against movement relative to the one-piece body such that the rib rotates with the one-piece body when the one-piece body is rotated to engage the suction cup; and
+a core of the one-piece body defining a hole that is at least partially threaded to rotatably couple the one-piece body to a threaded portion of the suction cup so rotation of the one-piece body drives axial movement of the threaded portion of the suction cup, and defining an axis about which the one-piece body rotates,
+wherein the one-piece body comprises an outer annular wall having an exterior side and an interior side, and a plurality of longitudinal ribs extend lengthwise along the interior side substantially parallel to the axis, at least one of the plurality of longitudinal ribs including at least one ridge at an end thereof to embed into the suction cup.
+28. The mount of
+claim 27
+wherein the at least one ridge is discontinuous.
+29. The mount of
+claim 27
+wherein the at least one rib is a first continuous annular rib projecting from the one-piece body to engage the suction cup.
+30. The mount of
+claim 29
+further comprising a second continuous annular rib projecting from the one-piece body to engage the suction cup.
+31. The mount of
+claim 27
+wherein the one-piece body defines mounting holes for attaching accessories to the one-piece body.
+32. The mount of
+claim 28
+further comprising at least one pocket formed by the one-piece body adjacent the discontinuous ridge.
+33. The mount of
+claim 27
+wherein the one-piece body defines at least one recess to enhance gripping for rotating the one-piece body about the axis.
+34. The suction mount system of
+claim 1
+wherein a diameter of the one-piece body at the second perimeter region is less than or equal to a diameter of the suction cup at the first perimeter region.
+35. The method of
+claim 20
+wherein a diameter of the one-piece body at the second perimeter region is less than or equal to a diameter of the suction cup at the first perimeter region.

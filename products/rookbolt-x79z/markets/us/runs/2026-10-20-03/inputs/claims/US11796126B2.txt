@@ -1,0 +1,73 @@
+Claims (
+15
+)
+The invention claimed is:
+1. A magnetic gripping clip for an electronic device, said magnetic gripping clip comprising:
+a main post, said main post having a first end and a second end;
+a cross bracket, said cross bracket centrally coupled along a back surface to said first end of said main post;
+a first extension arm on a first side of said cross bracket;
+a second extension arm of a second side of said cross bracket;
+a first gripping arm coupled to said first extension arm;
+a second gripping arm coupled to said second extension arm; and
+a magnetic connection body, said magnetic connection body comprising:
+a flat mounting surface on a first side; and
+a magnet within said magnetic connection body under said flat mounting surface,
+wherein said first extension arm is extendable from said cross bracket, and wherein said second extension arm is extendable from said cross bracket, and wherein said first gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said second gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface.
+2. The magnetic gripping clip of
+claim 1
+wherein the extension of said first extension arm from said cross bracket is resisted by a spring, and wherein the extension of said second extension arm from said cross bracket is resisted by a spring.
+3. The magnetic gripping clip of
+claim 1
+wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip.
+4. The magnetic gripping clip of
+claim 2
+wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip.
+5. A magnetic gripping clip for an electronic device, said magnetic gripping clip comprising:
+a main post, said main post having a first end and a second end;
+a cross bracket, said cross bracket centrally coupled along a back surface to said first end of said main post; and
+a magnetic connection body, said magnetic connection body comprising:
+a flat mounting surface on a first side;
+a magnet within said magnetic connection body under said flat mounting surface;
+a first extension arm on a first side of said cross bracket;
+a second extension arm of a second side of said cross bracket;
+a first gripping arm coupled to said first extension arm; and
+a second gripping arm coupled to said second extension arm,
+wherein said first extension arm is extendable from said cross bracket, and wherein said second extension arm is extendable from said cross bracket, and wherein said first gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said second gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip, and wherein said cross bracket is rotatably coupled to said main post.
+6. A magnetic gripping clip for an electronic device, said magnetic gripping clip comprising:
+a main post, said main post having a first end and a second end;
+a cross bracket, said cross bracket centrally coupled along a back surface to said first end of said main post; and
+a magnetic connection body, said magnetic connection body comprising:
+a flat mounting surface on a first side;
+a magnet within said magnetic connection body under said flat mounting surface;
+a first extension arm on a first side of said cross bracket;
+a second extension arm of a second side of said cross bracket;
+a first gripping arm coupled to said first extension arm; and
+a second gripping arm coupled to said second extension arm,
+wherein said first extension arm is extendable from said cross bracket, and wherein said second extension arm is extendable from said cross bracket, and wherein the extension of said first extension arm from said cross bracket is resisted by a spring, and wherein the extension of said second extension arm from said cross bracket is resisted by a spring, and wherein said first gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said second gripping arm is rotatable from a first position parallel to said flat mounting surface to a second position perpendicular to said flat mounting surface, and wherein said first gripping arm comprises a resilient portion along a device mounting surface of said first gripping clip, and wherein said second gripping arm comprises a resilient portion along a device mounting surface of said second gripping clip, and wherein said cross bracket is rotatably coupled to said main post.
+7. The magnetic gripping clip of
+claim 1
+wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+8. The magnetic gripping clip of
+claim 3
+wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+9. The magnetic gripping clip of
+claim 5
+wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+10. The magnetic gripping clip of
+claim 6
+wherein said main post comprises a threaded mounting insert on a bottom surface of said main post.
+11. The magnetic gripping clip of
+claim 9
+wherein said main post comprises one or more threaded mounting inserts along its side surface.
+12. The magnetic gripping clip of
+claim 10
+wherein said main post comprises one or more threaded mounting inserts along its side surface.
+13. The magnetic gripping clip of
+claim 1
+where said magnet is an annular magnet under an outer area of said flat mounting surface.
+14. The magnetic gripping clip of
+claim 6
+where said magnet is an annular magnet under an outer area of said flat mounting surface.
+15. The magnetic gripping clip of
+claim 10
+where said magnet is an annular magnet under an outer area of said flat mounting surface.

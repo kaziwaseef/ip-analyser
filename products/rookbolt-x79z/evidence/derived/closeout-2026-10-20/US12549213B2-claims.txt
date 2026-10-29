@@ -1,0 +1,51 @@
+Claims (20)
+ What is claimed is:
+ 1. A support accessory suitable for use with a handheld electronic device having a magnetic element, the support accessory comprising:
+a housing that defines an internal volume; 
+a magnetic attachment element housed within the internal volume and capable of a magnetic attachment with the magnetic element; and 
+an extendable support element comprising i) a distal end and ii) an aperture at the distal end, the extendable support element carried by the housing within the internal volume and capable of transitioning between a retracted state and an extended state, wherein:
+(i) the retracted state comprises the extendable support element, including the aperture, wholly disposed within the internal volume; and aperture, wholly disposed within the internal volume; and
+(ii) the extended state comprises the extendable support element at least partially extended outward through an opening in the housing such that, during the magnetic attachment, the extendable support element is capable of providing support to the handheld electronic device.
+ 2. The support accessory of claim 1, wherein the housing comprises:
+a first housing part and a second housing part; and 
+a rotatable control element positioned between the first housing part and the second housing part and, when rotated, capable of transitioning a state of the extendable support element between the retracted state and the extended state. 
+ 3. The support accessory of claim 2, wherein the rotatable control element comprises a contact surface that, upon a first degree of rotation of the rotatable control element, abuts a projecting portion of the extendable support element such that the extendable support element is in the extended state.
+ 4. The support accessory of claim 3, wherein upon a second degree of rotation of the rotatable control element, the contact surface is spaced away from the projecting portion of the extendable support element such that the extendable support element is in the retracted state.
+ 5. The support accessory of claim 1, wherein the extendable support element further comprises a connector element capable of coupling to a corresponding connector element of an auxiliary support structure.
+ 6. The support accessory of claim 5, wherein the magnetic attachment is such that an orientation of the handheld electronic device is adjustable during the magnetic attachment and while the connector element of the extendable support element is coupled to the corresponding connector element of the auxiliary support structure.
+ 7. The support accessory of claim 1, wherein the housing is cylindrical.
+ 8. A support accessory for use with a portable electronic device that has a magnetic element, the accessory comprising:
+a housing that defines an internal volume; 
+a magnetic attachment element housed within the internal volume and capable of a magnetic attachment with the magnetic element; 
+an extendable support element carried by the housing within the internal volume and capable of transitioning between a retracted state and an extended state, the extendable support element comprising an aperture, wherein:
+(i) the retracted state comprises the extendable support element wholly disposed within the internal volume; and
+(ii) the extended state comprises the extendable support element at least partially extended outward through an opening in the housing such that, during the magnetic attachment, the extendable support element is capable of providing support to the portable electronic device;
+a pin disposed in the aperture; and 
+a rotatable control element, wherein the rotatable element, when rotated, is capable of contacting the pin and transitioning a state of the extendable support element between the retracted state and the extended state. 
+ 9. The support accessory of claim 8, wherein the rotatable control element comprises a contact surface that, upon a first degree of rotation of the rotatable control element, abuts a projecting portion of the extendable support element such that the extendable support element is in the extended state.
+ 10. The support accessory of claim 9, wherein upon a second degree of rotation of the rotatable control element, the contact surface is spaced away from the projecting portion of the extendable support element such that the extendable support element is in the retracted state.
+ 11. The support accessory of claim 8, wherein the extendable support element further comprises a connector element capable of coupling to a corresponding connector element of an auxiliary support structure.
+ 12. The support accessory of claim 11, wherein the magnetic attachment is such that an orientation of the portable electronic device is adjustable while the connector element of the extendable support element is coupled to the corresponding connector element of the auxiliary support structure.
+ 13. The support accessory of claim 8, wherein:
+the rotatable control element is a first rotatable control element; and 
+the housing further comprises a second rotatable control element capable of electrical communication with, and affecting a function of, the portable electronic device. 
+ 14. The support accessory of claim 8, wherein the housing is cylindrical.
+ 15. A support accessory suitable for use with a handheld electronic device having a magnetic element, the support accessory comprising:
+a housing that defines an internal volume; 
+a magnetic attachment element housed within the internal volume and capable of a magnetic attachment with the magnetic element; 
+an extendable support element carried by the housing within the internal volume and capable of transitioning between a retracted state and an extended state, wherein:
+(i) the retracted state comprises the extendable support element wholly disposed within the internal volume; and
+(ii) the extended state comprises the extendable support element at least partially extended outward through an opening in the housing such that, during the magnetic attachment, the extendable support element is capable of providing support to the handheld electronic device; and
+a rotatable control element comprising a projecting portion configured to facilitate operation of the rotatable control element. 
+ 16. The support accessory of claim 15, wherein;
+the rotatable control element is further capable of electrical communication with, and affecting a function of, the handheld electronic device, and 
+the electrical communication comprises an electrical communication pathway that includes at least one of:
+a near-field communication apparatus;
+an inductive charging coil apparatus; and
+a wireless Bluetooth apparatus.
+ 17. The support accessory of claim 16, wherein the extendable support element further comprises a connector element capable of coupling to a corresponding connector element of an auxiliary support structure.
+ 18. The support accessory of claim 17, wherein:
+the auxiliary support structure comprises a camera tripod; and 
+the function is associated with a camera assembly of the handheld electronic device. 
+ 19. The support accessory of claim 17, wherein the magnetic attachment is such that an orientation of the handheld electronic device is adjustable while the connector element of the extendable support element is coupled to the corresponding connector element of the auxiliary support structure.
+ 20. The support accessory of claim 15, wherein the projecting portion provides an aid for user operation of the rotatable control element.

@@ -1,0 +1,280 @@
+
+===== PDF page 1 =====
+       检测报告
+               Test Report
+
+报告编号    A2260155444101001E                             第1页 共8 页
+Report No.   A2260155444101001E                                                   Page 1 of 8
+
+报告抬头公司名称 东莞市弘泰硅胶材料有限公司/东莞市政泰有机硅科技有限公司 /广东弘泰硅业科技
+         有限公司 /东莞市弘泰新材料有限公司
+Company Name   DONGGUAN HONGTAI SILICONE MATERIAL CO., LTD /  DONGGUAN
+shown on Report   ZHENGTAI ORGANIC SILICON TECHNOLOGY CO. LTD / GUANGDONG
+              HONGTAI SILICON INDUSTRY TECHNOLOGY CO., LTD /DONGGUAN
+              HONGTAI NEW MATERIALS CO., LTD
+地  址     东莞市黄江镇玉堂围村玉裕街2 巷3 号一楼/东莞市常平镇桥沥村南门工业区南门大
+              道181 号 /广东省云浮市郁南县大湾镇郁南产业转移工业园/东莞市常平镇环常南路
+                   322 号6 栋105 室
+Address           NO.181 NANMEN AVENUE,NANMEN INDUSTRIAL ZONE, OIAOLI
+               VILLAGECHANGPING TOWN, DONGGUAN CITY  /IST FLOOR, NO. 3 LANE 2.
+               YUYUSTREET, YUTANGWEI VILLAGE, HUANGJIANG TOWN, DONGGUAN
+               CITY/YUNAN INDUSTRIAL TRANSFER INDUSTRIAL PARK, DAWAN TOWN,
+             YUNAN COUNTY, YUNFU CITY, GUANGDONG PROVINCE, CHINA/ROOM 105,
+                BUILDING 6, NO. 322 HUANCHANG SOUTH ROAD, CHANGPING TOWN,
+             DONGGUAN
+
+样品接收日期               2026.03.06
+Sample Received Date        Mar. 6, 2026
+样品检测日期               2026.03.06-2026.03.11
+Testing Period               Mar. 6, 2026 to Mar. 11, 2026
+
+检测要求          根据客户要求, 对所提交样品中的铅(Pb), 镉(Cd), 汞(Hg), 六价铬(Cr(VI)),
+                    多溴联苯(PBBs), 多溴二苯醚(PBDEs), 邻苯二甲酸酯(DBP, BBP, DEHP,
+                 DIBP)进行测试。
+Test Requested           As specified by client, to test Lead (Pb), Cadmium (Cd), Mercury (Hg),
+                            Hexavalent Chromium (Cr(VI)), Polybrominated Biphenyls (PBBs),
+                            Polybrominated Diphenyl Ethers (PBDEs), Phthalates (DBP, BBP, DEHP,
+                         DIBP) in the submitted sample(s).
+
+检测依据/检测结果    请参见下页。
+Test Method/Test Result(s)   Please refer to the following page(s).
+
+批   准                  日   期
+                                                                               2026.03.13
+ Approved by                                      Date
+             郑晴涛
+              技术经理Technical Manager
+                                                                             No. R842638576
+
+ 华测检测认证集团股份有限公司               广东省深圳市宝安区新安街道兴东社区华测检测大楼
+
+ Centre Testing International Group Co.,Ltd.
+
+ CTI Building, Xing Dong Community, Xin’an Sub-district, Bao’an District, Shenzhen City, Guangdong Province, P.R. China
+===== PDF page 2 =====
+       检测报告
+               Test Report
+
+报告编号    A2260155444101001E                             第2页 共8 页
+Report No.   A2260155444101001E                                                   Page 2 of 8
+
+以下测试之样品及样品信息由申请者提供并确认
+The following sample(s) and sample information was/were submitted and identified by/on the behalf of
+the applicant
+样品名称 Sample Name    固态硅胶Solid silicone
+样品型号Model No.        HT-81 系列（0-90 度）HT-99 系列（0-90 度）HT-91 系列（0-90 度）
+材料名称Material        硅胶原料Silicone raw material
+
+
+******************************************************************************************
+
+结论Conclusion
+
+   测试样品              依据标准/指令              结果
+
+    Tested Sample                 According to standard/directive                     Result
+
+                   欧盟RoHS指令2011/65/EU及其修订指令
+   提交样品
+                            (EU) 2015/863 RoHS Directive 2011/65/EU      符合 PASS
+   Submitted Sample
+                                     with amendment (EU) 2015/863
+
+******************************************************************************************
+
+符合表示检测结果满足欧盟RoHS指令2011/65/EU及其修订指令(EU) 2015/863要求的限值。
+
+PASS means that the results shown on the report comply with the limits set by RoHS Directive 2011/65/EU with amendment (EU)
+
+2015/863.
+===== PDF page 3 =====
+       检测报告
+               Test Report
+
+报告编号    A2260155444101001E                             第3页 共8 页
+Report No.   A2260155444101001E                                                   Page 3 of 8
+
+检测依据Test Method
+
+       测试项目                测试方法             测试仪器
+               Tested Item(s)                                    Test Method                    Measured Equipment(s)
+          铅Lead (Pb)                          IEC 62321-5:2013                      ICP-OES
+         镉Cadmium (Cd)                        IEC 62321-5:2013                      ICP-OES
+          汞Mercury (Hg)                  IEC 62321-4:2013+AMD1:2017 CSV              ICP-OES
+                                   IEC 62321-7-2:2017 和/或IEC 62321-5:2013 测试总
+                            铬含量
+  六价铬Hexavalent Chromium (Cr(VI))                                                    UV-Vis/ICP-OES
+                                       IEC 62321-7-2:2017 and/or determination of
+                                                      Total Chromium by IEC 62321-5:2013
+   多溴联苯Polybrominated Biphenyls
+                                                IEC 62321-12:2023                  GC-MS
+                (PBBs)
+  多溴二苯醚Polybrominated Diphenyl
+                                                IEC 62321-12:2023                  GC-MS
+              Ethers (PBDEs)
+  邻苯二甲酸酯Phthalates (DBP, BBP,
+                                                IEC 62321-12:2023                  GC-MS
+            DEHP, DIBP)
+===== PDF page 4 =====
+       检测报告
+               Test Report
+
+报告编号    A2260155444101001E                             第4页 共8 页
+Report No.   A2260155444101001E                                                   Page 4 of 8
+
+检测结果Test Result(s)
+
+                                     结果Result      方法检出限   限值
+ 测试项目Tested Item(s)
+                                                 001           MDL        Limit
+ 铅 Lead (Pb)                                     N.D.                2 mg/kg    1000 mg/kg
+ 镉 Cadmium (Cd)                                 N.D.                2 mg/kg     100 mg/kg
+ 汞 Mercury (Hg)                                  N.D.                2 mg/kg    1000 mg/kg
+ 六价铬 Hexavalent Chromium (Cr(VI))               N.D.                8 mg/kg    1000 mg/kg
+
+
+                                     结果Result      方法检出限   限值
+ 测试项目Tested Item(s)
+                                                 001           MDL        Limit
+ 多溴联苯 Polybrominated Biphenyls (PBBs)
+ 一溴联苯 Monobromobiphenyl                      N.D.                25 mg/kg
+ 二溴联苯 Dibromobiphenyl                         N.D.                25 mg/kg
+ 三溴联苯 Tribromobiphenyl                        N.D.                25 mg/kg
+ 四溴联苯 Tetrabromobiphenyl                       N.D.                25 mg/kg
+ 五溴联苯 Pentabromobiphenyl                      N.D.                25 mg/kg
+                                                                               1000 mg/kg
+ 六溴联苯 Hexabromobiphenyl                       N.D.                25 mg/kg
+ 七溴联苯 Heptabromobiphenyl                      N.D.                25 mg/kg
+ 八溴联苯 Octabromobiphenyl                       N.D.                25 mg/kg
+ 九溴联苯 Nonabromobiphenyl                      N.D.                25 mg/kg
+ 十溴联苯 Decabromobiphenyl                       N.D.                25 mg/kg
+
+
+                                     结果Result      方法检出限   限值
+ 测试项目Tested Item(s)
+                                                 001           MDL        Limit
+ 多溴二苯醚 Polybrominated Diphenyl Ethers (PBDEs)
+ 一溴二苯醚 Monobromodiphenyl ether               N.D.                25 mg/kg
+ 二溴二苯醚 Dibromodiphenyl ether                  N.D.                25 mg/kg
+ 三溴二苯醚 Tribromodiphenyl ether                  N.D.                25 mg/kg
+ 四溴二苯醚 Tetrabromodiphenyl ether                N.D.                25 mg/kg
+ 五溴二苯醚 Pentabromodiphenyl ether                N.D.                25 mg/kg
+                                                                               1000 mg/kg
+ 六溴二苯醚 Hexabromodiphenyl ether                N.D.                25 mg/kg
+ 七溴二苯醚 Heptabromodiphenyl ether               N.D.                25 mg/kg
+ 八溴二苯醚 Octabromodiphenyl ether                N.D.                25 mg/kg
+ 九溴二苯醚 Nonabromodiphenyl ether                N.D.                25 mg/kg
+ 十溴二苯醚 Decabromodiphenyl ether                N.D.                25 mg/kg
+===== PDF page 5 =====
+       检测报告
+                Test Report
+
+报告编号    A2260155444101001E                             第5页 共8 页
+Report No.   A2260155444101001E                                                   Page 5 of 8
+
+
+                                     结果Result      方法检出限   限值
+ 测试项目Tested Item(s)
+                                                 001           MDL        Limit
+ 邻苯二甲酸酯 Phthalates (DBP, BBP, DEHP, DIBP)
+ 邻苯二甲酸二丁酯 Dibutyl phthalate
+                                                  N.D.                50 mg/kg    1000 mg/kg
+ (DBP) CAS#:84-74-2
+ 邻苯二甲酸丁基苄基酯 Butyl benzyl
+                                                  N.D.                50 mg/kg    1000 mg/kg
+  phthalate (BBP) CAS#:85-68-7
+ 邻苯二甲酸二(2-乙基)己酯
+  Di-(2-ethylhexyl) phthalate (DEHP)                   N.D.                50 mg/kg    1000 mg/kg
+ CAS#:117-81-7
+ 邻苯二甲酸二异丁酯 Diisobutyl
+                                                  N.D.                50 mg/kg    1000 mg/kg
+  phthalate (DIBP) CAS#:84-69-5
+
+
+样品/部位描述Sample/Part Description
+ 序号    CTI 样品ID  描述
+  No.   CTI Sample ID   Description
+   1         001    白色硅胶
+                        White silicone
+
+
+备注:   对于检测铅, 镉, 汞之样品已消解完全。
+           -N.D. = 未检出 (小于方法检出限)
+           -mg/kg = ppm = 百万分之一
+           -1000 mg/kg = 0.1%
+Remark:  The sample(s) had been dissolved totally tested for Lead, Cadmium, Mercury.
+        -MDL = Method Detection Limit
+           -N.D. = Not Detected (<MDL )
+           -mg/kg = ppm = parts per million
+           -1000 mg/kg = 0.1%
+===== PDF page 6 =====
+       检测报告
+               Test Report
+
+报告编号    A2260155444101001E                             第6页 共8 页
+Report No.   A2260155444101001E                                                   Page 6 of 8
+
+检测流程Test Process
+1. 铅Lead (Pb), 镉Cadmium (Cd), 铬Chromium(Cr)
+
+
+
+
+
+2. 汞Mercury (Hg)
+
+
+
+
+
+3. 六价铬Hexavalent Chromium (Cr(VI))
+===== PDF page 7 =====
+       检测报告
+               Test Report
+
+报告编号    A2260155444101001E                             第7页 共8 页
+Report No.   A2260155444101001E                                                   Page 7 of 8
+
+4. 多溴联苯Polybrominated Biphenyls (PBBs), 多溴二苯醚Polybrominated Diphenyl Ethers (PBDEs)
+
+
+
+
+
+5. 邻苯二甲酸酯Phthalates (DBP, BBP, DEHP, DIBP)
+===== PDF page 8 =====
+       检测报告
+               Test Report
+
+报告编号    A2260155444101001E                             第8页 共8 页
+Report No.   A2260155444101001E                                                   Page 8 of 8
+
+           样品图片
+
+                   Photo(s) of the sample(s)
+
+
+
+
+
+声明Statement：
+1. 本报告无批准人签字、“专用章”及报告骑缝章无效；
+    This report is considered invalid without approved signature, special seal and the seal on the perforation;
+2. 报告抬头公司名称及地址、样品及样品信息由申请者提供，申请者应对其真实性负责，CTI 未核实其真实
+  性；
+    The Company Name shown on Report and Address, the sample(s) and sample information was/were provided by
+     the applicant who should be responsible for the authenticity which CTI hasn’t verified;
+3. 本报告检测结果仅对受测样品负责；
+    The result(s) shown in this report refer(s) only to the sample(s) tested;
+4. 除非另有说明，报告参照ILAC-G8:09/2019 / CNAS-GL015:2022 使用简单接受（w=0）二元判定规则进行
+  符合性判定；
+    Unless otherwise stated, the decision rule for conformity reporting is based on Binary Statement for Simple
+    Acceptance Rule (w=0) stated in ILAC-G8:09/2019 / CNAS-GL015:2022;
+5. 未经CTI 书面同意，不得部分复制本报告；
+    Without written approval of CTI, this report can’t be reproduced except in full;
+6. 如报告中的英文内容与中文内容有差异，以中文为准。
+     In case of any discrepancy between the English version and Chinese version of the reports (if generated),
+     the Chinese version shall prevail.
+
+                                        *** 报告结束 ***
+                                      *** End of Report ***

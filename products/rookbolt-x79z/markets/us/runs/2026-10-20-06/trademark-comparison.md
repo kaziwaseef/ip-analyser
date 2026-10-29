@@ -1,0 +1,39 @@
+# ROOKBOLT name comparison
+
+Date2026-10-20. Proposed new US brand, no application or sales yet, S-090. Current goods: X79Z phone mount and included accessories. Intended wider brand range: phone mounts, travel gear/accessories and power banks, S-099. No final logo, owner entity or precise future goods list is supplied. Those are needed for an actual filing, not for this word-name screen.
+
+K-005: concern2 plus U for X79Z; concern3 plus U for the proposed battery/power-bank and bag extensions. This is not a probability and does not establish that a conflict exists. Business impact would be branding/packaging rework, opposition or marketplace disruption across branded goods; costs and inventory are unknown.
+
+## Search completed and exact limits
+
+S-213/Q-601: `CM:rookbolt OR CM:rocbolt OR CM:rockbolt OR CM:rokbolt OR CM:rukbolt OR CM:"rook bolt" OR CM:"roc bolt" OR CM:"rock bolt"` returned no results in the official completed UI. This is a bounded query result, not evidence that no earlier rights exist.
+
+Q-602: `CM:/.*r(oo|o|oc|ock|ok|u)k?bolt.*/ OR (CM:rook* AND (GS:batter* OR GS:charg* OR GS:travel OR GS:luggage OR GS:bag* OR GS:holder* OR GS:mount* OR GS:case* OR GS:power*))` returned100 records. Changed the actual UI to100 per page and verified100 unique serials. All100 summaries were inspected. [The normalized table](../../../../evidence/derived/closeout-2026-10-20/tm-triage-all.json) is derived from the saved full-page capture. An interim file named page2 duplicated page1 and is not counted as an extra page or extra review.
+
+Full relevant records were opened by `SN:` queries, full goods expanded and saved. This resolves the earlier ROOK GEAR access failure. Other summary leads were down-ranked for different whole signs and unrelated goods; they were not all given full file/market investigations.
+
+## Candidate comparisons
+
+| Right and exact official/market evidence | Sign, goods and status | Effect on proposed use |
+| --- | --- | --- |
+| R-201 ROCBOLT, S-065/S-066/S-092 and refreshed S-214 | First-party Rocstor device security locks/adhesive tablet adapter and current laptop/desktop/monitor/tablet lock selector. Actual common-law priority and asserted registration unverified; exact official query found no federal record | Closest whole-word spelling/sound lead. ROOKBOLT adds an O/K spelling and may evoke a rook/chess image; ROCBOLT evokes ROC/Rocstor plus bolt. Different hardware purposes help, while portable-device accessory consumers and online channels overlap. Retain2 + U; a negative register result does not remove the market-use lead |
+| R-202 ROOKOBI, S-095 | Standard characters; registration8158757, official registered2026-03-03. Includes phone holders, smartphone stabilizers and related charging goods | Same ROOK beginning and overlapping goods/channels; different ending, rhythm and whole-sign impression.2 for present mounts, actual use/priority U |
+| R-203 CASEROOKIE, S-096 | Standard characters, registration7640752, phone cases/covers | Related accessory channels but substantially different whole sign. Lower priority2; class or suffix alone does not decide confusion |
+| R-204 ROOK, S-097 | Standard characters, registration7739707, Delta bath hardware | Shared ROOK word but identified goods and commercial context differ from phone mounts/power banks. Low relevance on supplied scope; not a universal right over ROOK |
+| R-205 ROOK GEAR, S-208 | Registration8472979, registered2026-09-29. Words plus animal-head design; GEAR disclaimed. Full goods include backpacks and duffel bags for travel. Owner Shaodong Balabala Luggage Co., Ltd. | More relevant to proposed travel bags than current X79Z. ROOK is shared, BOLT versus GEAR and design differ. Related/identical bag goods and ordinary online buyers support concern3 for a bag extension; no automatic conflict for mounts |
+| R-206/R-207 ROOK, S-206/S-207 | Standard-character registration6381370 and bird/circle design registration6381369, both registered2021-06-08, owner Rook Innovative Solutions, LLC. Both include batteries, electrical cells, lithium-ion/rechargeable/solar batteries and EV-related chargers. Official display live registered; first-use claims2020-01-20 not independently proved | The standard-character record is the stronger word-name lead. A power bank contains batteries and sells to charging-product buyers, making goods/channel relatedness a substantive issue. ROOKBOLT remains a different complete word, but BOLT may reinforce an electrical impression. Concern3 + U for power banks. These goods are less close to the nonpowered X79Z mount; do not transfer the future-product score automatically |
+| R-208 ROOKLINE, S-209 | Standard characters; pending serial99905145, filed2026-06-25, intent-to-use. Travel/garment bags plus towels/apparel/golf goods, awaiting examination | Shares ROOK but distinct LINE/BOLT whole-word impressions. Identical planned travel-bag goods warrant retention in the concern3 wider-range branch. Pending status is not a registration or proof of actual use |
+| R-209 ROOK, S-210 | Standard characters; pending serial99321213, Rook Sports LLC. Sports bags, apparel, lacrosse goods; application suspended, latest displayed2026-06-27. Claimed use2024-12-01 unverified | Sporting bags can overlap a future travel range. Whole-name difference helps, claimed earlier market use needs verification. Pending/suspended is not dead or registered |
+| R-210 ROOKCASE, S-211 | Standard characters; registration4233019 cancelled2019-05-31 for Section8 maintenance failure; book-style electronic-reader/computer cases | Cancelled federal record is not a live registration. It does not establish absence of surviving use rights. Whole-word/goods distinctions reduce current priority. No actual current ROOKCASE use was established |
+| R-211 ROOKE CUSTOMS, S-212 | Stylized mark, registration6088475. Motorcycle structures/components, helmets, apparel and custom manufacture. Full goods inspected | Different complete sign and specialized goods. Shared phonetic root alone is insufficient; down-ranked for current phone-mount and travel/charging scope |
+| R-212 ROOCASE market use, S-215 | Actual first-party US-facing phone case/screen protector collection,23 products and US headquarters shown | ROOCASE is a different spelling from ROOKCASE; no common owner or alias is inferred. Related accessory channels make it contextual market evidence, not a proven conflict with ROOKBOLT |
+
+Comparison uses whole signs, appearance/sound/meaning, actual identified goods, consumers and channels, under S-093/S-094 USPTO guidance. No finding rests on a different class number. Intent-to-use records, registered records and marketplace use are distinguished.
+
+## Practical result
+
+Do not treat the empty exact-name query as clearance. The present X79Z name has a limited identified concern, with ROCBOLT market use and ROOKOBI related goods retained. The wider range has newly supported battery/bag leads requiring a US trademark professional's full search and confusion assessment before relying on a favorable whole-brand result. This is a substantive follow-up, not a requirement to rename now.
+
+A practical professional brief is already concrete: proposed standard-character ROOKBOLT; new/no sales/no filing; phone mounts now; power banks and travel goods later; US Amazon/ecommerce; retain R-201/R-202/R-205–R-209 and these full records. Do not spend on a logo or broad multi-category packaging on the assumption that this screen cleared the name. No filing, account creation, contact or purchase was made.
+
+The completed bounded search still does not cover all state registers, every phonetic/translation variation, an unspecified final logo, full marketplace histories, opposition/court files or proof of each candidate's actual priority. This is expanded coverage, not a completed comprehensive clearance search. No continuous name watch is active.

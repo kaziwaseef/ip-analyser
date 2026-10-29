@@ -1,0 +1,131 @@
+===== PDF page 1 =====
+                                            US 2010.0044534A1
+(19) United States
+(12) Patent Application Publication    (10) Pub. No.: US 2010/0044534 A1
+   He et al.                                                    (43) Pub. Date:       Feb. 25, 2010
+
+(54)  RESIZABLE DEVICE STAND                        (30)          Foreign Application Priority Data
+(75)   Inventors:     Meng-Hua He, Shenzhen City           Aug. 22, 2008   (CN)  ......................... 2008103O4149.3
+                     (CN); Gang Cheng, Shenzhen City
+                     (CN); Chun-Che Yen, Tu-Cheng                       Publication Classification
+                   (TW); Yu-Tao Chen, Tu-Cheng         (51)   Int. Cl.
+               SEW  Te-Sheng Jan, Tu-Cheng           FI6M II/20          (2006.01)
+                                                               (52)  U.S. Cl.  ..................................................... 248/1888
+      Correspondence Address:
+    PCE INDUSTRY, INC.                                 (57)           ABSTRACT
+     ATT. Steven Reiss
+     288 SOUTH MAYO AVENUE               A stand includes a Suction base and a load-supporting module
+    CITY OF INDUSTRY, CA91789 (US)              mounted on the Suction base. The load-supporting module
+                                                               includes a housing to house a pair of clamps, a gear, and a
+(73)  Assignees:    HONG FUJIN PRECISION          locking structure. The house defines a groove therein. Each
+                 INDUSTRY(Shenzhen) CO.,         clamp includes a Vertical part and a horizontal part. The
+                   LTD., Shenzhen City (CN); HON       horizontal part includes a rack gear, and is received by the
+                 HAI PRECISION INDUSTRY        groove. The vertical parts are positioned upwardly from
+                  CO.,LTD., Tu-Cheng (TW)            opposite sides of the housing respectively. The gear is rotat
+                                                             ably mounted in the housing and meshes with the rack gears
+(21)  Appl. No.:      12/427,708                                respectively. The locking structure is used for locking or
+                                                          unlocking the clamps. The stand is adapted for Supporting
+(22)   Filed:         Apr. 21, 2009                             different types and sizes of devices.
+===== PDF page 2 =====
+Patent Application Publication    Feb. 25, 2010 Sheet 1 of 7     US 2010/0044534 A1
+===== PDF page 3 =====
+Patent Application Publication    Feb. 25, 2010 Sheet 2 of 7     US 2010/0044534 A1
+===== PDF page 4 =====
+Patent Application Publication    Feb. 25, 2010 Sheet 3 of 7     US 2010/0044534 A1
+===== PDF page 5 =====
+Patent Application Publication    Feb. 25, 2010 Sheet 4 of 7     US 2010/0044534 A1
+===== PDF page 6 =====
+Patent Application Publication    Feb. 25, 2010 Sheet 5 of 7     US 2010/0044534 A1
+
+                                             20
+                  s57
+          CG
+===== PDF page 7 =====
+
+===== PDF page 8 =====
+
+===== PDF page 9 =====
+US 2010/0044534 A1                                                       Feb. 25, 2010
+
+
+         RESIZABLE DEVICE STAND                 0018.  The locking structure 95 is used to lock the clamps
+                                                   80 to fix the clamps 80 at a position, or to unlock the clamps
+            BACKGROUND                     80 to allow the clamps 80 to move.
+                                                           0019.   In the exemplary embodiment, the locking structure 0001    1. Technical Field                                                   95 includes a locking pin 96, a spring 97, and an elastic piece 0002  The present disclosure relates to a device stand.                                                                98. The locking pin 96 is slidably mounted in the housing 71. 0003    2. Description of Related Art                                                  The spring 97 fits over the locking pin 96 and causes the 0004.  A motor vehicle may be used by different drivers                                                             locking pin 96 to engage with a locking groove 84 in one ofwho each have their mobile device they would like it to be                                                              the clamps 80 to lock the clamps 80. The elastic piece 98 isSupported by a stand in the vehicle, or a single driver may useddifferent devices at different times. Because stands are usu     rotatably mounted in the housing 71. One end of the elastic
+                                                              piece 98 is fixed to the locking pin 96. The other end of theally adapted for a specific device type and size, many different                                                                        elastic piece 98 stays in an opening 74 of the housing 71.stands must be available  in  the vehicle, which can be
+unsightly and waste space.                          When the elastic piece 98 is pressed at the end in the opening                                                                74, the elastic piece 98 disengages the lockingpin 96 from the 0005  What is needed is a resizable stand adapted for Sup                                                             locking groove 84, thus unlocking the clamps 80.porting different types and sizes of devices.                                                           0020.   In other embodiments, the locking structure 95 can
+     BRIEF DESCRIPTION OF THE DRAWINGS         be a wedge slideably mounted in the housing 71. The wedge
+                                                         can plug into gaps between teeth of the gear 91, thus locking
+ 0006.  Many aspects of the embodiments can be better     the gear 91 and the clamps 80, or move away from the gear 91,
+understood with reference to the following drawings. The     thus unlocking the gear 91 and the clamps 80.
+components in the drawings are not necessarily drawn to     0021   Referring also to FIG. 1, when loading, a device (not
+scale, the emphasis instead being placed upon clearly illus    shown) is placed on the housing 71. The clamps 80 are pushed
+trating the principles of the present disclosure. Moreover, in     to move towards each other and to clamp the device. The
+the drawings, like reference numerals designate correspond     locking structure 95 locks the clamps 80. In this way, theing parts throughout the several views.                                                            device is fixed on the load-supporting module 70. The dis
+ 0007   FIG. 1 is a schematic, isometric view of a stand     tance between the clamps 80 can be varied for clampingaccording to an exemplary embodiment, the stand including a                                                                    different sized devices. When unloading a device, the elastic
+Suction base and a load-supporting module.                     piece 98 of the locking structure 95 is pressed down and the
+ 0008   FIG. 2 is a exploded view of the load-supporting    clamps 80 are unlocked. The torsion spring 92 causes the
+module of FIG. 1.                                        clamps 80 to move away from each other. Then, the device
+ 0009   FIG. 3 is a top plan view of the load-supporting    can be unloaded from the load-supporting module 70.
+module of FIG. 1, with a top cover removed.                   (0022   Referring to FIGS. 4, 5 and 6, the suction base 20
+ 0010   FIG. 4 is a schematic, isometric view of the suction     includes a suction piece 30, a spring 56, a fixing structure 40
+base of FIG. 1.                                                 for fitting over the suction piece 30, pins 55, a face cam 50, a
+ 0011   FIG. 5 is an exploded view of the suction base of     rotatable sleeve 57, and a fixing cap 60.
+FIG. 4.                                              0023  The suction piece 30 includes a membrane 31 and a
+ 0012   FIG. 6 is a section view of the suction base of FIG.     shaft 32 extending upwardly from the membrane 31.
+4 without a vacuum seal created.                              0024.  The fixing structure 40 includes a shaft housing 41 0013   FIG. 7 is a section view of the suction base of FIG.                                                      and a sleeve 43 extending upwardly from the shaft housing
+4 with a vacuum seal created.                                   41, and lower edge of the housing 41 forms a flange 45. The
+                                                                sleeve 43 defines axial running slots 42. An upper end of the          DETAILED DESCRIPTION                                                                sleeve 43 is closed.
+ 0014   Referring to FIG.  1, a stand 10 according to an     0025.  The face cam 50 is ring-shaped and has a face 51
+exemplary embodiment is disclosed. The stand 10 includes a    which includes grooves 53 defined therein. The face cam 50
+suction base 20 and a load-supporting module 70 mounted on     further includes axial rails 52 projected from an outer circum
+a top of the suction base 20.                                        ferential surface thereof.
+ 0015   Referring to FIGS. 2 and 3, the load-supporting     0026.  During assembly of the suction base 20, first, the
+module 70 includes a housing 71. The housing 71 is rectan     sleeve 43 receives the spring 56, then is fit over the shaft 32.
+gular, and includes a top cover 72 and a bottom cover 75. The    The spring 56 is positioned between the upper end of the
+top cover 72 defines a groove 73 therein. The housing 71 is     sleeve 43 and the shaft 32. Second, the face cam 50 is fit over
+configured to house a pair of clamps 80, a gear 91, a torsion     the sleeve 43. One end of each of the pins 55 engages with the
+spring 92, and a locking structure 95.                           face 51 of the face cam 55. The other end of each of the pins
+ 0016   Each of the clamps 80 is L-shaped, and includes a    55 extends through the running slots 42 defined in the sleeve
+vertical part 81 and a horizontal part 82. The horizontal part    43 and enters into holes 33 defined in the shaft 32. Third, the
+82 includes a rack gear 83. The rack gear 83 defines a plurality     rotatable sleeve 57 fits over the face cam50, and grooves (not
+of locking grooves 84 on outer sidewalls thereof. The hori    shown) defined in an inner surface of the rotatable sleeve 57
+Zontal part 82 is received by the groove 73 of the top cover 72.    engage with the rails 52 of the face cam50, thus to connect the
+Referring to FIG.  1, the vertical parts 81 are positioned     rotatable sleeve 57 to the face cam 50. Finally, the fixing cap
+upwardly from the opposite sites of the housing 71.           60 is fixed to the upper end of the sleeve 43 by screws (not
+ 0017.  The gear 91 is rotatably mounted in the housing 71     shown).
+and meshes with the rack gears 83. The torsion spring 92 fits     0027.   Referring to FIGS. 6 and 7, in use, the suction base
+over a shaft of the gear 91. The torsion spring 92 causes the    20 is put on a flat surface, so as to ensure the membrane 31 is
+gear 91 to rotate, and causes the clamps 80 meshing with the     flush against the surface, and the pins 55 are initially at a
+gear 91 to move away from each other.                        lowest position on the face 51. Then, the rotatable sleeve 57 is
+===== PDF page 10 =====
+US 2010/0044534 A1                                                       Feb. 25, 2010
+
+
+grasped and rotated, while holding the base 20 against the         a housing defining a groove therein;
+surface. During rotation of the sleeve 57, which causes the         a pair of clamps, each clamp comprising a vertical part
+face cam 50 to rotate, the pins 55 are driven along the face 51          and a horizontal part, wherein the horizontal part
+until engaging in the grooves 53. Meanwhile, the shaft 32.           comprises a rack gear, and is received by the groove,
+driven to move up by the pins 55, pulls only a central portion            the vertical parts being positioned upwardly from
+of the membrane 31 away from the contacting Surface, as the            opposite sides of the housing, respectively;
+edge of the membrane 31 is limited by the flange 45 of the         a gear rotatably mounted in the housing and meshing
+shaft housing 41, thereby forming a vacuum seal between the           with the rack gears of the clamps, respectively; and
+membrane 31 and the contact Surface. In this way, the Suction         a locking structure for locking or unlocking the clamps.
+base 20 is fixed on the surface.                                         2. The stand of claim 1, further comprising a torsion spring
+ 0028.  The suction base 20 can be easily removed from the     configured for causing the gear to rotate, and thus for causing
+flat surface by rotating the rotatable sleeve 57. In this way, the     the clamps to move away from each other.
+membrane 31 is driven to move down, the vacuum between        3. The stand of claim 2, wherein the torsion spring is fit over
+the membrane 31 and the surface of the flat surface is elimi    a shaft of the gear.
+nated, and the suction base 20 is no longer fixed on the flat        4. The stand of claim 1, wherein the rack gear define a
+Surface.                                                             plurality of locking grooves, the locking structure comprises
+ 0029.  Moreover, it is to be understood that the invention     a lockingpin, a spring for causing the lockingpin engage with
+may be embodied in other forms without departing from the     the locking grooves of the rack gear, and an elastic piece
+spirit thereof. Thus, the present examples and embodiments     configured for causing the lockingpin to move away from the
+are to be considered in all respects as illustrative and not     locking grooves when received a pressure.
+restrictive, and the invention is not to be limited to the details        5. The stand of claim 1, wherein the locking structure is a
+given herein.                                       wedge slideably mounted in the housing, the wedge is able to
+  What is claimed is:                                       plug into gaps between teeth of the gear or move away from
+   1. A resizable device stand comprising:                      the gear.
+  a Suction base; and                                                     6. The stand of claim 1, wherein the clamps are L-shaped.
+  a load-supporting module mounted on the Suction base, the
+                                                                                                                                                                                                                                                                     c          c          c          c          c     load-supporting module comprising:

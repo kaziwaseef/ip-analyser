@@ -1,0 +1,198 @@
+{
+  "id": "1b18eb47-c13f-45f7-a048-c74eb4382b6e",
+  "ok": true,
+  "result": {
+    "origin": "https://fees.uspto.gov/MaintenanceFees/",
+    "refs": {
+      "e1": {
+        "name": "Feedback",
+        "role": "button"
+      },
+      "e10": {
+        "name": "FEDERAL GOVERNMENT",
+        "role": "heading"
+      },
+      "e11": {
+        "name": "View and Pay Fees",
+        "role": "link"
+      },
+      "e12": {
+        "name": "United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e13": {
+        "name": "Patents",
+        "role": "link"
+      },
+      "e14": {
+        "name": "Trademarks",
+        "role": "link"
+      },
+      "e15": {
+        "name": "Learning & Resources",
+        "role": "link"
+      },
+      "e16": {
+        "name": "About the USPTO",
+        "role": "link"
+      },
+      "e17": {
+        "name": "Glossary",
+        "role": "link"
+      },
+      "e18": {
+        "name": "Careers",
+        "role": "link"
+      },
+      "e19": {
+        "name": "Contact Us",
+        "role": "link"
+      },
+      "e2": {
+        "name": "View and Pay Fees",
+        "role": "heading"
+      },
+      "e20": {
+        "name": "Accessibility",
+        "role": "link"
+      },
+      "e21": {
+        "name": "Privacy Policy",
+        "role": "link"
+      },
+      "e22": {
+        "name": "Terms of Use",
+        "role": "link"
+      },
+      "e23": {
+        "name": "Security",
+        "role": "link"
+      },
+      "e24": {
+        "name": "Systems Status",
+        "role": "link"
+      },
+      "e25": {
+        "name": "Site Map",
+        "role": "link"
+      },
+      "e26": {
+        "name": "Federal Activity Inventory Reform Act (FAIR)",
+        "role": "link"
+      },
+      "e27": {
+        "name": "USPTO Budget and Performance",
+        "role": "link"
+      },
+      "e28": {
+        "name": "Freedom of Information Act",
+        "role": "link"
+      },
+      "e29": {
+        "name": "Information Quality Guidelines",
+        "role": "link"
+      },
+      "e3": {
+        "name": "Sign in",
+        "role": "link"
+      },
+      "e30": {
+        "name": "Regulations.gov (link is external)",
+        "role": "link"
+      },
+      "e31": {
+        "name": "StopFakes.gov (link is external)",
+        "role": "link"
+      },
+      "e32": {
+        "name": "USA.gov (link is external)",
+        "role": "link"
+      },
+      "e33": {
+        "name": "Department of Commerce (link is external)",
+        "role": "link"
+      },
+      "e34": {
+        "name": "Strategy Targeting Organized Piracy",
+        "role": "link"
+      },
+      "e35": {
+        "name": "About Us",
+        "role": "link"
+      },
+      "e36": {
+        "name": "Careers",
+        "role": "link"
+      },
+      "e37": {
+        "name": "Contact Us",
+        "role": "link"
+      },
+      "e38": {
+        "name": "Shopping Cart",
+        "role": "listitem"
+      },
+      "e39": {
+        "name": "Sign In",
+        "role": "listitem"
+      },
+      "e4": {
+        "name": "create a uspto.gov account",
+        "role": "link"
+      },
+      "e40": {
+        "name": "Help",
+        "role": "listitem"
+      },
+      "e41": {
+        "name": "Fees Self-Service Portal",
+        "role": "link"
+      },
+      "e42": {
+        "name": "Financial Manager ",
+        "role": "button"
+      },
+      "e43": {
+        "name": "Patent Maintenance Fees ",
+        "role": "button"
+      },
+      "e44": {
+        "name": "",
+        "role": "link"
+      },
+      "e45": {
+        "name": "Sign In",
+        "role": "link"
+      },
+      "e46": {
+        "name": "Help",
+        "role": "link"
+      },
+      "e5": {
+        "name": "Maintain your patent",
+        "role": "link"
+      },
+      "e6": {
+        "name": "United States Patent and Trademark Office - An Agency of the Department of Commerce",
+        "role": "link"
+      },
+      "e7": {
+        "name": "BROWSE BY TOPIC",
+        "role": "heading"
+      },
+      "e8": {
+        "name": "ABOUT THIS SITE",
+        "role": "heading"
+      },
+      "e9": {
+        "name": "USPTO BACKGROUND",
+        "role": "heading"
+      }
+    },
+    "snapshot": "- generic\n  - generic\n    - generic\n      - link \"United States Patent and Trademark Office\" [ref=e12]\n      - generic\n        - link \"About Us\" [ref=e35]\n        - link \"Careers\" [ref=e36]\n        - link \"Contact Us\" [ref=e37]\n    - StaticText \"Patent Maintenance Fees\"\n    - navigation\n      - list\n        - listitem [level=1]\n          - link \"Fees Self-Service Portal\" [ref=e41]\n        - listitem [level=1]\n          - button \"Financial Manager \" [expanded=false, ref=e42]\n            - StaticText \"Financial Manager \"\n        - listitem [level=1]\n          - button \"Patent Maintenance Fees \" [expanded=false, ref=e43]\n            - StaticText \"Patent Maintenance Fees \"\n      - list\n        - listitem \"Shopping Cart\" [level=1, ref=e38]\n          - link \"\" [ref=e44]\n            - StaticText \"\"\n        - listitem \"Sign In\" [level=1, ref=e39]\n          - link \"Sign In\" [ref=e45]\n        - listitem \"Help\" [level=1, ref=e40]\n          - link \"Help\" [ref=e46]\n  - generic\n    - link \"View and Pay Fees\" [ref=e11]\n    - heading \"View and Pay Fees\" [level=1, ref=e2]\n    - generic\n      - StaticText \"Follow the steps below to view the current status and pay the maintenance fee for one or many patents. \"\n      - link \"Sign in\" [ref=e3]\n      - StaticText \" or \"\n      - link \"create a uspto.gov account\" [ref=e4]\n      - StaticText \" to use the features.\"\n      - LineBreak \"\\n\"\n      - StaticText \"Visit the \"\n      - link \"Maintain your patent\" [ref=e5]\n      - StaticText \" page to learn more about patent maintenance fees, including how to update the entity status and reinstate an expired patent.\"\n    - generic\n      - StaticText \"STEP ONE\"\n      - StaticText \"Choose a Lookup Method\"\n      - StaticText \"Enter your patent and application numbers or upload a bulk file.\"\n      - StaticText \"STEP TWO\"\n      - StaticText \"Review Fees\"\n      - StaticText \"USPTO will calculate the fees and provide payment options if any are due.\"\n      - StaticText \"STEP THREE\"\n      - StaticText \"Download the Receipt\"\n      - StaticText \"Your receipt is available right after the payment has been made.\"\n    - paragraph\n      - StaticText \"To access Maintenance Fees, you must have a uspto.gov account. Signed in uspto.gov users may utilize features, including the use of stored payment methods from Financial Manager to easily make a payment with just a few clicks.\"\n  - generic\n    - link \"United States Patent and Trademark Office - An Agency of the Department of Commerce\" [ref=e6]\n      - StaticText \"United States Patent and Trademark Office - An Agency of the Department of Commerce\"\n    - StaticText \"United States Patent and Trademark Office - An Agency of the Department of Commerce\"\n  - generic\n    - heading \"BROWSE BY TOPIC\" [level=2, ref=e7]\n    - list\n      - listitem [level=1]\n        - link \"Patents\" [ref=e13]\n      - listitem [level=1]\n        - link \"Trademarks\" [ref=e14]\n      - listitem [level=1]\n        - link \"Learning & Resources\" [ref=e15]\n      - listitem [level=1]\n        - link \"About the USPTO\" [ref=e16]\n      - listitem [level=1]\n        - link \"Glossary\" [ref=e17]\n      - listitem [level=1]\n        - link \"Careers\" [ref=e18]\n      - listitem [level=1]\n        - link \"Contact Us\" [ref=e19]\n  - generic\n    - heading \"ABOUT THIS SITE\" [level=2, ref=e8]\n    - list\n      - listitem [level=1]\n        - link \"Accessibility\" [ref=e20]\n      - listitem [level=1]\n        - link \"Privacy Policy\" [ref=e21]\n      - listitem [level=1]\n        - link \"Terms of Use\" [ref=e22]\n      - listitem [level=1]\n        - link \"Security\" [ref=e23]\n      - listitem [level=1]\n        - link \"Systems Status\" [ref=e24]\n      - listitem [level=1]\n        - link \"Site Map\" [ref=e25]\n  - generic\n    - heading \"USPTO BACKGROUND\" [level=2, ref=e9]\n    - list\n      - listitem [level=1]\n        - link \"Federal Activity Inventory Reform Act (FAIR)\" [ref=e26]\n      - listitem [level=1]\n        - link \"USPTO Budget and Performance\" [ref=e27]\n      - listitem [level=1]\n        - link \"Freedom of Information Act\" [ref=e28]\n      - listitem [level=1]\n        - link \"Information Quality Guidelines\" [ref=e29]\n  - generic\n    - heading \"FEDERAL GOVERNMENT\" [level=2, ref=e10]\n    - list\n      - listitem [level=1]\n        - link \"Regulations.gov (link is external)\" [ref=e30]\n          - StaticText \"Regulations.gov\"\n          - StaticText \"(link is external)\"\n      - listitem [level=1]\n        - link \"StopFakes.gov (link is external)\" [ref=e31]\n          - StaticText \"StopFakes.gov\"\n          - StaticText \"(link is external)\"\n      - listitem [level=1]\n        - link \"USA.gov (link is external)\" [ref=e32]\n          - StaticText \"USA.gov\"\n          - StaticText \"(link is external)\"\n      - listitem [level=1]\n        - link \"Department of Commerce (link is external)\" [ref=e33]\n          - StaticText \"Department of Commerce\"\n          - StaticText \"(link is external)\"\n      - listitem [level=1]\n        - link \"Strategy Targeting Organized Piracy\" [ref=e34]\n- button \"Feedback\" [ref=e1]\n  - generic\n    - StaticText \"Feedback\"",
+    "browserPageId": "dda250a4-4d41-4a47-bc16-679aec4ac238"
+  },
+  "_meta": {
+    "runtimeId": "797f96e2-9d5c-496a-858d-608ddbe5e2e0"
+  }
+}

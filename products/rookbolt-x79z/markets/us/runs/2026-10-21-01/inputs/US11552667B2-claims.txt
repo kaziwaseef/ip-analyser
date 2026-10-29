@@ -1,0 +1,62 @@
+Claims (27)
+ What is claimed is:
+1. A mobile device support accessory comprising:
+a base attachable to a mobile device and including a first annular base protrusion extending longitudinally from the base and centered about an axis of rotation, the axis of rotation oriented perpendicular to the mobile device;
+a cap rotatably coupled to the base and including a first annular cap protrusion extending longitudinally from the cap, the first annular cap protrusion centered about the axis of rotation and disposed adjacent to the first annular base protrusion, the annular protrusions axially aligning the cap with reference to the base, and wherein the cap includes:
+a top perimetric face extending around the axis of rotation and providing a first engagement surface for a user's finger;
+an exterior perimetric face extending around the axis of rotation and providing a second engagement surface for the user's finger on an outside circumference of the accessory; and
+an aperture formed in the top perimetric face of the cap and centered about the axis of rotation;
+wherein an interior perimetric face of the accessory extending around the axis of rotation provides a third engagement surface for the user's finger on an inside circumference of the accessory.
+2. The mobile device support accessory of claim 1, further comprising:
+a support attached to one of the base, the cap, and a plug and configured to engage with one or more of the user's finger, a mount, and a mounting structure.
+3. The mobile device support accessory of claim 2, further comprising:
+a projection disposed laterally on an exterior of the cap, the projection limiting movement of the support by at least one degree of freedom.
+4. The mobile device support accessory of claim 2, wherein the support includes a rigid arc-shaped structure connected to one of the base, the cap and a plug at opposing distal ends of the rigid arc-shaped structure.
+5. The mobile device support accessory of claim 2, wherein the support is substantially flat and rigid.
+6. The mobile device support accessory of claim 2, wherein the support includes a flexible strap attached to one of the base, the cap, and a plug.
+7. The mobile device support accessory of claim 2, wherein the support is configured to extend away from the mobile device.
+8. The mobile device support accessory of claim 2, wherein the cap further includes a retaining protrusion extending laterally from an exterior of the cap, the retaining protrusion to selectively engage with the support to retain the support in position.
+9. The mobile device support accessory of claim 2, wherein the support includes a rigid annular structure attached to one of the base, the cap, and the plug.
+10. The mobile device support accessory of claim 1, wherein the base extends radially from the first annular base protrusion conforming to a portion of one or more exterior surfaces of the mobile device.
+11. The mobile device support accessory of claim 1, further comprising:
+an attachment interface for detachably attaching one of the base, the cap, and a plug to one of a housing, a case, and a cover for the mobile device.
+12. The mobile device support accessory of claim 1, further comprising:
+one or more attachment elements arranged around the axis of rotation within the accessory.
+13. The mobile device support accessory of claim 1, further comprising:
+a plug configured to detachably attach within the aperture formed in the accessory.
+14. The mobile device support accessory of claim 13, wherein the plug adds one or more of a storage device, battery, communication device, radio, meter, stand, tool, personal care item, electronic accessory, control device, sensor, recording device, optical device, container, toy, game, mount, support, accessory cover, and attachment element or feature to the accessory.
+15. The mobile device support accessory of claim 13, wherein the plug includes a flanged attachment feature extending radially from an exterior of the plug.
+16. The mobile device support accessory of claim 1, further comprising:
+one or more attachment features configured to detachably attach one or more of the cap, the base, a plug, a mount, a mounting structure, a support, an accessory cover, and an attachment element to the accessory.
+17. The mobile device support accessory of claim 1, further comprising:
+one or more attachment elements configured to detachably attach one or more of the cap, the base, a plug, a mount, a mounting structure, a support, an accessory cover, and an attachment feature to the accessory.
+18. The mobile device support accessory of claim 1, further comprising:
+an electronic port and cable extending therefrom, the cable having a distal end to be detachably connected to the mobile device, wherein the electronic port and the cable extending therefrom are configured to carry one or more of power and data between the accessory and the mobile device.
+19. The mobile device support accessory of claim 1, wherein the accessory includes a projection extending laterally from an exterior of the base, the projection providing an attachment to one or more of a support, an attachment interface, an attachment element, and an attachment feature.
+20. The mobile device support accessory of claim 1, further comprising:
+an accessory cover attachable to an exterior surface of one of the base, the cap, and a plug.
+21. The mobile device support accessory of claim 1, further comprising:
+an annular array of magnets centered about the axis of rotation and disposed in one or both of the base and the cap, the magnets coupling the base to the cap.
+22. The mobile device support accessory of claim 1, further comprising:
+an annular array of arc-shaped magnets centered about the axis of rotation and disposed in one or both of the base and the cap, the magnets axially aligned with and configured to detachably attach to a corresponding annular array of arc-shaped magnets disposed in one of a mobile device housing, a case, and a cover; the magnets rotatably coupling the accessory to one of the mobile device housing, case, and cover.
+23. The mobile device support accessory of claim 1, wherein the base is substantially incorporated into one of a mobile device case and a cover.
+24. A method for using a mobile device support accessory in conjunction with a mobile device comprising:
+attaching a base including a first annular base protrusion extending longitudinally from the base and centered about an axis of rotation to the mobile device, the axis of rotation oriented perpendicular to the mobile device; and
+rotating a cap with reference to the base about the axis of rotation, the cap rotatably coupled to the base and including a first annular cap protrusion extending longitudinally from the cap, the first annular cap protrusion centered about the axis of rotation and disposed adjacent to the first annular base protrusion, the annular protrusions axially aligning the cap with reference to the base, and wherein the cap includes:
+a top perimetric face extending around the axis of rotation and providing a first engagement surface for a user's finger;
+an exterior perimetric face extending around the axis of rotation and providing a second engagement surface for the user's finger on an outside circumference of the accessory; and
+an aperture formed in the top perimetric face of the cap and centered about the axis of rotation;
+wherein an interior perimetric face of the accessory extending around the axis of rotation provides a third engagement surface for the user's finger on an inside circumference of the accessory.
+25. The method of claim 24, further comprising:
+engaging a support attached to one of the base, the cap, and a plug with one or more of the user's finger, a mount, and a mounting structure.
+26. The method of claim 24, further comprising:
+attaching the cap to the base prior to the rotating operation.
+27. A mobile device support accessory comprising:
+a ring-shaped base to be attached to a mobile device and including a first annular base protrusion extending longitudinally from the base and centered about an axis of rotation, the axis of rotation oriented perpendicular to the mobile device;
+a ring-shaped cap including a first annular cap protrusion extending longitudinally from the cap, the first annular cap protrusion in contact with the first annular base protrusion, the annular protrusions having engagement features to secure the cap to the base, the first annular cap protrusion further centered about the axis of rotation rendering the cap rotatable with reference to the base, wherein the accessory includes opposing projections from an exterior of the cap, wherein the cap includes:
+a top perimetric face extending around the axis of rotation and providing a first engagement surface for a user's finger;
+an exterior perimetric face extending around the axis of rotation and providing a second engagement surface for the user's finger; and
+an aperture formed in the top perimetric face of the cap and centered about the axis of rotation;
+wherein an interior perimetric face of the accessory extending around the axis of rotation provides a third engagement surface for the user's finger on an inside circumference of the accessory;
+a first rigid arc-shaped support rotatably connected to the cap at opposing distal ends of the first rigid arc-shaped support; and
+a second rigid arc-shaped support rotatably connected to the cap at opposing distal ends of the second rigid arc-shaped support, wherein the opposing projections limit movement of the first and second supports by at least one degree of freedom.

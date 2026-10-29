@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-20",
+  "source_count": 101,
+  "source_files_hashed": 144,
+  "prior_and_new_frozen_files_checked": 160,
+  "local_navigation_links_checked": 293,
+  "product_recent_changes": 10,
+  "errors": [],
+  "pdf_visual_review": "Decisive goods/owner page2 inspected for all three official record exports; source bytes preserved",
+  "scope": "Run04 name review plus original-media plan; prior reports preserved",
+  "corrections": "Corrected the new media-plan source navigation link and reran local-link verification. All source and frozen-input hashes passed the preceding check."
+}

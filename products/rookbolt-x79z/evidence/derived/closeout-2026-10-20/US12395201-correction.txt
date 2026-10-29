@@ -1,0 +1,26 @@
+ 
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+CERTIFICATE OF CORRECTION 
+PATENT NO. 
+ 
+: 12,395,201 B2 
+APPLICATION NO. 
+: 18/151895 
+DATED  
+ 
+: August 19, 2025 
+INVENTOR(S)  
+: Brian Robert Balderston 
+ 
+It is certified that error appears in the above-identified patent and that said Letters Patent is hereby corrected as shown below: 
+In the Claims 
+ 
+Column 65, Line 16 Claim 74 - delete “a feature”. 
+Signed and Sealed this 
+Twenty-fifth Day of November, 2025   
+ 
+John A. Squires  
+Director of the United States Patent and Trademark Office 
+  
+Page 1 of 1 

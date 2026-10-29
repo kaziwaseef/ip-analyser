@@ -1,0 +1,86 @@
+Claims (
+20
+)
+What is claimed is:
+1
+. A dual-mode mobile phone holder, comprising:
+a housing;
+a clamping assembly, comprising two clamping plates oppositely arranged on the housing, at least one of the clamping plates being slidable with respect to the housing to clamp or release a mobile phone; and
+a magnetic attraction assembly, arranged on the housing and located between the two clamping plates.
+2
+. The dual-mode mobile phone holder according to
+claim 1
+, wherein the housing comprises a main body, and the clamping assembly further comprises a first spring, one end of which is connected to the main body and the other end is connected to at least one of the clamping plates.
+3
+. The dual-mode mobile phone holder according to
+claim 2
+, further comprising a switching component used for switching between a magnetic attraction mode and a clamping mode of the dual-mode mobile phone holder, wherein in the magnetic attraction mode, the switching component abuts against the clamping plates to keep the two clamping plates away from each other; and in the clamping mode, the switching component keeps away from the clamping plates, and the first spring drives at least one of the clamping plates to allow the two clamping plates to draw close to each other.
+4
+. The dual-mode mobile phone holder according to
+claim 3
+, wherein the main body defines a first sliding groove, and the clamping plates are slidably along the first sliding groove; and each of the clamping plates comprises a clamping portion and a sliding portion that is connected to the clamping portion and forms an included angle with the clamping portion, and the sliding portion is slidable along the first sliding groove.
+5
+. The dual-mode mobile phone holder according to
+claim 4
+, wherein an elongated hole is defined in each of the sliding portions and extends in a length direction of the corresponding sliding portion, stop pillars are arranged on the main body, and the elongated hole is disposed around the corresponding stop pillar.
+6
+. The dual-mode mobile phone holder according to
+claim 4
+, wherein each of the sliding portion is provided with a hooking portion connected to the corresponding first spring.
+7
+. The dual-mode mobile phone holder according to
+claim 6
+, wherein the main body defines a second sliding groove, the second sliding groove intersects with the first sliding groove, an opening of the second sliding groove is exposed on the main body; the switching component comprises a pressing portion and a limit portion connected to the pressing portion, the pressing portion is slidable along the second sliding groove, and the limit portion is provided with protrusions used for abutting against the clamping plates.
+8
+. The dual-mode mobile phone holder according to
+claim 7
+, wherein a stop end of the second sliding groove is provided with a positioning slot, the dual-mode mobile phone holder further comprises a second spring located in the positioning slot, and the limit portion abuts against the second spring.
+9
+. The dual-mode mobile phone holder according to
+claim 4
+, wherein the magnetic attraction assembly comprises a magnetic component and a buffer component, the magnetic component is connected to the main body and partially covers the sliding portions, and the buffer component is arranged around the magnetic component.
+10
+. A mobile phone expansion bracket, comprising an expansion frame and the dual-mode mobile phone holder according to
+claim 1
+, wherein the dual-mode mobile phone is provided with mounting plates, and the mounting plates are detachably connected to the expansion frame.
+11
+. A dual-mode mobile phone holder, comprising:
+a housing;
+a clamping assembly, comprising two clamping plates oppositely disposed on the housing, at least one of the clamping plates being slidable with respect to the housing to adjust a relative distance between the clamping plates for clamping or releasing a mobile phone; and
+a magnetic attraction assembly, arranged on the housing and located between the clamping plates for holding a mobile phone by magnetic attraction between the magnetic attraction assembly and the mobile phone.
+12
+. The dual-mode mobile phone holder according to
+claim 11
+, comprising a switching component used for switching between a magnetic attraction mode and a clamping mode, wherein the switching component abuts against the clamping plates to increase the relative distance between the clamping plates for disabling holding a mobile phone between the clamping plates in the magnetic attraction mode; and the switching component deviates from the clamping plates for enabling holding a mobile phone between the clamping plates in the clamping mode.
+13
+. The dual-mode mobile phone holder according to
+claim 12
+, wherein the housing comprises a main body, the main body defines a first sliding groove and a second sliding groove intersecting with the first sliding groove, at least one of the clamping plates is slidably arranged in the first sliding groove, the switching component comprises a pressing portion and a limit portion connected to the pressing portion, the pressing portion is slidable along the second sliding groove, and the limit portion is provided with protrusions for abutting against the clamping plates.
+14
+. The dual-mode mobile phone holder according to
+claim 13
+, wherein one end of the pressing portion protrudes from the main body via an opening of the second sliding groove, for manipulating the pressing portion to drive the limit portion to slide in the second sliding groove, the limit portion is arranged between the clamping plates, and the protrusions are arranged at two ends of the limit portion.
+15
+. The dual-mode mobile phone holder according to
+claim 14
+, wherein a positioning slot is defined at a stop end of the second sliding groove opposite to the opening, a second spring is located in the positioning slot, one end of the second spring abuts against the positioning slot, and the other end of the second spring abuts against a side face of the limit portion for elastically connected the limit portion and the housing.
+16
+. The dual-mode mobile phone holder according to
+claim 11
+, wherein the magnetic attraction assembly comprises a magnetic component for providing a magnetic force to attract a mobile phone and a buffer component, the magnetic component is a magnet or an electromagnetic coil, and the buffer component covers the magnetic component to prevent the magnetic component against direct contact with a mobile phone.
+17
+. The dual-mode mobile phone holder according to
+claim 16
+, wherein the magnetic attraction assembly comprises a second magnetic component arranged on a side of the housing facing away from the magnetic component.
+18
+. The dual-mode mobile phone holder according to
+claim 11
+, wherein the housing comprises a main body, the main body defines a first sliding groove, each clamping plate comprises a clamping portion vertically protruding from a top surface of the main body and a sliding portion connected to the clamping portion, the sliding portion is slidable along the first sliding groove, and the depth of the first sliding groove is equal to the thickness of the sliding portion.
+19
+. The dual-mode mobile phone holder according to
+claim 18
+, wherein an elongated hole is defined in each of the sliding portions extending in a length direction of the corresponding sliding portion, stop pillars are provided on the main body, the elongated hole is disposed around the corresponding stop pillar, the elongated hole is slidable with respect to the corresponding stop pillar so as to limit a moving direction of the corresponding clamping plate.
+20
+. The dual-mode mobile phone holder according to
+claim 18
+, wherein the clamping assembly further comprises at least one first spring, the sliding portion is provided with a hooking portion, one end of the first spring is connected to the main body, and the other end of the first spring is connected to the hooking portion.

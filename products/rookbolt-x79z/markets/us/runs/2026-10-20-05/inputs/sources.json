@@ -1,0 +1,187 @@
+[
+  {
+    "id": "S-001",
+    "title": "intake-2026-10-20.md",
+    "files": [
+      {
+        "path": "evidence/raw/intake-2026-10-20.md",
+        "bytes": 812,
+        "sha256": "01afbd17c50716fdafe8fe9ee1e4e7ab0ad5dc0d3d1818fed96e8a65d4114c27"
+      }
+    ],
+    "url": "User message, 2026-10-20",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-018",
+    "title": "supplier-package/X79Z details .pdf",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/X79Z details .pdf",
+        "bytes": 1872803,
+        "sha256": "f684ca5b2941b907fac16a0ab218954e0bd93e4cf16424b8f11c3c11ebf7b307"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/X79Z details .pdf",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-041",
+    "document": "US20230291234A1",
+    "title": "Wireless charging stand \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20230291234A1.google-patents.html",
+        "bytes": 280526,
+        "sha256": "449724fadc409db5deeb19912017eaaddb29fde5d6579426528464ed14606dab"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US20230291234A1.pdf",
+        "bytes": 718211,
+        "sha256": "2b3666589a5138d26515f2b13ecdebf2de99a337232f0e00b247877aba0dbb0f"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20230291234A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-077",
+    "title": "User configuration, sample, CAD and contract-rights confirmation",
+    "files": [
+      {
+        "path": "evidence/raw/configuration-confirmation-2026-10-20.md",
+        "bytes": 1270,
+        "sha256": "65a961411195acafd43663a949b82d0190c208c7a41688969bd6b65e1a57ce78"
+      }
+    ],
+    "url": "User conversation",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Three numbered answers",
+    "inspection": "User-confirmed facts; contract not provided; sample not inspected"
+  },
+  {
+    "id": "S-078",
+    "title": "Exact S-007 clip selected for inclusion",
+    "files": [
+      {
+        "path": "evidence/raw/clip-confirmation-2026-10-20.md",
+        "bytes": 429,
+        "sha256": "b867f2172c519b77a8ca86ec48a07296dba8ada484fbaf977f01005cc1dd668c"
+      }
+    ],
+    "url": "User question response",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Full question and answer",
+    "inspection": "Exact clip identity confirmed"
+  },
+  {
+    "id": "S-089",
+    "title": "User defers magnetic-head supplier request",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-request-deferred-2026-10-20.md",
+        "bytes": 792,
+        "sha256": "ff9a2ba2e076dd864219fb1592c225aa47856b3048c66f47d84ae5af3891576a"
+      }
+    ],
+    "url": "User conversation",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Full reply deferring supplier request until needed; availability after Friday",
+    "inspection": "User instruction and availability account; no scheduled contact, exclusion or risk acceptance"
+  },
+  {
+    "id": "S-101",
+    "title": "User selects original listing photos and videos",
+    "issuer": "User",
+    "url": "User conversation",
+    "retrieved": "2026-10-20",
+    "locator": "Full media-plan question and selected answer",
+    "files": [
+      {
+        "path": "evidence/raw/original-listing-media-plan-2026-10-20.md",
+        "bytes": 762,
+        "sha256": "0fff3d7c959761e94717b5e0d8765110a1d3408bbbf07b9a0d369c1c38ef424b"
+      }
+    ],
+    "inspection": "Prospective plan; actual assets/authorship/permissions not yet supplied"
+  },
+  {
+    "id": "S-102",
+    "title": "User confirms adhesive metal phone rings, manual and alcohol cleaning pads",
+    "issuer": "User",
+    "url": "User conversation",
+    "retrieved": "2026-10-20",
+    "locator": "Full additional box-contents reply",
+    "files": [
+      {
+        "path": "evidence/raw/box-contents-confirmation-2026-10-20.md",
+        "bytes": 766,
+        "sha256": "a81d716739cecc046db6f14443f4b7946b9825a54eb32be2f4cc56bc69aee02d"
+      }
+    ],
+    "inspection": "Inclusion confirmed; ring details, manual provenance and dashboard pad status not established"
+  },
+  {
+    "id": "S-103",
+    "title": "US20230291234A1 current document recheck",
+    "document": "US20230291234A1",
+    "issuer": "USPTO document via Google Patents",
+    "url": "https://patents.google.com/patent/US20230291234A1/en",
+    "retrieved": "2026-10-20",
+    "publication_date": "2023-09-14",
+    "locator": "Published claims19 and20; related claims1–18; publications and family tables",
+    "files": [
+      {
+        "path": "evidence/raw/public-ring-2026-10-20/US20230291234A1-refresh.html",
+        "bytes": 280526,
+        "sha256": "04a12e02753bac56e65a2c7be0341e7cfbf6127aa9961532f1618b248bb1e38b"
+      }
+    ],
+    "inspection": "Full published claims reopened; index displays Pending and no other publication in inspected table; not authoritative present prosecution/status verification. Official Patent Center web route yielded no readable case record"
+  },
+  {
+    "id": "S-104",
+    "title": "User confirms closed metal phone rings",
+    "issuer": "User",
+    "url": "User conversation",
+    "retrieved": "2026-10-20",
+    "locator": "Full ring-continuity answer",
+    "files": [
+      {
+        "path": "evidence/raw/closed-metal-ring-confirmation-2026-10-20.md",
+        "bytes": 520,
+        "sha256": "e62a12394fbd2d085f70614b768fce3ba6939d21a96bf13b74a99f8fbb93a7cd"
+      }
+    ],
+    "inspection": "Closed/continuous ring description confirmed by user; no dimensions or uniform-thickness evidence supplied"
+  },
+  {
+    "id": "S-105",
+    "title": "User plans an original included manual",
+    "issuer": "User",
+    "url": "User conversation",
+    "retrieved": "2026-10-20",
+    "locator": "Full manual-preparation question and answer",
+    "files": [
+      {
+        "path": "evidence/raw/original-manual-plan-2026-10-20.md",
+        "bytes": 592,
+        "sha256": "25eb032e6aab1fed36a551f32ea50c4bc87b8d2cd27d5bc5f9c4d43a5dd59692"
+      }
+    ],
+    "inspection": "Prospective original manual; finished content and provenance not supplied"
+  }
+]

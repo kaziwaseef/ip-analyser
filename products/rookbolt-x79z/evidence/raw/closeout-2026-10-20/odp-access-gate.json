@@ -1,0 +1,182 @@
+{
+  "id": "f103da76-59aa-46c9-97a7-4efcfa5c0928",
+  "ok": true,
+  "result": {
+    "origin": "https://data.uspto.gov/universal-dialog",
+    "refs": {
+      "e1": {
+        "name": "Feedback",
+        "role": "button"
+      },
+      "e10": {
+        "name": "Accessibility",
+        "role": "link"
+      },
+      "e11": {
+        "name": "Privacy Policy",
+        "role": "link"
+      },
+      "e12": {
+        "name": "Financial and Performance Data",
+        "role": "link"
+      },
+      "e13": {
+        "name": "Freedom of Information Act",
+        "role": "link"
+      },
+      "e14": {
+        "name": "Inspector General",
+        "role": "link"
+      },
+      "e15": {
+        "name": "NoFEAR Act",
+        "role": "link"
+      },
+      "e16": {
+        "name": "USA.gov",
+        "role": "link"
+      },
+      "e17": {
+        "name": "Register for ODP access page",
+        "role": "link"
+      },
+      "e18": {
+        "name": "USPTO.gov account FAQs",
+        "role": "link"
+      },
+      "e19": {
+        "name": "USPTO.gov account",
+        "role": "link"
+      },
+      "e2": {
+        "name": "Official government website",
+        "role": "region"
+      },
+      "e20": {
+        "name": "FAQs",
+        "role": "link"
+      },
+      "e21": {
+        "name": "Create a USPTO.gov account",
+        "role": "link"
+      },
+      "e22": {
+        "name": "MyUSPTO",
+        "role": "link"
+      },
+      "e23": {
+        "name": "Close",
+        "role": "button"
+      },
+      "e24": {
+        "name": "Enter your email to subscribe or update your preferences",
+        "role": "textbox"
+      },
+      "e25": {
+        "name": "Patents ",
+        "role": "button"
+      },
+      "e26": {
+        "name": "Trademarks ",
+        "role": "button"
+      },
+      "e27": {
+        "name": "Fees and payment ",
+        "role": "button"
+      },
+      "e28": {
+        "name": "Contact Us ",
+        "role": "button"
+      },
+      "e29": {
+        "name": "release notes",
+        "role": "link"
+      },
+      "e3": {
+        "name": "Here’s how you know keyboard_arrow_down",
+        "role": "button"
+      },
+      "e30": {
+        "name": "Subscribe",
+        "role": "button"
+      },
+      "e31": {
+        "name": "Sign in",
+        "role": "link"
+      },
+      "e32": {
+        "name": "Home",
+        "role": "link"
+      },
+      "e33": {
+        "name": "Data products ",
+        "role": "tab"
+      },
+      "e34": {
+        "name": "APIs ",
+        "role": "tab"
+      },
+      "e35": {
+        "name": "Support ",
+        "role": "tab"
+      },
+      "e36": {
+        "name": "Manage API Key ",
+        "role": "tab"
+      },
+      "e37": {
+        "name": "Register for ODP access ",
+        "role": "tab"
+      },
+      "e38": {
+        "name": "Sign into my USPTO.gov account",
+        "role": "button"
+      },
+      "e39": {
+        "name": "Create a USPTO.gov account",
+        "role": "link"
+      },
+      "e4": {
+        "name": "United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e40": {
+        "name": "Register for ODP access page",
+        "role": "link"
+      },
+      "e41": {
+        "name": "USPTO.gov account FAQs",
+        "role": "link"
+      },
+      "e42": {
+        "name": "Close and go back",
+        "role": "button"
+      },
+      "e5": {
+        "name": "header sub navigation",
+        "role": "navigation"
+      },
+      "e6": {
+        "name": "About the USPTO",
+        "role": "link"
+      },
+      "e7": {
+        "name": "Search for patents",
+        "role": "link"
+      },
+      "e8": {
+        "name": "Search for trademarks",
+        "role": "link"
+      },
+      "e9": {
+        "name": "US Department of Commerce",
+        "role": "link"
+      }
+    },
+    "snapshot": "- generic\n  - generic\n    - alert\n      - image \"key\"\n      - generic\n        - StaticText \"Open Data Portal Registration Requirement\"\n        - LineBreak \"\\n\"\n        - StaticText \"In order to access the Open Data Portal (ODP), starting on June 18, 2026, you'll need to sign in with a valid USPTO.gov account. Please sign in using the navigation below or create an account using the button in the banner. If you want more information on this initiative, please visit our \"\n        - link \"Register for ODP access page\" [ref=e17]\n        - StaticText \" and sign-in today. Additionally, your USPTO.gov account requires multi-factor authentication (MFA). For guidance on MFA setup, please visit the\"\n        - link \"USPTO.gov account FAQs\" [ref=e18]\n        - StaticText \".\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n        - StaticText \"Also, effective August 18, 2026, users are required to provide four additional fields of information on their USPTO profile. API keys for accounts that did not complete these fields by October 8, 2026, have been deactivated. To reactivate your key, update these fields in your \"\n        - link \"USPTO.gov account\" [ref=e19]\n        - StaticText \" settings by selecting the “Open Data Portal” section at the bottom of the left navigation menu. Next login to ODP and click on the Activate API Key button on the Manage API Key page. See our \"\n        - link \"FAQs\" [ref=e20]\n        - StaticText \" for details.\"\n      - link \"Create a USPTO.gov account\" [ref=e21]\n    - region \"Official government website\" [ref=e2]\n      - image \"U.S. flag\"\n      - paragraph\n        - StaticText \"An official website of the United States government\"\n      - button \"Here’s how you know keyboard_arrow_down\" [expanded=false, ref=e3]\n        - StaticText \"Here’s how you know \"\n        - StaticText \"keyboard_arrow_down\"\n    - banner\n      - navigation\n        - link \"United States Patent and Trademark Office\" [ref=e4]\n          - StaticText \"United States Patent and Trademark Office\"\n        - generic\n          - button \"Patents\" [expanded=false, ref=e25]\n            - StaticText \"Patents\"\n          - button \"Trademarks\" [expanded=false, ref=e26]\n            - StaticText \"Trademarks\"\n          - button \"Fees and payment\" [expanded=false, ref=e27]\n            - StaticText \"Fees and payment\"\n          - button \"Contact Us\" [expanded=false, ref=e28]\n            - StaticText \"Contact Us\"\n        - link \"MyUSPTO\" [ref=e22]\n        - link \"Sign in\" [ref=e31]\n      - image \"Open Data Portal logo\"\n      - generic\n        - navigation \"header sub navigation\" [ref=e5]\n          - generic\n            - list\n              - link \"Home\" [ref=e32]\n            - list\n              - tab \"Data products \" [expanded=false, ref=e33]\n                - StaticText \"Data products \"\n              - tab \"APIs \" [expanded=false, ref=e34]\n                - StaticText \"APIs \"\n              - tab \"Support \" [expanded=false, ref=e35]\n                - StaticText \"Support \"\n              - tab \"Manage API Key\" [ref=e36]\n              - tab \"Register for ODP access\" [ref=e37]\n        - alert\n          - paragraph\n            - image \"what's new\"\n            - StaticText \" \"\n            - strong\n              - StaticText \"What's New?\"\n            - StaticText \" Office Action Search and updated Petition Decisions are now available in ODP. See our latest \"\n            - link \"release notes\" [ref=e29]\n            - StaticText \" for more details.\"\n          - button \"Close\" [ref=e23]\n  - main\n    - dialog \"Open Data Portal Registration Requirement\"\n      - generic\n        - StaticText \"Open Data Portal Registration Requirement\"\n      - generic\n        - paragraph\n          - StaticText \"In order to access the Open Data Portal (ODP), starting on \"\n          - strong\n            - StaticText \"June 18, 2026\"\n          - StaticText \", you'll need to sign in with a valid USPTO.gov account. Please use the options below to either sign in or register for an account. This registration will allow the agency to improve the customer profile and lead to better future offerings. If you want more information on this initiative, please visit our \"\n          - link \"Register for ODP access page\" [ref=e40]\n          - StaticText \" and sign in today.\"\n        - paragraph\n          - StaticText \"When setting up your USPTO.gov account, be sure to complete enrollment in a secure multi-factor authentication (MFA) method. This is a required step to maintain access to your account. For guidance on MFA setup, please visit the\"\n          - link \"USPTO.gov account FAQs\" [ref=e41]\n          - StaticText \".\"\n        - button \"Sign into my USPTO.gov account\" [ref=e38]\n        - link \"Create a USPTO.gov account\" [ref=e39]\n        - separator\n        - button \"Close and go back\" [ref=e42]\n  - form\n  - contentinfo\n    - StaticText \"Receive updates from the USPTO\"\n    - form\n      - LabelText\n        - StaticText \"Enter your email to subscribe or update your preferences\"\n      - generic\n        - textbox \"Enter your email to subscribe or update your preferences\" [ref=e24]\n        - button \"Subscribe\" [ref=e30]\n    - generic\n      - link \"About the USPTO\" [ref=e6]\n      - StaticText \" • \"\n      - link \"Search for patents\" [ref=e7]\n      - StaticText \" • \"\n      - link \"Search for trademarks\" [ref=e8]\n    - link \"US Department of Commerce\" [ref=e9]\n    - link \"Accessibility\" [ref=e10]\n    - link \"Privacy Policy\" [ref=e11]\n    - link \"Financial and Performance Data\" [ref=e12]\n    - link \"Freedom of Information Act\" [ref=e13]\n    - link \"Inspector General\" [ref=e14]\n    - link \"NoFEAR Act\" [ref=e15]\n    - link \"USA.gov\" [ref=e16]\n    - image \"United States Patent and Trademark Office - An Agency of the Department of Commerce\"\n    - generic\n      - StaticText \"Follow us\"\n      - image \"Facebook\"\n      - image \"Instagram\"\n      - image \"Linkedin\"\n      - image \"Twitter\"\n      - image \"Youtube\"\n  - button \"Feedback\" [ref=e1]\n    - generic\n      - StaticText \"Feedback\"",
+    "browserPageId": "34ded33c-d5cd-4ba8-b287-55282db02380"
+  },
+  "_meta": {
+    "runtimeId": "797f96e2-9d5c-496a-858d-608ddbe5e2e0"
+  }
+}

@@ -1,0 +1,207 @@
+[
+  {
+    "snapshot": "inputs/README.md",
+    "source": "README.md",
+    "bytes": 4660,
+    "sha256": "2874fc7f2ff669d5def5011203e931cc81c394c19d73c50e3c21a11351880800"
+  },
+  {
+    "snapshot": "inputs/root-AGENTS.md",
+    "source": "AGENTS.md",
+    "bytes": 13971,
+    "sha256": "7e6eb098d94be7bffd29bd6294bbca9ba7d46d2e49ac646f32c0d37772624a77"
+  },
+  {
+    "snapshot": "inputs/product-AGENTS.md",
+    "source": "products/rookbolt-x79z/AGENTS.md",
+    "bytes": 4192,
+    "sha256": "2cc5667d95420f989fe4917a1a515e78d9a5011be2b5c5ad96be81f146d65324"
+  },
+  {
+    "snapshot": "inputs/product.md",
+    "source": "products/rookbolt-x79z/product.md",
+    "bytes": 6695,
+    "sha256": "a457748c9065f583e80275a63b55be18e268e0c727b916c3a1728ab1d95cde74"
+  },
+  {
+    "snapshot": "inputs/features.md",
+    "source": "products/rookbolt-x79z/features.md",
+    "bytes": 7215,
+    "sha256": "4011100f3576c83eb69f9a86415b07d4625c6f2999ea73897a720fb91b8047cd"
+  },
+  {
+    "snapshot": "inputs/rights.md",
+    "source": "products/rookbolt-x79z/rights.md",
+    "bytes": 31996,
+    "sha256": "a20c2b7b2b10908587e092d8ab52e491ca2a91dcee36f74cd60f0d60f1517b72"
+  },
+  {
+    "snapshot": "inputs/intake.md",
+    "source": "products/rookbolt-x79z/intake.md",
+    "bytes": 13266,
+    "sha256": "15756b6f07b5cdc87e0ceb55c57234f0b0d139db3e1352ca36cc64d8c0c0f2ef"
+  },
+  {
+    "snapshot": "inputs/overview.md",
+    "source": "products/rookbolt-x79z/overview.md",
+    "bytes": 26522,
+    "sha256": "7e468a18caec42deaceb5fd755b6472c0ef76cc80518e25e67f63aa9a0f86b61"
+  },
+  {
+    "snapshot": "inputs/source-register.json",
+    "source": "products/rookbolt-x79z/evidence/sources.json",
+    "bytes": 201554,
+    "sha256": "c802d69a8cdccfd83d9928eca73f3fe07cf72c6f87328def06dc642803a0488f"
+  },
+  {
+    "snapshot": "inputs/legal-foundations.md",
+    "source": "knowledge/legal-foundations.md",
+    "bytes": 33281,
+    "sha256": "758d80a37118aeacb019fa3b4a1285ff613893d05c4baacbf4b042f78f9f9d8d"
+  },
+  {
+    "snapshot": "inputs/rate-risk.md",
+    "source": "workflows/rate-risk.md",
+    "bytes": 4904,
+    "sha256": "8b15f5d80f3a49144a4555c2e8a9effa0fe1d60a9a96a5e2db04f665232c38cc"
+  },
+  {
+    "snapshot": "inputs/prompt-01.md",
+    "source": "prompts/01-scope-and-evidence.md",
+    "bytes": 1558,
+    "sha256": "2eb17d288bd8253869f68f48e9176e65f9d748e46b7a1bdb7740512fda3a7006"
+  },
+  {
+    "snapshot": "inputs/prompt-02.md",
+    "source": "prompts/02-patent-claims.md",
+    "bytes": 1866,
+    "sha256": "5b97583807e07cb7743984c2dd2fcf43a20b206e319eb40aae1e11bb5f34e3d5"
+  },
+  {
+    "snapshot": "inputs/prompt-06.md",
+    "source": "prompts/06-challenge.md",
+    "bytes": 4177,
+    "sha256": "c563c3e4584f9020a064778df37341f1d3ab84ea50ae7c0dee9c40ca8914b644"
+  },
+  {
+    "snapshot": "inputs/technical-account.md",
+    "source": "products/rookbolt-x79z/evidence/raw/technical-breakdown-and-supplier-draft-2026-10-21.md",
+    "bytes": 6445,
+    "sha256": "80f7b0e35cff6adb78fed486c6bb38bb4c609d7d696b797c6dc101f7c4c01457"
+  },
+  {
+    "source": "products/rookbolt-x79z/evidence/derived/closeout-2026-10-20/cad-sections.json",
+    "bytes": 13084988,
+    "sha256": "96dc583c86e9393eb0db6fd3518d45755c20b23fd8698eda9364e9e8bf793c5b",
+    "reuse": "original or existing derivative referenced in outputs; not overwritten"
+  },
+  {
+    "source": "products/rookbolt-x79z/evidence/raw/supplier-package/X79Z 3D File.stp",
+    "bytes": 13550775,
+    "sha256": "c1d0c77402efb8e981831766eb159e058598048761cae918aa2dd57ab0b3fbe5",
+    "reuse": "original or existing derivative referenced in outputs; not overwritten"
+  },
+  {
+    "source": "products/rookbolt-x79z/evidence/raw/public-parent/CN222884700U.pdf",
+    "bytes": 1129702,
+    "sha256": "ff1b0a126bc4a720895588466a2dc4d2b05cc04e90f641fdba4c82b453ed3a50",
+    "reuse": "original or existing derivative referenced in outputs; not overwritten"
+  },
+  {
+    "source": "products/rookbolt-x79z/evidence/derived/public-parent/CN222884700U.txt",
+    "bytes": 18672,
+    "sha256": "4b318476ea8a6d5a566350a82f6facf00e7bf8c5ef774ca89b523ac5b9371ef3",
+    "reuse": "original or existing derivative referenced in outputs; not overwritten"
+  },
+  {
+    "source": "products/rookbolt-x79z/evidence/raw/US11289248B2-identity-check-2026-10-21.json",
+    "bytes": 9816,
+    "sha256": "70de78ce00a307570234af5da686052f278e58ad7d0facce72e1f107fc392def",
+    "reuse": "original or existing derivative referenced in outputs; not overwritten"
+  },
+  {
+    "snapshot": "inputs/CN222884700U.txt",
+    "bytes": 18672,
+    "sha256": "4b318476ea8a6d5a566350a82f6facf00e7bf8c5ef774ca89b523ac5b9371ef3"
+  },
+  {
+    "snapshot": "inputs/US11552667B2-claims.txt",
+    "bytes": 9610,
+    "sha256": "59aa482671d4cf399c3e8205fa0a456a8962b5836721be3206d436258c96d547"
+  },
+  {
+    "snapshot": "inputs/US11710989B2-claims-new.txt",
+    "bytes": 7940,
+    "sha256": "97462fe0222aa4b96741d25667592da30e4f1b312f740a2b5f40470701445f94"
+  },
+  {
+    "snapshot": "inputs/US11722016B2-claims.txt",
+    "bytes": 5521,
+    "sha256": "85de8f6a19b6643026cc90e2fd40d6f1defd9b24fc08518f88c31ac50efaa8ee"
+  },
+  {
+    "snapshot": "inputs/US11796128B1-claims.txt",
+    "bytes": 4404,
+    "sha256": "d836181a46cbb01b17eb26bc3545dc1f62a4cf39c2de90f86028628253443efc"
+  },
+  {
+    "snapshot": "inputs/US12031565B2-claims.txt",
+    "bytes": 8155,
+    "sha256": "7a52ce703575cf6646ac5bf772c8ddf620a68545e113d61aaa01e9b98f93e00f"
+  },
+  {
+    "snapshot": "inputs/US12126194B2-claims.txt",
+    "bytes": 9449,
+    "sha256": "b90aa9b80cbddcb0048ce783590f11282fa95cbdede63419cfbcb350bc2c0270"
+  },
+  {
+    "snapshot": "inputs/US12395201-correction.txt",
+    "bytes": 568,
+    "sha256": "020bea7bb949f10bdaea7895176f53e6e75810eefc58e9521433000434297d5e"
+  },
+  {
+    "snapshot": "inputs/US12395201B2-claims.txt",
+    "bytes": 25265,
+    "sha256": "a5ab7df6cc70f930531c5cb45a3a97815dbe1054b51d764ea57b0ee71d9d7ee1"
+  },
+  {
+    "snapshot": "inputs/US12395201B2-official-claims.json",
+    "bytes": 31180,
+    "sha256": "c319e82081bb758831dcf9afe985a982410997f17bf4915072bc33a553fd4b87"
+  },
+  {
+    "snapshot": "inputs/US12549213-correction.txt",
+    "bytes": 755,
+    "sha256": "463ab34b4871b205e31e2dc92afff0f2113af7d32c4d9446f4bd3b7bf73b4335"
+  },
+  {
+    "snapshot": "inputs/US12549213B2-claims.txt",
+    "bytes": 7506,
+    "sha256": "27029c4a3abb9101bf267fb0b78285b33be8700ba0d9d27d5f13e2fd94f1c81a"
+  },
+  {
+    "snapshot": "inputs/US20250357961A1-claims.txt",
+    "bytes": 6011,
+    "sha256": "0b352d6106f0ed8cb432777485a11e58eb8e403accd06754e538933705452871"
+  },
+  {
+    "snapshot": "inputs/US9962040B2-claims.txt",
+    "bytes": 7335,
+    "sha256": "28adfd8109a24a423bdb1180d6f0939d9ea04200a511d7f51b158c16cf94ba65"
+  },
+  {
+    "snapshot": "inputs/cad-head-recheck.json",
+    "bytes": 2607,
+    "sha256": "abd06a90860b6b922749d639acde616d193a968dede5e4179d400b3f46f9f675"
+  },
+  {
+    "snapshot": "inputs/source-register-with-additions.json",
+    "bytes": 203067,
+    "sha256": "b3fddc4045ce55e294d9efb7c52c3cdfc7cf00fa9dd969bc845812df75705eb9"
+  },
+  {
+    "snapshot": "inputs/task.md",
+    "bytes": 559,
+    "sha256": "e647fd5b8d65df1076e3c82e90b515f18cf06c3fe5c9f81f29743fb608759a84"
+  }
+]

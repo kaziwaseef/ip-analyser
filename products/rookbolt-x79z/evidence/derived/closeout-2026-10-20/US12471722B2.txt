@@ -1,0 +1,1303 @@
+US12471722B2 - Suction cup holder 
+ - Google Patents
+US12471722B2 - Suction cup holder 
+ - Google Patents
+ Suction cup holder 
+Info
+ Publication number
+ US12471722B2
+ US12471722B2
+ US18/785,154
+ US202418785154A
+ US12471722B2
+ US 12471722 B2
+ US12471722 B2
+ US 12471722B2
+ US 202418785154 A
+ US202418785154 A
+ US 202418785154A
+ US 12471722 B2
+ US12471722 B2
+ US 12471722B2
+ Authority
+ US
+ United States
+ Prior art keywords
+ seat
+ fixed
+ suction
+ fixed seat
+ cup holder
+ Prior art date
+ 2024-06-24
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Active
+ Application number
+ US18/785,154
+ Other versions
+ US20240382020A1
+ (en
+ Inventor
+ Christophe Jakobuco
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Individual
+ Original Assignee
+ Individual
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2024-06-24
+ Filing date
+ 2024-07-26
+ Publication date
+ 2025-11-18
+ 2024-07-26
+ Application filed by Individual
+ filed
+ Critical
+ Individual
+ 2024-11-21
+ Publication of US20240382020A1
+ publication
+ Critical
+ patent/US20240382020A1/en
+ 2025-11-18
+ Application granted
+ granted
+ Critical
+ 2025-11-18
+ Publication of US12471722B2
+ publication
+ Critical
+ patent/US12471722B2/en
+ Status
+ Active
+ legal-status
+ Critical
+ Current
+ 2044-07-26
+ Anticipated expiration
+ legal-status
+ Critical
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ A—HUMAN NECESSITIES
+ A47—FURNITURE; DOMESTIC ARTICLES OR APPLIANCES; COFFEE MILLS; SPICE MILLS; SUCTION CLEANERS IN GENERAL
+ A47G—HOUSEHOLD OR TABLE EQUIPMENT
+ A47G1/00—Mirrors; Picture frames or the like, e.g. provided with heating, lighting or ventilating means
+ A47G1/16—Devices for hanging or supporting pictures, mirrors, or the like
+ A47G1/17—Devices for hanging or supporting pictures, mirrors, or the like using adhesives, suction or magnetism
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B47/00—Suction cups for attaching purposes; Equivalent means using adhesives
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/041—Allowing quick release of the apparatus
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F16M13/022—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle repositionable
+ H—ELECTRICITY
+ H01—ELECTRIC ELEMENTS
+ H01F—MAGNETS; INDUCTANCES; TRANSFORMERS; SELECTION OF MATERIALS FOR THEIR MAGNETIC PROPERTIES
+ H01F7/00—Magnets
+ H01F7/02—Permanent magnets [PM]
+ H01F7/0231—Magnetic circuits with PM for power or force generation
+ H01F7/0252—PM holding devices
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/04—Supports for telephone transmitters or receivers
+Definitions
+ the present disclosure
+ relates to the technical field of mobile phone holders, and in particular, to a suction cup holder.
+ Chinese patent CN207207935U
+ discloses a suction cup type in-vehicle mobile phone holder, which is fixed by a suction cup and a magnet.
+ a rotating shaft
+ is used to rotate relative to a base, with high suction capability.
+ the base, the rotating shaft, and the suction cup of the holder in a height direction
+ there is no overlap between the components, so the holder has a large volume and is not easy to carry around.
+ the present disclosure
+ aims to provide a suction cup holder, which solves the problem of a large volume of a suction cup holder.
+ a suction cup holder
+ includes a fixed seat and a magnetic suction seat; several suction cups are fixed on a bottom surface of the fixed seat; the fixed seat is circular; a first circular groove is provided on a top surface of the fixed seat; a mirror is fixed in the first circular groove; the magnetic suction seat is annular; the magnetic suction seat and the fixed seat are rotatably connected; the magnetic suction seat sleeves the fixed seat; an annular groove is provided on the magnetic suction seat; an opening of the annular groove faces away from the suction cups; and an annular magnet is fixed in the annular groove.
+ a second circular groove
+ is provided on the bottom surface of the fixed seat; the plurality of suction cups are fixed on a same circular silica gel seat; and the silica gel seat is fixed in the second circular groove.
+ one of the suction cups
+ is arranged in a center of the silica gel seat, and the remaining suction cups are annularly arranged along the silica gel seat.
+ the suction cup holder
+ includes a rotating shaft; a shaft hole is provided on the fixed seat; a mounting hole is provided on the magnetic suction seat; the rotating shaft is arranged in the shaft hole; two ends of the rotating shaft extend out of the shaft hole and are inserted into the mounting hole; the rotating shaft is fixed in the shaft hole and rotates in the mounting hole, or the rotating shaft is fixed in the mounting hole and rotates in the shaft hole.
+ the rotating shaft
+ includes two flower pins; the two flower pins are respectively inserted into two ends of the shaft hole and extend out of the two ends of the shaft hole; portions of the flower pins inserted into the shaft hole are sleeved with rubber tube sleeves; a fixing hole is provided on the magnetic suction seat; and portions of the flower pins extending out of the shaft hole are rotatably arranged in the mounting hole.
+ the fixed seat
+ extends to form a rotating portion; the rotating portion and the fixed seat are integrally formed; the shaft hole is provided on the rotating portion; the magnetic suction seat is an opened annular shape; and the rotating portion is arranged at an opening position of the magnetic suction seat.
+ the fixed seat
+ extends to form a toggle piece; the toggle piece and the fixed seat are integrally formed; and a groove configured to accommodate the toggle piece is provided on the magnetic suction seat.
+ annular decorative sheet
+ is fixed on the magnetic suction seat, and the decorative sheet is arranged at an opening position of the annular groove and covers the annular magnet.
+ a mirror surface of the mirror
+ faces the top surface of the fixed seat.
+ the magnetic suction seat
+ sleeves an outer ring of the fixed seat, so that the suction cup holder has a small volume and is convenient to store and carry. Meanwhile, the magnetic suction seat and the fixed seat can rotate each other, so that an angle between two fixed positions of the suction cup holder is adjustable, and the range of applications is wide.
+ FIG. 1
+ is a three-dimensional diagram of a suction cup holder of the present disclosure
+ FIG. 2
+ is another three-dimensional diagram of a suction cup holder of the present disclosure
+ FIG. 3
+ is a diagram of a use state of a suction cup holder of the present disclosure
+ FIG. 4
+ is a sectional view of a suction cup holder of the present disclosure in the state of FIG. 3 ;
+ FIG. 5
+ is cross-sectional view of a fixed seat in the present disclosure.
+ FIG. 6
+ is a structural exploded diagram of a suction cup holder of the present disclosure.
+ the present disclosure
+ provides a suction cup holder, including a fixed seat 1 and a magnetic suction seat 2 ; several suction cups 3 are fixed on a bottom surface of the fixed seat 1 ; the fixed seat 1 is circular; a first circular groove 4 is provided on a top surface of the fixed seat 1 ; a mirror 5 is fixed in the first circular groove 4 ; the magnetic suction seat 2 is annular; the magnetic suction seat 2 and the fixed seat 1 are rotatably connected; the magnetic suction seat 2 sleeves the fixed seat 1 ; an annular groove 6 is provided on the magnetic suction seat 2 ; an opening of the annular groove 6 faces away from the suction cups 3 ; and an annular magnet 7 is fixed in the annular groove 6 .
+ the fixed seat 1 and the magnetic suction seat 2
+ can rotate each other. This can be that the fixed seat 1 rotates relative to the magnetic suction seat 2 , or that the magnetic suction seat 2 rotates relative to the fixed seat 1 .
+ the annular magnetic suction seat 2
+ sleeves an outer ring of the fixed seat 1 .
+ the overall thickness and volume of the suction cup holder
+ are small, so that it is convenient to store and carry the suction cup holder.
+ the magnetic suction seat 2 rotating relative to the fixed seat 1
+ is taken as an example.
+ the plurality of suction cups 3
+ are sucked on a smooth plane, and the position of the fixed seat 1 is limited. At this time, the magnetic suction seat 2 is rotated to gradually move away from the fixed seat 1 and form an angle with the fixed seat 1 .
+ a mobile phone and other devices
+ are sucked on the magnetic suction seat 2 by the annular magnet 7 , and finally a rotation angle of the magnetic suction seat 2 is adjusted according to an actual need.
+ An angle of supporting of the suction cup holder
+ can be adjusted, so that the suction cup holder has a wider range of applications.
+ a mirror surface of the mirror 5
+ faces the top surface of the fixed seat 1 .
+ the mirror 5
+ adds a mirror function to the suction cup holder, and the mirror 5 just fills the first circular groove 4 according to its thickness.
+ a second circular groove 8
+ is provided on the bottom surface of the fixed seat 1 ; the plurality of suction cups 3 are fixed on a same circular silica gel seat 9 ; and the silica gel seat 9 is fixed in the second circular groove 8 .
+ the stability of the suction cups 3 on the fixed seat 1
+ is improved, and the silica gel seat 9 will not protrude out of the fixed seat 1 , making it more beautiful.
+ the overall thickness of the fixed seat 1
+ is roughly the same as that of the magnetic suction seat 2 . Therefore, when the magnetic suction seat 2 sleeves the fixed seat 1 , the magnetic suction seat 2 and the fixed seat 1 are integrated into a whole, seen from the appearance.
+ the suction cups 3 and the silica gel seat 9
+ are of integrated structures, both of which are supported by a silica gel material.
+ One of the suction cups 3
+ is arranged in a center of the silica gel seat 9 , and the remaining suction cups 3 are annularly arranged along the silica gel seat 9 .
+ the suction cup holder
+ further includes a rotating shaft 10 ; a shaft hole 13 is provided on the fixed seat 1 ; a mounting hole 14 is provided on the magnetic suction seat 2 ; the rotating shaft 10 is arranged in the shaft hole 13 ; two ends of the rotating shaft 10 extend out of the shaft hole 13 and are inserted into the mounting hole 14 ; the rotating shaft 10 is fixed in the shaft hole 13 and rotates in the mounting hole 14 , or the rotating shaft 10 is fixed in the mounting hole 14 and rotates in the shaft hole 13 .
+ the rotating shaft 10
+ includes two flower pins 11 ; the two flower pins 11 are respectively inserted into two ends of the shaft hole 13 and extend out of the two ends of the shaft hole 13 ; portions of the flower pins 11 inserted into the shaft hole 13 are sleeved with rubber tube sleeves 12 ; the rubber tube sleeves 12 are pressed between the flower pins 11 and hole walls of the shaft hole 13 to limit the positions of the flower pins 11 in the shaft hole 13 , so that the flower pins 11 are fixed in the shaft hole 13 , and the flower pins 11 are then fixed on the fixed seat 1 ; and portions of the flower pins 11 extending out of the shaft hole 13 are rotatably arranged in the mounting hole 14 .
+ the rotating shaft 10
+ is fixed in the shaft hole 13 and can rotate in the mounting hole 14 , achieving the relative rotation between the fixed seat 1 and the magnetic suction seat 2 .
+ the fixed seat 1
+ extends to form a rotating portion 15 ; the rotating portion 15 and the fixed seat 1 are integrally formed; the shaft hole 13 is provided on the rotating portion 15 ; the magnetic suction seat 2 is an opened annular shape; and the rotating portion 15 is arranged at an opening position of the magnetic suction seat 2 .
+ the fixed seat 1
+ extends to form a toggle piece 16 ; the toggle piece 16 and the fixed seat 1 are integrally formed; and a groove 17 configured to accommodate the toggle piece 16 is provided on the magnetic suction seat 2 .
+ the toggle piece 16
+ is arranged at the position of the groove 17 and extends out of the groove 17 .
+ the toggle piece 16
+ is pulled, it is easy to achieve the relative rotation between the fixed seat 1 and the magnetic suction seat 2 .
+ the toggle piece 16 , the fixed seat 1 , and the magnetic suction seat 2
+ are all made of zinc alloy materials.
+ the toggle piece 16
+ itself has certain hardness, so the toggle piece 16 can be used as a bottle opener for canned drink and another beverage.
+ An annular decorative sheet 18
+ is fixed on the magnetic suction seat 2 , and the decorative sheet 18 is arranged at an opening position of the annular groove 6 and covers the annular magnet 7 .
+ the decorative sheet 18
+ may be mylar, which is neater and more beautiful.
+ the magnetic suction seat 2
+ sleeves an outer ring of the fixed seat 1 , so that the suction cup holder has a small volume and is convenient to store and carry. Meanwhile, the magnetic suction seat 2 and the fixed seat 1 can rotate each other, so that an angle between two fixed positions of the suction cup holder is adjustable, and the range of applications is wide.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Physics & Mathematics
+ (AREA)
+ Electromagnetism
+ (AREA)
+ Power Engineering
+ (AREA)
+ Signal Processing
+ (AREA)
+ Hooks, Suction Cups, And Attachment By Adhesive Means
+ (AREA)
+Abstract
+The present disclosure discloses a suction cup holder, and relates to the technical field of mobile phone holders. The suction cup holder includes a fixed seat and a magnetic suction seat; several suction cups are fixed on a bottom surface of the fixed seat; the fixed seat is circular; a first circular groove is provided on a top surface of the fixed seat; a mirror is fixed in the first circular groove; the magnetic suction seat is annular; the magnetic suction seat and the fixed seat are rotatably connected; the magnetic suction seat can sleeve the fixed seat; an annular groove is provided on the magnetic suction seat; an opening of the annular groove faces away from the suction cups; and an annular magnet is fixed in the annular groove.
+Description
+ TECHNICAL FIELD
+The present disclosure relates to the technical field of mobile phone holders, and in particular, to a suction cup holder.
+ BACKGROUND
+At present, there are various types of suction cup holders on the market. For example, Chinese patent CN207207935U discloses a suction cup type in-vehicle mobile phone holder, which is fixed by a suction cup and a magnet. A rotating shaft is used to rotate relative to a base, with high suction capability. However, due to the independent arrangement of the base, the rotating shaft, and the suction cup of the holder in a height direction, there is no overlap between the components, so the holder has a large volume and is not easy to carry around.
+ SUMMARY
+For the defects in the prior art, the present disclosure aims to provide a suction cup holder, which solves the problem of a large volume of a suction cup holder.
+The objective of the present disclosure is achieved by the following technical solutions:
+A suction cup holder includes a fixed seat and a magnetic suction seat; several suction cups are fixed on a bottom surface of the fixed seat; the fixed seat is circular; a first circular groove is provided on a top surface of the fixed seat; a mirror is fixed in the first circular groove; the magnetic suction seat is annular; the magnetic suction seat and the fixed seat are rotatably connected; the magnetic suction seat sleeves the fixed seat; an annular groove is provided on the magnetic suction seat; an opening of the annular groove faces away from the suction cups; and an annular magnet is fixed in the annular groove.
+Further, a second circular groove is provided on the bottom surface of the fixed seat; the plurality of suction cups are fixed on a same circular silica gel seat; and the silica gel seat is fixed in the second circular groove.
+Further, one of the suction cups is arranged in a center of the silica gel seat, and the remaining suction cups are annularly arranged along the silica gel seat.
+Further, the suction cup holder includes a rotating shaft; a shaft hole is provided on the fixed seat; a mounting hole is provided on the magnetic suction seat; the rotating shaft is arranged in the shaft hole; two ends of the rotating shaft extend out of the shaft hole and are inserted into the mounting hole; the rotating shaft is fixed in the shaft hole and rotates in the mounting hole, or the rotating shaft is fixed in the mounting hole and rotates in the shaft hole.
+Further, the rotating shaft includes two flower pins; the two flower pins are respectively inserted into two ends of the shaft hole and extend out of the two ends of the shaft hole; portions of the flower pins inserted into the shaft hole are sleeved with rubber tube sleeves; a fixing hole is provided on the magnetic suction seat; and portions of the flower pins extending out of the shaft hole are rotatably arranged in the mounting hole.
+Further, the fixed seat extends to form a rotating portion; the rotating portion and the fixed seat are integrally formed; the shaft hole is provided on the rotating portion; the magnetic suction seat is an opened annular shape; and the rotating portion is arranged at an opening position of the magnetic suction seat.
+Further, the fixed seat extends to form a toggle piece; the toggle piece and the fixed seat are integrally formed; and a groove configured to accommodate the toggle piece is provided on the magnetic suction seat.
+Further, an annular decorative sheet is fixed on the magnetic suction seat, and the decorative sheet is arranged at an opening position of the annular groove and covers the annular magnet.
+Further, a mirror surface of the mirror faces the top surface of the fixed seat.
+Beneficial effects of the present disclosure are as follows:
+In the present disclosure, the magnetic suction seat sleeves an outer ring of the fixed seat, so that the suction cup holder has a small volume and is convenient to store and carry. Meanwhile, the magnetic suction seat and the fixed seat can rotate each other, so that an angle between two fixed positions of the suction cup holder is adjustable, and the range of applications is wide.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+ FIG. 1 is a three-dimensional diagram of a suction cup holder of the present disclosure;
+ FIG. 2 is another three-dimensional diagram of a suction cup holder of the present disclosure;
+ FIG. 3 is a diagram of a use state of a suction cup holder of the present disclosure;
+ FIG. 4 is a sectional view of a suction cup holder of the present disclosure in the state of FIG. 3 ;
+ FIG. 5 is cross-sectional view of a fixed seat in the present disclosure; and
+ FIG. 6 is a structural exploded diagram of a suction cup holder of the present disclosure.
+In the drawings: 1: fixed seat; 2: magnetic suction seat; 3: suction cup; 4: first circular groove; 5: mirror; 6: annular groove; 7: annular magnet; 8: second circular groove; 9: silica gel seat; 10: rotating shaft; 11: flower pin; 12: rubber tube sleeve; 13: shaft hole; 14: mounting hole; 15: rotating portion; 16: toggle piece; 17: groove; and 18: decorative sheet.
+ DETAILED DESCRIPTION OF THE EMBODIMENTS
+In order to make the technical problems to be solved, technical solutions, and beneficial effects of the present disclosure clearer, the following is a further detailed explanation of the present disclosure in conjunction with the accompanying drawings and embodiments.
+As shown in FIG. 1 to FIG. 6 , the present disclosure provides a suction cup holder, including a fixed seat 1 and a magnetic suction seat 2; several suction cups 3 are fixed on a bottom surface of the fixed seat 1; the fixed seat 1 is circular; a first circular groove 4 is provided on a top surface of the fixed seat 1; a mirror 5 is fixed in the first circular groove 4; the magnetic suction seat 2 is annular; the magnetic suction seat 2 and the fixed seat 1 are rotatably connected; the magnetic suction seat 2 sleeves the fixed seat 1; an annular groove 6 is provided on the magnetic suction seat 2; an opening of the annular groove 6 faces away from the suction cups 3; and an annular magnet 7 is fixed in the annular groove 6.
+The fixed seat 1 and the magnetic suction seat 2 can rotate each other. This can be that the fixed seat 1 rotates relative to the magnetic suction seat 2, or that the magnetic suction seat 2 rotates relative to the fixed seat 1.
+When the suction cup holder is not used, the annular magnetic suction seat 2 sleeves an outer ring of the fixed seat 1. The overall thickness and volume of the suction cup holder are small, so that it is convenient to store and carry the suction cup holder. The magnetic suction seat 2 rotating relative to the fixed seat 1 is taken as an example. To use the suction cup holder, the plurality of suction cups 3 are sucked on a smooth plane, and the position of the fixed seat 1 is limited. At this time, the magnetic suction seat 2 is rotated to gradually move away from the fixed seat 1 and form an angle with the fixed seat 1. A mobile phone and other devices are sucked on the magnetic suction seat 2 by the annular magnet 7, and finally a rotation angle of the magnetic suction seat 2 is adjusted according to an actual need. An angle of supporting of the suction cup holder can be adjusted, so that the suction cup holder has a wider range of applications.
+A mirror surface of the mirror 5 faces the top surface of the fixed seat 1. The mirror 5 adds a mirror function to the suction cup holder, and the mirror 5 just fills the first circular groove 4 according to its thickness.
+A second circular groove 8 is provided on the bottom surface of the fixed seat 1; the plurality of suction cups 3 are fixed on a same circular silica gel seat 9; and the silica gel seat 9 is fixed in the second circular groove 8. Through the arrangement, the stability of the suction cups 3 on the fixed seat 1 is improved, and the silica gel seat 9 will not protrude out of the fixed seat 1, making it more beautiful. Meanwhile, the overall thickness of the fixed seat 1 is roughly the same as that of the magnetic suction seat 2. Therefore, when the magnetic suction seat 2 sleeves the fixed seat 1, the magnetic suction seat 2 and the fixed seat 1 are integrated into a whole, seen from the appearance.
+The suction cups 3 and the silica gel seat 9 are of integrated structures, both of which are supported by a silica gel material. One of the suction cups 3 is arranged in a center of the silica gel seat 9, and the remaining suction cups 3 are annularly arranged along the silica gel seat 9.
+The suction cup holder further includes a rotating shaft 10; a shaft hole 13 is provided on the fixed seat 1; a mounting hole 14 is provided on the magnetic suction seat 2; the rotating shaft 10 is arranged in the shaft hole 13; two ends of the rotating shaft 10 extend out of the shaft hole 13 and are inserted into the mounting hole 14; the rotating shaft 10 is fixed in the shaft hole 13 and rotates in the mounting hole 14, or the rotating shaft 10 is fixed in the mounting hole 14 and rotates in the shaft hole 13.
+The rotating shaft 10 includes two flower pins 11; the two flower pins 11 are respectively inserted into two ends of the shaft hole 13 and extend out of the two ends of the shaft hole 13; portions of the flower pins 11 inserted into the shaft hole 13 are sleeved with rubber tube sleeves 12; the rubber tube sleeves 12 are pressed between the flower pins 11 and hole walls of the shaft hole 13 to limit the positions of the flower pins 11 in the shaft hole 13, so that the flower pins 11 are fixed in the shaft hole 13, and the flower pins 11 are then fixed on the fixed seat 1; and portions of the flower pins 11 extending out of the shaft hole 13 are rotatably arranged in the mounting hole 14. Through the arrangement, the rotating shaft 10 is fixed in the shaft hole 13 and can rotate in the mounting hole 14, achieving the relative rotation between the fixed seat 1 and the magnetic suction seat 2.
+The fixed seat 1 extends to form a rotating portion 15; the rotating portion 15 and the fixed seat 1 are integrally formed; the shaft hole 13 is provided on the rotating portion 15; the magnetic suction seat 2 is an opened annular shape; and the rotating portion 15 is arranged at an opening position of the magnetic suction seat 2.
+The fixed seat 1 extends to form a toggle piece 16; the toggle piece 16 and the fixed seat 1 are integrally formed; and a groove 17 configured to accommodate the toggle piece 16 is provided on the magnetic suction seat 2. When the magnetic suction seat 2 sleeves the fixed seat 1, the toggle piece 16 is arranged at the position of the groove 17 and extends out of the groove 17. When the toggle piece 16 is pulled, it is easy to achieve the relative rotation between the fixed seat 1 and the magnetic suction seat 2. Meanwhile, the toggle piece 16, the fixed seat 1, and the magnetic suction seat 2 are all made of zinc alloy materials. The toggle piece 16 itself has certain hardness, so the toggle piece 16 can be used as a bottle opener for canned drink and another beverage.
+An annular decorative sheet 18 is fixed on the magnetic suction seat 2, and the decorative sheet 18 is arranged at an opening position of the annular groove 6 and covers the annular magnet 7. The decorative sheet 18 may be mylar, which is neater and more beautiful.
+In the present disclosure, the magnetic suction seat 2 sleeves an outer ring of the fixed seat 1, so that the suction cup holder has a small volume and is convenient to store and carry. Meanwhile, the magnetic suction seat 2 and the fixed seat 1 can rotate each other, so that an angle between two fixed positions of the suction cup holder is adjustable, and the range of applications is wide.
+The above describes the preferred embodiments of the present disclosure and is not intended to limit the present disclosure. Any modification, equivalent replacement, and improvement made within the spirit and scope of the present disclosure shall fall within the protection scope of the present disclosure.
+Claims (9)
+ What is claimed is:
+ 1. A suction cup holder, comprising a fixed seat (1) and a magnetic suction seat (2), wherein several suction cups (3) are fixed on a bottom surface of the fixed seat (1); the fixed seat (1) is circular; a first circular groove (4) is provided on a top surface of the fixed seat (1); a mirror (5) is fixed in the first circular groove (4); the magnetic suction seat (2) is annular; the magnetic suction seat (2) and the fixed seat (1) are rotatably connected; the magnetic suction seat (2) sleeves the fixed seat (1); an annular groove (6) is provided on the magnetic suction seat (2); an opening of the annular groove (6) faces away from the suction cups (3); and an annular magnet (7) is fixed in the annular groove (6).
+ 2. The suction cup holder according to claim 1, wherein a second circular groove (8) is provided on the bottom surface of the fixed seat (1); the plurality of suction cups (3) are fixed on a same circular silica gel seat (9); and the silica gel seat (9) is fixed in the second circular groove (8).
+ 3. The suction cup holder according to claim 2, wherein one of the suction cups (3) is arranged in a center of the silica gel seat (9), and the remaining suction cups (3) are annularly arranged along the silica gel seat (9).
+ 4. The suction cup holder according to claim 1, further comprising a rotating shaft (10), wherein a shaft hole (13) is provided on the fixed seat (1); a mounting hole (14) is provided on the magnetic suction seat (2); the rotating shaft (10) is arranged in the shaft hole (13); two ends of the rotating shaft (10) extend out of the shaft hole (13) and are inserted into the mounting hole (14); the rotating shaft (10) is fixed in the shaft hole (13) and rotates in the mounting hole (14), or the rotating shaft (10) is fixed in the mounting hole (14) and rotates in the shaft hole (13).
+ 5. The suction cup holder according to claim 4, wherein the rotating shaft (10) comprises two pins (11); the two pins (11) are respectively inserted into two ends of the shaft hole (13) and extend out of the two ends of the shaft hole (13); portions of the pins (11) inserted into the shaft hole (13) are sleeved with rubber tube sleeves (12); the rubber tube sleeves (12) are pressed between the pins (11) and hole walls of the shaft hole (13); and portions of the pins (11) extending out of the shaft hole (13) are rotatably arranged in the mounting hole (14).
+ 6. The suction cup holder according to claim 4, wherein the fixed seat (1) extends to form a rotating portion (15); the rotating portion (15) and the fixed seat (1) are integrally formed; the shaft hole (13) is provided on the rotating portion (15); the magnetic suction seat (2) is an opened annular shape; and the rotating portion (15) is arranged at an opening position of the magnetic suction seat (2).
+ 7. The suction cup holder according to claim 1, wherein the fixed seat (1) extends to form a toggle piece (16); the toggle piece (16) and the fixed seat (1) are integrally formed; and a groove (17) configured to accommodate the toggle piece (16) is provided on the magnetic suction seat (2).
+ 8. The suction cup holder according to claim 1, wherein an annular decorative sheet (18) is fixed on the magnetic suction seat (2), and the decorative sheet (18) is arranged at an opening position of the annular groove (6) and covers the annular magnet (7).
+ 9. The suction cup holder according to claim 1, wherein a mirror surface of the mirror (5) faces in a same direction as the top surface of the fixed seat (1).
+ US18/785,154
+ 2024-06-24
+ 2024-07-26
+ Suction cup holder 
+ Active
+ US12471722B2
+ (en)
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN202421444905.3U
+ CN222706533U
+ (en)
+ 2024-06-24
+ 2024-06-24
+ Sucking disc support 
+ CN202421444905.3
+ 2024-06-24
+Publications (2)
+ Publication Number
+ Publication Date
+ US20240382020A1
+ US20240382020A1
+ (en)
+ 2024-11-21
+ US12471722B2
+ true
+ US12471722B2
+ (en)
+ 2025-11-18
+Family
+ID=93465185
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US18/785,154
+ Active
+ US12471722B2
+ (en)
+ 2024-06-24
+ 2024-07-26
+ Suction cup holder 
+Country Status (2)
+ Country
+ Link
+ US
+ (1)
+ US12471722B2
+ (en)
+ CN
+ (1)
+ CN222706533U
+ (en)
+Cited By (4)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20250389375A1
+ (en)
+ *
+ 2024-06-20
+ 2025-12-25
+ Shenzhen Yuecheng Yuezhen Industrial Development Co., Ltd
+ Mobile phone holder 
+ US20260012526A1
+ (en)
+ *
+ 2024-07-03
+ 2026-01-08
+ Dongguan Jinchi Electronic Technology Co., Ltd.
+ Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+ USD1117182S1
+ (en)
+ *
+ 2024-08-13
+ 2026-03-10
+ Haozhi Zhao
+ Phone stand 
+ USD1126957S1
+ (en)
+ *
+ 2024-06-24
+ 2026-05-19
+ Christophe Jakobuco
+ Phone holder 
+Families Citing this family (4)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN222271959U
+ (en)
+ *
+ 2024-06-05
+ 2024-12-31
+ 杰克布库·克里斯托夫
+ Automatic suction cup bracket
+ CN223040044U
+ (en)
+ *
+ 2024-08-06
+ 2025-06-27
+ 赵小辉
+ Suction cup bracket
+ USD1116734S1
+ (en)
+ *
+ 2024-09-30
+ 2026-03-10
+ Sijie Xiong
+ Bracket with suction cup 
+ USD1118515S1
+ (en)
+ *
+ 2025-03-25
+ 2026-03-17
+ Christophe Jakobuco
+ Wireless charger 
+Citations (47)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US3101566A
+ (en)
+ *
+ 1961-11-30
+ 1963-08-27
+ Quikey Mfg Co Inc
+ Vacuum cup holding device 
+ US4328942A
+ (en)
+ *
+ 1979-04-23
+ 1982-05-11
+ Betty Birnbaum
+ Display pedestal 
+ US6164976A
+ (en)
+ *
+ 1999-02-04
+ 2000-12-26
+ Mattel, Inc.
+ Creativity center apparatus and method for use 
+ WO2006005761A1
+ (en)
+ *
+ 2004-07-14
+ 2006-01-19
+ Robert Bosch Gmbh
+ Adapter for removably fastening sensors to a motor vehicle surface 
+ US20110127392A1
+ (en)
+ *
+ 2009-12-02
+ 2011-06-02
+ Qest Group Limited,
+ Collapsible and adjustable electronics support systems 
+ US20120145843A1
+ (en)
+ *
+ 2010-12-09
+ 2012-06-14
+ Chi-Pei Ho
+ Support Structure of a Digital Device 
+ GB2503749A
+ (en)
+ *
+ 2012-07-07
+ 2014-01-08
+ Daniel Bartlett
+ Tablet computer and smartphone holder that can rotate relative to the mount 
+ WO2014080159A1
+ (en)
+ *
+ 2012-11-20
+ 2014-05-30
+ Portaplay Toys Limited
+ A bracket 
+ US20140200081A1
+ (en)
+ *
+ 2013-01-14
+ 2014-07-17
+ Boe Optical Science And Technology Co., Ltd.
+ Game controller for resistive touch screen 
+ US8950715B2
+ (en)
+ *
+ 2012-04-24
+ 2015-02-10
+ Mao-Tung Chiu
+ Support apparatus 
+ US9723910B2
+ (en)
+ *
+ 2015-06-05
+ 2017-08-08
+ Bullz-I Inc.
+ Device attachment for holding a device 
+ FR3049835A1
+ (en)
+ *
+ 2016-04-06
+ 2017-10-13
+ Paul-Henri Robert
+ SYSTEM FOR ATTACHING AN ACCESSORY FOR A PORTABLE ELECTRONIC APPARATUS, AND ACCESSORY EQUIPPED WITH SUCH A SYSTEM
+ US20170302322A1
+ (en)
+ *
+ 2016-04-14
+ 2017-10-19
+ Aaron M. Harris
+ Universal rotating and locking tablet case 
+ DE202018003238U1
+ (en)
+ *
+ 2018-07-12
+ 2018-08-02
+ Wolfgang Adamek
+ Saugnapfhalter
+ US20180220782A1
+ (en)
+ *
+ 2017-02-08
+ 2018-08-09
+ Case-Mate, Inc.
+ Phone ring holder 
+ DE102017104068A1
+ (en)
+ *
+ 2017-02-27
+ 2018-08-30
+ German Auto Labs Gal Gmbh
+ Device for the removable attachment of devices to a holder
+ US20180359346A1
+ (en)
+ *
+ 2017-06-12
+ 2018-12-13
+ Lifang Chen
+ Rotary Ring Support 
+ US20190195417A1
+ (en)
+ *
+ 2017-12-21
+ 2019-06-27
+ Jonathan Caleb Kwasniewski
+ Mobile Device Mount 
+ US10419054B1
+ (en)
+ *
+ 2018-03-05
+ 2019-09-17
+ Handstands Promo, Llc
+ Mobile device holder 
+ US10581480B1
+ (en)
+ *
+ 2018-09-20
+ 2020-03-03
+ Jin Woo Kim
+ Rotatable mobile phone shell 
+ US20200127694A1
+ (en)
+ *
+ 2018-10-23
+ 2020-04-23
+ ESI Cases & Accessories
+ Movable attachment apparatus for holding a portable electronic device 
+ US10703297B1
+ (en)
+ *
+ 2016-08-26
+ 2020-07-07
+ Apple Inc.
+ System for holding devices in a passenger vehicle 
+ US20200235770A1
+ (en)
+ *
+ 2017-09-21
+ 2020-07-23
+ Young Chan Yim
+ Mobile device mounting apparatus 
+ US20200292128A1
+ (en)
+ 2019-03-11
+ 2020-09-17
+ Kiarash Ahi
+ Mobile Phone Holder 
+ US20200329133A1
+ (en)
+ *
+ 2019-01-24
+ 2020-10-15
+ Sharjeel Surani
+ Accessory for Attachment to a Portable Interactive Programmable Device 
+ DE202020004047U1
+ (en)
+ *
+ 2020-09-25
+ 2020-11-11
+ Heinemack Gmbh
+ Holding and / or fastening device with at least one suction element
+ US20210301976A1
+ (en)
+ *
+ 2018-08-02
+ 2021-09-30
+ Popsockets Llc
+ Mobile accessory grip with magnetic locking feature 
+ US20210353051A1
+ (en)
+ *
+ 2020-05-18
+ 2021-11-18
+ Phifer Incorporated
+ Support devices for holding items and methods of making and using the same 
+ CN114051065A
+ (en)
+ *
+ 2021-11-11
+ 2022-02-15
+ 四川川流汇通贸易有限公司
+ Portable support is inhaled to two-sided magnetism 
+ US11265035B1
+ (en)
+ *
+ 2021-02-08
+ 2022-03-01
+ Ping Zhang
+ Mobile device holder 
+ US20220094379A1
+ (en)
+ *
+ 2020-09-22
+ 2022-03-24
+ Brian Robert Balderston
+ Adaptive support accessory for mobile devices 
+ US20220228709A1
+ (en)
+ *
+ 2021-01-16
+ 2022-07-21
+ Vitec Imaging Solutions Spa
+ Magnetic Support Structures For Electronic Devices 
+ US20220378205A1
+ (en)
+ *
+ 2021-05-27
+ 2022-12-01
+ Stm Management Pty Ltd
+ Bracket for mounting a tablet shaped device 
+ US11563838B1
+ (en)
+ *
+ 2021-08-31
+ 2023-01-24
+ Douglas Sham
+ Folding phone-support device 
+ US20230228290A1
+ (en)
+ *
+ 2022-01-14
+ 2023-07-20
+ Mighty Ventures, Inc.
+ Universal quick-release vacuum connector 
+ US20230328164A1
+ (en)
+ *
+ 2022-04-06
+ 2023-10-12
+ U2O Global Co., Ltd.
+ Mobile phone holder 
+ US11796128B1
+ (en)
+ *
+ 2023-06-26
+ 2023-10-24
+ Guangdong Shuowei Technology Co., Ltd.
+ Two-in-one multi-functional magnetic bracket 
+ US20230403352A1
+ (en)
+ *
+ 2022-01-26
+ 2023-12-14
+ Scosche Industries, Inc.
+ Container magnetic device mount 
+ US20230412715A1
+ (en)
+ *
+ 2020-11-08
+ 2023-12-21
+ Invention City, Inc.
+ Cell phone versatile mount 
+ US20240053840A1
+ (en)
+ *
+ 2021-04-30
+ 2024-02-15
+ Popsockets Llc
+ System and method for providing a magnetic-based controller for a mobile electronic device 
+ US11940090B1
+ (en)
+ *
+ 2021-09-03
+ 2024-03-26
+ E-filliate, Inc.
+ Magnetic ring stand and bottle opener for smartphone 
+ TW202419016A
+ (en)
+ *
+ 2022-11-07
+ 2024-05-16
+ 愛進化科技股份有限公司
+ Container for containing food or liquid and attachment and lid thereof 
+ CN221151747U
+ (en)
+ *
+ 2023-10-13
+ 2024-06-14
+ 深圳市万欣荣模具塑胶有限公司
+ Electronic equipment support frame and protective housing of electronic equipment support frame 
+ US12031669B2
+ (en)
+ *
+ 2020-10-21
+ 2024-07-09
+ Rokform Ip Llc
+ Interlocking magnetic device mount with foldable ring stand 
+ US20240380427A1
+ (en)
+ *
+ 2023-05-12
+ 2024-11-14
+ Hans Dose
+ Device for securing a phone 
+ US12207716B1
+ (en)
+ *
+ 2023-10-31
+ 2025-01-28
+ Shenzhen Leaderment Technology Co., Ltd.
+ Double-ring magnetic mobile phone holder 
+ TW202526567A
+ (en)
+ *
+ 2023-10-31
+ 2025-07-01
+ 愛進化科技股份有限公司
+ Attachment connector, case and attachment for mobile electronic device 
+ 2024
+ 2024-06-24
+ CN
+ CN202421444905.3U
+ patent/CN222706533U/en
+ active
+ Active
+ 2024-07-26
+ US
+ US18/785,154
+ patent/US12471722B2/en
+ active
+ Active
+Patent Citations (49)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US3101566A
+ (en)
+ *
+ 1961-11-30
+ 1963-08-27
+ Quikey Mfg Co Inc
+ Vacuum cup holding device 
+ US4328942A
+ (en)
+ *
+ 1979-04-23
+ 1982-05-11
+ Betty Birnbaum
+ Display pedestal 
+ US6164976A
+ (en)
+ *
+ 1999-02-04
+ 2000-12-26
+ Mattel, Inc.
+ Creativity center apparatus and method for use 
+ WO2006005761A1
+ (en)
+ *
+ 2004-07-14
+ 2006-01-19
+ Robert Bosch Gmbh
+ Adapter for removably fastening sensors to a motor vehicle surface 
+ US20110127392A1
+ (en)
+ *
+ 2009-12-02
+ 2011-06-02
+ Qest Group Limited,
+ Collapsible and adjustable electronics support systems 
+ US20120145843A1
+ (en)
+ *
+ 2010-12-09
+ 2012-06-14
+ Chi-Pei Ho
+ Support Structure of a Digital Device 
+ US8950715B2
+ (en)
+ *
+ 2012-04-24
+ 2015-02-10
+ Mao-Tung Chiu
+ Support apparatus 
+ GB2503749A
+ (en)
+ *
+ 2012-07-07
+ 2014-01-08
+ Daniel Bartlett
+ Tablet computer and smartphone holder that can rotate relative to the mount 
+ WO2014080159A1
+ (en)
+ *
+ 2012-11-20
+ 2014-05-30
+ Portaplay Toys Limited
+ A bracket 
+ US20140200081A1
+ (en)
+ *
+ 2013-01-14
+ 2014-07-17
+ Boe Optical Science And Technology Co., Ltd.
+ Game controller for resistive touch screen 
+ US9723910B2
+ (en)
+ *
+ 2015-06-05
+ 2017-08-08
+ Bullz-I Inc.
+ Device attachment for holding a device 
+ FR3049835A1
+ (en)
+ *
+ 2016-04-06
+ 2017-10-13
+ Paul-Henri Robert
+ SYSTEM FOR ATTACHING AN ACCESSORY FOR A PORTABLE ELECTRONIC APPARATUS, AND ACCESSORY EQUIPPED WITH SUCH A SYSTEM
+ US20170302322A1
+ (en)
+ *
+ 2016-04-14
+ 2017-10-19
+ Aaron M. Harris
+ Universal rotating and locking tablet case 
+ US10703297B1
+ (en)
+ *
+ 2016-08-26
+ 2020-07-07
+ Apple Inc.
+ System for holding devices in a passenger vehicle 
+ US20180220782A1
+ (en)
+ *
+ 2017-02-08
+ 2018-08-09
+ Case-Mate, Inc.
+ Phone ring holder 
+ DE102017104068A1
+ (en)
+ *
+ 2017-02-27
+ 2018-08-30
+ German Auto Labs Gal Gmbh
+ Device for the removable attachment of devices to a holder
+ US20180359346A1
+ (en)
+ *
+ 2017-06-12
+ 2018-12-13
+ Lifang Chen
+ Rotary Ring Support 
+ US20200235770A1
+ (en)
+ *
+ 2017-09-21
+ 2020-07-23
+ Young Chan Yim
+ Mobile device mounting apparatus 
+ US20190195417A1
+ (en)
+ *
+ 2017-12-21
+ 2019-06-27
+ Jonathan Caleb Kwasniewski
+ Mobile Device Mount 
+ US10419054B1
+ (en)
+ *
+ 2018-03-05
+ 2019-09-17
+ Handstands Promo, Llc
+ Mobile device holder 
+ DE202018003238U1
+ (en)
+ *
+ 2018-07-12
+ 2018-08-02
+ Wolfgang Adamek
+ Saugnapfhalter
+ US20210301976A1
+ (en)
+ *
+ 2018-08-02
+ 2021-09-30
+ Popsockets Llc
+ Mobile accessory grip with magnetic locking feature 
+ US10581480B1
+ (en)
+ *
+ 2018-09-20
+ 2020-03-03
+ Jin Woo Kim
+ Rotatable mobile phone shell 
+ US20200127694A1
+ (en)
+ *
+ 2018-10-23
+ 2020-04-23
+ ESI Cases & Accessories
+ Movable attachment apparatus for holding a portable electronic device 
+ US20200329133A1
+ (en)
+ *
+ 2019-01-24
+ 2020-10-15
+ Sharjeel Surani
+ Accessory for Attachment to a Portable Interactive Programmable Device 
+ US20210088181A1
+ (en)
+ 2019-03-11
+ 2021-03-25
+ Kiarash Ahi
+ Mobile Phone Holder 
+ US20210140583A1
+ (en)
+ 2019-03-11
+ 2021-05-13
+ Kiarash Ahi
+ Mobile Phone Holder 
+ US20200292128A1
+ (en)
+ 2019-03-11
+ 2020-09-17
+ Kiarash Ahi
+ Mobile Phone Holder 
+ US20210353051A1
+ (en)
+ *
+ 2020-05-18
+ 2021-11-18
+ Phifer Incorporated
+ Support devices for holding items and methods of making and using the same 
+ US20220094379A1
+ (en)
+ *
+ 2020-09-22
+ 2022-03-24
+ Brian Robert Balderston
+ Adaptive support accessory for mobile devices 
+ DE202020004047U1
+ (en)
+ *
+ 2020-09-25
+ 2020-11-11
+ Heinemack Gmbh
+ Holding and / or fastening device with at least one suction element
+ US12031669B2
+ (en)
+ *
+ 2020-10-21
+ 2024-07-09
+ Rokform Ip Llc
+ Interlocking magnetic device mount with foldable ring stand 
+ US20230412715A1
+ (en)
+ *
+ 2020-11-08
+ 2023-12-21
+ Invention City, Inc.
+ Cell phone versatile mount 
+ US20220228709A1
+ (en)
+ *
+ 2021-01-16
+ 2022-07-21
+ Vitec Imaging Solutions Spa
+ Magnetic Support Structures For Electronic Devices 
+ US11265035B1
+ (en)
+ *
+ 2021-02-08
+ 2022-03-01
+ Ping Zhang
+ Mobile device holder 
+ US20240053840A1
+ (en)
+ *
+ 2021-04-30
+ 2024-02-15
+ Popsockets Llc
+ System and method for providing a magnetic-based controller for a mobile electronic device 
+ US20220378205A1
+ (en)
+ *
+ 2021-05-27
+ 2022-12-01
+ Stm Management Pty Ltd
+ Bracket for mounting a tablet shaped device 
+ US11563838B1
+ (en)
+ *
+ 2021-08-31
+ 2023-01-24
+ Douglas Sham
+ Folding phone-support device 
+ US11940090B1
+ (en)
+ *
+ 2021-09-03
+ 2024-03-26
+ E-filliate, Inc.
+ Magnetic ring stand and bottle opener for smartphone 
+ CN114051065A
+ (en)
+ *
+ 2021-11-11
+ 2022-02-15
+ 四川川流汇通贸易有限公司
+ Portable support is inhaled to two-sided magnetism 
+ US20230228290A1
+ (en)
+ *
+ 2022-01-14
+ 2023-07-20
+ Mighty Ventures, Inc.
+ Universal quick-release vacuum connector 
+ US20230403352A1
+ (en)
+ *
+ 2022-01-26
+ 2023-12-14
+ Scosche Industries, Inc.
+ Container magnetic device mount 
+ US20230328164A1
+ (en)
+ *
+ 2022-04-06
+ 2023-10-12
+ U2O Global Co., Ltd.
+ Mobile phone holder 
+ TW202419016A
+ (en)
+ *
+ 2022-11-07
+ 2024-05-16
+ 愛進化科技股份有限公司
+ Container for containing food or liquid and attachment and lid thereof 
+ US20240380427A1
+ (en)
+ *
+ 2023-05-12
+ 2024-11-14
+ Hans Dose
+ Device for securing a phone 
+ US11796128B1
+ (en)
+ *
+ 2023-06-26
+ 2023-10-24
+ Guangdong Shuowei Technology Co., Ltd.
+ Two-in-one multi-functional magnetic bracket 
+ CN221151747U
+ (en)
+ *
+ 2023-10-13
+ 2024-06-14
+ 深圳市万欣荣模具塑胶有限公司
+ Electronic equipment support frame and protective housing of electronic equipment support frame 
+ US12207716B1
+ (en)
+ *
+ 2023-10-31
+ 2025-01-28
+ Shenzhen Leaderment Technology Co., Ltd.
+ Double-ring magnetic mobile phone holder 
+ TW202526567A
+ (en)
+ *
+ 2023-10-31
+ 2025-07-01
+ 愛進化科技股份有限公司
+ Attachment connector, case and attachment for mobile electronic device 
+Cited By (4)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20250389375A1
+ (en)
+ *
+ 2024-06-20
+ 2025-12-25
+ Shenzhen Yuecheng Yuezhen Industrial Development Co., Ltd
+ Mobile phone holder 
+ USD1126957S1
+ (en)
+ *
+ 2024-06-24
+ 2026-05-19
+ Christophe Jakobuco
+ Phone holder 
+ US20260012526A1
+ (en)
+ *
+ 2024-07-03
+ 2026-01-08
+ Dongguan Jinchi Electronic Technology Co., Ltd.
+ Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+ USD1117182S1
+ (en)
+ *
+ 2024-08-13
+ 2026-03-10
+ Haozhi Zhao
+ Phone stand 
+Also Published As
+ Publication number
+ Publication date
+ US20240382020A1
+ (en)
+ 2024-11-21
+ CN222706533U
+ (en)
+ 2025-04-01
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US20240382020A1
+ (en)
+ 2024-11-21
+ Suction cup holder 
+ US20240138553A1
+ (en)
+ 2024-05-02
+ Ring holder 
+ US20230328164A1
+ (en)
+ 2023-10-12
+ Mobile phone holder 
+ US11985264B1
+ (en)
+ 2024-05-14
+ Mobile phone stand with exhibition part 
+ CN111133739A
+ (en)
+ 2020-05-08
+ Mobile device placement device 
+ CN216414352U
+ (en)
+ 2022-04-29
+ Folding support 
+ CN201487495U
+ (en)
+ 2010-05-26
+ swivel base for tv
+ JP3158753U
+ (en)
+ 2010-04-15
+ Golf ball marker
+ CN212137745U
+ (en)
+ 2020-12-11
+ Double-ring support 
+ CN216852037U
+ (en)
+ 2022-06-28
+ Ring is inhaled to cell-phone magnetism 
+ JPH11205427A
+ (en)
+ 1999-07-30
+ Cordless phone charger
+ CN216016921U
+ (en)
+ 2022-03-11
+ Portable magnet adsorbs cell phone stand 
+ CN216034145U
+ (en)
+ 2022-03-15
+ Vehicle-mounted foldable mobile phone support 
+ US5752686A
+ (en)
+ 1998-05-19
+ Beverage container holder with pivoting collar 
+ CN217899441U
+ (en)
+ 2022-11-25
+ Folding support and protective sleeve 
+ CN211130688U
+ (en)
+ 2020-07-31
+ Tea partition 
+ CN220586327U
+ (en)
+ 2024-03-12
+ Mobile phone shell 
+ CN212909640U
+ (en)
+ 2021-04-06
+ Extremely simple multifunctional gyro mobile phone ring buckle 
+ CN220173293U
+ (en)
+ 2023-12-12
+ But protective housing of multi-angle support 
+ CN219329768U
+ (en)
+ 2023-07-11
+ Rotating-structure, mobile phone support and mobile phone shell 
+ CN221553303U
+ (en)
+ 2024-08-16
+ Mobile phone support device 
+ CN221121497U
+ (en)
+ 2024-06-11
+ Support that facilitates use 
+ CN222929543U
+ (en)
+ 2025-06-03
+ Structure of clamping magnetic cup cover 
+ CN221709890U
+ (en)
+ 2024-09-13
+ Air bag support with sucking disc 
+ CN206759540U
+ (en)
+ 2017-12-15
+ Rotatable mobile phone finger ring 
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2024-07-26
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2024-08-08
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2024-08-20
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION
+ 2025-09-08
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ ALLOWED -- NOTICE OF ALLOWANCE NOT YET MAILED
+ 2025-09-09
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+ 2025-10-27
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+ 2025-11-05
+ STCF
+ Information on status: patent grant
+ Free format text:
+ PATENTED CASE

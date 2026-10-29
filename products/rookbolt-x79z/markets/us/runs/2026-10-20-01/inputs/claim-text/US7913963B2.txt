@@ -1,0 +1,41 @@
+Claims (
+10
+)
+1. A device stand comprising:
+a suction base comprising:
+a suction piece comprising a membrane and a shaft extending upwardly from the membrane;
+a fixing structure configured for fitting over the suction piece, comprising a shaft housing and a sleeve extending upwardly from the shaft housing, wherein the sleeve defines at least one axial running slot;
+a face cam fitting over the sleeve of the fixing structure and defining a face thereon;
+at least one pin, wherein one end of each pin engages with the face of the face cam, the other end of each of the pins passes through one of the at least one axial running slot of the sleeve and connects with the shaft of the suction piece; and
+a fixing cap mounted on an upper end of the sleeve; and
+a load-supporting module mounted on the suction base.
+2. The device stand of
+claim 1
+, wherein the face comprises depressed grooves on an upper end thereof for engaging with the at least one pin.
+3. The device stand of
+claim 1
+, further comprising a rotatable sleeve fitting over the face cam, configured for driving the face cam to rotate.
+4. The device stand of
+claim 1
+, wherein an upper end of the sleeve is closed.
+5. The device stand of
+claim 4
+, further comprising a spring disposed between the upper end of the sleeve and the shaft.
+6. A suction base of a device stand, the suction base comprising:
+a suction piece comprising a membrane and a shaft extending upwardly from the membrane;
+a fixing structure configured for fitting over the suction piece, comprising a shaft housing and a sleeve extending upwardly from the shaft housing, wherein the sleeve defines a plurality of axial running slots;
+a face cam fitting over the sleeve of the fixing structure and defining a face thereon;
+a plurality of pins, wherein one end of each of the pins engages with the face of the face cam, the other end of each of the pins passes through one of the plurality of axial running slots of the sleeve and connects with the shaft of the suction piece; and
+a fixing cap mounted on an upper end of the sleeve.
+7. The suction base of
+claim 6
+, wherein the face comprises depressed grooves on an upper end thereof for engaging with the plurality of pins.
+8. The suction base of
+claim 6
+, further comprising a rotatable sleeve fitting over the face cam, configured for driving the face cam to rotate.
+9. The suction base of
+claim 6
+, wherein an upper end of the sleeve is closed.
+10. The suction base of
+claim 9
+, further comprising a spring disposed between the upper end of the sleeve and the shaft.

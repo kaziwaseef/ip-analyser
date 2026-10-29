@@ -1,0 +1,91 @@
+Claims (
+20
+)
+1
+. A wireless charging stand for a mobile device, comprising:
+a. a foldable frame having a top end and a bottom end, the foldable frame including a base panel extending generally in a first plane and an upper panel extending generally in a second plane, the base panel and the upper panel connected by a hinge such that the base panel and the upper panel can be folded with the upper panel against and overlying the base panel and the first and second planes generally parallel;
+b. a wireless charger included in the upper panel and arranged facing an upper surface of the upper panel to charge the mobile device when the mobile device is received against the upper surface of the upper panel;
+c. a magnetic mounting system included in the upper panel adjacent the wireless charger to hold the mobile device against the upper surface of the upper panel; and
+d. a suction cup secured to a lower surface of the base panel and directed away from the lower surface of the base panel to releasably mount the wireless charging stand to an environmental surface.
+2
+. The wireless charging stand of
+claim 1
+, wherein the upper panel and the base panel are each generally planar panels, and the foldable frame folds flat with the upper panel against and overlying the base panel.
+3
+. The wireless charging stand of
+claim 1
+, wherein the upper panel and the base panel each have a maximum length, a maximum width, and a maximum depth, and for each of the upper and base panels the maximum depth is less than about 25% of the lesser of the maximum width and the maximum length.
+4
+. The wireless charging stand of
+claim 3
+, wherein the base panel has a consistent depth across generally the entire panel, the consistent depth equal to the maximum depth of the base panel.
+5
+. The wireless charging stand of
+claim 1
+, wherein the upper panel and the base panel each include a metal plate.
+6
+. The wireless charging stand of
+claim 1
+, wherein the upper panel and the base panel each include an aluminum plate.
+7
+. The wireless charging stand of
+claim 1
+, wherein the suction cup includes a circular cup with a diameter between about 5 cm and about 10 cm.
+8
+. The wireless charging stand of
+claim 7
+, wherein the diameter of the circular cup is between about 6 cm and about 7 cm.
+9
+. The wireless charging stand of
+claim 7
+, wherein the circular cup is a transparent plastic cup.
+10
+. The wireless charging stand of
+claim 1
+, wherein the suction cup is secured to the base panel via a threaded fastener and a washer, with the washer and a head of the threaded fastener positioned in an inner cup region of the suction cup.
+11
+. The wireless charging stand of
+claim 1
+, wherein the length of the upper panel is greater than the length of the base panel such that an upper portion of the upper panel extends beyond the base panel when the upper panel is folded flat against and overlying the base panel, wherein the wireless charger includes a cord to supply power to the wireless charger, and wherein the cord extends out from a lower surface of the upper panel and the upper portion of the upper panel.
+12
+. The wireless charging stand of
+claim 1
+, wherein the hinge includes a first cylindrical portion having a first longitudinal axis, and the hinge includes a second cylindrical portion having a second longitudinal axis, and wherein the first and second cylindrical portions are arranged with the first and second longitudinal axes each coaxial with an axis of rotation of the hinge, and the first and second cylindrical portions are rotatable relative one another about the axis of rotation.
+13
+. The wireless charging stand of
+claim 12
+, wherein, when the frame is folded with the upper panel against and overlying the base panel, the axis of rotation is in an axis plane that is generally parallel to the first and second planes, and an inner edge of the base panel is joined to the first cylindrical portion below the axis plane, and an inner edge of the upper panel is joined to the second cylindrical portion above the axis plane and above the inner edge of the base panel.
+14
+. The wireless charging stand of
+claim 12
+, wherein the hinge includes a track to limit the rotational movement of the first cylindrical portion relative to the second cylindrical portion.
+15
+. The wireless charging stand of
+claim 1
+, wherein lateral edges of the upper panel are beveled and lateral edges of the base panel are beveled.
+16
+. The wireless charging stand of
+claim 1
+, wherein the upper panel includes a protective pad on the upper surface around the wireless charger.
+17
+. The wireless charging stand of
+claim 11
+, wherein the upper panel includes a protective pad on a lower surface opposite the wireless charger and extending over the upper portion of the upper panel and the cord extends out from the protective pad on the lower surface of the upper panel.
+18
+. A method of using the wireless charging stand of
+claim 1
+, comprising:
+a. folding the wireless charging stand with the upper panel against the base panel, such that the suction cup and the wireless charger each face out from the foldable frame; and
+b. inserting the folded wireless charging stand into a pocket of an item of clothing.
+19
+. A mounting apparatus for retrofitting a mobile device or a mobile device case, comprising:
+a. a continuous metal ring having a longitudinal axis, a circular inner diameter and a circular outer diameter and a generally constant depth between a rear face and a front face; and
+b. a layer of adhesive applied to the rear face.
+20
+. A magnetic adherence retrofit kit, comprising:
+a. the wireless charging stand of
+claim 1
+; and
+b. a mounting apparatus for retrofitting a mobile device or a mobile device case, comprising:
+i. a continuous metal ring having a longitudinal axis, a circular inner diameter and a circular outer diameter and a generally constant depth between a rear face and a front face; and
+ii. a layer of adhesive applied to the rear face.

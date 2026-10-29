@@ -1,0 +1,78 @@
+Claims (
+11
+)
+1. A suction cup device, comprising:
+a suction cup having a suction face and a rear face along a thicknesswise direction thereof;
+a center shaft provided at the center of said rear face of said suction cup and extending in a direction away from said rear face along the thicknesswise direction;
+an attaching base having a skirt portion configured to cover said rear face of said suction cup and an outer tubular portion projecting from the center of said skirt portion and having said center shaft accommodated therein;
+a rock lever coupled to an end portion of said center shaft against movement in an axial direction of said center shaft but for rotation in a circumferential direction of said center shaft between an initial position and a rocked position;
+a coil spring disposed around said center shaft on the inner side of said outer tubular portion and anchored at one end thereof by said outer tubular portion and at the other end thereof by said rock lever in such a manner as to bias said rock lever toward the initial position and bias said outer tubular portion and said rock lever in a direction away from each other along said center shaft; and
+a cam mechanism provided between said outer tubular portion and said rock lever and configured to move, in response to the rotation of said rock lever from the initial position to the rocked position, said suction cup from an initially attached state which is established by pressing, with said suction face opposed to an attaching object face, said center shaft against the attaching object face until said suction face is contacted over an overall area thereof with the attaching object face and an end portion of said skirt portion is contacted with an outer circumferential portion of said rear face or with a portion of the attaching object face on the outer side in a radial direction of said rear face to a finally attached state wherein said center shaft is displaced in a direction away from the attaching object face and then retain said rock lever at the rocked position against the biasing force of said coil spring.
+2. The suction cup device according to
+claim 1
+, wherein:
+said suction cup further has an intermediately attached state wherein said center shaft is displaced in the direction away from the attaching object face by said coil spring from the position thereof when said suction cup is in the initially attached state; and
+the finally attached state is established by rotating, while said suction cup is in the intermediately attached state, said rock lever from the initial position to the rocked position to further displace said center shaft in the direction away from the attaching object face.
+3. The suction cup device according to
+claim 1
+, wherein:
+said rock lever has an inner tubular portion inserted between the outer circumference of said center shaft and the inner circumference of said outer tubular portion and coupled to said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft, and a lever portion for rotating operation projecting outwardly in a radial direction of said inner tubular portion from said inner tubular portion; and
+said cam mechanism is provided between the inner circumference of said outer tubular portion and said inner tubular portion.
+4. The suction cup device according to
+claim 1
+, wherein:
+said rock lever has an inner tubular portion inserted between the outer circumference of said center shaft and the inner circumference of said outer tubular portion and coupled to said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft, and a lever portion projecting outwardly in a radial direction of said inner tubular portion from said inner tubular portion; and
+said cam mechanism includes a cam provided on the inner circumference of an intermediate portion in the axis direction of said outer tubular portion and extending in a circumferential direction of the inner circumference, and a projection provided at an end portion in the axial direction of said inner tubular portion positioned rather near to said suction cup and configured to engage with said cam.
+5. The suction cup device according to
+claim 1
+, wherein:
+said rock lever has an inner tubular portion inserted between the outer circumference of said center shaft and the inner circumference of said outer tubular portion and coupled to said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft, and a lever portion projecting outwardly in a radial direction of said inner tubular portion from said inner tubular portion;
+an intermediate wall is provided on the inner circumference of an intermediate portion in the axial direction of said outer tubular portion in such a manner as to be positioned in the proximity of or contacted with an end portion in the axial direction of said inner tubular portion positioned rather near to said suction cup; and
+said cam mechanism includes a cam provided on said intermediate wall and extending in a circumferential direction of said intermediate wall, and a projection provided at an end portion in the axial direction of said inner tubular portion positioned rather near to said suction cup and configured to engage with said cam.
+6. The suction cup device according to
+claim 1
+, wherein:
+said rock lever has an inner tubular portion inserted between the outer circumference of said center shaft and the inner circumference of said outer tubular portion and coupled to said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft, and a lever portion projecting outwardly in a radial direction of said inner tubular portion from said inner tubular portion;
+a first end wall being provided at an end portion in the axial direction of said inner tubular position positioned rather near to the end portion of said center shaft in such a manner as to close up the end portion of said inner tubular portion,
+a second end wall being provided at a portion in the inside of said inner tubular portion rather near to said first end face in such a manner as to project inwardly in a radial direction of said inner tubular portion,
+said first end wall serving as a pressing portion for pressing said center shaft against the attaching object face when the initially attached state is to be established,
+said second end wall being coupled to an end portion of said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft,
+an intermediate wall being provided on the inner circumference of an intermediate portion in the axial direction of said outer tubular portion in such a manner as to project inwardly in a radial direction, and
+said coil spring being disposed between said second end wall and said intermediate wall around said center shaft.
+7. The suction cup device according to
+claim 1
+, wherein:
+said rock lever has an inner tubular portion inserted between the outer circumference of said center shaft and the inner circumference of said outer tubular portion and coupled to said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft, and a lever portion projecting outwardly in a radial direction of said inner tubular portion from said inner tubular portion;
+a first end wall being provided at an end portion in the axial direction of said inner tubular position positioned rather near to the end portion of said center shaft in such a manner as to close up the end portion of said inner tubular portion,
+a second end wall being provided at a portion in the inside of said inner tubular portion rather near to said first end face in such a manner as to project inwardly in a radial direction of said inner tubular portion,
+said first end wall serving as a pressing portion for pressing said center shaft against the attaching object face when the initially attached state is to be established,
+said second end wall being coupled to an end portion of said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft,
+an intermediate wall being provided on the inner circumference of an intermediate portion in the axial direction of said outer tubular portion in such a manner as to project inwardly in a radial direction,
+said coil spring being disposed between said second end wall and said intermediate wall around said center shaft,
+said coil spring being anchored at one end thereof by said intermediate wall and at the other end thereof by said end wall.
+8. The suction cup device according to
+claim 1
+, wherein:
+said rock lever has an inner tubular portion inserted between the outer circumference of said center shaft and the inner circumference of said outer tubular portion and coupled to said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft, and a lever portion projecting outwardly in a radial direction of said inner tubular portion from said inner tubular portion;
+said cam mechanism includes a cam provided on the inner circumference of an intermediate portion in the axis direction of said outer tubular portion and extending in a circumferential direction of the inner circumference, and a projection provided at an end portion in the axial direction of said inner tubular portion positioned rather near to said suction cup and configured to engage with said cam; and
+said cam includes an inclined cam extending along a circumferential direction of the inner circumference of said outer tubular portion while being displaced in a direction toward an end portion of said center shaft, an upper cam connecting to an end portion of said inclined cam displaced most in the direction toward the end portion of said center shaft and extending along a circumferential direction of the circumference of said outer tubular portion, and an anchoring projection provided at a portion of said upper cam rather near to said inclined cam.
+9. The suction cup device according to
+claim 1
+, wherein:
+said rock lever has an inner tubular portion inserted between the outer circumference of said center shaft and the inner circumference of said outer tubular portion and coupled to said center shaft against movement in the axial direction of said center shaft but for rotation around said center shaft, and a lever portion for rotating operation projecting outwardly in a radial direction of said inner tubular portion from said inner tubular portion;
+a cutaway portion being formed on said outer tubular portion so as to extend in the circumferential direction such that said lever is inserted into said cutaway portion,
+said lever portion being locked by one end of said cutaway portion in the extension direction to define the initial position whereas said lever portion is locked by the other end of said cutaway portion in the extension direction to define the rocked position.
+10. The suction cup device according to
+claim 1
+, wherein:
+said suction cup includes a suction cup body and a gel layer;
+said suction cup body being formed from a resilient material while forming said rear face,
+said gel layer being formed from gel and attached to said suction cup body to form said suction face.
+11. A suction cup device, comprising:
+a suction cup having a suction face and a rear face along a thicknesswise direction thereof;
+a center shaft provided at the center of said rear face of said suction cup and extending in a direction away from said rear face along the thicknesswise direction;
+an attaching base having a skirt portion configured to cover said rear face of said suction cup and an outer tubular portion projecting from the center of said skirt portion and having said center shaft accommodated therein;
+a rock lever coupled to an upper portion of said center shaft against movement in an axial direction of said center shaft but for rotation in a circumferential direction of said center shaft between an initial position and a rocked position; and
+a coil spring disposed around said center shaft on the inner side of said outer tubular portion and anchored at one end thereof by said outer tubular portion and at the other end thereof by said rock lever in such a manner as to bias said rock lever toward the initial position and bias said outer tubular portion and said rock lever in a direction away from each other along said center shaft; wherein
+said suction cup has an intermediately attached state in which said center shaft is displaced in a direction away from an attaching object face from a position thereof in an initially attached state of said suction cup device in which said suction face contacts over an overall area thereof with the attaching object face with said suction face opposed to the attaching object face and with said center shaft pressed against the attaching object face and a lower end of said skirt portion is contacted with an outer circumferential portion of said rear face or with a portion of the attaching object face on the outer side of said rear face in a radial direction being formed by said coil spring,
+said suction cup device has a cam mechanism configured to move, in response to rotation of said rock lever from the initial position to the rocked position, said suction cup from the position in the intermediately attached state to another position in a finally attached state in which said center shaft is displaced further in the direction away from the attaching object face and then retain said rock lever at the rocked position against the biasing force of said coil spring.

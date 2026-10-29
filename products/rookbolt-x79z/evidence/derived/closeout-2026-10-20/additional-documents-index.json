@@ -1,0 +1,62 @@
+[
+  {
+    "document": "USD1091524S1",
+    "url": "https://patents.google.com/patent/USD1091524S1/en",
+    "application": "US29/907,516",
+    "mirror_pdf": null,
+    "pdf_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1091524",
+    "bytes": 189377,
+    "sha256": "2e004c7cf429e7d6fd9b6af0f61ae134d26fc0e2821c0469c9902dfd00d28b20"
+  },
+  {
+    "document": "USD1040511S1",
+    "url": "https://patents.google.com/patent/USD1040511S1/en",
+    "application": "US29/934,934",
+    "mirror_pdf": "https://patentimages.storage.googleapis.com/bd/d1/71/46d82f0a3a436f/USD1040511.pdf",
+    "pdf_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1040511",
+    "bytes": 355275,
+    "sha256": "bcd36f1b2496699b490afd24914a8130a33543a0e187fa65f8222720e3fa3af1"
+  },
+  {
+    "document": "USD713140S1",
+    "url": "https://patents.google.com/patent/USD713140S1/en",
+    "application": "US29/466,892",
+    "mirror_pdf": "https://patentimages.storage.googleapis.com/cf/b2/3c/deb87be6e6c42d/USD713140.pdf",
+    "pdf_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D713140",
+    "bytes": 158875,
+    "sha256": "c343eef81471aab0325351cd1638fe8b1935f4e561bbcf546932be5e182551b9"
+  },
+  {
+    "document": "USD1076901S1",
+    "url": "https://patents.google.com/patent/USD1076901S1/en",
+    "application": "US29/984,551",
+    "mirror_pdf": "https://patentimages.storage.googleapis.com/8b/b0/e5/c307d4eb80f68d/USD1076901S1.pdf",
+    "pdf_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1076901",
+    "bytes": 660383,
+    "sha256": "db5b1b351e0403b1ca68bdf20df97165ad2b3b4b767ac1b5e08c60858dd9b97b"
+  },
+  {
+    "document": "US10251517B2",
+    "url": "https://patents.google.com/patent/US10251517B2/en",
+    "application": "US15/972,208",
+    "mirror_pdf": "https://patentimages.storage.googleapis.com/46/3a/62/1754b88b837f15/US10251517.pdf",
+    "pdf_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10251517",
+    "error": "IncompleteRead(1207142 bytes read, 110076 more expected)"
+  },
+  {
+    "document": "US11710989B2",
+    "url": "https://patents.google.com/patent/US11710989B2/en",
+    "application": "US17/028,275",
+    "mirror_pdf": "https://patentimages.storage.googleapis.com/56/54/65/479aae0cb6bc7d/US11710989.pdf",
+    "pdf_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11710989",
+    "error": "IncompleteRead(434066 bytes read, 5457672 more expected)"
+  },
+  {
+    "document": "US12395201B2",
+    "url": "https://patents.google.com/patent/US12395201B2/en",
+    "application": "US18/151,895",
+    "mirror_pdf": null,
+    "pdf_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12395201",
+    "error": "IncompleteRead(1436518 bytes read, 4118688 more expected)"
+  }
+]

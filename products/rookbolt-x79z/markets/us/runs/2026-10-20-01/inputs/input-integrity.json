@@ -1,0 +1,387 @@
+[
+  {
+    "path": "inputs/AGENTS.md",
+    "bytes": 2326,
+    "sha256": "511302716a1fa9297705a805cb4c1a59f9a035ca0f68551977dea5ebe924332f"
+  },
+  {
+    "path": "inputs/assurance-and-decisions.md",
+    "bytes": 3744,
+    "sha256": "2fc1a17b69639a5e888f883283188cffd9bc37ef2e2ff2ae0017a8ccfe1e1c54"
+  },
+  {
+    "path": "inputs/claim-text/CN222884700U.txt",
+    "bytes": 3636,
+    "sha256": "b8cc0f2375b5fd70135779d61f90cb64168fc925a5a41ebc495f1b1fd5ba3c05"
+  },
+  {
+    "path": "inputs/claim-text/US10731391B2.txt",
+    "bytes": 4584,
+    "sha256": "b7fbb4739d66626bb2e57be9479d748342972ccaeea20aab1b34a311f0e39543"
+  },
+  {
+    "path": "inputs/claim-text/US11019910B2.txt",
+    "bytes": 13192,
+    "sha256": "938d76520b0e4180b946f7be12e4441e6dedf95229329d6fd73b4a131feac362"
+  },
+  {
+    "path": "inputs/claim-text/US11552667B2.txt",
+    "bytes": 9636,
+    "sha256": "7ae9f75113c804ec36c3d2e875d6f465a44721fc1b7ad01e0940de09b277e895"
+  },
+  {
+    "path": "inputs/claim-text/US11722016B2.txt",
+    "bytes": 5523,
+    "sha256": "1a0d42f0d73b24b02a312e64a54daf04c6bccd21d8e3cb2490f5c865dabc1a4f"
+  },
+  {
+    "path": "inputs/claim-text/US11796128B1.txt",
+    "bytes": 4415,
+    "sha256": "5a7527ea02609fde6b6e75099f1847399dfcc67f6cd8092537a20f940631d269"
+  },
+  {
+    "path": "inputs/claim-text/US12031565B2.txt",
+    "bytes": 8158,
+    "sha256": "9b66072d3e382ace82053a20af836af17da8cd0083f1faf83b2a3bef2bd8eb0a"
+  },
+  {
+    "path": "inputs/claim-text/US12126194B2.txt",
+    "bytes": 9451,
+    "sha256": "ac99a5a9f808bdafc5fe47e23d82d65935e0123ebae6648a2065c023121c777e"
+  },
+  {
+    "path": "inputs/claim-text/US12275356B1.txt",
+    "bytes": 18751,
+    "sha256": "3e4481635543f0539c10988102d14ad65450de344bc2ed6646f951852511b58f"
+  },
+  {
+    "path": "inputs/claim-text/US12317995B1.txt",
+    "bytes": 4022,
+    "sha256": "4e2595dd4d287ce785984e58aeeb37bbef0a00237066de63db9eeca0e03e4eca"
+  },
+  {
+    "path": "inputs/claim-text/US12381970B2.txt",
+    "bytes": 5214,
+    "sha256": "6354c418910e66df20f79767a23e7ccd4889c9376ed07452ae8efd142c72ddb3"
+  },
+  {
+    "path": "inputs/claim-text/US12395201B2.txt",
+    "bytes": 25347,
+    "sha256": "a0041b8159b7d6c47cee691d3dadbfc821ad643e77732d1bcc9f0ef17644977b"
+  },
+  {
+    "path": "inputs/claim-text/US12471722B2.txt",
+    "bytes": 3728,
+    "sha256": "1ae7e20fd9158a5eb7188487807b9bf847692c3191d9949bd788343c380ac220"
+  },
+  {
+    "path": "inputs/claim-text/US12549213B2.txt",
+    "bytes": 7509,
+    "sha256": "e5092de6e69b54431a7d99d7f88083ffa538909dddcfdf6904f38fc5060c1772"
+  },
+  {
+    "path": "inputs/claim-text/US20100044534A1.txt",
+    "bytes": 1475,
+    "sha256": "b27f14e912f6c9bba01a2e5da8f3ec930fa875d72c5a92c30b92feaa500b3e3c"
+  },
+  {
+    "path": "inputs/claim-text/US20130112838A1.txt",
+    "bytes": 10435,
+    "sha256": "ee669346e3df8531e970f92be66b301abadf11cb289d47fd81826908e8d03746"
+  },
+  {
+    "path": "inputs/claim-text/US20230291234A1.txt",
+    "bytes": 5959,
+    "sha256": "42f042c88bf356f53a98b32460352196c9799226d1acdadc3cb1c1e2003e7394"
+  },
+  {
+    "path": "inputs/claim-text/US20230328164A1.txt",
+    "bytes": 2896,
+    "sha256": "657864ec881b9f49529a95368128875a260f87541c19e37e6d5e5a8efdaeadbf"
+  },
+  {
+    "path": "inputs/claim-text/US20250248515A1.txt",
+    "bytes": 10781,
+    "sha256": "abd2980b82cb79f7d1de82c4b88ade8b33fd320a92f2dd6f880a58946c482eb4"
+  },
+  {
+    "path": "inputs/claim-text/US20250357961A1.txt",
+    "bytes": 6008,
+    "sha256": "05fd26c75c485c7525fa8a4266b9cf6891ae96410f8a8ffc8aac32fe132f1fac"
+  },
+  {
+    "path": "inputs/claim-text/US20260012526A1.txt",
+    "bytes": 2266,
+    "sha256": "5b03151e9419a7006bed233d6120b59501b471ee1efa5e8229e38d1bc7b20ea6"
+  },
+  {
+    "path": "inputs/claim-text/US20260019491A1.txt",
+    "bytes": 3073,
+    "sha256": "aa533166012b3935fc94c6b75b03f6e93b1c2607320c9c0537e62661d1d9700d"
+  },
+  {
+    "path": "inputs/claim-text/US7635111B2.txt",
+    "bytes": 13782,
+    "sha256": "6b4e4fd7791581b50e3c1f76e9e7ecce75e3ace527105f41880e628065428484"
+  },
+  {
+    "path": "inputs/claim-text/US7913963B2.txt",
+    "bytes": 2550,
+    "sha256": "d6d7e8ac5b0dbde6caf5ed6d710d09fcfe189753e84192e8d0346910ce1ac765"
+  },
+  {
+    "path": "inputs/claim-text/US9962040B2.txt",
+    "bytes": 7353,
+    "sha256": "d342f2ca761f0951c41bcb49c3c9dfcfc938a25dd581803691ce11520e4cfac1"
+  },
+  {
+    "path": "inputs/claim-text/USD1044792S1.txt",
+    "bytes": 94,
+    "sha256": "55620cc85ea7fc9b04d3dedb1fc3cf79cf00fbb03631a53ba4d207b9d99359cb"
+  },
+  {
+    "path": "inputs/claim-text/USD1050107S1.txt",
+    "bytes": 91,
+    "sha256": "598d822401d6b239ed694475213aca694aeec67405a81c1f87f0c663f0b23d0d"
+  },
+  {
+    "path": "inputs/claim-text/USD1053182S1.txt",
+    "bytes": 99,
+    "sha256": "10a632cb1f0a33e8aca2929049d0b1772e7a6e5cc2da34e3a88ee6856ab3a23b"
+  },
+  {
+    "path": "inputs/claim-text/USD1060330S1.txt",
+    "bytes": 118,
+    "sha256": "c9c97069365afa4dd76941097b0d92517ebb990081cad0b2039a1a517484e47b"
+  },
+  {
+    "path": "inputs/claim-text/USD1070561S1.txt",
+    "bytes": 96,
+    "sha256": "c3d9be903786b1aebad127338c3644b4ce1eb91d51154fb99c216b31ad445987"
+  },
+  {
+    "path": "inputs/claim-text/USD1076906S1.txt",
+    "bytes": 94,
+    "sha256": "55620cc85ea7fc9b04d3dedb1fc3cf79cf00fbb03631a53ba4d207b9d99359cb"
+  },
+  {
+    "path": "inputs/claim-text/USD1084650S1.txt",
+    "bytes": 102,
+    "sha256": "c758af980f0848cc0dae85c234281f12f4690635662c43224d150ba839292358"
+  },
+  {
+    "path": "inputs/claim-text/USD1091526S1.txt",
+    "bytes": 92,
+    "sha256": "81785df98ff7d0d524b6193fc7bda215f0fb2870efbee26a18659f8a5f631fbc"
+  },
+  {
+    "path": "inputs/claim-text/USD1101739S1.txt",
+    "bytes": 94,
+    "sha256": "55620cc85ea7fc9b04d3dedb1fc3cf79cf00fbb03631a53ba4d207b9d99359cb"
+  },
+  {
+    "path": "inputs/claim-text/USD1115755S1.txt",
+    "bytes": 110,
+    "sha256": "f8b52f7f7f17390dcdb3942e46b0221ea34e71de837a7d4da5165034c1f51d53"
+  },
+  {
+    "path": "inputs/claim-text/USD944788S1.txt",
+    "bytes": 116,
+    "sha256": "274143018693b2027339ed62179c1875e7022b8bf0a96aeb110bfb1eab4450df"
+  },
+  {
+    "path": "inputs/evidence-index.md",
+    "bytes": 31649,
+    "sha256": "d25a022c2a150d3c144a8717cc191afced5b4b57119afa1979f5b822afdccff2"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--00-research-plan.txt",
+    "bytes": 1944,
+    "sha256": "25e3943261669b800729b170e5c06bfad7a9f946f645419517c3037363818373"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--01-scope-and-evidence.txt",
+    "bytes": 1558,
+    "sha256": "2eb17d288bd8253869f68f48e9176e65f9d748e46b7a1bdb7740512fda3a7006"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--02-patent-claims.txt",
+    "bytes": 1866,
+    "sha256": "5b97583807e07cb7743984c2dd2fcf43a20b206e319eb40aae1e11bb5f34e3d5"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--03-designs.txt",
+    "bytes": 1499,
+    "sha256": "06750e2158742cafaaecc4ba5aea3f6f5fa7e29643d8e6c7127097da16720534"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--04-trademarks.txt",
+    "bytes": 1470,
+    "sha256": "5dbd6bbfd1262e1ddf58a33ae04c9088113a3d6af835e0d0c46985ecb76ab6ae"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--05-copyright-and-adjacent.txt",
+    "bytes": 1737,
+    "sha256": "f0bdcd58da48dcc8022bd66fc74c56b67a6f89765964c28c8346f04446bd9bd0"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--06-challenge.txt",
+    "bytes": 4177,
+    "sha256": "c563c3e4584f9020a064778df37341f1d3ab84ea50ae7c0dee9c40ca8914b644"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--07-report.txt",
+    "bytes": 2680,
+    "sha256": "7f1b1a4845443f43fc0f7639fdd4fedfbdf7d6f686d54c2f84d13e2f4fad7442"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--README.txt",
+    "bytes": 1678,
+    "sha256": "a9ad4883b3d37c17f763a387b64f28bddd9c42f662127f002815086f5f66b81b"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--external-patent-search.txt",
+    "bytes": 7287,
+    "sha256": "3f94527119bf07ce7e1702a3aca0787e55a7f0f30770d63f57ca1cf8479708cd"
+  },
+  {
+    "path": "inputs/exact-instructions/workflows--assurance-and-decisions.txt",
+    "bytes": 3664,
+    "sha256": "3e29ac1d64eb48bac19c46387144c57c834477eacb89a1746b9e79d52e616c6f"
+  },
+  {
+    "path": "inputs/exact-instructions/workflows--rate-risk.txt",
+    "bytes": 4904,
+    "sha256": "8b15f5d80f3a49144a4555c2e8a9effa0fe1d60a9a96a5e2db04f665232c38cc"
+  },
+  {
+    "path": "inputs/exact-instructions/workflows--run-analysis.txt",
+    "bytes": 6131,
+    "sha256": "9b5764cb47396f13d9297b1bfbb39eb9610907e69db6be58c39d54e9b50fc6f5"
+  },
+  {
+    "path": "inputs/features.md",
+    "bytes": 3805,
+    "sha256": "25c24f0b6724e39ff86f495e507e4810b42901328620274a41368965a3810e5e"
+  },
+  {
+    "path": "inputs/instruction-hashes.json",
+    "bytes": 2886,
+    "sha256": "eb1f934b90abee7ed7b6c84ba57d92b23fbe97c95e16a8758e9aacbdd6112956"
+  },
+  {
+    "path": "inputs/intake.md",
+    "bytes": 3280,
+    "sha256": "c504fcfb7d3b68c50ad43985d181f3f70313b94741a240a1af40294700f7e0f6"
+  },
+  {
+    "path": "inputs/legal-framework.md",
+    "bytes": 2123,
+    "sha256": "b92aba7b9338b994713d689e3bfaad81793f8a4be6bed198d8634bec55000888"
+  },
+  {
+    "path": "inputs/product-evidence-hashes.json",
+    "bytes": 3981,
+    "sha256": "85ac21727199e1d9e6b4fa37052d0000a292b2d76779caa0c6d25c53c887334e"
+  },
+  {
+    "path": "inputs/product-search-prompt.md",
+    "bytes": 7630,
+    "sha256": "64f02562601d38e4f69062d95f2d0a1b6b499a563a491cf1bd915674928e9786"
+  },
+  {
+    "path": "inputs/product.md",
+    "bytes": 2670,
+    "sha256": "83af5fe4fb01ead8deeafb6a182be05dfffa3c4b7f5278330459847f05a29fa5"
+  },
+  {
+    "path": "inputs/prompts/00-research-plan.md",
+    "bytes": 1944,
+    "sha256": "25e3943261669b800729b170e5c06bfad7a9f946f645419517c3037363818373"
+  },
+  {
+    "path": "inputs/prompts/01-scope-and-evidence.md",
+    "bytes": 1558,
+    "sha256": "2eb17d288bd8253869f68f48e9176e65f9d748e46b7a1bdb7740512fda3a7006"
+  },
+  {
+    "path": "inputs/prompts/02-patent-claims.md",
+    "bytes": 1866,
+    "sha256": "5b97583807e07cb7743984c2dd2fcf43a20b206e319eb40aae1e11bb5f34e3d5"
+  },
+  {
+    "path": "inputs/prompts/03-designs.md",
+    "bytes": 1499,
+    "sha256": "06750e2158742cafaaecc4ba5aea3f6f5fa7e29643d8e6c7127097da16720534"
+  },
+  {
+    "path": "inputs/prompts/04-trademarks.md",
+    "bytes": 1470,
+    "sha256": "5dbd6bbfd1262e1ddf58a33ae04c9088113a3d6af835e0d0c46985ecb76ab6ae"
+  },
+  {
+    "path": "inputs/prompts/05-copyright-and-adjacent.md",
+    "bytes": 1737,
+    "sha256": "f0bdcd58da48dcc8022bd66fc74c56b67a6f89765964c28c8346f04446bd9bd0"
+  },
+  {
+    "path": "inputs/prompts/06-challenge.md",
+    "bytes": 4177,
+    "sha256": "c563c3e4584f9020a064778df37341f1d3ab84ea50ae7c0dee9c40ca8914b644"
+  },
+  {
+    "path": "inputs/prompts/07-report.md",
+    "bytes": 2680,
+    "sha256": "7f1b1a4845443f43fc0f7639fdd4fedfbdf7d6f686d54c2f84d13e2f4fad7442"
+  },
+  {
+    "path": "inputs/prompts/README.md",
+    "bytes": 2008,
+    "sha256": "f1732bf60e307c2a60ca1e2f441451c44455cb2faf3011a712a34c9a920a38e1"
+  },
+  {
+    "path": "inputs/prompts/external-patent-search.md",
+    "bytes": 7287,
+    "sha256": "3f94527119bf07ce7e1702a3aca0787e55a7f0f30770d63f57ca1cf8479708cd"
+  },
+  {
+    "path": "inputs/rate-risk.md",
+    "bytes": 4971,
+    "sha256": "9216571c6158ccea45b8f14abb81061d36c5386083a7e9df754f6117aea87d12"
+  },
+  {
+    "path": "inputs/rights-map.json",
+    "bytes": 1233,
+    "sha256": "bf422822d329035b2cc27ff6e3b8244c470dd1d4a4f62b93782ac81c8cf3db97"
+  },
+  {
+    "path": "inputs/rights.md",
+    "bytes": 14648,
+    "sha256": "0e07cd0638bed237310efa51bfa7afee074df8e32876687bb00aaa5a33f06b1c"
+  },
+  {
+    "path": "inputs/run-analysis.md",
+    "bytes": 6350,
+    "sha256": "0b0d3680291eb416887d8f9e468175e1cb32f4ec5768ab34ab38a6e176b7f993"
+  },
+  {
+    "path": "inputs/search-log.md",
+    "bytes": 13486,
+    "sha256": "99032c6e294a1078a54c7dc82a901d268cd2aee3d45c203ae1815b5bb066bd74"
+  },
+  {
+    "path": "inputs/sources.json",
+    "bytes": 60394,
+    "sha256": "4e3c478650a3caf28eb4443582a936f7c11fa5e64545d7c126e1968691870b4f"
+  },
+  {
+    "path": "inputs/technical-intake.md",
+    "bytes": 4757,
+    "sha256": "bae6b7ae292b57f10a57e5e15043c17de74c233d3e2b117289746912edaa7e60"
+  },
+  {
+    "path": "inputs/tool-versions.json",
+    "bytes": 338,
+    "sha256": "854a0e1fa59965c63b49e9b0d0f650da66c1b2f236925e4494f1bac287035904"
+  }
+]

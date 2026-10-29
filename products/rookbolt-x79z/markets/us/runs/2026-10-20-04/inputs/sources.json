@@ -1,0 +1,226 @@
+[
+  {
+    "id": "S-001",
+    "title": "intake-2026-10-20.md",
+    "files": [
+      {
+        "path": "evidence/raw/intake-2026-10-20.md",
+        "bytes": 812,
+        "sha256": "01afbd17c50716fdafe8fe9ee1e4e7ab0ad5dc0d3d1818fed96e8a65d4114c27"
+      }
+    ],
+    "url": "User message, 2026-10-20",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-065",
+    "title": "ROCBOLT product",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/rocbolt-product.html",
+        "bytes": 459585,
+        "sha256": "58b8b545fa875aa4459678a3efff8ace63c340b100ea2db70d080fda490d00af"
+      }
+    ],
+    "url": "https://rocstor.com/product/rocstor-rocbolt-premium-combination-cable-lock-4-digit-combination-lock-6-ft/",
+    "issuer": "Rocstor",
+    "retrieved": "2026-10-20",
+    "locator": "Title/general information/US distributors/HQ",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-066",
+    "title": "ROCBOLT manual",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/rocbolt-manual.pdf",
+        "bytes": 802866,
+        "sha256": "9e65f331b5289a2244c3c4b7d0c119acb0a8d9fc4178338cdaea4027d4a71017"
+      }
+    ],
+    "url": "https://rocstor.com/wp-content/uploads/2022/12/v2-Y1RB022-B1-Rocbolt-USB-4Digit-Combination-Lock-Manual.pdf",
+    "issuer": "Rocstor",
+    "retrieved": "2026-10-20",
+    "locator": "pp1–2; company registration assertion p2",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-090",
+    "title": "User confirms ROOKBOLT is new with no application or sales yet",
+    "files": [
+      {
+        "path": "evidence/raw/new-brand-confirmation-2026-10-20.md",
+        "bytes": 402,
+        "sha256": "dfe6a445ff32f49a26d40f530266cfdcf392421ef79921ec364251a485ff53be"
+      }
+    ],
+    "url": "User conversation",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Full question and selected answer",
+    "inspection": "User own-use/filing account only"
+  },
+  {
+    "id": "S-091",
+    "title": "Official USPTO name-query session",
+    "issuer": "USPTO; analyst observation record",
+    "url": "https://tmsearch.uspto.gov/search/search-results",
+    "retrieved": "2026-10-20",
+    "locator": "Completed query results/settings and18-summary table; record details separately S-095–S-097",
+    "files": [
+      {
+        "path": "evidence/derived/brand-search-2026-10-20/official-search-session.md",
+        "bytes": 6191,
+        "sha256": "cf3462022454dde750afe0bf9c482d3a5462b2b6b0d3de32d8ee40c005040f41"
+      }
+    ],
+    "inspection": "Official UI inspected; notes are derived observations, not a certified/exported result set"
+  },
+  {
+    "id": "S-092",
+    "title": "Rocbolt Security Slot Adapter Kit Y1RB019-B1",
+    "issuer": "Rocstor",
+    "url": "https://rocstor.com/product/rocbolt-security-slot-adapter-kit-security-anchor-point-zinc-alloy-taa/",
+    "retrieved": "2026-10-20",
+    "locator": "Title; Description paras1–2; Specification; US corporate headquarters",
+    "files": [
+      {
+        "path": "evidence/raw/public-brand-2026-10-20/rocbolt-adapter.html",
+        "bytes": 418781,
+        "sha256": "cc4d18e6da65e65fa047fd3450e8f6de1a114076b1277cf1a50bf593cb5633ec"
+      }
+    ],
+    "inspection": "First-party page read; tablet/laptop security attachment, out-of-stock display; no proof of first sale or registration"
+  },
+  {
+    "id": "S-093",
+    "title": "Likelihood of confusion",
+    "issuer": "USPTO",
+    "url": "https://www.uspto.gov/trademarks/search/likelihood-confusion",
+    "retrieved": "2026-10-20",
+    "locator": "Similarity of marks; Related goods and services; If there is a likelihood of confusion",
+    "files": [
+      {
+        "path": "evidence/raw/public-brand-2026-10-20/uspto-confusion.html",
+        "bytes": 142279,
+        "sha256": "d94300542e81d73480e369eda62e00ba44f17d276665bcfcf312ada4e4d14bb8"
+      }
+    ],
+    "inspection": "Current primary guidance read; page last updated2023-11-30"
+  },
+  {
+    "id": "S-094",
+    "title": "Comprehensive clearance search for similar trademarks",
+    "issuer": "USPTO",
+    "url": "https://www.uspto.gov/trademarks/search/comprehensive-clearance-search-similar-trademarks",
+    "retrieved": "2026-10-20",
+    "locator": "Opening explanation; common-law rights; comprehensive-source list",
+    "files": [
+      {
+        "path": "evidence/raw/public-brand-2026-10-20/uspto-clearance-scope.html",
+        "bytes": 134100,
+        "sha256": "931493d82cdbaf1d51c2d0d3b7d1127d1f7413fa46cabff9a32a3fef4aecb781"
+      }
+    ],
+    "inspection": "Current primary guidance read; page last updated2023-11-30"
+  },
+  {
+    "id": "S-095",
+    "title": "ROOKOBI official search details, serial99302183, registration8158757",
+    "issuer": "USPTO",
+    "url": "https://tmsearch.uspto.gov/search/search-results/99302183",
+    "retrieved": "2026-10-20",
+    "locator": "Browser print/save PDF pp1–2 status, standard characters, full expanded goods and current owner",
+    "files": [
+      {
+        "path": "evidence/raw/public-brand-2026-10-20/ROOKOBI-99302183-uspto-2026-10-20.pdf",
+        "bytes": 207916,
+        "sha256": "701f4216bee4ae1725ee982315970e6c1370ed7862c7889be8b7c992ab97c146"
+      }
+    ],
+    "inspection": "Full official UI read; saved current page; LIVE REGISTERED displayed; no independent use/priority/proceedings audit"
+  },
+  {
+    "id": "S-096",
+    "title": "CASEROOKIE official search details, serial98358311, registration7640752",
+    "issuer": "USPTO",
+    "url": "https://tmsearch.uspto.gov/search/search-results/98358311",
+    "retrieved": "2026-10-20",
+    "locator": "Browser print/save PDF pp1–2 status, standard characters, full expanded goods and current owner",
+    "files": [
+      {
+        "path": "evidence/raw/public-brand-2026-10-20/CASEROOKIE-98358311-uspto-2026-10-20.pdf",
+        "bytes": 207434,
+        "sha256": "14930531c78208f240b7951b5842cecd28edeb04795a458a20d41046e698681c"
+      }
+    ],
+    "inspection": "Full official UI read; saved current page; LIVE REGISTERED displayed; no independent use/priority/proceedings audit"
+  },
+  {
+    "id": "S-097",
+    "title": "ROOK official search details, serial97598942, registration7739707",
+    "issuer": "USPTO",
+    "url": "https://tmsearch.uspto.gov/search/search-results/97598942",
+    "retrieved": "2026-10-20",
+    "locator": "Browser print/save PDF pp1–2 status, standard characters, full goods and Delta owner",
+    "files": [
+      {
+        "path": "evidence/raw/public-brand-2026-10-20/ROOK-97598942-uspto-2026-10-20.pdf",
+        "bytes": 210503,
+        "sha256": "531ad4fdf53d375563f83943c4d0fd1d6170ce31d30779ffc41114a0663a0316"
+      }
+    ],
+    "inspection": "Full official UI read; saved current page; LIVE REGISTERED displayed; bath goods are distinct from phone mounts"
+  },
+  {
+    "id": "S-098",
+    "title": "Transitioning from TESS to the new search system",
+    "issuer": "USPTO",
+    "url": "https://www.uspto.gov/sites/default/files/documents/TM-Transitioning-from-TESS-handout.pdf",
+    "retrieved": "2026-10-20",
+    "locator": "Search field CM and field-tag syntax; official online help checked as well",
+    "files": [
+      {
+        "path": "evidence/raw/public-brand-2026-10-20/uspto-search-fields.pdf",
+        "bytes": 428159,
+        "sha256": "29be442438a0416f98664162eec916ce2504a084b2eac1ca43272dd5790379fe"
+      }
+    ],
+    "inspection": "Official PDF retained; syntax used for bounded structured search, not an assumed API integration"
+  },
+  {
+    "id": "S-099",
+    "title": "User identifies phone mounts, travel gear and power banks as intended brand range",
+    "issuer": "User",
+    "url": "User conversation",
+    "retrieved": "2026-10-20",
+    "locator": "Full brand-range question and answer",
+    "files": [
+      {
+        "path": "evidence/raw/intended-brand-range-2026-10-20.md",
+        "bytes": 642,
+        "sha256": "42200e4b2858608be2c36c7963cac201c55f1ebc202e24129d6c641382c6473e"
+      }
+    ],
+    "inspection": "Intended brand range only; future SKUs, exact goods and launch remain unspecified"
+  },
+  {
+    "id": "S-100",
+    "title": "ROOK GEAR detail retrieval failure and broader brand-range follow-up",
+    "issuer": "USPTO; analyst observation record",
+    "url": "https://tmsearch.uspto.gov/search/search-results/99239031",
+    "retrieved": "2026-10-20",
+    "locator": "Error message on serial99239031 details page; S-091 earlier summary distinguished",
+    "files": [
+      {
+        "path": "evidence/derived/brand-search-2026-10-20/travel-range-follow-up.md",
+        "bytes": 1329,
+        "sha256": "86ba2d3c0573b2c4b9432f80e7c061cd86a95a5e0af42aced84600da43f91d09"
+      }
+    ],
+    "inspection": "Details inaccessible; derived access note, not original registration evidence"
+  }
+]

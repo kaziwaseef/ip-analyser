@@ -1,0 +1,714 @@
+US20230328164A1 - Mobile phone holder 
+ - Google Patents
+US20230328164A1 - Mobile phone holder 
+ - Google Patents
+ Mobile phone holder 
+ Download PDF
+Info
+ Publication number
+ US20230328164A1
+ US20230328164A1
+ US17/863,860
+ US202217863860A
+ US2023328164A1
+ US 20230328164 A1
+ US20230328164 A1
+ US 20230328164A1
+ US 202217863860 A
+ US202217863860 A
+ US 202217863860A
+ US 2023328164 A1
+ US2023328164 A1
+ US 2023328164A1
+ Authority
+ US
+ United States
+ Prior art keywords
+ rotating disc
+ mobile phone
+ fixed seat
+ adjusting piece
+ angle
+ Prior art date
+ 2022-04-06
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Abandoned
+ Application number
+ US17/863,860
+ Inventor
+ Aijun KANG
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ U2o Global Co Ltd
+ Original Assignee
+ U2o Global Co Ltd
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2022-04-06
+ Filing date
+ 2022-07-13
+ Publication date
+ 2023-10-12
+ 2022-07-13
+ Application filed by U2o Global Co Ltd
+ filed
+ Critical
+ U2o Global Co Ltd
+ 2022-07-13
+ Assigned to U2O GLOBAL CO., LTD.
+ reassignment
+ U2O GLOBAL CO., LTD.
+ ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+ Assignors: KANG, AIJUN
+ 2023-10-12
+ Publication of US20230328164A1
+ publication
+ Critical
+ patent/US20230328164A1/en
+ Status
+ Abandoned
+ legal-status
+ Critical
+ Current
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/04—Supports for telephone transmitters or receivers
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/10—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/2007—Undercarriages with or without wheels comprising means allowing pivoting adjustment
+ F16M11/2035—Undercarriages with or without wheels comprising means allowing pivoting adjustment in more than one direction
+ F16M11/2057—Undercarriages with or without wheels comprising means allowing pivoting adjustment in more than one direction for tilting and rolling
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F16M13/022—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle repositionable
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M2200/00—Details of stands or supports
+ F16M2200/02—Locking means
+ F16M2200/021—Locking means for rotational movement
+ F16M2200/024—Locking means for rotational movement by positive interaction, e.g. male-female connections
+Definitions
+ the present invention
+ relates to the technical field of mobile phone holders, in particular to a mobile phone holder.
+ the existing mobile phone holder in the prior art
+ such as bracelet-type mobile phone holder with a support arm disclosed in the patent application with a publication number CN108737607A, is attached to the back of the mobile phone case or the back cover of the mobile phone with the adhesive base plate made of strong adhesive material, which makes it inconvenient to disassemble the mobile phone holder, and the adhesive material is easy to remain on the disassembled mobile phone case, which affects the holding handfeel of a user.
+ the rotation angle of the mobile phone
+ is adjusted by the rotating base, however, the volume and rotating contact area of the rotating base are small, so it is impossible to rotate stably, and a gear selection cannot be carried out in the adjusting mode. After long-term use, the connection between the rotating base and the adhesive bottom plate will get looser, resulting in the rotating base being unable to fix the rotation angle, which affects the user experience.
+ the present invention
+ aims to provide a mobile phone holder to solve at least one of the existing problems.
+ a mobile phone holder
+ including a rotating disc and a fixed seat covered with each other, wherein a support suction ring is provided on one side of the rotating disc and is configured for adsorbing a back surface of a mobile phone, the fixed seat is provided with an adhesive plate on one side away from the rotating disc and is adsorbed on a surface of an adsorbed object through the adhesive plate, a plurality of gear adjustment parts are provided in a circumferential direction of an inner side of the rotating disc, at least one gear adjusting piece is disposed on the fixed seat, and a rotation angle of the rotating disc is adjusted by corresponding cooperation between the gear adjusting piece and the gear adjustment parts at different positions.
+ the rotating disc and the fixed seat
+ are covered with each other, a volume and a rotating contact area of the rotating disc are larger, and the rotating stability is higher, and the gear adjustment is implemented on the rotation angle of the rotating disc by the corresponding cooperation between the gear adjusting piece and the gear adjustment parts at different positions, thereby avoiding loosening after long-term use and ensuring the user's experience.
+ gear adjusting pieces
+ are provided, a slotted hole for accommodating the gear adjusting piece is disposed on either of opposite two sides of the fixed seat, the gear adjusting piece comprises a spring and a ball body connected with each other, the gear adjustment part is a spherical groove, and the ball body correspondingly fits into the spherical groove.
+ the arrangement
+ makes the gear adjustment of the rotation angle of the rotating disc more stable and smooth.
+ a plurality of gear adjustment parts
+ are continuously and uniformly arranged in the circumferential direction of the inner side of the rotary disc.
+ the arrangement
+ enables the rotation angle of the rotating disc to be uniformly adjusted, thus the adjustment accuracy is finer, and the adjustment process is more coherent and smooth.
+ the support suction ring
+ includes an annular body and a magnet disposed in the annular body, and a silica gel sticker is further provided at a position corresponding to the magnet on the annular body.
+ the arrangement
+ allows the back of the mobile phone to be subjected to a magnetic adsorption of the magnet so that the silica gel sticker is closely attached to the back of the mobile phone to ensure the stability of adsorption and attachment.
+ the mobile phone holder
+ also includes an angle adjusting piece, one end of the angle adjusting piece is connected to the rotary disc in an angle-adjustable manner, and the other end of the angle adjusting piece is connected to an inner side of the support suction ring in an angle-adjustable manner.
+ the arrangement
+ allows a wider range of angle adjustment and enables any angle adjustment and switching.
+ an angle adjustment range between the angle adjusting piece and the rotating disc
+ is 0 to 100°
+ an angle adjustment range between the angle adjusting piece and the support suction ring
+ is 0 to 110°.
+ the adhesive plate
+ is a 3M adhesive plate or a removable adhesive plate, which can be pasted on any flat and smooth table top.
+ the mobile phone holder
+ also includes a connecting piece installed in a middle part of the rotating disc away from the fixed seat and a mounting piece located in a middle part of the fixed seat away from the rotating disc, the middle parts of the rotating disc and the fixed seat being provided with corresponding through holes, and the connecting piece penetrating the through holes of the rotating disc and the fixed seat to be fixedly connected with the mounting piece.
+ FIG. 1
+ is a schematic diagram of a mobile phone holder being used in conjunction with a mobile phone in an unfolded state according to an embodiment of the present invention
+ FIG. 2
+ is a schematic diagram of the mobile phone holder in the unfolded state according to an embodiment of the present invention
+ FIG. 3
+ is a schematic diagram of the mobile phone holder in a folded state according to an embodiment of the present invention.
+ FIG. 4
+ is a disassembly schematic diagram of the mobile phone holder according to an embodiment of the present invention.
+ 1
+ support suction ring, 11 silica gel sticker, 12 magnet, 13 annular body, 2 rotating disc, 21 spherical groove, 3 fixed seat, 31 slotted hole, 4 adhesive plate, 5 angle adjusting piece, 6 connecting piece, 7 mounting piece, 8 gear adjustment part, 81 spring, 82 ball body and 9 mobile phone.
+ a mobile phone holder
+ which includes a rotating disc 2 and a fixed seat 3 which are covered with each other.
+ the mobile phone holder
+ also includes a connecting piece 6 installed in a middle part of the rotating disc 2 away from the fixed seat 3 and a mounting piece 7 located in a middle part of the fixed seat 3 away from the rotating disc 2 , the middle parts of the rotating disc and the fixed seat 3 are provided with corresponding through holes, and the connecting piece 6 penetrates the through holes of the rotating disc 2 and the fixed seat 3 to be fixedly connected with the mounting piece 7 .
+ An angle adjusting piece 5
+ is rotatably connected to the connecting piece 6 , and the other end of the angle adjusting piece 5 is rotatably connected to a support suction ring 1 .
+ the support suction ring 1
+ is used for adsorbing a back surface of a mobile phone 9 .
+ the fixed seat 3
+ is provided with an adhesive plate 4 on one side away from the rotating disc 2 and is adsorbed on a surface of an adsorbed object through the adhesive plate 4 .
+ a plurality of gear adjustment parts
+ are provided in a circumferential direction of an inner side of the rotating disc 2 , two gear adjusting pieces 8 are disposed on the fixed seat 3 , and a rotation angle of the rotating disc 2 is adjusted by corresponding cooperation between the gear adjusting pieces 8 and the gear adjustment parts at different positions.
+ the rotating disc 2 and the fixed seat 3
+ are covered with each other, a volume and a rotating contact area of the rotating disc 2 are larger, and the rotating stability is higher, and the gear adjustment is implemented on the rotation angle of the rotating disc 2 by the corresponding cooperation between the gear adjusting piece 8 and the gear adjustment parts at different positions, thereby avoiding loosening after long-term use and ensuring the user's experience.
+ gear adjusting pieces 8
+ are provided, a slotted hole 31 for accommodating the gear adjusting piece 8 is disposed on either of opposite two sides of the fixed seat 3 , the gear adjusting piece 8 includes a spring 81 and a ball body 82 connected with each other, the gear adjustment part is a spherical groove 21 , and the ball body 82 correspondingly fits into the spherical groove 21 .
+ the arrangement
+ makes the gear adjustment of the rotation angle of the rotating disc 2 more stable and smooth.
+ the gear adjusting piece
+ may be a spring and a cone
+ the gear adjustment part
+ is a tapered groove corresponding to the cone.
+ a plurality of gear adjustment parts
+ are continuously and uniformly arranged in the circumferential direction of the inner side of the rotary disc 2 .
+ the arrangement
+ enables the rotation angle of the rotating disc 2 to be uniformly adjusted, thus the adjustment accuracy is finer, and the adjustment process is more coherent and smooth.
+ the support suction ring 1
+ includes an annular body 13 and a magnet 12 disposed in the annular body 13 , and a silica gel sticker 11 is further provided at a position corresponding to the magnet 12 on the annular body 13 .
+ the arrangement
+ allows the back of the mobile phone 9 to be subjected to a magnetic adsorption of the magnet 12 so that the silica gel sticker 11 is closely attached to the back of the mobile phone 9 to ensure the stability of adsorption and attachment, and the silica gel sticker is easy for disassembling and separating, so that residual adhesive substances are prevented from being adhered to the back surface of a mobile phone casing or the back surface of the mobile phones like the adhesive base plate made of strong adhesive material in the prior art, and user experience is improved.
+ the adhesive plate 4
+ is a 3M adhesive plate or a removable adhesive plate, which can be pasted on any flat and smooth table top such as desktop or wall, the present invention features a wider application range of the use scene, and being easy for disassembling and separating, and being not easy to leave adhesive substances, and improving the user's experience.
+ one end of the angle adjusting piece 5
+ is connected to the rotary disc 2 in an angle-adjustable manner, and the other end of the angle adjusting piece 5 is connected to an inner side of the support suction ring 1 in an angle-adjustable manner.
+ the arrangement
+ allows a wider range of angle adjustment and enables switching of any angle adjustment.
+ an angle adjustment range of an angle ⁇ between the angle adjusting piece 5 and the rotating disc 2
+ is 0 to 100°
+ an angle adjustment range of an angle ⁇ between the angle adjusting piece 5 and the support suction ring 1
+ is 0 to 110°.
+ the angle adjustment ranges of the angle ⁇ and angle ⁇
+ can meet the needs of daily angle adjustment, and the angle adjusting piece 5 and the support suction ring 1 can be folded without interference with each other so that the present invention features thinner and lighter and being convenient for storage and carrying.
+ the main body of the mobile phone holder of the present invention
+ is manufactured by metal baking paint, which can manufacture mobile phone holders with various colors to meet various requirements of users.
+ the mobile phone holder
+ is used by first sticking and fixing the adhesive plate 4 on any flat and smooth table top, then absorbing and attaching the back of the mobile phone 9 to the support suction ring 1 , adjusting the angle between the angle adjusting piece 5 and the rotating disc 2 and the angle between the support suction ring 1 and the angle adjusting piece 5 , then adjusting the rotation angle of the rotating disc 2 to meet the suitable viewing requirements and meet the viewing requirements of users, and finally adjusting positions of the support suction ring 1 and the mobile phone 9 adsorbed on the support suction ring 1 .
+ the mobile phone 9
+ When it is necessary to store and carry the mobile phone holder, only the mobile phone 9 needs to be removed from the support suction ring 1 , and then the support suction ring 1 and the angle adjusting piece 5 are folded and stored on one side of the rotating disc 2 so that the mobile phone holder forms a thin disc structure with smaller volume and is convenient for storage and carrying.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Signal Processing
+ (AREA)
+ Telephone Set Structure
+ (AREA)
+Abstract
+Disclosed is a mobile phone holder including a rotating disc and a fixed seat covered with each other. A support suction ring is provided on one side of the rotating disc and is configured for adsorbing a back surface of a mobile phone. The fixed seat is provided with an adhesive plate on one side away from the rotating disc and is adsorbed on a surface of an adsorbed object through the adhesive plate. A plurality of gear adjustment parts are provided in a circumferential direction of the inner side of the rotating disc. At least one gear adjusting piece is disposed on the fixed seat. The rotation angle of the rotating disc is adjusted by the corresponding cooperation between the gear adjusting piece and the gear adjustment parts at different positions. The rotating disc of the present invention has higher rotating stability, so that the user's experience is improved.
+Description
+ RELATED APPLICATIONS
+The present disclosure claims priority to Chinese Patent Application No. 202220774234.1, filed on Apr. 6, 2022, which is incorporated herein by reference.
+ TECHNICAL FIELD
+The present invention relates to the technical field of mobile phone holders, in particular to a mobile phone holder.
+ BACKGROUND
+The existing mobile phone holder in the prior art, such as bracelet-type mobile phone holder with a support arm disclosed in the patent application with a publication number CN108737607A, is attached to the back of the mobile phone case or the back cover of the mobile phone with the adhesive base plate made of strong adhesive material, which makes it inconvenient to disassemble the mobile phone holder, and the adhesive material is easy to remain on the disassembled mobile phone case, which affects the holding handfeel of a user. The rotation angle of the mobile phone is adjusted by the rotating base, however, the volume and rotating contact area of the rotating base are small, so it is impossible to rotate stably, and a gear selection cannot be carried out in the adjusting mode. After long-term use, the connection between the rotating base and the adhesive bottom plate will get looser, resulting in the rotating base being unable to fix the rotation angle, which affects the user experience.
+ SUMMARY
+The present invention aims to provide a mobile phone holder to solve at least one of the existing problems.
+To achieve the above purpose, the technical solution of the present invention is as follows: a mobile phone holder including a rotating disc and a fixed seat covered with each other, wherein a support suction ring is provided on one side of the rotating disc and is configured for adsorbing a back surface of a mobile phone, the fixed seat is provided with an adhesive plate on one side away from the rotating disc and is adsorbed on a surface of an adsorbed object through the adhesive plate, a plurality of gear adjustment parts are provided in a circumferential direction of an inner side of the rotating disc, at least one gear adjusting piece is disposed on the fixed seat, and a rotation angle of the rotating disc is adjusted by corresponding cooperation between the gear adjusting piece and the gear adjustment parts at different positions.
+With the above technical solution, the rotating disc and the fixed seat are covered with each other, a volume and a rotating contact area of the rotating disc are larger, and the rotating stability is higher, and the gear adjustment is implemented on the rotation angle of the rotating disc by the corresponding cooperation between the gear adjusting piece and the gear adjustment parts at different positions, thereby avoiding loosening after long-term use and ensuring the user's experience.
+Preferably, two gear adjusting pieces are provided, a slotted hole for accommodating the gear adjusting piece is disposed on either of opposite two sides of the fixed seat, the gear adjusting piece comprises a spring and a ball body connected with each other, the gear adjustment part is a spherical groove, and the ball body correspondingly fits into the spherical groove. The arrangement makes the gear adjustment of the rotation angle of the rotating disc more stable and smooth.
+Preferably, a plurality of gear adjustment parts are continuously and uniformly arranged in the circumferential direction of the inner side of the rotary disc. The arrangement enables the rotation angle of the rotating disc to be uniformly adjusted, thus the adjustment accuracy is finer, and the adjustment process is more coherent and smooth.
+Preferably, the support suction ring includes an annular body and a magnet disposed in the annular body, and a silica gel sticker is further provided at a position corresponding to the magnet on the annular body. The arrangement allows the back of the mobile phone to be subjected to a magnetic adsorption of the magnet so that the silica gel sticker is closely attached to the back of the mobile phone to ensure the stability of adsorption and attachment.
+Preferably, the mobile phone holder also includes an angle adjusting piece, one end of the angle adjusting piece is connected to the rotary disc in an angle-adjustable manner, and the other end of the angle adjusting piece is connected to an inner side of the support suction ring in an angle-adjustable manner. The arrangement allows a wider range of angle adjustment and enables any angle adjustment and switching.
+Preferably, an angle adjustment range between the angle adjusting piece and the rotating disc is 0 to 100°, and an angle adjustment range between the angle adjusting piece and the support suction ring is 0 to 110°. These angle adjustment ranges can meet the needs of daily angle adjustment, and the angle adjusting piece and the support suction ring can be folded without interference with each other, which features thinner and lighter and being convenient for storage and carrying.
+Preferably, the adhesive plate is a 3M adhesive plate or a removable adhesive plate, which can be pasted on any flat and smooth table top.
+Preferably, the mobile phone holder also includes a connecting piece installed in a middle part of the rotating disc away from the fixed seat and a mounting piece located in a middle part of the fixed seat away from the rotating disc, the middle parts of the rotating disc and the fixed seat being provided with corresponding through holes, and the connecting piece penetrating the through holes of the rotating disc and the fixed seat to be fixedly connected with the mounting piece.
+The present invention has the following beneficial effects:
+(1) in the present invention, the rotating disc and the fixed seat are covered with each other, which increases the volume of the rotating disc and makes the rotating contact area larger so that the stability of rotation is higher, a plurality of gear adjustment parts are disposed in the circumferential direction of the inner side of the rotating disc, at least one gear adjusting piece is disposed on the fixed seat, and the gear adjustment is implemented on the rotation angle of the rotating disc by the corresponding cooperation between the gear adjusting piece and the gear adjustment parts at different positions, which ensures that the rotating disc can be fixed after being adjusted to a proper position, avoids loosening after being used for a long time, and improves the use experience of users. 
+(2) Either of the opposite two sides of the fixed seat is provided with a slotted hole for accommodating the gear adjusting piece, the gear adjusting piece includes a spring and a ball body connected with each other, the gear adjustment part is a spherical groove, a plurality of spherical grooves are continuously and uniformly disposed in the circumferential direction of the inner side of the rotating disc, and the ball body correspondingly fits into the spherical groove. The arrangement enables the rotation angle of the rotating disc to be uniformly adjusted, thus the adjustment accuracy is finer, and the adjustment process is more coherent and smooth. 
+(3) The adhesive plate is a 3M adhesive plate or a removable adhesive plate, which can be pasted on any flat and smooth table top such as desktop or wall, the present invention features a wider application range of the use scene, and being easy for disassembling and separating, and being not easy to leave adhesive substances, and improving the user's experience. 
+ BRIEF DESCRIPTION OF DRAWINGS
+ FIG. 1 is a schematic diagram of a mobile phone holder being used in conjunction with a mobile phone in an unfolded state according to an embodiment of the present invention;
+ FIG. 2 is a schematic diagram of the mobile phone holder in the unfolded state according to an embodiment of the present invention;
+ FIG. 3 is a schematic diagram of the mobile phone holder in a folded state according to an embodiment of the present invention; and
+ FIG. 4 is a disassembly schematic diagram of the mobile phone holder according to an embodiment of the present invention.
+In the drawings: 1 support suction ring, 11 silica gel sticker, 12 magnet, 13 annular body, 2 rotating disc, 21 spherical groove, 3 fixed seat, 31 slotted hole, 4 adhesive plate, 5 angle adjusting piece, 6 connecting piece, 7 mounting piece, 8 gear adjustment part, 81 spring, 82 ball body and 9 mobile phone.
+ DETAILED DESCRIPTION OF EMBODIMENTS
+To further illustrate each embodiment, the present invention is provided with the accompanying drawings. The drawings, which are a part of the disclosure of the present invention, are mainly used to illustrate embodiments, and can be taken in conjunction with the relative contents in the description, to explain the operation principle of the embodiments. Other possible embodiments, as well as the advantages of the present invention, will be understood by those skilled in the art with reference to these contents. The components in the drawings are not drawn to scale, and similar component signs are usually used to represent similar components.
+Referring to FIGS. 1-4 , as an embodiment of the present invention, provided is a mobile phone holder, which includes a rotating disc 2 and a fixed seat 3 which are covered with each other. The mobile phone holder also includes a connecting piece 6 installed in a middle part of the rotating disc 2 away from the fixed seat 3 and a mounting piece 7 located in a middle part of the fixed seat 3 away from the rotating disc 2, the middle parts of the rotating disc and the fixed seat 3 are provided with corresponding through holes, and the connecting piece 6 penetrates the through holes of the rotating disc 2 and the fixed seat 3 to be fixedly connected with the mounting piece 7. An angle adjusting piece 5 is rotatably connected to the connecting piece 6, and the other end of the angle adjusting piece 5 is rotatably connected to a support suction ring 1. The support suction ring 1 is used for adsorbing a back surface of a mobile phone 9. The fixed seat 3 is provided with an adhesive plate 4 on one side away from the rotating disc 2 and is adsorbed on a surface of an adsorbed object through the adhesive plate 4. A plurality of gear adjustment parts are provided in a circumferential direction of an inner side of the rotating disc 2, two gear adjusting pieces 8 are disposed on the fixed seat 3, and a rotation angle of the rotating disc 2 is adjusted by corresponding cooperation between the gear adjusting pieces 8 and the gear adjustment parts at different positions.
+With the above technical solution, the rotating disc 2 and the fixed seat 3 are covered with each other, a volume and a rotating contact area of the rotating disc 2 are larger, and the rotating stability is higher, and the gear adjustment is implemented on the rotation angle of the rotating disc 2 by the corresponding cooperation between the gear adjusting piece 8 and the gear adjustment parts at different positions, thereby avoiding loosening after long-term use and ensuring the user's experience.
+In this embodiment, two gear adjusting pieces 8 are provided, a slotted hole 31 for accommodating the gear adjusting piece 8 is disposed on either of opposite two sides of the fixed seat 3, the gear adjusting piece 8 includes a spring 81 and a ball body 82 connected with each other, the gear adjustment part is a spherical groove 21, and the ball body 82 correspondingly fits into the spherical groove 21. The arrangement makes the gear adjustment of the rotation angle of the rotating disc 2 more stable and smooth.
+Of course, in other embodiments, the gear adjusting piece may be a spring and a cone, and the gear adjustment part is a tapered groove corresponding to the cone.
+In this embodiment, a plurality of gear adjustment parts are continuously and uniformly arranged in the circumferential direction of the inner side of the rotary disc 2. The arrangement enables the rotation angle of the rotating disc 2 to be uniformly adjusted, thus the adjustment accuracy is finer, and the adjustment process is more coherent and smooth.
+In this embodiment, the support suction ring 1 includes an annular body 13 and a magnet 12 disposed in the annular body 13, and a silica gel sticker 11 is further provided at a position corresponding to the magnet 12 on the annular body 13. The arrangement allows the back of the mobile phone 9 to be subjected to a magnetic adsorption of the magnet 12 so that the silica gel sticker 11 is closely attached to the back of the mobile phone 9 to ensure the stability of adsorption and attachment, and the silica gel sticker is easy for disassembling and separating, so that residual adhesive substances are prevented from being adhered to the back surface of a mobile phone casing or the back surface of the mobile phones like the adhesive base plate made of strong adhesive material in the prior art, and user experience is improved.
+In this embodiment, the adhesive plate 4 is a 3M adhesive plate or a removable adhesive plate, which can be pasted on any flat and smooth table top such as desktop or wall, the present invention features a wider application range of the use scene, and being easy for disassembling and separating, and being not easy to leave adhesive substances, and improving the user's experience.
+In this embodiment, one end of the angle adjusting piece 5 is connected to the rotary disc 2 in an angle-adjustable manner, and the other end of the angle adjusting piece 5 is connected to an inner side of the support suction ring 1 in an angle-adjustable manner. The arrangement allows a wider range of angle adjustment and enables switching of any angle adjustment. Specifically, as shown in FIG. 2 , an angle adjustment range of an angle α between the angle adjusting piece 5 and the rotating disc 2 is 0 to 100°, and an angle adjustment range of an angle β between the angle adjusting piece 5 and the support suction ring 1 is 0 to 110°. The angle adjustment ranges of the angle α and angle β can meet the needs of daily angle adjustment, and the angle adjusting piece 5 and the support suction ring 1 can be folded without interference with each other so that the present invention features thinner and lighter and being convenient for storage and carrying.
+The main body of the mobile phone holder of the present invention is manufactured by metal baking paint, which can manufacture mobile phone holders with various colors to meet various requirements of users.
+The use flow of the present invention is as follows:
+the mobile phone holder is used by first sticking and fixing the adhesive plate 4 on any flat and smooth table top, then absorbing and attaching the back of the mobile phone 9 to the support suction ring 1, adjusting the angle between the angle adjusting piece 5 and the rotating disc 2 and the angle between the support suction ring 1 and the angle adjusting piece 5, then adjusting the rotation angle of the rotating disc 2 to meet the suitable viewing requirements and meet the viewing requirements of users, and finally adjusting positions of the support suction ring 1 and the mobile phone 9 adsorbed on the support suction ring 1.
+When it is necessary to store and carry the mobile phone holder, only the mobile phone 9 needs to be removed from the support suction ring 1, and then the support suction ring 1 and the angle adjusting piece 5 are folded and stored on one side of the rotating disc 2 so that the mobile phone holder forms a thin disc structure with smaller volume and is convenient for storage and carrying.
+Although the present invention has been particularly shown and described in connection with preferred embodiments, it will be apparent to those skilled in the art that various changes in form and detail may be made therein without departing from the spirit and scope of the present invention as defined by the appended claims, fall within the scope of protection of the present invention.
+Claims (8)
+ 1. A mobile phone holder comprising a rotating disc and a fixed seat covered with each other, wherein a support suction ring is provided on one side of the rotating disc and is configured for adsorbing a back surface of a mobile phone, the fixed seat is provided with an adhesive plate on one side away from the rotating disc and is adsorbed on a surface of an adsorbed object through the adhesive plate, a plurality of gear adjustment parts are provided in a circumferential direction of an inner side of the rotating disc, at least one gear adjusting piece is disposed on the fixed seat, and a rotation angle of the rotating disc is adjusted by corresponding cooperation between the gear adjusting piece and the gear adjustment parts at different positions.
+ 2. The mobile phone holder according to claim 1, wherein two gear adjusting pieces are provided, a slotted hole for accommodating the gear adjusting piece is disposed on either of opposite two sides of the fixed seat, the gear adjusting piece comprises a spring and a ball body connected with each other, the gear adjustment part is a spherical groove, and the ball body correspondingly fits into the spherical groove.
+ 3. The mobile phone holder according to claim 1, wherein a plurality of gear adjustment parts are continuously and uniformly arranged in the circumferential direction of the inner side of the rotary disc.
+ 4. The mobile phone holder according to claim 1, wherein the support suction ring comprises an annular body and a magnet disposed in the annular body, and a silica gel sticker is further provided at a position corresponding to the magnet on the annular body.
+ 5. The mobile phone holder according to claim 1, further comprising an angle adjusting piece, one end of the angle adjusting piece is connected to the rotary disc in an angle-adjustable manner, and the other end of the angle adjusting piece is connected to an inner side of the support suction ring in an angle-adjustable manner.
+ 6. The mobile phone holder according to claim 5, wherein an angle adjustment range between the angle adjusting piece and the rotating disc is 0 to 100°, and an angle adjustment range between the angle adjusting piece and the support suction ring is 0 to 110°.
+ 7. The mobile phone holder according to claim 1, wherein the adhesive plate is a 3M adhesive plate or a removable adhesive plate.
+ 8. The mobile phone holder according to claim 1, further comprising a connecting piece installed in a middle part of the rotating disc away from the fixed seat and a mounting piece located in a middle part of the fixed seat away from the rotating disc, the middle parts of the rotating disc and the fixed seat being provided with corresponding through holes, and the connecting piece penetrating the through holes of the rotating disc and the fixed seat to be fixedly connected with the mounting piece.
+ US17/863,860
+ 2022-04-06
+ 2022-07-13
+ Mobile phone holder 
+ Abandoned
+ US20230328164A1
+ (en)
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN202220774234.1
+ 2022-04-06
+ CN202220774234.1U
+ CN217883505U
+ (en)
+ 2022-04-06
+ 2022-04-06
+ Mobile phone support 
+Publications (1)
+ Publication Number
+ Publication Date
+ US20230328164A1
+ true
+ US20230328164A1
+ (en)
+ 2023-10-12
+Family
+ID=84085646
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US17/863,860
+ Abandoned
+ US20230328164A1
+ (en)
+ 2022-04-06
+ 2022-07-13
+ Mobile phone holder 
+Country Status (2)
+ Country
+ Link
+ US
+ (1)
+ US20230328164A1
+ (en)
+ CN
+ (1)
+ CN217883505U
+ (en)
+Cited By (8)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20230346087A1
+ (en)
+ *
+ 2023-06-02
+ 2023-11-02
+ Shenzhen Wanxinrong Mould Plastic Co., LTD
+ Ring holder and mobile terminal protection case 
+ US20230389684A1
+ (en)
+ *
+ 2023-08-18
+ 2023-12-07
+ Yinsuo Guan
+ Attachment for a mobile phone case 
+ US20240382020A1
+ (en)
+ *
+ 2024-06-24
+ 2024-11-21
+ Christophe Jakobuco
+ Suction cup holder 
+ USD1053860S1
+ (en)
+ *
+ 2023-02-17
+ 2024-12-10
+ Shenzhen Lisen Intelligent Co., Ltd.
+ Holder for electronic devices 
+ USD1078717S1
+ (en)
+ *
+ 2023-07-31
+ 2025-06-10
+ Shenzhen Sodi Innovation Technologies Co., Ltd.
+ Ring holder 
+ USD1095510S1
+ (en)
+ *
+ 2023-04-27
+ 2025-09-30
+ Shenzhen Jiayinmei Electronics Co., Ltd
+ Assistive gripping device for intelligent device 
+ US20260012526A1
+ (en)
+ *
+ 2024-07-03
+ 2026-01-08
+ Dongguan Jinchi Electronic Technology Co., Ltd.
+ Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+ USD1119886S1
+ (en)
+ *
+ 2023-06-02
+ 2026-03-24
+ Apple Inc.
+ Mounting accessory 
+Citations (6)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20010046409A1
+ (en)
+ *
+ 2000-02-18
+ 2001-11-29
+ Fischer Roy K.
+ Connector assembly 
+ US6522748B1
+ (en)
+ *
+ 2000-04-05
+ 2003-02-18
+ Chin-Yang Wang
+ Adjustable supporting frame 
+ US20100320341A1
+ (en)
+ *
+ 2009-05-22
+ 2010-12-23
+ Clingo.Com Llc
+ Universal Stands for Portable Electronic Devices 
+ US20190230205A1
+ (en)
+ *
+ 2016-07-13
+ 2019-07-25
+ Hitec Parts Co.,Ltd.
+ Portable device holder and support for containing same 
+ US20200063915A1
+ (en)
+ *
+ 2018-08-21
+ 2020-02-27
+ Broder Bros., Co.
+ Mobile device accessory 
+ US10972596B1
+ (en)
+ *
+ 2020-02-24
+ 2021-04-06
+ Innovation Specialties
+ Attachment to a cell phone 
+ 2022
+ 2022-04-06
+ CN
+ CN202220774234.1U
+ patent/CN217883505U/en
+ active
+ Active
+ 2022-07-13
+ US
+ US17/863,860
+ patent/US20230328164A1/en
+ not_active
+ Abandoned
+Patent Citations (6)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20010046409A1
+ (en)
+ *
+ 2000-02-18
+ 2001-11-29
+ Fischer Roy K.
+ Connector assembly 
+ US6522748B1
+ (en)
+ *
+ 2000-04-05
+ 2003-02-18
+ Chin-Yang Wang
+ Adjustable supporting frame 
+ US20100320341A1
+ (en)
+ *
+ 2009-05-22
+ 2010-12-23
+ Clingo.Com Llc
+ Universal Stands for Portable Electronic Devices 
+ US20190230205A1
+ (en)
+ *
+ 2016-07-13
+ 2019-07-25
+ Hitec Parts Co.,Ltd.
+ Portable device holder and support for containing same 
+ US20200063915A1
+ (en)
+ *
+ 2018-08-21
+ 2020-02-27
+ Broder Bros., Co.
+ Mobile device accessory 
+ US10972596B1
+ (en)
+ *
+ 2020-02-24
+ 2021-04-06
+ Innovation Specialties
+ Attachment to a cell phone 
+Cited By (9)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ USD1053860S1
+ (en)
+ *
+ 2023-02-17
+ 2024-12-10
+ Shenzhen Lisen Intelligent Co., Ltd.
+ Holder for electronic devices 
+ USD1095510S1
+ (en)
+ *
+ 2023-04-27
+ 2025-09-30
+ Shenzhen Jiayinmei Electronics Co., Ltd
+ Assistive gripping device for intelligent device 
+ US20230346087A1
+ (en)
+ *
+ 2023-06-02
+ 2023-11-02
+ Shenzhen Wanxinrong Mould Plastic Co., LTD
+ Ring holder and mobile terminal protection case 
+ USD1119886S1
+ (en)
+ *
+ 2023-06-02
+ 2026-03-24
+ Apple Inc.
+ Mounting accessory 
+ USD1078717S1
+ (en)
+ *
+ 2023-07-31
+ 2025-06-10
+ Shenzhen Sodi Innovation Technologies Co., Ltd.
+ Ring holder 
+ US20230389684A1
+ (en)
+ *
+ 2023-08-18
+ 2023-12-07
+ Yinsuo Guan
+ Attachment for a mobile phone case 
+ US20240382020A1
+ (en)
+ *
+ 2024-06-24
+ 2024-11-21
+ Christophe Jakobuco
+ Suction cup holder 
+ US12471722B2
+ (en)
+ *
+ 2024-06-24
+ 2025-11-18
+ Christophe Jakobuco
+ Suction cup holder 
+ US20260012526A1
+ (en)
+ *
+ 2024-07-03
+ 2026-01-08
+ Dongguan Jinchi Electronic Technology Co., Ltd.
+ Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed 
+Also Published As
+ Publication number
+ Publication date
+ CN217883505U
+ (en)
+ 2022-11-22
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ CN217883505U
+ (en)
+ 2022-11-22
+ Mobile phone support 
+ US9505355B1
+ (en)
+ 2016-11-29
+ Dual-mount phone and tablet stand 
+ US20110163211A1
+ (en)
+ 2011-07-07
+ Personal electronic device holder 
+ US12471722B2
+ (en)
+ 2025-11-18
+ Suction cup holder 
+ US20120312946A1
+ (en)
+ 2012-12-13
+ Support device 
+ CN205829739U
+ (en)
+ 2016-12-21
+ A kind of finger ring support 
+ CN217406585U
+ (en)
+ 2022-09-09
+ Ring support convenient to dismouting 
+ WO2024055958A1
+ (en)
+ 2024-03-21
+ Holder having double-sided magnetic attraction function 
+ CN223194741U
+ (en)
+ 2025-08-05
+ mobile phone holder
+ KR200479290Y1
+ (en)
+ 2016-01-12
+ Supporter for mobile device 
+ CN217240731U
+ (en)
+ 2022-08-19
+ Formula multifunctional mobile phone support is inhaled to magnetism 
+ CN206620177U
+ (en)
+ 2017-11-07
+ Finger ring support and support of electronic product 
+ CN214381033U
+ (en)
+ 2021-10-08
+ Cell-phone and dull and stereotyped protective sheath with runing rest 
+ CN217145842U
+ (en)
+ 2022-08-09
+ Formula electronic equipment support is inhaled to magnetism 
+ CN216852037U
+ (en)
+ 2022-06-28
+ Ring is inhaled to cell-phone magnetism 
+ CN214381012U
+ (en)
+ 2021-10-08
+ Mobile phone magnetic attraction support 
+ CN222868945U
+ (en)
+ 2025-05-13
+ Cell phone stand is inhaled to dual rotation top magnetism 
+ CN222706530U
+ (en)
+ 2025-04-01
+ Ultra-thin gyro magnetic attraction ring 
+ CN209030264U
+ (en)
+ 2019-06-25
+ A multifunctional mobile phone support device and a mobile phone bracket with the support device
+ CN222128127U
+ (en)
+ 2024-12-06
+ Support structure of magnetic finger ring buckle
+ CN222888089U
+ (en)
+ 2025-05-20
+ Can diversely adjust suspension support 
+ CN213279766U
+ (en)
+ 2021-05-25
+ Novel multifunctional mobile phone support 
+ CN221825085U
+ (en)
+ 2024-10-11
+ Double-ring magnetic suction support 
+ CN220156542U
+ (en)
+ 2023-12-08
+ Folding mobile phone support 
+ CN222852300U
+ (en)
+ 2025-05-09
+ A bracket structure and a card holder
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2022-07-13
+ AS
+ Assignment
+ Owner name:
+ U2O GLOBAL CO., LTD., CHINA
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KANG, AIJUN;REEL/FRAME:060496/0237
+ Effective date:
+ 20220711
+ 2023-07-06
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NON FINAL ACTION MAILED
+ 2024-03-12
+ STCB
+ Information on status: application discontinuation
+ Free format text:
+ ABANDONED -- FAILURE TO RESPOND TO AN OFFICE ACTION

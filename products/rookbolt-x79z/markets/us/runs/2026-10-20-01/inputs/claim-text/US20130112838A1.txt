@@ -1,0 +1,169 @@
+Claims (
+20
+)
+What is claimed is:
+1
+. A coupling device configured to couple to a surface, the coupling device comprising:
+a first housing;
+a rotational dial with a first aperture and mechanically coupled to the first housing, the rotational dial comprising a cam mechanism adjacent to the first aperture;
+a support base comprising a first stem with a second aperture, the first stem is located inside the first aperture, the first stem having a second aperture;
+a suction cup coupled to at least one of the rotational dial or the support base, the suction cup comprising:
+a suction portion; and
+a second stem located inside of the second aperture; and
+an elastic mechanism located at least partially between the support base and the second stem of the suction cup,
+wherein:
+the coupling device is configured such that the rotational dial can be rotated relative to at least the suction cup to create a vacuum between the suction portion of the suction cup and the surface.
+2
+. The coupling device of
+claim 1
+, wherein:
+the second stem of the suction cup comprises one or more wings; and
+the one or more wings of the second stem are coupled to at least one of the first stem of the support base or the cam mechanism of the rotational dial such that the suction cup is coupled to at least one of the rotational dial or the support base and such that the rotational dial can be rotated relative to at least the suction cup to create the vacuum between the suction portion and the surface.
+3
+. The coupling device of
+claim 1
+, wherein:
+the suction cup is removably coupled to at least one of the rotational dial or the support base.
+4
+. The coupling device of
+claim 1
+, wherein:
+the coupling device is configured such that the suction cup can be moved downward relative to the surface to dispel air between the suction portion of the suction cup and the surface before creating the vacuum between the suction portion of the suction cup and the surface.
+5
+. The coupling device of
+claim 1
+, wherein:
+the elastic mechanism comprises a spring.
+6
+. The coupling device of
+claim 1
+, wherein:
+the cam mechanism of the rotational dial comprises an indicator; and
+the indicator is configured to indicate whether the coupling mechanism is in a locked position or an unlocked position.
+7
+. An electrical accessory for holding two or more electrical devices, each of the two or more electrical devices having a top side and a bottom side opposite the top side, the electrical accessory comprising:
+a holder configured to couple to the two or more electrical devices at different times, the holder comprising:
+a cradle section configured to removably couple to the bottom side of the two or more electrical devices;
+a first arm coupled to the cradle section;
+a second arm movably coupled to the first arm; and
+a first support coupled to the second arm and configured to couple to the top side of the two or more electrical devices,
+wherein:
+a length of the holder is a distance between the cradle section and the first support;
+the holder is configured such that the length of the holder is adjusted by moving the second arm relative to the first arm;
+the length of the holder is substantially equal to a length of a first electrical device of the two or more electrical devices when the holder is removably coupled to the first electrical device of the two or more electrical devices;
+the length of the holder is substantially equal to a length of a second electrical device of the two or more electrical devices when the holder is removably coupled to the second electrical device of the two or more electrical devices;
+the first arm has a first end coupled to the cradle section and a second end opposite the first end;
+the first arm comprises one or more first coupling mechanisms;
+the one or more first coupling mechanisms extend in the first arm at least partially from the first end to the second end;
+the second arm has one or more second coupling mechanisms; and
+the one or more second coupling mechanisms are coupled to the one or more first coupling mechanisms the length of the holder is adjusted by moving one of the first or second coupling mechanism with respect to a different one of the first or second coupling mechanism.
+8
+. The electrical accessory of
+claim 7
+, wherein:
+the cradle section has an aperture;
+the aperture is configured to receive and hold an electrical interface; and
+the electrical interface is configured to removably couple to the two or more electrical devices.
+9
+. The electrical accessory of
+claim 8
+, wherein:
+the electrical interface is permanently coupled to the cradle section.
+10
+. The electrical accessory of
+claim 8
+, wherein:
+the electrical interface is removably coupled to the cradle section.
+11
+. The electrical accessory of
+claim 8
+, wherein:
+the cradle section comprises:
+a first layer with a first opening and a first groove; and
+a second layer with a second groove;
+the first groove runs from an edge of the first layer to the first opening;
+a width of the first groove is substantially equal to a width of the second groove;
+the first layer is coupled to the second layer such that a first portion of the second groove is located adjacent to the first opening and such that a second portion of the second groove is located adjacent to the first groove; and
+the aperture comprises the first groove, the second groove, and the first opening.
+12
+. The electrical accessory of
+claim 7
+, further comprising:
+a power acquisition unit configured to receive electrical power from an external power source; and
+a gooseneck connector coupling the power acquisition unit to the holder.
+13
+. The electrical accessory of
+claim 7
+, further comprising:
+a body comprising a suction cup; and
+a gooseneck connector configured to couple the body to the holder, wherein:
+the suction cup is configured to hold the electrical accessory to a flat surface.
+14
+. The electrical accessory of
+claim 7
+, further comprising:
+a coupling device coupled to the cradle and configured to couple to a surface, the coupling device comprising:
+a first housing;
+a rotational dial with a first aperture and mechanically coupled to the first housing, the rotational dial comprising a cam mechanism adjacent to the first aperture;
+a support base comprising a first stem with a second aperture, the first stem is located inside the first aperture, the first stem having a second aperture;
+a suction cup coupled to at least one of the rotational dial or the support base, the suction cup comprising:
+a suction portion; and
+a second stem located inside of the second aperture; and
+an elastic mechanism located at least partially between the support base and the second stem of the suction cup,
+wherein:
+the coupling device is configured such that the rotational dial can be rotated relative to at least the suction cup to create a vacuum between the suction portion of the suction cup and the surface.
+15
+. An electrical accessory for holding two or more electrical devices, the electrical accessory comprising:
+a holder configured to couple to the two or more electrical devices at different times, the holder comprising:
+a cradle section comprising an electrical coupling;
+a first side support with a proximal end and a distal end opposite the proximal end of the first side support;
+a second side support with a proximal end and a distal end opposite the proximal end of the second support;
+one or more gears coupled to the first side support and the second side support; and
+an activation mechanism coupled to the one or more gears,
+wherein:
+the holder is configured such that a first electrical device of the two or more electrical devices is held between the cradle section, the first side support, and the second side support when the holder is removably coupled to the first electrical device of the two or more electrical devices; and
+the one or more gears are configured such that a user can use the activation mechanism to turn the one or more gears and cause a distance between the distal end of the first side support and the distal end of the second side support to change.
+16
+. The electrical device of
+claim 15
+, wherein:
+the one or more gears comprise:
+a first gear coupled to the first side support, the second side support, and the activation mechanism; and
+the activation mechanism comprises a knob.
+17
+. The electrical device of
+claim 15
+, wherein:
+the one or more gears comprise:
+a first gear coupled to the first side support and the second side support; and
+a second gear coupled to the first gear and the activation mechanism; and
+the activation mechanism comprises a knob.
+18
+. The electrical device of
+claim 15
+, wherein:
+the cradle section comprises:
+a base section;
+an extension portion extending away from the base section; and
+a connection section coupled to the extension portion such that the connection section can be moved in a first direction in relation to the base section; and
+the connection section comprises the first side support, the second side support, and the one or more gears.
+19
+. The electrical device of
+claim 18
+, wherein:
+the holder is configured such that the distal end of the first side support moves in a second direction and such that the distal end of the second side support moves in a third direction; and
+the second and third directions are substantially parallel to each other and are substantially perpendicular to the first direction.
+20
+. A method of providing an electrical accessory for holding two or more electrical devices, the method comprising:
+providing a cradle section configured to couple to the two or more electrical devices at different times;
+providing a connection mechanism;
+providing a first support configured to removably couple to the two or more electrical devices; and
+coupling the cradle section to the connection mechanism and the first support, wherein:
+a holder comprises the cradle section, the connection mechanism, and the first support;
+a length of the holder is a distance between the cradle section and the first support;
+providing the connection mechanism comprises:
+providing a first arm;
+providing a second arm; and
+movably coupling the first arm to the second arm; and
+coupling the cradle section to the connection mechanism and the first support comprises:
+coupling the cradle section to the connection mechanism and the first support such that the length of the holder is changed by moving the second arm relative to the first arm.

@@ -1,0 +1,6854 @@
+US12031565B2 - Suction mount and brackets and accessories therefor 
+ - Google Patents
+US12031565B2 - Suction mount and brackets and accessories therefor 
+ - Google Patents
+ Suction mount and brackets and accessories therefor 
+ Download PDF
+Info
+ Publication number
+ US12031565B2
+ US12031565B2
+ US17/131,382
+ US202017131382A
+ US12031565B2
+ US 12031565 B2
+ US12031565 B2
+ US 12031565B2
+ US 202017131382 A
+ US202017131382 A
+ US 202017131382A
+ US 12031565 B2
+ US12031565 B2
+ US 12031565B2
+ Authority
+ US
+ United States
+ Prior art keywords
+ mount
+ suction
+ suction cup
+ piece body
+ cup
+ Prior art date
+ 2020-01-10
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Active, expires 2041-04-27
+ Application number
+ US17/131,382
+ Other versions
+ US20210215193A1
+ (en
+ Inventor
+ Erik Olson
+ Richard Carl Olson
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Olson IP Technologies Inc
+ Original Assignee
+ Olson IP Technologies Inc
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2020-01-10
+ Filing date
+ 2020-12-22
+ Publication date
+ 2024-07-09
+ 2020-12-22
+ Application filed by Olson IP Technologies Inc
+ filed
+ Critical
+ Olson IP Technologies Inc
+ 2020-12-22
+ Priority to US17/131,382
+ priority
+ Critical
+ patent/US12031565B2/en
+ 2020-12-23
+ Assigned to OLSON IP TECHNOLOGIES, INC.
+ reassignment
+ OLSON IP TECHNOLOGIES, INC.
+ ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+ Assignors: OLSON, ERIK, OLSON, RICHARD CARL
+ 2021-07-15
+ Publication of US20210215193A1
+ publication
+ Critical
+ patent/US20210215193A1/en
+ 2024-07-09
+ Application granted
+ granted
+ Critical
+ 2024-07-09
+ Publication of US12031565B2
+ publication
+ Critical
+ patent/US12031565B2/en
+ Status
+ Active
+ legal-status
+ Critical
+ Current
+ 2041-04-27
+ Adjusted expiration
+ legal-status
+ Critical
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B47/00—Suction cups for attaching purposes; Equivalent means using adhesives
+ A—HUMAN NECESSITIES
+ A47—FURNITURE; DOMESTIC ARTICLES OR APPLIANCES; COFFEE MILLS; SPICE MILLS; SUCTION CLEANERS IN GENERAL
+ A47G—HOUSEHOLD OR TABLE EQUIPMENT
+ A47G1/00—Mirrors; Picture frames or the like, e.g. provided with heating, lighting or ventilating means
+ A47G1/16—Devices for hanging or supporting pictures, mirrors, or the like
+ A47G1/17—Devices for hanging or supporting pictures, mirrors, or the like using adhesives, suction or magnetism
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B47/00—Suction cups for attaching purposes; Equivalent means using adhesives
+ F16B47/006—Suction cups for attaching purposes; Equivalent means using adhesives the suction cups being activated by the rotation of a cranked lever arm
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/041—Allowing quick release of the apparatus
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/10—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F16M13/022—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle repositionable
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R2011/0042—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means
+ B60R2011/0049—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means for non integrated articles
+ B60R2011/005—Connection with the vehicle part
+ B60R2011/0056—Connection with the vehicle part using suction cups
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B2200/00—Constructional details of connections not covered for in other groups of this subclass
+ F16B2200/83—Use of a magnetic material
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M2200/00—Details of stands or supports
+ F16M2200/02—Locking means
+ F16M2200/021—Locking means for rotational movement
+ F16M2200/024—Locking means for rotational movement by positive interaction, e.g. male-female connections
+Definitions
+ This disclosure
+ relates to suction cup mounts and, more particularly, to suction cup mounts affixed with a threaded operation and brackets and accessories for mounting to the suction cup mounts.
+ suction cup mounts
+ Another method to attach suction cup mounts is a lever activated system where the lever or switch pulls the center of the suction cup upward, creating the necessary vacuum between the surface and the suction cup.
+ Lever activated suction mounts
+ require operating space directly above and around the mount in order to operate the lever. Due to the location of the lever or switch, attaching an accessory directly above or around the mount is generally not realistic.
+ FIG. 5 A
+ is a bottom perspective view of the mount body of the suction mount of FIG. 1 ;
+ FIG. 5 B
+ is a bottom perspective view of another mount body
+ FIG. 6
+ is a cross-section view of a suction cup assembly of the suction mount of FIG. 1 .
+ FIG. 7
+ is a top perspective view of a bracket used to mount accessories to the suction mount of FIG. 1 ;
+ FIG. 16
+ is a perspective view of the multi-cup accessory of FIG. 15 ;
+ FIG. 17
+ is an exploded view of the multi-cup accessory of FIG. 16 ;
+ FIG. 18
+ is another exploded view of the multi-cup accessory of FIG. 16 ;
+ FIG. 20
+ is a perspective view of the multi-cup accessory using the cup accessory of FIG. 14 to mount directly to the suction mount of FIG. 1 ;
+ the adjustable angle mount 100
+ is used to mount accessories in a manner where the angle can be varied between the accessory and the suction mount 10 .
+ the adjustable angle mount 100
+ includes a base 102 and an arm 104 .
+ the base 102
+ is shown as circular with an outer perimeter aligning with an outer perimeter of the mount body 12 .
+ the base 102
+ defines a pair of mounting holes 106 that are positioned to align with the accessory mount holes 16 of the mount body 12 .
+ the mounting holes 106
+ can have an annular countersunk portion 108 so that a head of a mounting screw can be flush with a top surface 110 of the base 102 .
+ Outer wall 142
+ defines a pocket 146 that can receive a threaded nut (like nut 122 ) in a friction fit fashion.
+ the bracket 126
+ can cooperate with the adjustable angle mount 100 to attach the bracket 126 to the mount body 12 of the suction mount 10 .
+ the serrated faces 114 , 132
+ cooperate with one another, and the holes 116 , 134 align so that a thumb screw can secure the two brackets 100 , 126 together at the desired angle.
+ the thumb screw
+ can be loosened to allow the serrations of the serrated faces 114 , 132 to cam over one another to change the relative angle. If the terminal end 118 of the bracket 100 is arcuate, then it can easily move in the arcuate landing 130 of the bracket 126 .
+ the single cup holder assembly 148
+ includes a cup holder ring 150 and mounting arm 152 . If the cup is large enough, it can be placed directly in the cup holder ring 150 . Otherwise, a cup accessory 154 , as shown in FIG. 14 , can be placed in the cup holder ring 150 .
+ the cup accessory 154
+ is shaped like a cup and includes a bottom 156 , an annular side wall 158 and an upper rim 160 .
+ the side wall 158
+ has a diameter that is smaller than an inner diameter of the cup holder ring 150 and may be tapered.
+ the rim 160
+ includes an annular flange 162 that has an outer diameter larger than the inner diameter of the cup holder ring 150 .
+ the flange 162
+ includes a bottom surface 164 that rests on an upper surface 166 of the cup holder ring 150 to support the cup accessory 154 .
+ An inner surface 168 of the cup holder ring 150
+ may include ribs 170 that engage the side wall of the cup accessory 154 to control the amount of friction engagement between the cup holder ring 150 and the cup accessory 154 .
+ this multi-cup accessory 268
+ can be used with the suction mount 10 and the cup accessory 154 to mount the multi-cup accessory 268 on horizontal surfaces, as described further below.
+ the same reference numbers
+ are used for this multi-cup accessory 268 for similar components of the previously described multi-cup accessory 186 .
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Hooks, Suction Cups, And Attachment By Adhesive Means
+ (AREA)
+Abstract
+Unibody suction mount having a compact design allows for a plurality of products to be fastened onto the mount. The mount portion includes an integral threaded portion that cooperates with suction cup having a threaded post. The mount includes direct engagement with the suction cup to hold the suction cup in place as the vacuum is being created in the suction cup. The suction mount utilizes one or more nuts to allow for attachments to be fastened onto the suction mount. The attachments may include a variety of brackets used to connect a variety of accessories. The accessories can be designed for specific activities.
+Description
+ CROSS-REFERENCE TO RELATED APPLICATION
+This application claims the benefit of U.S. Provisional Application No. 62/959,424, filed Jan. 10, 2020, which is hereby incorporated by reference.
+ FIELD
+This disclosure relates to suction cup mounts and, more particularly, to suction cup mounts affixed with a threaded operation and brackets and accessories for mounting to the suction cup mounts.
+ BACKGROUND
+Suction cup mounts come in many shapes and sizes. There also are different methods for actuating suction mounts. For example, suction mounts using a vacuum pump include an air pump that must be manually pressed by the user to attach to a surface. The air pump makes vacuum pump suction mounts relatively bulky and more difficult to attach to surfaces.
+Another method to attach suction cup mounts is a lever activated system where the lever or switch pulls the center of the suction cup upward, creating the necessary vacuum between the surface and the suction cup. Lever activated suction mounts require operating space directly above and around the mount in order to operate the lever. Due to the location of the lever or switch, attaching an accessory directly above or around the mount is generally not realistic.
+A further method includes a suction cup mount activated using a threaded connection with the suction cup. In a common form, there is a threaded bolt, a cover plate and a threaded nut. The nut is tightened to pull the center of the suction cup upward and locks accessories in between the suction cup and nut. While this style of suction mount can be very compact, there often are many pieces involved and a very limited number of accessories can be attached to it. Indeed, many times the mount is dedicated to a specific accessory.
+Thus, there is a need for a suction mount that easily creates enhanced suction, has a relatively compact design and supports different accessories.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+ FIG. 1 is a perspective view of a suction mount;
+ FIG. 2 is an exploded view of the suction mount of FIG. 1 ;
+ FIG. 3 is a side elevation view of the mount body of the suction mount of FIG. 1 ;
+ FIG. 4 is a top perspective view of the mount body of the suction mount of FIG. 1 ;
+ FIG. 5A is a bottom perspective view of the mount body of the suction mount of FIG. 1 ;
+ FIG. 5B is a bottom perspective view of another mount body;
+ FIG. 5C is a cross-section view of the mount body of FIG. 5B;
+ FIG. 6 is a cross-section view of a suction cup assembly of the suction mount of FIG. 1 .
+ FIG. 7 is a top perspective view of a bracket used to mount accessories to the suction mount of FIG. 1 ;
+ FIG. 8 is a bottom perspective view of the bracket of FIG. 7 ;
+ FIG. 9 is top perspective view of an adjustable angle mount attached to the suction mount of FIG. 1 ;
+ FIG. 10 is an exploded view of the adjustable angle mount of FIG. 9 ;
+ FIG. 11 is a perspective view of a double slotted accessory bracket;
+ FIG. 12 is a perspective view of a single cup holder accessory attached to the suction mount of FIG. 1 using the adjustable angle mount of FIG. 10 ;
+ FIG. 13 is a perspective view of the single cup holder accessory of FIG. 12 ;
+ FIG. 14 is a perspective view of a cup accessory;
+ FIG. 15 is a perspective view of a multi-cup accessory mounted to the suction cup of FIG. 1 using the adjustable mount of FIG. 9 ;
+ FIG. 16 is a perspective view of the multi-cup accessory of FIG. 15 ;
+ FIG. 17 is an exploded view of the multi-cup accessory of FIG. 16 ;
+ FIG. 18 is another exploded view of the multi-cup accessory of FIG. 16 ;
+ FIG. 19 is a bottom perspective view of the multi-cup accessory of FIG. 16 ;
+ FIG. 20 is a perspective view of the multi-cup accessory using the cup accessory of FIG. 14 to mount directly to the suction mount of FIG. 1 ;
+ FIG. 21 is a perspective view of the multi-cup accessory of FIG. 20 ;
+ FIG. 22 is a plan view of the cup accessory of FIG. 14 ; and
+ FIG. 23 is a bottom perspective view of the cup accessory of FIG. 14 .
+ DETAILED DESCRIPTION
+With reference to FIG. 1 , there is illustrated a suction mount 10 having a mount body 12 and a suction cup assembly 14. The mount body 12 and the suction cup assembly 14 are mechanically interconnected by a threaded post 30. The mount body 12 is easily turned to increase the suction force of the suction cup assembly 14 and to maintain the suction cup assembly in place. The mount body 12 includes a pair of mounting holes 16 used to attach accessories and a universal mounting bracket, as described further below. The mount body 12 also can include a magnet 18 used to attach magnetic objects. As seen, the suction mount 10 has a compact body that can be used to mount a variety of accessories. It also can be easily scaled between a relatively large size for large accessories to a small, compact and slim size for small accessories. Regardless of the size, the mount body 12 has few moving parts and can provide a low center of gravity.
+As shown in FIG. 2 , the suction mount 10 includes a centrally located threaded hole 20 that cooperates with the suction cup 14. Overlying and centered on the threaded hole 20 is a recess 22 for the magnet 18. The recess 22 includes small longitudinally extending ribs 24 to help frictionally engage the magnet 18 to maintain the magnet 18 in the recess 22 with a friction fit. The magnet 18 also may be secured in the recess 22 with an adhesive. A pair of nuts 26 are mounted to an inside of the mount body 12 at the accessory mount holes 16 to cooperate with screws of the desired bracket or accessory. The suction cup assembly 14 includes a suction cup 28 and the threaded post 30 with a base 32. The base 32 is affixed to the suction cup 28 in any manner, preferably, however, by overmolding. The base 32 includes holes 34 that enable material of the suction cup 28 to flow into during the molding process to secure the suction cup 28 to the base 32 so that the base 32 is not able to rotate relative to the suction cup 28.
+With reference to FIGS. 3-5 , the mount body 12 has an annular puck like configuration with a flat top surface 36. An annular side surface 38 has a generally cylindrical portion 40 and outward curved portion 42 adjacent the top surface 36. The side surface 38 includes concave recesses 44. The outward curved portion 42 increases the size of the top surface 36 and coupled with the recesses 44 provides enhanced gripping for a user to turn the mount body 12 during mounting of the suction mount 10 to a surface.
+The mount body 12 defines a generally hollow region 46 open at its underside. A boss 48 is centrally located in the hollow region 46 and defines at least in part the threaded hole 20. The mount body 12 defines two pockets 50 located diametrically opposite one another about the boss 48. Each pocket 50 is sized to receive one of the complementary sized nuts 26 in a manner that retains the nut 26 with a friction fit. The nuts 26 align with the accessory mount holes 16. Each pocket 50 may include ribs 52 to further enhance the friction fit between the nut 26 and the pocket 50. The nuts 26 may be overmolded into the pockets 50.
+An annular wall 54 surrounds the hollow region 46. The annular wall 54 includes the outer annular side surface 38 and an annular end surface 56. The annular end surface 56 includes an annular rib 58 extending from its outer circumference. A series of longitudinal ribs 60 extend radially inward from the annular wall 54 and from a base 62 of the hollow region 46. A terminal end of each rib 60 includes an inner rib 64 and an outer rib 66. The terminal end of four of the longitudinal ribs 60 include a pad 68. The pads 68 can be located on ribs 90 degrees apart and extend further than the ribs 60, 64, 66 (FIG. 3 ). The annular rib 58, inner and outer ribs 64, 66 and the pads 68 are designed to engage a perimeter area of the suction cup 28 to control friction during mounting and to hold the suction cup 28 against a mounting surface while suction is being generated by the mount body 12 pulling a center area of the suction cup 28 away from a mounting surface with the threaded post 30. These features will embed into the material of the suction cup 28 during the mounting operation. The annular rib 58, inner and outer ribs 64, 66 and pads 68 may be selected and positioned depending on the friction generated and the holding needs of a particular suction mount. For instance, the annular rib 58 may be discontinuous, the inner and outer ribs 64, 66 may be not be present on all of the longitudinal ribs 60 or may be only the inner or outer ribs 64, 66 are employed. The pads 68 could be added to additional longitudinal ribs or reduced in number or even eliminated. Also, the number of longitudinal ribs 60 could be increased or reduced. One benefit of the longitudinal ribs 60 is to reduce material in the mount body 12 and enable the inner and outer ribs 64, 66 to be intermittent. A pocket 70 is created between adjacent longitudinal ribs 60.
+With reference to FIGS. 5B and 5C, there is illustrated an alternate embodiment of a body mount 12′. The body mount 12′ is almost identical to the body mount 12 (common elements will be denoted with the same reference numbers along with an apostrophe) with the primary difference being an annular wall 59 connecting the longitudinal ribs 60′. Another difference is that a terminal end of the annular wall 59 includes an annular rib 61 projecting axially away from the wall 59. The rib 61 replaces the inner ribs 64 of the body mount 12 and provides more friction on the material of suction cup 28 because it is continuous. The wall 59 also closes the inner side of the pockets 70′. Unlike the body mount 12, none of the longitudinal ribs 60′ of the body mount 12′ include a pad 68. As with the body mount 12, the ribs 58′, 61, and 66′ will embed into the material of the suction cup 28 during the mounting operation. The ribs may be selected and positioned depending on the friction generated and the holding needs of a particular suction mount as explained further above for the body mount 12.
+As shown in FIG. 6 , the suction assembly 14 includes the suction cup 28, the threaded post 30 and the base 32. As discussed above, the base 32 is positioned in a cavity 71 of the suction cup 28. The base 32 includes holes 34 through which material 72 of the suction cup 28 flows into during the molding process so that the suction cup 28 cannot rotate relative to the base 32. The suction cup 28 includes a perimeter region 74 surrounding a centrally positioned concave region 76.
+To install the suction mount 10, the mount body 12 and the suction cup assembly 14 may be separated by rotating the mount body 12 counter-clockwise relative to the suction cup assembly 14 to unthread the two from one another. Then, the suction cup assembly 14 may be placed against a mounting surface, and the threaded post 30 may be pushed toward the mounting surface to evacuate most, if not all, of the air from the concave region 76. Next, the mount body 12 is threaded clockwise onto the threaded post 30 and turned until the pads 68 first engage the perimeter region 74 of the suction cup 28. The pads 68 maintain the suction cup 28 in place initially. The user continues to turn the mount body 12 clockwise to engage the ribs 60, 64, 66 with the perimeter region 74 of the suction cup 28 to embed the ribs in the perimeter region 74 to further resist movement of the perimeter region 74 along the mounting surface as the concave region 76 of the suction cup 28 is drawn away from the mounting surface to increase the vacuum force in the concave region 76. Eventually, the entire annular end surface 56 of the mount body 12 engages the perimeter region 74 of the suction cup 28 with the pads 68 embed deeper into the perimeter region 74 of the suction cup 28 than the ribs 60, 64, 66. The pull force of the threaded post (30) and the pressure asserted by the annular end surface (56) work against each other so that when combined like they are in the suction mount 10 they greatly increase the suction force of the surface mount 10. In one embodiment, it takes about 3-6 clockwise turns of the mount body 12 to mount the suction mount 10 to a mounting surface.
+Once enough suction force is generated, the suction mount 10 is firmly affixed to the mounting surface. The suction mount 10 can be removed from the mounting surface by reversing this operation.
+Turning to FIGS. 7 and 8 , there is illustrated a bracket 78 designed to mount various accessories to the body mount 12. The bracket 78 has a generally diamond like configuration with four protrusions 80, 82 separated by arcuate edges 84. The bracket 78 contains two mounting holes 86 that are spaced symmetrically to align with the accessory mount holes 16 of the mount body 12. The mounting holes 86 include an annular countersunk conical region 88 so that heads of mounting screws can be flush with a top surface 90 of the bracket 78.
+In between the mounting holes 86, there is located a hole 92 used to mount accessories. Two of the protrusions 80 define oval slots 94 also for mounting accessories. The oval holes 94 provide flexibility in mounting accessories. The other two protrusions 82 include radial extending elongated slots 96 for mounting accessories. The bracket 78 defines pockets 98 running along the backside of the elongated slots 96 for receiving a nut to cooperate with a screw of an accessory. The nut may be moved in the pocket 98 radially to the desired position. The nut may have a slight friction fit with the pocket 98. In one form, the elongated slots can have length that provides a mounting range between the nuts of at least 27.5 millimeter to 78.7 millimeters. The bracket can be used to mount many different accessories, including a boat cleat and a paddle holder just to name a couple.
+With reference to FIGS. 9 and 10 , there is illustrated an adjustable angle mount 100 attached to the suction mount 10. The adjustable angle mount 100 is used to mount accessories in a manner where the angle can be varied between the accessory and the suction mount 10. The adjustable angle mount 100 includes a base 102 and an arm 104. The base 102 is shown as circular with an outer perimeter aligning with an outer perimeter of the mount body 12. The base 102 defines a pair of mounting holes 106 that are positioned to align with the accessory mount holes 16 of the mount body 12. The mounting holes 106 can have an annular countersunk portion 108 so that a head of a mounting screw can be flush with a top surface 110 of the base 102.
+The arm 104 extends perpendicularly away from the top surface 110 of the base 102. The arm 104 includes a stepped end configuration with a flat landing 112 and a serrated face 114 perpendicular to the landing 112. At the center of the serrated face 114, there is a mounting hole 116. The serrations of the serrated face 114 extend radially from the mounting hole 116 and cooperate with serrations on an accessory to secure an angle for the accessory relative to the arm 104. A terminal end 118 of the arm 104 includes a pocket 120 designed to hold a nut 122 to be used with a fastener, such as a thumb screw, for fastening an accessory to the arm 104. The pocket 120 can be sized to receive the nut 122 with a friction fit so it remains in the pocket 120 after being inserted. A back surface 124 of the base 102 is flat to mate flush with the flat top surface 36 of the mount body 12.
+In FIG. 11 , there is illustrated a double slotted accessory bracket 126 that can be used to attach accessories having a similar style of complementary bracket, such as products from GoPro, Inc. The bracket 126 includes a stepped arm 128 including an arcuate landing 130 and a serrated face 132 perpendicular to the landing 130. The arm 128 defines an attachment hole 134 and serrations of the serrated face 132 extend radially from the attachment hole 134. The other end of the arm 128 includes a pair of slots 136 defined by three walls 138, 140, 142. The walls 138, 140, 142 each define a hole 144 that all align with one another. Outer wall 142 defines a pocket 146 that can receive a threaded nut (like nut 122) in a friction fit fashion. The bracket 126 can cooperate with the adjustable angle mount 100 to attach the bracket 126 to the mount body 12 of the suction mount 10. The serrated faces 114, 132 cooperate with one another, and the holes 116, 134 align so that a thumb screw can secure the two brackets 100, 126 together at the desired angle. The thumb screw can be loosened to allow the serrations of the serrated faces 114, 132 to cam over one another to change the relative angle. If the terminal end 118 of the bracket 100 is arcuate, then it can easily move in the arcuate landing 130 of the bracket 126.
+With reference to FIGS. 12 and 13 , there is illustrated a single cup holder assembly 148 mounted to the suction mount 10 with the adjustable angle mount 100. The single cup holder assembly 148 includes a cup holder ring 150 and mounting arm 152. If the cup is large enough, it can be placed directly in the cup holder ring 150. Otherwise, a cup accessory 154, as shown in FIG. 14 , can be placed in the cup holder ring 150. The cup accessory 154 is shaped like a cup and includes a bottom 156, an annular side wall 158 and an upper rim 160. The side wall 158 has a diameter that is smaller than an inner diameter of the cup holder ring 150 and may be tapered. The rim 160 includes an annular flange 162 that has an outer diameter larger than the inner diameter of the cup holder ring 150. The flange 162 includes a bottom surface 164 that rests on an upper surface 166 of the cup holder ring 150 to support the cup accessory 154. An inner surface 168 of the cup holder ring 150 may include ribs 170 that engage the side wall of the cup accessory 154 to control the amount of friction engagement between the cup holder ring 150 and the cup accessory 154.
+The mounting arm 152 is stepped and includes an arcuate landing 172 and a serrated face 174 perpendicular to the landing 172. The arm 152 defines an attachment hole 176 and serrations of the serrated face 174 extend radially from the attachment hole 176. The other end of the arm 152 is attached to the cup holder ring 150. The arm 152 could be molded as a single piece with the cup holder ring 150 or could be two pieces attached together using welding, adhesive or other known techniques. When molded as a single piece, a pocket 178 may be added at a transition between the cup holder ring 150 and the mounting arm 152 to reduce the amount of material using to make the single cupholder accessory 148. The pocket 178 is bordered by the cup holder ring 150, the mounting arm 152 and three walls 180, 182, 184 interconnecting the cup holder ring 150 to the mounting arm 152.
+The mounting arm 152 can cooperate with the adjustable angle mount 100 to attach the mounting arm 152 to the mount body 12 of the suction mount 10. The serrated faces 114, 174 cooperate with one another, and the holes 116, 174 align so that a thumb screw can secure the mounting arm 152 and the bracket 100 together at the desired angle. The thumb screw can be loosened to allow the serrations of the serrated faces 114, 174 to pass by one another to change the relative angle. If the terminal end 118 of the bracket 100 is arcuate, then it can easily move in the arcuate landing 172 of the mounting arm 172.
+Referring to FIGS. 15-19 , there is illustrated a multi-cup holder accessory 186 mounted to the suction mount 10 with the adjustable angle mount 100. The multi-cup holder accessory 186 has a body 188 with generally boomerang shape defining three cup holder openings 190, 192, 194 and a mounting arm 196. If the cup is large enough, it can be placed directly in the cup holder openings 190, 192, 194. Otherwise, the cup accessory 154, as shown in FIG. 14 , can be placed in the cup holder openings 190, 192, 194. The bottom surface 164 of the flange 162 of the cup accessory 154 can rests on an upper surface 198 of the body 188 around each of the cup holder openings 190, 192, 194. Alternatively, the cup 154 can be locked in the center cup holder opening 192 with a pair of locking arms 204, as discussed further below. An inner surface 200 of the body 188 defining each of the cup holder openings 190, 192, 194 may include ribs 202 that engage the side wall of the cup accessory 154 to control the amount of friction engagement between the body 188 at the cup holder openings 190, 192, 194 and the cup accessory 154.
+The body 188 may define other openings to hold additional items. These other openings can be sized as desired to hold items used for a specific activity. By way of example only, the additional openings could be designed to hold items commonly used in fishing. In this regard, the body 188 could define an oval opening 206 between two of the cup holder openings 190, 192 that would receive a portion of a pliers to support the pliers. The body 188 may also define a pair of elongated slots 208, 210 of different lengths between two openings 192, 194 to receive in part different sized knives to hold the knives. Along the front lip 212, the body 188 may define elongated, arcuate openings 214 for supporting fishhooks. The underside of the body 188 includes an array of recesses to reduce the amount of material used in making the body 188. The body 188 includes an annular wall 190 a, 192 a, 194 a, 206 a, 208 a, 210 a, 214 a at each of the openings 190, 192, 194, 206, 208, 210, 214, respectively, to provide support for and depth to the openings 190, 192, 194, 206, 208, 210, 214 so that the items mounted in the openings 190, 192, 194, 206, 208, 210, 214 do not lean too much.
+The mounting arm 196 is stepped and includes a flat landing 216 and a serrated face 218 perpendicular to the landing 216. The arm 196 defines an attachment hole 220 and serrations of the serrated face 218 extend radially from the attachment hole 220. The other end of the arm 196 is attached to the body 188. The arm 196 could be molded as a single piece with the body 188 or could be two pieces attached together using welding, adhesive or other know techniques. When molded as a single piece, pockets 222 may be added at a transition between the body 188 and the mounting arm 196 to reduce the amount of material used to make the multi-cup accessory 186. The pockets 222 are bordered by the body 188, the mounting arm 196 and a number of walls 224 interconnecting the body 188 to the mounting arm 196.
+The mounting arm 196 can cooperate with the adjustable angle mount 100 to attach the mounting arm 196 to the mount body 12 of the suction mount 10. The serrated faces 114, 218 cooperate with one another, and the holes 116, 220 align so that a thumb screw can secure the mounting arm 196 and the angle mount 100 together at the desired angle. The thumb screw can be loosened to allow the serrations of the serrated faces 114, 218 to move pass one another to change the relative angle.
+An additional mounting plate 226 may be added to depend from the body 188 if desired. The mounting plate 226 includes a rectangular base 228 that fits into a complimentary rectangular pocket 230 at the underside of the body 188. The base 228 includes a mounting hole 232 and a pocket 234 that holds a nut 236 in alignment with the mounting hole 232. The nut 236 may fit in the pocket 234 with a friction fit. The body 188 includes a mounting hole 238 that aligns with the mounting hole 232 of the plate 226 to receive a threaded fastener 240 to attach the plate 226 to the body 188. The plate 226 includes a front face 242 with two mounting holes 244. At the rear side, the plate 226 defines two pockets 246, each to hold a nut 248 in alignment with its respective mounting hole 244. The nut 248 may fit in its pocket 246 with a friction fit. The spacing between the mounting holes 244 may be designed to mount a specific accessory, including, for example, a conventional bottle opener. The rear of the mounting plate 226 may include recesses 250 to reduce the amount of material.
+As mentioned above, the center cupholder opening 192 may include locking arms 204 to attach the cup 154 (FIG. 14 ) to the body 188 so that it cannot be unintentionally dislodged. Each locking arm 204 includes a locking portion 252 and a tab 254. The locking portion 252 includes an arcuate channel 256 bounded by a lower rib 258 and upper wall 260. The lower rib 258 includes a cam surface 262 so that the cup 154 can be inserted into the opening 192 from underneath the body 188. As the cup 154 is inserted into the locking arms 204, the lower portions 252 pivot outward until the flange 162 of the cup 154 passes into the channel 256. The outward movement of the lower portions 252 is caused by the camming of the flange 162 over the cam surface 262. The locking arms 204 are connected to the body 188 by relatively small extensions 264 of material that allow the locking arms 204 to pivot and elastically return to a holding position. The body 188 defines an arcuate opening 266 to provide clearance for the locking arm 204 to pivot. The tabs 254 are used to release the cup 154 from the locking arms 204. The tabs 254 are squeezed towards one another to pivot the channel 256 of the locking portion 252 away from the flange 162 of the cup 154. This movement allows the cup 154 to drop out of the locking engagement with the locking arms 204.
+As shown in FIGS. 20-23 , there is another multi-cup accessory 268 identical to the multi-cup accessory 186 except that this multi-cup accessory 268 does not include the mounting arm 196. This multi-cup accessory 268 can be used with the suction mount 10 and the cup accessory 154 to mount the multi-cup accessory 268 on horizontal surfaces, as described further below. The same reference numbers are used for this multi-cup accessory 268 for similar components of the previously described multi-cup accessory 186.
+The cup accessory 154 includes a bottom wall 270 defining a pair of mounting holes 272. Each mounting hole 272 includes a countersunk portion 274 so that heads of the screws can sit flush with the bottom wall 270. An underside 276 of the bottom wall 270 may include a boss 278 around each of the mounting holes 272 and a raised perimeter region 280 around its circumference. The mounting holes 272 of the bottom wall 270 align with the mounting holes 16 of the mount body 12 to attach the cup accessory 154 to the suction mount 10. The cup accessory 154 locks into the center cup holder opening 192 using the locking arms 204, as described above.
+The components described above may be made from a plastic or metal material. For example, the suction cup could be made of all plastic so that it does not rust. In this case, the suction cup may be made of polyvinyl chloride, and the threaded post and the mount body may be made of acrylonitrile butadiene styrene.
+While there have been illustrated and described particular embodiments of the present invention, it will be appreciated that numerous changes and modifications will occur to those skilled in the art, and it is intended for the present invention to cover all those changes and modifications which fall within the scope of the appended claims.
+Claims (35)
+ What is claimed is:
+1. A suction mount system comprising:
+a suction cup having a first perimeter region; and
+a one-piece body rotatably connected to the suction cup and having a rib extending from a second perimeter region that movably engages and embeds into a material of the suction cup at the first perimeter region of the suction cup when the rib is rotated with the one-piece body to resist movement of the first perimeter region along a mounting surface as a center portion of the suction cup is pulled away from the mounting surface as the suction cup is mounted to the mounting surface,
+wherein the one-piece body comprises an outer annular wall having an exterior side and an interior side, and a plurality of longitudinal ribs extend lengthwise along the interior side substantially parallel to a central longitudinal axis of the one-piece body, at least one of the plurality of longitudinal ribs including at least one ridge at an end thereof to embed into the suction cup.
+2. The suction mount system of claim 1 wherein the ridge is a discontinuous annular ridge.
+3. The suction mount system of claim 1, wherein the rib is a first continuous annular rib that embeds into the material of the suction cup at the first perimeter region of the suction cup.
+4. The suction mount system of claim 3 further comprising a second continuous annular rib that embeds into the first perimeter region of the suction cup.
+5. The suction mount system of claim 1 further comprising a threaded shaft mechanically connecting the suction cup to the one-piece body such that rotating of the one-piece body embeds the rib into the material of the suction cup at the first perimeter region of the suction cup.
+6. The suction mount system of claim 5 further comprising a base at least partially molded into the suction cup and attached to the threaded shaft to attach the threaded shaft to the suction cup.
+7. The suction mount system of claim 6 wherein the one-piece body defines a hole that is at least partially threaded and receives the threaded shaft.
+8. The suction mount system of claim 1 wherein the one-piece body defines mounting holes for attaching accessories to the one-piece body.
+9. The suction mount system of claim 8 further comprising a threaded nut at each of the mounting holes.
+10. The suction mount system of claim 9 further including a bracket that mounts to the one-piece body using the mounting holes.
+11. The suction mount system of claim 10 wherein the bracket defines a plurality of holes.
+12. The suction mount system of claim 11 wherein at least two of the plurality of holes are elongated slots.
+13. The suction mount system of claim 10 wherein the bracket includes at least two protrusions extending away from one another.
+14. The suction mount system of claim 10 wherein the bracket includes a serrated face for mounting accessories at different angles relative to the one-piece mount body.
+15. The suction mount system of claim 1 wherein the one-piece body defines a recess and a magnet resides in the recess.
+16. The suction mount system of claim 1 further comprising a first accessory defining at least one hole for supporting an object.
+17. The suction mount system of claim 16 wherein the at least one hole includes a plurality of holes for supporting different sized objects at the same time.
+18. The suction mount system of claim 16 further comprising a second accessory supported by the first accessory and defining a plurality of holes for supporting different sized objects at the same time.
+19. The suction mount system of claim 18 further comprising a third accessory supported by the second accessory for supporting at least one object.
+20. A method for attachment to a surface comprising:
+providing a suction cup having a first perimeter region and a one-piece mount body rotatably connected to the suction cup and the mount body having a rib extending from a second perimeter region;
+placing the suction cup against a surface;
+rotating the one-piece body; and
+movably engaging and embedding the rib into a material of the suction cup at the first perimeter region of the suction cup when the rib is rotated with the one-piece body to resist movement of the first perimeter region along a mounting surface as a central portion of the suction cup is pulled away from the mounting surface as the suction cup is mounted to the mounting surface,
+wherein the rib is a discontinuous annular rib and the mount body further includes a first continuous annular rib and a second continuous annular rib, and further comprising the step of embedding the discontinuous annular rib, the first continuous annular rib and the second continuous annular rib into the material of the suction cup at the first perimeter region of the suction cup upon rotating of the mount body.
+21. The method of claim 20 further comprising the step of providing a threaded shaft mechanically connecting the suction cup to the mount body such that rotating of the mount body embeds the discontinuous annular rib, the first continuous annular rib and the second continuous annular rib into the material of the suction cup at the first perimeter region of the suction cup.
+22. The method of claim 20 further comprising the step of attaching an accessory bracket to the mount body.
+23. The method of claim 22 wherein the bracket includes a serrated face for mounting accessories at different angles relative to the mount body.
+24. The method of claim 22 further comprising the step of attaching a first accessory defining at least one hole for supporting an object to the bracket.
+25. The method of claim 24 wherein the at least one hole includes a plurality of holes for supporting different sized objects at the same time.
+26. The method of claim 24 further comprising the step of attaching a second accessory to the first accessory and the second accessory defining a plurality of holes for supporting different sized objects at the same time.
+27. A mount for a suction mount system comprising:
+a one-piece body,
+the one-piece body comprising at least one rib projecting from the one-piece body to engage a suction cup, wherein the at least one rib is fixed against movement relative to the one-piece body such that the rib rotates with the one-piece body when the one-piece body is rotated to engage the suction cup; and
+a core of the one-piece body defining a hole that is at least partially threaded to rotatably couple the one-piece body to a threaded portion of the suction cup so rotation of the one-piece body drives axial movement of the threaded portion of the suction cup, and defining an axis about which the one-piece body rotates,
+wherein the one-piece body comprises an outer annular wall having an exterior side and an interior side, and a plurality of longitudinal ribs extend lengthwise along the interior side substantially parallel to the axis, at least one of the plurality of longitudinal ribs including at least one ridge at an end thereof to embed into the suction cup.
+28. The mount of claim 27 wherein the at least one ridge is discontinuous.
+29. The mount of claim 27 wherein the at least one rib is a first continuous annular rib projecting from the one-piece body to engage the suction cup.
+30. The mount of claim 29 further comprising a second continuous annular rib projecting from the one-piece body to engage the suction cup.
+31. The mount of claim 27 wherein the one-piece body defines mounting holes for attaching accessories to the one-piece body.
+32. The mount of claim 28 further comprising at least one pocket formed by the one-piece body adjacent the discontinuous ridge.
+33. The mount of claim 27 wherein the one-piece body defines at least one recess to enhance gripping for rotating the one-piece body about the axis.
+34. The suction mount system of claim 1 wherein a diameter of the one-piece body at the second perimeter region is less than or equal to a diameter of the suction cup at the first perimeter region.
+35. The method of claim 20 wherein a diameter of the one-piece body at the second perimeter region is less than or equal to a diameter of the suction cup at the first perimeter region.
+ US17/131,382
+ 2020-01-10
+ 2020-12-22
+ Suction mount and brackets and accessories therefor 
+ Active
+ 2041-04-27
+ US12031565B2
+ (en)
+Priority Applications (1)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ US17/131,382
+ US12031565B2
+ (en)
+ 2020-01-10
+ 2020-12-22
+ Suction mount and brackets and accessories therefor 
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ US202062959424P
+ 2020-01-10
+ 2020-01-10
+ US17/131,382
+ US12031565B2
+ (en)
+ 2020-01-10
+ 2020-12-22
+ Suction mount and brackets and accessories therefor 
+Publications (2)
+ Publication Number
+ Publication Date
+ US20210215193A1
+ US20210215193A1
+ (en)
+ 2021-07-15
+ US12031565B2
+ true
+ US12031565B2
+ (en)
+ 2024-07-09
+Family
+ID=76760905
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US17/131,382
+ Active
+ 2041-04-27
+ US12031565B2
+ (en)
+ 2020-01-10
+ 2020-12-22
+ Suction mount and brackets and accessories therefor 
+Country Status (1)
+ Country
+ Link
+ US
+ (1)
+ US12031565B2
+ (en)
+Cited By (1)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20240372937A1
+ (en)
+ *
+ 2023-05-04
+ 2024-11-07
+ Evolutive Labs Co., Ltd.
+ Supporting attachment and mobile electronic device casing 
+Families Citing this family (6)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ USD1005084S1
+ (en)
+ 2020-01-21
+ 2023-11-21
+ Olson Ip Technologies, Inc.
+ Suction cup mount 
+ USD1137209S1
+ (en)
+ *
+ 2024-01-11
+ 2026-07-28
+ John Charles Licitra
+ Cabinet speaker mount 
+ USD1094340S1
+ (en)
+ *
+ 2024-01-11
+ 2025-09-23
+ John Charles Licitra
+ Cabinet speaker mount 
+ USD1093352S1
+ (en)
+ *
+ 2024-01-11
+ 2025-09-16
+ John Charles Licitra
+ Cabinet speaker mount 
+ USD1093351S1
+ (en)
+ *
+ 2024-01-11
+ 2025-09-16
+ John Charles Licitra
+ Cabinet speaker mount 
+ USD1093350S1
+ (en)
+ *
+ 2024-01-11
+ 2025-09-16
+ John Charles Licitra
+ Cabinet speaker mount 
+Citations (487)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US453631A
+ (en)
+ 1891-06-09
+ Curtain-support 
+ US666467A
+ (en)
+ 1899-09-01
+ 1901-01-22
+ Phoenix Mfg Company
+ Telescopic curtain-pole. 
+ US1374026A
+ (en)
+ 1920-05-14
+ 1921-04-05
+ Peter A Nelson
+ Bracket for curtain-poles 
+ US1401727A
+ (en)
+ 1921-01-08
+ 1921-12-27
+ Pimlott Peter
+ Curtain-pole 
+ US1679881A
+ (en)
+ 1925-10-05
+ 1928-08-07
+ Herbert A Simpson
+ Hanger rod 
+ US1756716A
+ (en)
+ 1928-03-01
+ 1930-04-29
+ Whitmanis Mfg Company Inc
+ Supporting bar 
+ US1837340A
+ (en)
+ 1931-09-17
+ 1931-12-22
+ Schwartz Meyer
+ Curtain rod 
+ US1951660A
+ (en)
+ 1933-11-20
+ 1934-03-20
+ Helmuth R Klaudt
+ Adjustable supporting bar 
+ US2275330A
+ (en)
+ 1938-06-29
+ 1942-03-03
+ Tveten Finn
+ Ski stick 
+ US2293168A
+ (en)
+ 1940-07-18
+ 1942-08-18
+ Pirone Amato Mario Matthew
+ Hanger bar 
+ US2637555A
+ (en)
+ 1950-07-07
+ 1953-05-05
+ Helmuth R Klaudt
+ Exercise bar 
+ US2661850A
+ (en)
+ 1950-02-23
+ 1953-12-08
+ William E Fowler
+ Curtain rod 
+ US2903141A
+ (en)
+ 1954-06-21
+ 1959-09-08
+ Seewack Benjamin
+ Adjustable bracket for a shower rod, curtain holder, or the like 
+ US2974806A
+ (en)
+ 1957-06-27
+ 1961-03-14
+ Seewack Benjamin
+ Shower rod holder 
+ US3004743A
+ (en)
+ 1958-09-15
+ 1961-10-17
+ Harry J Wenger
+ Music stands 
+ US3180604A
+ (en)
+ 1963-08-02
+ 1965-04-27
+ Boyd F Hammer
+ Adjustable support means for a cassette and like devices 
+ US3240461A
+ (en)
+ *
+ 1963-11-22
+ 1966-03-15
+ Singleton Alan Martin
+ Suction devices 
+ US3560032A
+ (en)
+ 1968-05-27
+ 1971-02-02
+ Ltv Ling Altec Inc
+ Adjustable clutch for relatively moving tubular parts 
+ US3674294A
+ (en)
+ 1970-03-16
+ 1972-07-04
+ Arthur J Kirkham
+ Clamping telescopic tubes 
+ US4012007A
+ (en)
+ *
+ 1975-08-01
+ 1977-03-15
+ Cunningham Donald W
+ Paper towel holder 
+ US4012961A
+ (en)
+ 1976-01-15
+ 1977-03-22
+ Kenney Manufacturing Company
+ Pulley and support combination 
+ US4133575A
+ (en)
+ *
+ 1975-11-28
+ 1979-01-09
+ Ever-Clean Gmbh H.W. Nixdorf
+ Vibration damping means for windshield 
+ US4134703A
+ (en)
+ 1978-02-09
+ 1979-01-16
+ Hinners Earl S
+ Locking structure for extensible pole 
+ US4147199A
+ (en)
+ 1977-12-14
+ 1979-04-03
+ Kenney Manufacturing Company
+ Drapery support combination 
+ US4254815A
+ (en)
+ 1979-03-23
+ 1981-03-10
+ Kenney Manufacturing Company
+ Curtain supporting and positioning combination 
+ US4274467A
+ (en)
+ 1979-03-23
+ 1981-06-23
+ Kenney Manufacturing Company
+ Drapery and support combination 
+ US4276920A
+ (en)
+ 1979-03-23
+ 1981-07-07
+ Kenney Manufacturing Company
+ Traverse rod and support combination 
+ US4301852A
+ (en)
+ 1979-03-23
+ 1981-11-24
+ Kenney Manufacturing Company
+ Heavy duty traverse rod and curtain support combination 
+ US4419026A
+ (en)
+ 1980-08-28
+ 1983-12-06
+ Alfonso Leto
+ Internal locking device for telescopic elements and method of making the same 
+ US4438799A
+ (en)
+ 1982-04-21
+ 1984-03-27
+ Kenney Manufacturing Company
+ Tear starting mechanism for tear shades 
+ US4471275A
+ (en)
+ 1982-12-27
+ 1984-09-11
+ Kenney Manufacturing Company
+ Motor driven drapery closure and control circuit combination 
+ US4492262A
+ (en)
+ 1982-05-07
+ 1985-01-08
+ Kenney Manufacturing Company
+ Adjustable traverse rod and motor drive combination 
+ US4495671A
+ (en)
+ 1982-12-06
+ 1985-01-29
+ Kenney Manufacturing Company
+ Master carrier and perforated tape drive combination 
+ US4519433A
+ (en)
+ 1983-01-24
+ 1985-05-28
+ Kenney Manufacturing Company
+ Drive sprocket for traverse rod 
+ USD285044S
+ (en)
+ 1984-01-06
+ 1986-08-12
+ Mockett Douglas A J
+ Sleeve and cap grommet set for electrical wires 
+ US4607677A
+ (en)
+ 1984-08-23
+ 1986-08-26
+ Kenney Manufacturing Company
+ Mounting for blind 
+ US4619305A
+ (en)
+ 1985-03-25
+ 1986-10-28
+ Kenney Manufacturing Company
+ Semi-adjustable shade and roller combination 
+ US4712457A
+ (en)
+ 1986-06-20
+ 1987-12-15
+ Kenney Manufacturing Company
+ Apparatus and method for cutting window shades 
+ US4895471A
+ (en)
+ 1988-03-18
+ 1990-01-23
+ Zenith Products Corporation
+ Expander mechanism for telescoping tubes 
+ US4919185A
+ (en)
+ 1988-03-21
+ 1990-04-24
+ Kenney Manufacturing Company
+ Headrail and bracket combination for supporting blinds 
+ US4934640A
+ (en)
+ *
+ 1989-05-23
+ 1990-06-19
+ Russel Bichon
+ Portable container for soap 
+ US4955421A
+ (en)
+ 1989-08-31
+ 1990-09-11
+ Kenney Manufacturing Company
+ Continuous cord roll up blind 
+ USD324328S
+ (en)
+ 1991-02-22
+ 1992-03-03
+ Zenith Products Corporation
+ Support rod 
+ US5104077A
+ (en)
+ *
+ 1990-09-07
+ 1992-04-14
+ Hung Mei Brush Co., Ltd.
+ Suction cup 
+ USD327421S
+ (en)
+ 1991-07-30
+ 1992-06-30
+ Zenith Products Corporation
+ End cap for support rod 
+ US5143336A
+ (en)
+ 1990-11-26
+ 1992-09-01
+ Kenney Manufacturing Company
+ Curtain rod mounting assembly 
+ USD329294S
+ (en)
+ 1989-08-02
+ 1992-09-08
+ Kenney Manufacturing Company
+ Beveled headrail 
+ US5156281A
+ (en)
+ 1991-03-22
+ 1992-10-20
+ Zenith Products Corp.
+ Locking mechanism for bracketless extension rods 
+ US5180130A
+ (en)
+ 1990-11-26
+ 1993-01-19
+ Kenney Manufacturing Company
+ Supporting bracket and headrail combination for a window blind 
+ US5259520A
+ (en)
+ 1992-02-26
+ 1993-11-09
+ Zenith Products Corp.
+ Curtain rod assembly and cover 
+ US5303832A
+ (en)
+ 1993-03-10
+ 1994-04-19
+ Tu Wen Wu
+ Hanger assembly 
+ USD346699S
+ (en)
+ 1992-12-18
+ 1994-05-10
+ Zenith Products Corporation
+ Shower head mounted fog free mirror 
+ US5330061A
+ (en)
+ 1993-03-17
+ 1994-07-19
+ Zenith Products Corporation
+ Spinning shower rod mechanism 
+ USD349002S
+ (en)
+ 1993-01-06
+ 1994-07-26
+ Zenith Products Corporation
+ Shower caddy with fog free mirror 
+ US5333665A
+ (en)
+ 1993-10-01
+ 1994-08-02
+ Safar Samir H
+ Portable shade system 
+ USD356725S
+ (en)
+ 1993-08-03
+ 1995-03-28
+ Kenney Manufacturing Company
+ Curtain draping hardware 
+ US5433551A
+ (en)
+ 1994-01-12
+ 1995-07-18
+ Gordon; Larry D.
+ Telescoping rod assembly 
+ USD364767S
+ (en)
+ 1994-11-21
+ 1995-12-05
+ Zenith Products Corporation
+ Shower caddy 
+ US5495884A
+ (en)
+ *
+ 1993-12-21
+ 1996-03-05
+ Auto-Shade, Inc.
+ Rear window shade with window mounting suction cups 
+ USD371829S
+ (en)
+ 1994-08-25
+ 1996-07-16
+ Zenith Products Corporation
+ Tub rail 
+ US5544692A
+ (en)
+ 1993-08-03
+ 1996-08-13
+ Kenney Manufacturing Company
+ Curtain draping hardware and method for draping curtains 
+ USD372963S
+ (en)
+ 1995-05-30
+ 1996-08-20
+ Kenney Manufacturing Company
+ Shower bar 
+ US5564666A
+ (en)
+ 1994-06-28
+ 1996-10-15
+ Kenney Manufacturing Company
+ Mounting bracket for curtain rods 
+ US5590804A
+ (en)
+ *
+ 1994-09-02
+ 1997-01-07
+ Crum; Donald
+ Device for draining and storing items in the vicinity of a sink 
+ US5615721A
+ (en)
+ 1995-08-22
+ 1997-04-01
+ Zenith Products Corp.
+ Shower rod attachments 
+ USD380141S
+ (en)
+ 1995-03-16
+ 1997-06-24
+ Kenney Manufacturing Company
+ Curtain hanger 
+ US5653057A
+ (en)
+ 1996-02-01
+ 1997-08-05
+ Gary; Anne Marie
+ Shutter assembly 
+ USD383921S
+ (en)
+ 1996-08-09
+ 1997-09-23
+ Zenith Products Corp.
+ Shelving unit 
+ US5673884A
+ (en)
+ *
+ 1995-11-30
+ 1997-10-07
+ Zag Ltd.
+ Suction-mounted holding devices 
+ US5678703A
+ (en)
+ 1995-07-31
+ 1997-10-21
+ Sawyer; Gerald F.
+ Finial adapter for curtain rods 
+ USD385478S
+ (en)
+ 1996-08-02
+ 1997-10-28
+ Kenney Manufacturing Company
+ Multisided shower curtain ring 
+ USD388267S
+ (en)
+ 1996-08-29
+ 1997-12-30
+ Zenith Products Corporation
+ Shelf unit 
+ US5702010A
+ (en)
+ 1995-12-04
+ 1997-12-30
+ Liang; Shan-Kuai
+ Retractable laundry suspension rod 
+ USD388642S
+ (en)
+ 1996-09-04
+ 1998-01-06
+ Zenith Products Corp.
+ Shower caddy 
+ USD388693S
+ (en)
+ 1996-08-02
+ 1998-01-06
+ Kenney Manufacturing Company
+ Multisided shower bar 
+ USD389352S
+ (en)
+ 1996-09-04
+ 1998-01-20
+ Zenith Products Corp.
+ Shower caddy 
+ USD391842S
+ (en)
+ 1997-01-17
+ 1998-03-10
+ Kenney Manufacturing Company
+ Shower bar end cap 
+ USD392135S
+ (en)
+ 1996-09-17
+ 1998-03-17
+ Zenith Products Corp.
+ Shower caddy 
+ USD392484S
+ (en)
+ 1997-01-24
+ 1998-03-24
+ Zenith Products Corp.
+ Shower caddy 
+ USD394771S
+ (en)
+ 1997-09-04
+ 1998-06-02
+ Zenith Products Corp.
+ Wire shower caddy 
+ US5771726A
+ (en)
+ 1996-08-28
+ 1998-06-30
+ Kenney Manufacturing Company
+ Apparatus and method for twisting hollow rods 
+ USD395773S
+ (en)
+ 1997-09-04
+ 1998-07-07
+ Zenith Products Corp.
+ Shower caddy 
+ USD395971S
+ (en)
+ 1997-09-04
+ 1998-07-14
+ Zenith Products Corp.
+ Wire shower caddy 
+ USD396157S
+ (en)
+ 1997-09-04
+ 1998-07-21
+ Zenith Products Corp.
+ Shower caddy 
+ USD396585S
+ (en)
+ 1997-09-04
+ 1998-08-04
+ Zenith Products Corporation
+ Wire shower caddy 
+ USD397567S
+ (en)
+ 1997-09-04
+ 1998-09-01
+ Zenith Products Corporation
+ Shower caddy 
+ USD398468S
+ (en)
+ 1997-09-19
+ 1998-09-22
+ Zenith Products Corp.
+ Towel rack 
+ USD404639S
+ (en)
+ 1998-07-27
+ 1999-01-26
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain ring 
+ USD404948S
+ (en)
+ 1997-01-24
+ 1999-02-02
+ Zenith Products Corp.
+ Shower caddy 
+ USD407934S
+ (en)
+ 1998-04-09
+ 1999-04-13
+ Zenith Products Corp.
+ Corner caddy 
+ US5894610A
+ (en)
+ 1996-12-20
+ 1999-04-20
+ Zenith Products Corp.
+ Shower rod mounting assembly 
+ USD408272S
+ (en)
+ 1998-01-09
+ 1999-04-20
+ Zenith Products Corp.
+ Shelf bracket 
+ USD408185S
+ (en)
+ 1998-04-09
+ 1999-04-20
+ Zenith Products Corp.
+ Corner bath shelf 
+ USD408722S
+ (en)
+ 1998-04-21
+ 1999-04-27
+ Kenney Manufacturing Company
+ Dual curtain rod bracket 
+ USD408721S
+ (en)
+ 1998-04-21
+ 1999-04-27
+ Kenney Manufacturing Company
+ Curtain rod bracket pair 
+ USD409424S
+ (en)
+ 1998-08-21
+ 1999-05-11
+ Zenith Products Corporation
+ Shower caddy 
+ USD409898S
+ (en)
+ 1998-08-24
+ 1999-05-18
+ Kenney Manufacturing Company
+ Rod support 
+ USD410193S
+ (en)
+ 1998-08-24
+ 1999-05-25
+ Kenney Manufacturing Company
+ Rod support 
+ USD410377S
+ (en)
+ 1998-08-24
+ 1999-06-01
+ Kenney Manufacturing Company
+ Rod support 
+ USD410361S
+ (en)
+ 1998-08-27
+ 1999-06-01
+ Kenney Manufacturing Company
+ Window treatment tie back 
+ USD411951S
+ (en)
+ 1998-06-30
+ 1999-07-13
+ Kenney Manufacturing Company
+ Window treatment bracket 
+ USD412433S
+ (en)
+ 1998-08-24
+ 1999-08-03
+ Kenney Manufacturing Company
+ Rod support 
+ USD412827S
+ (en)
+ 1998-08-24
+ 1999-08-17
+ Kenney Manufacturing Company
+ Rod support 
+ US5971192A
+ (en)
+ *
+ 1995-12-27
+ 1999-10-26
+ Interdesign, Inc.
+ Bathroom accessories 
+ USD415916S
+ (en)
+ 1998-08-21
+ 1999-11-02
+ Zenith Products Corporation
+ Shower caddy 
+ USD416416S
+ (en)
+ 1998-05-07
+ 1999-11-16
+ Zenith Products Corp.
+ Wall mountable caddy 
+ USD416728S
+ (en)
+ 1998-07-15
+ 1999-11-23
+ Zenith Products Corp.
+ Shower basket with shelf 
+ US5996791A
+ (en)
+ 1998-08-21
+ 1999-12-07
+ Kenney Manufacturing Co.
+ Curtain rod system 
+ USD417390S
+ (en)
+ 1998-04-09
+ 1999-12-07
+ Zenith Products Corp.
+ Shower caddy ring 
+ US5996674A
+ (en)
+ 1997-05-08
+ 1999-12-07
+ Gatewood; Denise D.
+ Rapid installation curtain 
+ USD417605S
+ (en)
+ 1998-08-24
+ 1999-12-14
+ Kenney Manufacturing Company
+ Rod support 
+ USD417809S
+ (en)
+ 1998-06-26
+ 1999-12-21
+ Zenith Products Corp.
+ Bathtub organizer 
+ USD417990S
+ (en)
+ 1998-06-19
+ 1999-12-28
+ Zenith Products Corp.
+ Shower caddy 
+ USD417991S
+ (en)
+ 1998-07-30
+ 1999-12-28
+ Zenith Products Corp.
+ Shower caddy 
+ USD421692S
+ (en)
+ 1999-04-29
+ 2000-03-21
+ Zenith Products Corp.
+ Pole caddy 
+ US6045111A
+ (en)
+ 1998-08-10
+ 2000-04-04
+ Chien Lu Hardware Co., Ltd.
+ Fixing sucker structure 
+ USD426992S
+ (en)
+ 1999-03-10
+ 2000-06-27
+ Zenith Products Corp.
+ Paper towel holder 
+ USD429934S
+ (en)
+ 1999-08-13
+ 2000-08-29
+ Zenith Products Corp.
+ Pole caddy 
+ USD433618S
+ (en)
+ 1999-01-25
+ 2000-11-14
+ Kenney Manufacturing Co.
+ Rod support 
+ USD436487S1
+ (en)
+ 2000-04-06
+ 2001-01-23
+ Zenith Products Corp.
+ Wallshelf 
+ USD437693S1
+ (en)
+ 1999-12-06
+ 2001-02-20
+ Zenith Products Corp.
+ Wall mirror 
+ US6193197B1
+ (en)
+ 1999-12-27
+ 2001-02-27
+ Bing-Tson Lian
+ Multipurpose suction-type connection seat 
+ USD438448S1
+ (en)
+ 2000-08-16
+ 2001-03-06
+ Kenney Manufacturing Co.
+ Rail support for storage hooks 
+ USD442394S1
+ (en)
+ 1999-12-06
+ 2001-05-22
+ Zenith Products Corp.
+ Magazine rack 
+ USD443162S1
+ (en)
+ 2000-06-13
+ 2001-06-05
+ Zenith Products Corp.
+ Pole caddy 
+ USD443813S1
+ (en)
+ 1999-12-06
+ 2001-06-19
+ Zenith Products Corp.
+ End cap unit for shower rod 
+ USD444017S1
+ (en)
+ 2000-06-13
+ 2001-06-26
+ Zenith Products Corp.
+ Corner shelf unit 
+ US6250839B1
+ (en)
+ 1997-05-17
+ 2001-06-26
+ Klaus Lenhart
+ Length-adjustable tube, specially for ski poles or walking sticks 
+ US6317904B1
+ (en)
+ 1999-09-17
+ 2001-11-20
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain 
+ USD450947S1
+ (en)
+ 2001-04-19
+ 2001-11-27
+ Zenith Products Corp.
+ Towel rack 
+ USD453652S1
+ (en)
+ 2000-06-13
+ 2002-02-19
+ Zenith Products Corp.
+ Shelf unit 
+ USD454730S1
+ (en)
+ 2001-02-26
+ 2002-03-26
+ Zenith Products Corp.
+ Spacesaver shelving 
+ USD456167S1
+ (en)
+ 2001-03-21
+ 2002-04-30
+ Zenith Products Corp.
+ Towel rack 
+ USD456658S1
+ (en)
+ 2001-05-09
+ 2002-05-07
+ Zenith Products Corp.
+ Wall shelf 
+ USD456638S1
+ (en)
+ 2001-05-09
+ 2002-05-07
+ Zenith Products Corp.
+ Spacesaver shelving 
+ USD458790S1
+ (en)
+ 2001-02-26
+ 2002-06-18
+ Zenith Products Corp.
+ Wall shelf 
+ USD458791S1
+ (en)
+ 2001-02-26
+ 2002-06-18
+ Zenith Products Corp.
+ Wall shelving 
+ USD459201S1
+ (en)
+ 2000-10-30
+ 2002-06-25
+ Ex-Cell Home Fashions, Inc.
+ Hook for shower curtain and shower curtain liner 
+ US6443207B1
+ (en)
+ 2001-05-30
+ 2002-09-03
+ Zipshade Industrial (B.V.I.) Corp.
+ Window covering adjustment apparatus and method 
+ USD464867S1
+ (en)
+ 2001-07-19
+ 2002-10-29
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ US6478271B1
+ (en)
+ 2001-08-07
+ 2002-11-12
+ Free-Free Industrial Corporation
+ Mounting sucker 
+ USD465996S1
+ (en)
+ 2002-03-13
+ 2002-11-26
+ Zenith Products Corp.
+ Curtain hook 
+ US20020175250A1
+ (en)
+ 2001-05-23
+ 2002-11-28
+ Bing-Tson Lian
+ Fixation seat capable of being attached firmly to wall 
+ USD466799S1
+ (en)
+ 2002-03-13
+ 2002-12-10
+ Zenith Products Corp.
+ Curtain rod with hooks 
+ USD466798S1
+ (en)
+ 2002-03-07
+ 2002-12-10
+ Zenith Products Corp.
+ Decorative surface for shower rod 
+ US20020190170A1
+ (en)
+ *
+ 2001-06-18
+ 2002-12-19
+ Tzu-Kuang Ting
+ Hanger device with suction cup 
+ USD470337S1
+ (en)
+ 2002-04-10
+ 2003-02-18
+ Zenith Products Corp.
+ Magazine rack 
+ USD470394S1
+ (en)
+ 2002-06-25
+ 2003-02-18
+ Zenith Products Corp.
+ Door rack 
+ USD470332S1
+ (en)
+ 2002-06-25
+ 2003-02-18
+ Zenith Products Corp.
+ Towel rack 
+ US6530502B2
+ (en)
+ *
+ 2000-12-21
+ 2003-03-11
+ Mylene Neal
+ Self-draining dishwashing caddy 
+ US6530120B2
+ (en)
+ 2001-07-26
+ 2003-03-11
+ Ex-Cell Home Fashions, Inc.
+ Roller shower curtain hook and method of manufacturing same 
+ USD472453S1
+ (en)
+ 2002-02-27
+ 2003-04-01
+ Zenith Products Corp.
+ Decorative surface for shower rod 
+ USD472748S1
+ (en)
+ 2002-07-31
+ 2003-04-08
+ Zenith Products Corp.
+ Wire wall caddy 
+ US6543629B1
+ (en)
+ 2001-09-24
+ 2003-04-08
+ Ex-Cell Home Fashions, Inc.
+ Decorative curtain rod end cover 
+ USD472747S1
+ (en)
+ 2002-07-31
+ 2003-04-08
+ Zenith Products Corp.
+ Wire corner caddy 
+ USD475229S1
+ (en)
+ 2002-02-14
+ 2003-06-03
+ Zenith Products Corp.
+ Shelf for shower caddy 
+ USD475560S1
+ (en)
+ 2002-02-14
+ 2003-06-10
+ Zenith Products Corp.
+ Shower caddy 
+ USD475562S1
+ (en)
+ 2002-10-16
+ 2003-06-10
+ Zenith Products Corp.
+ Corner bath caddy 
+ USD475551S1
+ (en)
+ 2000-02-14
+ 2003-06-10
+ Zenith Products Corp.
+ Towel rack 
+ USD475561S1
+ (en)
+ 2002-10-16
+ 2003-06-10
+ Zenith Products Corp.
+ Corner caddy 
+ USD475857S1
+ (en)
+ 2002-02-20
+ 2003-06-17
+ Zenith Products Corp.
+ Wall mirror 
+ USD476828S1
+ (en)
+ 2002-02-20
+ 2003-07-08
+ Zenith Products Corp.
+ Magazine rack 
+ USD479932S1
+ (en)
+ 2002-03-01
+ 2003-09-30
+ Zenith Products Corp.
+ Wall shelf 
+ US6640867B1
+ (en)
+ 2002-07-31
+ 2003-11-04
+ The Procter & Gamble Company
+ Releasably attachable shades 
+ US20030209509A1
+ (en)
+ 2002-05-10
+ 2003-11-13
+ Felsenthal Sandy A.
+ Expandable rack assembly with telescoping tube sections adapted to facilitate connection to side supports 
+ USD482223S1
+ (en)
+ 2002-07-29
+ 2003-11-18
+ Kenney Manufacturing Co.
+ Head rail mounting clip 
+ US6651831B2
+ (en)
+ 2002-03-27
+ 2003-11-25
+ Ex-Cell Home Fashions, Inc.
+ Tension rod with suction cups 
+ USD483251S1
+ (en)
+ 2003-01-07
+ 2003-12-09
+ Zenith Products Corp.
+ Shower rod 
+ US6663077B2
+ (en)
+ *
+ 2001-02-22
+ 2003-12-16
+ Dejun Zou
+ Sucker structure 
+ US6663064B1
+ (en)
+ *
+ 1999-12-01
+ 2003-12-16
+ Garmin Corporation
+ Multi-position articulating mounting apparatus for an electronic device 
+ USD483969S1
+ (en)
+ 2002-02-14
+ 2003-12-23
+ Zenith Products Corp.
+ Shelf for utility cabinet 
+ US6666420B1
+ (en)
+ 2003-02-25
+ 2003-12-23
+ Jeffrey D. Carnevali
+ Suction cup having compact axial installation and release mechanism 
+ USD484027S1
+ (en)
+ 2002-12-10
+ 2003-12-23
+ Zenith Products Corp.
+ Curtain hook 
+ USD484345S1
+ (en)
+ 2002-07-31
+ 2003-12-30
+ Zenith Products Corp.
+ Wire wall hook 
+ US6669033B1
+ (en)
+ *
+ 2002-06-03
+ 2003-12-30
+ Bing-Tson Lian
+ Suction-type rack 
+ USD485104S1
+ (en)
+ 2003-01-07
+ 2004-01-13
+ Zenith Products Corp.
+ Hanging shower caddy 
+ USD485462S1
+ (en)
+ 2003-03-04
+ 2004-01-20
+ Zenith Products Corp.
+ Shower caddy 
+ USD485464S1
+ (en)
+ 2002-07-31
+ 2004-01-20
+ Zenith Products Corp.
+ Wire shelf with towel bar 
+ US6681831B1
+ (en)
+ 2002-05-17
+ 2004-01-27
+ Zipshade Industrial (B.V.I.) Corp.
+ Window covering height adjustment apparatus and method using fixed position rotor 
+ USD487653S1
+ (en)
+ 2003-06-11
+ 2004-03-23
+ Zenith Products Corp.
+ Spacesaver shelves 
+ USD488004S1
+ (en)
+ 2003-06-13
+ 2004-04-06
+ Zenith Products Corp.
+ Spacesaver shelving 
+ USD488319S1
+ (en)
+ 2003-06-11
+ 2004-04-13
+ Zenith Products Corp.
+ Combination wall cabinet and shelf 
+ USD488945S1
+ (en)
+ 2002-08-14
+ 2004-04-27
+ Kenney Manufacturing Co.
+ Headrail for window blinds 
+ USD490253S1
+ (en)
+ 2003-06-13
+ 2004-05-25
+ Zenith Products Corp.
+ Magazine rack 
+ USD491448S1
+ (en)
+ 2003-06-11
+ 2004-06-15
+ Zenith Products Corp.
+ Shower rod 
+ USD491445S1
+ (en)
+ 2003-06-13
+ 2004-06-15
+ Zenith Products Corp.
+ Door rack 
+ USD491751S1
+ (en)
+ 2003-06-11
+ 2004-06-22
+ Zenith Products Corp.
+ Wall shelf 
+ USD491742S1
+ (en)
+ 2003-06-11
+ 2004-06-22
+ Zenith Products Corp.
+ Towel rack 
+ USD491731S1
+ (en)
+ 2003-06-11
+ 2004-06-22
+ Zenith Products Corp.
+ Wall mirror 
+ USD491752S1
+ (en)
+ 2003-08-28
+ 2004-06-22
+ Zenith Products Corp.
+ Wall shelf 
+ US6761202B1
+ (en)
+ 2002-06-05
+ 2004-07-13
+ Zipshade Industrial (B.V.I.) Corp.
+ Window covering height adjustment method and apparatus using traveling rotor 
+ USD494052S1
+ (en)
+ 2003-08-29
+ 2004-08-10
+ Zenith Products Corp.
+ End cap for shower rod 
+ USD494455S1
+ (en)
+ 2003-08-29
+ 2004-08-17
+ Zenith Products Corp.
+ End cap for shower rod 
+ US6776368B1
+ (en)
+ *
+ 2003-02-14
+ 2004-08-17
+ Creative Bath Products, Inc.
+ Paper towel holder 
+ USD494845S1
+ (en)
+ 2003-08-29
+ 2004-08-24
+ Zenith Products Corp.
+ End cap for shower rod 
+ USD495591S1
+ (en)
+ 2003-11-26
+ 2004-09-07
+ Zenith Products Corp.
+ Curtain ring 
+ USD495528S1
+ (en)
+ 2004-02-04
+ 2004-09-07
+ Zenith Products Corp.
+ Magazine rack 
+ USD495523S1
+ (en)
+ 2003-08-28
+ 2004-09-07
+ Zenith Products Corp.
+ Towel rack 
+ US20040182806A1
+ (en)
+ 2003-03-17
+ 2004-09-23
+ Figueroa Michael A.
+ Adjustable curtain rod 
+ USD498630S1
+ (en)
+ 2004-02-23
+ 2004-11-23
+ Zenith Products Corp.
+ Wall-mounted hook 
+ US6823925B2
+ (en)
+ 2002-07-12
+ 2004-11-30
+ Shades Unlimited, Inc.
+ Retractable window shade with height adjustment control 
+ USD499286S1
+ (en)
+ 2004-02-04
+ 2004-12-07
+ Zenith Products Corp.
+ Door rack 
+ USD499329S1
+ (en)
+ 2004-02-23
+ 2004-12-07
+ Zenith Products Corp.
+ Wall hook 
+ USD499296S1
+ (en)
+ 2004-02-23
+ 2004-12-07
+ Zenith Products Corp.
+ Basket shelf 
+ USD500225S1
+ (en)
+ 2004-02-23
+ 2004-12-28
+ Zenith Products Corp.
+ Wire shelf 
+ USD500670S1
+ (en)
+ 2003-06-11
+ 2005-01-11
+ Zenith Products Corp.
+ Shower rod 
+ USD501106S1
+ (en)
+ 2003-06-11
+ 2005-01-25
+ Zenith Products Corp.
+ Door caddy 
+ US20050044673A1
+ (en)
+ *
+ 2003-08-26
+ 2005-03-03
+ Huang Yea Yen
+ Multi-function hanging and fastening device 
+ US6865817B2
+ (en)
+ 2003-03-27
+ 2005-03-15
+ Shades Unlimited, Inc.
+ Window shade with measurement guide 
+ USD504310S1
+ (en)
+ 2004-08-18
+ 2005-04-26
+ Zenith Products Corp.
+ End cap for curtain rod 
+ USD504807S1
+ (en)
+ 2004-08-18
+ 2005-05-10
+ Zenith Products Corp.
+ End cap for curtain rod 
+ USD505062S1
+ (en)
+ 2003-08-29
+ 2005-05-17
+ Zenith Products Corp.
+ End cap for shower rod 
+ USD505317S1
+ (en)
+ 2004-08-18
+ 2005-05-24
+ Zenith Products Corp.
+ End cap for curtain rod 
+ US6896228B1
+ (en)
+ *
+ 2003-04-24
+ 2005-05-24
+ Tung Hsien Lu
+ Fixing device for a bath support rack 
+ USD505614S1
+ (en)
+ 2004-08-27
+ 2005-05-31
+ Ex-Cell Home Fashions, Inc.
+ Hook for supporting shower curtain and shower curtain liner 
+ US6959752B2
+ (en)
+ 1998-10-19
+ 2005-11-01
+ Sunny En Liung Huang
+ Collapsible auto shade 
+ US6962186B2
+ (en)
+ 2003-09-12
+ 2005-11-08
+ Ching Feng Blinds Ind. Co., Ltd.
+ Retaining structure for cordless continuous folding blind 
+ US6966353B2
+ (en)
+ 2003-09-12
+ 2005-11-22
+ Ching Feng Blinds, Ind. Co., Ltd.
+ Retaining bracket structure for cordless continuous folding blind 
+ US6966530B2
+ (en)
+ 2004-04-02
+ 2005-11-22
+ Ching Feng Blinds Ind. Co., Ltd.
+ End securing device for telescopic tube 
+ USD513142S1
+ (en)
+ 2004-08-18
+ 2005-12-27
+ Zenith Products Corp.
+ Corner bath caddy 
+ USD513373S1
+ (en)
+ 2005-03-03
+ 2006-01-03
+ Zenith Products Corp.
+ Shower caddy 
+ US6994143B2
+ (en)
+ 2003-03-21
+ 2006-02-07
+ 3 Day Blinds, Inc.
+ Child safety blind 
+ US7000521B1
+ (en)
+ 2002-10-29
+ 2006-02-21
+ Zipshade Industrial (B.V.I.) Corp.
+ Pleated shade cut-off method and apparatus 
+ USD516902S1
+ (en)
+ 2004-08-18
+ 2006-03-14
+ Zenith Products Corp.
+ End cap for curtain rod 
+ USD522844S1
+ (en)
+ 2005-05-19
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ USD522847S1
+ (en)
+ 2005-06-17
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ USD522845S1
+ (en)
+ 2005-06-17
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ USD522846S1
+ (en)
+ 2005-06-17
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ USD525115S1
+ (en)
+ 2005-05-19
+ 2006-07-18
+ Zenith Products Corp.
+ End cap for support rod 
+ USD525813S1
+ (en)
+ 2004-10-05
+ 2006-08-01
+ Beasley James L
+ Temporary cover sheet for a window frame opening 
+ USD526520S1
+ (en)
+ 2005-01-18
+ 2006-08-15
+ Zenith Products Corp.
+ Towel rack 
+ USD527246S1
+ (en)
+ 2003-11-26
+ 2006-08-29
+ Zenith Products Corp.
+ Curtain ring 
+ US20060204322A1
+ (en)
+ 2003-12-15
+ 2006-09-14
+ Thomas Roiser
+ Clamp device for telescopic tubes inserted one in the other 
+ US7128124B2
+ (en)
+ 2004-09-16
+ 2006-10-31
+ Kenney Manufacturing Company
+ Adjustable tension shade assembly 
+ USD534793S1
+ (en)
+ 2005-03-03
+ 2007-01-09
+ Zenith Products Corp.
+ Hanger clip 
+ USD538571S1
+ (en)
+ 2004-06-22
+ 2007-03-20
+ Shades Unlimited, Inc.
+ Quadra-circular window shade support base 
+ US7195051B2
+ (en)
+ 2004-10-21
+ 2007-03-27
+ Nien Made Enterprise Co., Ltd.
+ Collapsing and securing device of lateral blinds 
+ US7194811B2
+ (en)
+ 2004-03-22
+ 2007-03-27
+ Shades Unlimited, Inc.
+ Cutting guide for a window shade 
+ USD539064S1
+ (en)
+ 2004-06-22
+ 2007-03-27
+ Shades Unlimited, Inc.
+ Hemi-circular window shade support base 
+ USD540568S1
+ (en)
+ 2005-01-18
+ 2007-04-17
+ Zenith Products Corp.
+ Shelves 
+ USD542392S1
+ (en)
+ 2006-06-13
+ 2007-05-08
+ Kenney Manufacturing Company
+ Curved shower bar 
+ USD542897S1
+ (en)
+ 2006-03-14
+ 2007-05-15
+ Zenith Products Corp.
+ Curved shower rod 
+ US20070120027A1
+ (en)
+ *
+ 2005-11-28
+ 2007-05-31
+ Chang Ta S
+ Suction cup 
+ USD543748S1
+ (en)
+ 2005-03-03
+ 2007-06-05
+ Zenith Products Corp.
+ Corner caddy 
+ USD543747S1
+ (en)
+ 2005-03-03
+ 2007-06-05
+ Zenith Products Corp.
+ Pole caddy 
+ USD544786S1
+ (en)
+ 2006-06-08
+ 2007-06-19
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain rod assembly 
+ USD545180S1
+ (en)
+ 2005-09-08
+ 2007-06-26
+ Zenith Products Corp.
+ Curtain hook 
+ USD546177S1
+ (en)
+ 2005-09-22
+ 2007-07-10
+ General Mills Marketing, Inc.
+ Combined tear strip and access perforations on packaging 
+ USD547167S1
+ (en)
+ 2006-12-08
+ 2007-07-24
+ Ex-Cell Home Fashions, Inc.
+ Finial for curtain rod 
+ USD547165S1
+ (en)
+ 2006-12-08
+ 2007-07-24
+ Ex-Cell Home Fashions, Inc.
+ Finial for curtain rod 
+ USD547166S1
+ (en)
+ 2006-12-08
+ 2007-07-24
+ Ex-Cell Home Fashions, Inc.
+ Finial for curtain rod 
+ US20070170134A1
+ (en)
+ 2005-09-23
+ 2007-07-26
+ Bishop Ryan B
+ Modular, customizable window covering hardware system 
+ USD548042S1
+ (en)
+ 2004-07-06
+ 2007-08-07
+ Master Lock Company Llc
+ Lock 
+ US7255149B2
+ (en)
+ 2002-10-31
+ 2007-08-14
+ Newell Window Furnishings, Inc.
+ Temporary window covering 
+ USD548574S1
+ (en)
+ 2005-11-03
+ 2007-08-14
+ Zenith Products Corp.
+ Curtain hook 
+ USD549506S1
+ (en)
+ 2005-06-16
+ 2007-08-28
+ Kenney Manufacturing Company
+ Clothing rack 
+ US7264035B2
+ (en)
+ 2002-11-21
+ 2007-09-04
+ Newell Window Furnishing, Inc.
+ Temporary window covering 
+ USD551010S1
+ (en)
+ 2007-02-28
+ 2007-09-18
+ Kenney Manufacturing Co.
+ Double-sided shower ring 
+ US20070215766A1
+ (en)
+ *
+ 2006-03-17
+ 2007-09-20
+ Yen Shu C
+ Hands-free device capable of adjusting an angle of its mounting seat in any direction and positioning same 
+ US20070278371A1
+ (en)
+ *
+ 2006-05-31
+ 2007-12-06
+ Ching-Yang Wang
+ Holder 
+ USD560924S1
+ (en)
+ 2006-06-08
+ 2008-02-05
+ Zenith Products Corp.
+ Combination shower curtain hook and picture frame 
+ US7331370B1
+ (en)
+ 2004-08-03
+ 2008-02-19
+ Shades Unlimited, Inc.
+ Progressive resistance lifting mechanism for a window covering 
+ USD562608S1
+ (en)
+ 2007-03-27
+ 2008-02-26
+ Zenith Products Corp.
+ Shower massage caddy 
+ USD562609S1
+ (en)
+ 2007-03-27
+ 2008-02-26
+ Zenith Products Corp.
+ Shower massage caddy 
+ USD563209S1
+ (en)
+ 2007-03-02
+ 2008-03-04
+ Ex-Cell Home Fashions, Inc.
+ Display hanger for a shower curtain rod 
+ USD563138S1
+ (en)
+ 2007-03-27
+ 2008-03-04
+ Zenith Products Corp.
+ Wire corner caddy 
+ USD563136S1
+ (en)
+ 2007-03-01
+ 2008-03-04
+ Zenith Products Corp.
+ Vanity caddy 
+ USD566991S1
+ (en)
+ 2006-06-08
+ 2008-04-22
+ Zenith Products Corp.
+ Pole caddy 
+ USD568656S1
+ (en)
+ 2007-09-14
+ 2008-05-13
+ Zenith Products Corp.
+ Shower caddy 
+ USD569149S1
+ (en)
+ 2007-09-14
+ 2008-05-20
+ Zenith Products Corp.
+ Shower caddy 
+ USD569668S1
+ (en)
+ 2007-09-14
+ 2008-05-27
+ Zenith Products Corp.
+ Shower caddy 
+ USD571136S1
+ (en)
+ 2007-03-01
+ 2008-06-17
+ Zenith Products Corp.
+ Shampoo station 
+ US20080163418A1
+ (en)
+ 2007-01-04
+ 2008-07-10
+ Ex-Cell Home Fashions, Inc.
+ Tension rod assembly with adaptor 
+ USD573387S1
+ (en)
+ 2007-09-14
+ 2008-07-22
+ Zenith Products Corp.
+ Pole caddy 
+ USD573386S1
+ (en)
+ 2007-03-01
+ 2008-07-22
+ Zenith Products Corp.
+ Pole caddy 
+ US7407237B2
+ (en)
+ 2005-07-20
+ 2008-08-05
+ Zenith Products Corp.
+ Combined magazine rack and toilet paper holder 
+ USD576476S1
+ (en)
+ 2007-07-12
+ 2008-09-09
+ Zenith Products Corp.
+ Hanger 
+ USD576475S1
+ (en)
+ 2007-07-12
+ 2008-09-09
+ Zenith Products Corp.
+ Hanger 
+ USD577281S1
+ (en)
+ 2007-09-10
+ 2008-09-23
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD582760S1
+ (en)
+ 2007-09-10
+ 2008-12-16
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD586647S1
+ (en)
+ 2008-06-10
+ 2009-02-17
+ Zenith Products Corp.
+ Double-curved shower curtain rod 
+ USD587917S1
+ (en)
+ 2007-09-10
+ 2009-03-10
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD590238S1
+ (en)
+ 2008-04-18
+ 2009-04-14
+ Panavise Products, Inc.
+ Turn dial window mount 
+ USD590696S1
+ (en)
+ 2007-08-22
+ 2009-04-21
+ Carnevali Jeffrey D
+ Suction cup clamp 
+ USD591142S1
+ (en)
+ 2008-06-10
+ 2009-04-28
+ Zenith Products Corp.
+ Shower curtain hanger device 
+ USD591522S1
+ (en)
+ 2007-09-10
+ 2009-05-05
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ US7549615B2
+ (en)
+ 2004-10-15
+ 2009-06-23
+ Shades Unlimited, Inc.
+ Compression mount for window coverings 
+ US7562689B1
+ (en)
+ 2005-08-16
+ 2009-07-21
+ Shades Unlimited, Inc.
+ Clip for window covering cord 
+ US7578487B2
+ (en)
+ 2006-11-21
+ 2009-08-25
+ Sony Corporation
+ Music stand and article retaining apparatus 
+ USD599140S1
+ (en)
+ 2009-04-17
+ 2009-09-01
+ Zenith Products Corp.
+ Shelving unit 
+ US20090223917A1
+ (en)
+ 2008-03-10
+ 2009-09-10
+ Grant Willie T
+ Telescoping support bar 
+ US20090223642A1
+ (en)
+ 2008-03-07
+ 2009-09-10
+ Shades Unlimited, Inc.
+ Window covering with constant lifting cord friction 
+ US7600549B2
+ (en)
+ 2006-09-22
+ 2009-10-13
+ Li-Ming Cheng
+ Window covering cutting and bonding apparatus 
+ US7607622B2
+ (en)
+ 2006-03-08
+ 2009-10-27
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+ US7628362B2
+ (en)
+ *
+ 2007-03-13
+ 2009-12-08
+ Soon Young Song
+ Adhesion device by holding low pressure 
+ USD607309S1
+ (en)
+ 2008-08-25
+ 2010-01-05
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD611330S1
+ (en)
+ 2009-08-14
+ 2010-03-09
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD611329S1
+ (en)
+ 2009-08-14
+ 2010-03-09
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD611328S1
+ (en)
+ 2008-09-09
+ 2010-03-09
+ Kenney Manufacturing Company
+ Pair of brackets for a tool-less double curtain rod 
+ USD614479S1
+ (en)
+ 2009-08-14
+ 2010-04-27
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD614478S1
+ (en)
+ 2009-08-14
+ 2010-04-27
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD614938S1
+ (en)
+ 2009-08-14
+ 2010-05-04
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD614939S1
+ (en)
+ 2009-08-14
+ 2010-05-04
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ US7708245B2
+ (en)
+ 2006-04-24
+ 2010-05-04
+ Cheol-Seok Woo
+ Multi-purpose vacuum suction apparatus 
+ US7712720B1
+ (en)
+ 2008-12-22
+ 2010-05-11
+ Hong Fu Jin Precision Industry (Shenzhen) Co., Ltd.
+ Resizable device stand 
+ USD618538S1
+ (en)
+ 2009-08-14
+ 2010-06-29
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ US7748673B2
+ (en)
+ 2004-08-27
+ 2010-07-06
+ Ex-Cell Home Fashions Inc.
+ Hook for supporting shower curtain and shower curtain liner and method for fabricating same 
+ US20100176253A1
+ (en)
+ 2006-12-19
+ 2010-07-15
+ Young Suck Son
+ Apparatus for connecting sucking plate and tablewares for table provided with the same 
+ US20100206492A1
+ (en)
+ 2009-02-13
+ 2010-08-19
+ Shades Unlimited, Inc.
+ Window covering featuring automatic cord collection 
+ USD624807S1
+ (en)
+ 2008-10-06
+ 2010-10-05
+ Ex-Cell Home Fashions, Inc.
+ Display hanger for a shower curtain rod 
+ US20100252700A1
+ (en)
+ 2009-04-02
+ 2010-10-07
+ Primax Electronics Ltd.
+ Suction cup assembly and fastening device including such suction cup assembly 
+ USD625987S1
+ (en)
+ 2009-08-14
+ 2010-10-26
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD628000S1
+ (en)
+ 2010-08-23
+ 2010-11-30
+ Zenith Products Corporation
+ Shower caddy 
+ US7850133B2
+ (en)
+ 2007-08-22
+ 2010-12-14
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+ USD628875S1
+ (en)
+ 2010-03-08
+ 2010-12-14
+ William Padilla
+ Hose handling apparatus 
+ US20100316438A1
+ (en)
+ 2006-12-05
+ 2010-12-16
+ Dae Up Sohn
+ Connector for stick 
+ US20100320341A1
+ (en)
+ *
+ 2009-05-22
+ 2010-12-23
+ Clingo.Com Llc
+ Universal Stands for Portable Electronic Devices 
+ USD630089S1
+ (en)
+ 2010-07-01
+ 2011-01-04
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD630088S1
+ (en)
+ 2010-07-01
+ 2011-01-04
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD630498S1
+ (en)
+ 2010-07-01
+ 2011-01-11
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD632513S1
+ (en)
+ 2010-08-23
+ 2011-02-15
+ Zenith Products Corp.
+ Shower caddy 
+ USD632514S1
+ (en)
+ 2010-08-23
+ 2011-02-15
+ Zenith Products Corp.
+ Shower caddy 
+ USD632515S1
+ (en)
+ 2010-09-01
+ 2011-02-15
+ Zenith Products Corp.
+ Shower caddy 
+ USD633780S1
+ (en)
+ 2010-03-05
+ 2011-03-08
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain rod assembly 
+ USD635807S1
+ (en)
+ 2010-08-23
+ 2011-04-12
+ Zenith Products Corp.
+ Shower pole caddy 
+ US7926127B2
+ (en)
+ 2006-07-13
+ 2011-04-19
+ Ex-Cell Home Fashions, Inc.
+ Curved shower curtain rod assembly 
+ USD637854S1
+ (en)
+ 2010-06-01
+ 2011-05-17
+ Kenney Manufacturing Company
+ Clip 
+ USD637856S1
+ (en)
+ 2010-06-04
+ 2011-05-17
+ Kenney Manufacturing Company
+ Handle 
+ USD637892S1
+ (en)
+ 2010-04-22
+ 2011-05-17
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD640488S1
+ (en)
+ 2010-12-16
+ 2011-06-28
+ Zenith Products Corporation
+ Shower caddy 
+ USD641193S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower pole caddy 
+ USD641190S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower caddy 
+ USD641191S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower caddy 
+ USD641194S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower pole caddy 
+ US7975971B2
+ (en)
+ 2006-11-15
+ 2011-07-12
+ Carnevali Jeffrey D
+ Suction cup device 
+ US7984814B2
+ (en)
+ 2008-01-09
+ 2011-07-26
+ Zenith Products Corp.
+ Hanger for suspending at least one object from a support 
+ USD643236S1
+ (en)
+ 2011-01-31
+ 2011-08-16
+ Zenith Products Corp.
+ Shower caddy 
+ USD643657S1
+ (en)
+ 2011-01-31
+ 2011-08-23
+ Zenith Products Corporation
+ Shower caddy 
+ USD644050S1
+ (en)
+ 2011-01-31
+ 2011-08-30
+ Zenith Products Corporation
+ Shower caddy 
+ US20110210225A1
+ (en)
+ *
+ 2010-02-26
+ 2011-09-01
+ Shih-Hong Chen
+ Suction device 
+ USD646558S1
+ (en)
+ 2010-09-09
+ 2011-10-11
+ Black & Decker Inc.
+ Suction cup hanging device 
+ USD647391S1
+ (en)
+ 2009-02-16
+ 2011-10-25
+ Ex-Cell Home Fashions, Inc.
+ Finial for a shower curtain rod 
+ US8056873B1
+ (en)
+ 2007-11-05
+ 2011-11-15
+ Kenney Manufacturing Company
+ Tool-less double curtain rod assembly 
+ USD649020S1
+ (en)
+ 2010-08-11
+ 2011-11-22
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD648969S1
+ (en)
+ 2011-05-04
+ 2011-11-22
+ Zenith Products Corporation
+ Support shelf 
+ USD649019S1
+ (en)
+ 2010-08-11
+ 2011-11-22
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD649352S1
+ (en)
+ 2011-05-04
+ 2011-11-29
+ Zenith Products Corporation
+ Tote 
+ US8069507B2
+ (en)
+ 2006-08-03
+ 2011-12-06
+ Zenith Products Corporation
+ Adjustable curved shower curtain rod assembly 
+ USD650263S1
+ (en)
+ 2010-07-23
+ 2011-12-13
+ Ex-Cell Home Fashions, Inc.
+ Tension rod for shower curtains, towels, window treatments, or the like 
+ US8079557B2
+ (en)
+ 2010-01-08
+ 2011-12-20
+ Tu Tsung-Tzong
+ Suction cup device 
+ US8087625B2
+ (en)
+ *
+ 2008-06-17
+ 2012-01-03
+ Ta Shuo Chang
+ Article holder with suction cup 
+ US20120001042A1
+ (en)
+ 2009-03-17
+ 2012-01-05
+ Garbath Houseware Co., Ltd.
+ Hanger Mounted on a Wall 
+ US20120005823A1
+ (en)
+ 2010-07-06
+ 2012-01-12
+ Maytex Mills, Inc.
+ Shower Curtain Tension Rods 
+ USD652236S1
+ (en)
+ 2010-01-27
+ 2012-01-17
+ Zenith Products Corporation
+ Spacesaver bottom assembly 
+ USD652237S1
+ (en)
+ 2011-04-19
+ 2012-01-17
+ Zenith Products Corporation
+ Corner shower caddy 
+ US20120017366A1
+ (en)
+ 2010-07-23
+ 2012-01-26
+ Ex-Cell Home Fashions, Inc.
+ Double tension curtain rod assembly 
+ USD653067S1
+ (en)
+ 2011-04-19
+ 2012-01-31
+ Zenith Products Corporation
+ Corner shower caddy for pole 
+ US8113361B2
+ (en)
+ 2009-04-17
+ 2012-02-14
+ Zenith Products Corp.
+ Shelving unit 
+ US8123181B2
+ (en)
+ *
+ 2003-10-11
+ 2012-02-28
+ Good Sense
+ Vacuum fixer 
+ US20120112023A1
+ (en)
+ *
+ 2009-06-08
+ 2012-05-10
+ Bb Ipr Limited
+ Suction fixing 
+ USD660064S1
+ (en)
+ 2011-10-06
+ 2012-05-22
+ Zenith Products Corporation
+ Display fixture 
+ USD660066S1
+ (en)
+ 2011-10-06
+ 2012-05-22
+ Zenith Products Corporation
+ Display fixture 
+ USD660065S1
+ (en)
+ 2011-10-06
+ 2012-05-22
+ Zenith Products Corporation
+ Display fixture 
+ US8186509B2
+ (en)
+ 2007-03-02
+ 2012-05-29
+ Ex-Cell Home Fashions, Inc.
+ Display hanger for curtain rod 
+ US8191839B2
+ (en)
+ *
+ 2010-06-04
+ 2012-06-05
+ Eagle Fan
+ Enhanced structure for suction apparatus 
+ USD661529S1
+ (en)
+ 2011-05-04
+ 2012-06-12
+ Zenith Products Corporation
+ Caddy with elastic mesh 
+ USD661927S1
+ (en)
+ 2011-04-19
+ 2012-06-19
+ Zenith Products Corporation
+ Shower caddy 
+ US20120152874A1
+ (en)
+ 2010-12-17
+ 2012-06-21
+ Zenith Products Corporation
+ Molded tension rod mechanism with single lock nut 
+ US20120152873A1
+ (en)
+ 2010-12-17
+ 2012-06-21
+ Zenith Products Corporation
+ Unidirectional tension rod mechanism 
+ US20120152872A1
+ (en)
+ 2010-12-17
+ 2012-06-21
+ Zenith Products Corporation
+ Tension rod mechanism with opposing threads 
+ US20120168581A1
+ (en)
+ *
+ 2010-12-30
+ 2012-07-05
+ Hon Hai Precision Industry Co., Ltd.
+ Holder for electronic device 
+ US8214938B2
+ (en)
+ 2006-09-29
+ 2012-07-10
+ Kenney Manufacturing Company
+ Shower bar assembly 
+ US8215501B2
+ (en)
+ 2009-08-05
+ 2012-07-10
+ Focus Products Group, Llc
+ Adjustable curtain rod 
+ USD664424S1
+ (en)
+ 2011-12-06
+ 2012-07-31
+ Zenith Products Corporation
+ Hookless shower liner fastener 
+ USD664423S1
+ (en)
+ 2011-12-06
+ 2012-07-31
+ Zenith Products Corporation
+ Hookless shower liner fastener 
+ US8235336B2
+ (en)
+ 2010-03-17
+ 2012-08-07
+ Hong Fu Jin Precision Industry (Shenzhen) Co., Ltd.
+ Vacuum suction base 
+ US20120211633A1
+ (en)
+ *
+ 2011-02-18
+ 2012-08-23
+ Hon Hai Precision Industry Co., Ltd.
+ Connection mechanism for support apparatus 
+ USD666012S1
+ (en)
+ 2011-08-16
+ 2012-08-28
+ Zenith Products Corporation
+ End cap for a support rod 
+ USD667295S1
+ (en)
+ 2011-04-28
+ 2012-09-18
+ Zenith Products Corporation
+ Shower rod with end caps 
+ USD667246S1
+ (en)
+ 2011-04-20
+ 2012-09-18
+ Zenith Products Corporation
+ Shower door caddy 
+ US8292253B2
+ (en)
+ *
+ 2003-04-19
+ 2012-10-23
+ Eli Zhadanov
+ Device for supporting bathroom accessories and the like 
+ USD670522S1
+ (en)
+ 2011-07-15
+ 2012-11-13
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD670521S1
+ (en)
+ 2011-07-15
+ 2012-11-13
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ US20120284914A1
+ (en)
+ 2011-05-13
+ 2012-11-15
+ Bauer Alan M
+ Tension rod 
+ USD670944S1
+ (en)
+ 2011-07-15
+ 2012-11-20
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD671347S1
+ (en)
+ 2011-07-15
+ 2012-11-27
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD671348S1
+ (en)
+ 2011-07-15
+ 2012-11-27
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD672178S1
+ (en)
+ 2011-07-15
+ 2012-12-11
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD672991S1
+ (en)
+ 2011-07-15
+ 2012-12-25
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD672990S1
+ (en)
+ 2011-07-15
+ 2012-12-25
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ US8341775B2
+ (en)
+ 2008-06-10
+ 2013-01-01
+ Zenith Products Corporation
+ Adjustable curved double curtain rod shower assembly 
+ US8347936B2
+ (en)
+ 2009-07-08
+ 2013-01-08
+ Kenney Manufacturing Co.
+ Hybrid mount assembly for a window treatment 
+ USD680421S1
+ (en)
+ 2011-11-02
+ 2013-04-23
+ Kenney Manufacturing Company
+ Shower curtain hanger having same-oriented double hooks 
+ USD681423S1
+ (en)
+ 2011-08-05
+ 2013-05-07
+ Zenith Products Corporation
+ Pair of shower rod end caps 
+ USD681422S1
+ (en)
+ 2011-08-05
+ 2013-05-07
+ Zenith Products Corporation
+ Pair of shower rod end caps 
+ US20130112639A1
+ (en)
+ 2010-07-06
+ 2013-05-09
+ Maytex Mills, Inc.
+ Curtain rods 
+ USD684037S1
+ (en)
+ 2011-04-28
+ 2013-06-11
+ Zenith Products Corporation
+ Shower rod and end caps 
+ US8479932B2
+ (en)
+ 2011-05-09
+ 2013-07-09
+ Interdesign, Inc.
+ Tension rod 
+ US8505129B2
+ (en)
+ 2011-11-11
+ 2013-08-13
+ Ex-Cell Home Fashions, Inc.
+ Rod with twist-end tension assembly 
+ USD691029S1
+ (en)
+ 2010-12-16
+ 2013-10-08
+ Zenith Products Corporation
+ Shower rod with end caps 
+ US8561667B1
+ (en)
+ 2010-06-22
+ 2013-10-22
+ Kenney Manufacturing Co.
+ Window treatment with knuckle joint driver 
+ US8573416B2
+ (en)
+ 2010-10-13
+ 2013-11-05
+ Zenith Products Corporation
+ Adjustable shelf assembly 
+ US8584997B2
+ (en)
+ *
+ 2010-10-21
+ 2013-11-19
+ Zoya, Inc.
+ Suction cup apparatus for attachment to porous and nonporous surfaces 
+ US20130334156A1
+ (en)
+ 2010-07-06
+ 2013-12-19
+ Maytex Mills, Inc.
+ Pole caddy 
+ US20130341474A1
+ (en)
+ 2012-06-26
+ 2013-12-26
+ Maytex Mills, Inc.
+ Gripper window rod 
+ USD698851S1
+ (en)
+ 2012-10-15
+ 2014-02-04
+ Woodman Labs, Inc.
+ Suction cup mount 
+ US20140084118A1
+ (en)
+ *
+ 2011-03-04
+ 2014-03-27
+ Croydex Limited
+ Mounting 
+ USD701745S1
+ (en)
+ 2012-08-28
+ 2014-04-01
+ Master Lock Company Llc
+ Lock 
+ USD702112S1
+ (en)
+ 2013-01-17
+ 2014-04-08
+ Zenith Products Corp.
+ Shower curtain hook 
+ US20140131298A1
+ (en)
+ 2012-11-14
+ 2014-05-15
+ Zenith Products Corporation
+ Adjustable tension-mounted curved rod assembly 
+ US20140166603A1
+ (en)
+ 2010-07-06
+ 2014-06-19
+ Maytex Mills, Inc.
+ Telescoping window tension rods 
+ US8814114B2
+ (en)
+ 2012-06-26
+ 2014-08-26
+ Maytex Mills, Inc.
+ Tension window rods 
+ US20140263123A1
+ (en)
+ 2013-03-13
+ 2014-09-18
+ House of Atlas, LLC
+ Adjustable Tension Rod 
+ US8839980B2
+ (en)
+ 2011-12-23
+ 2014-09-23
+ Maytex Mills, Inc.
+ Bath and shower corner caddy 
+ USD714414S1
+ (en)
+ 2013-05-10
+ 2014-09-30
+ Bow Buddy Holdings, LLC
+ Archery bow holder for a ground blind 
+ USD714415S1
+ (en)
+ 2013-05-10
+ 2014-09-30
+ Bow Buddy Holdings, LLC
+ Archery bow holder for a tree stand 
+ USD714571S1
+ (en)
+ 2014-04-07
+ 2014-10-07
+ Zenith Products Corporation
+ Shower caddy 
+ US8851435B1
+ (en)
+ 2011-03-15
+ 2014-10-07
+ Kenney Manufacturing Co.
+ Rod assembly with reversible locking device 
+ US8869999B2
+ (en)
+ 2012-02-06
+ 2014-10-28
+ Zenith Products Corporation
+ Curtain rod end cap and cover 
+ US8875770B1
+ (en)
+ 2011-11-02
+ 2014-11-04
+ Kenney Manufacturing Co.
+ Hanger for shower curtain having same-orientation double hooks 
+ US20140335976A1
+ (en)
+ 2013-05-13
+ 2014-11-13
+ Ryan Michael Hiller
+ Training system for skill development 
+ US20140352054A1
+ (en)
+ *
+ 2013-05-31
+ 2014-12-04
+ Tonis Tollasepp
+ Sink container assembly 
+ US20140374553A1
+ (en)
+ *
+ 2010-10-28
+ 2014-12-25
+ Min Sik PARK
+ Attachable pad for a supporter 
+ US8925881B2
+ (en)
+ *
+ 2012-05-28
+ 2015-01-06
+ Anna Genevieve Diatzikis
+ Magnetic mount 
+ US8979046B2
+ (en)
+ 2010-11-16
+ 2015-03-17
+ Chul Seok Woo
+ Vacuum adsorbing device 
+ US8978228B2
+ (en)
+ 2012-11-14
+ 2015-03-17
+ Zenith Products Corporation
+ Adjustable rod assembly 
+ US9009878B2
+ (en)
+ 2010-11-10
+ 2015-04-21
+ Maytex Mills, Inc.
+ Bath curtain rod assemblies 
+ US20150108134A1
+ (en)
+ *
+ 2013-10-23
+ 2015-04-23
+ Jiang FANGYUAN
+ Apparatus that includes a suction cup mount 
+ USD728044S1
+ (en)
+ 2013-01-28
+ 2015-04-28
+ Donald Jeffrey Boatwright
+ Exercise band connector 
+ US9021627B2
+ (en)
+ 2013-03-13
+ 2015-05-05
+ Ex-Cell Home Fashions, Inc.
+ Tension rod with threaded end cap 
+ USD729618S1
+ (en)
+ 2013-07-26
+ 2015-05-19
+ Kenney Manufacturing Company
+ Article hanger for a product rack 
+ USD730162S1
+ (en)
+ 2013-07-26
+ 2015-05-26
+ Kenney Manufacturing Company
+ Article hanger for a product rack 
+ US20150191124A1
+ (en)
+ *
+ 2014-01-03
+ 2015-07-09
+ O2Micro Inc.
+ Mounting system for attaching mobile device 
+ USD734399S1
+ (en)
+ 2014-04-08
+ 2015-07-14
+ Octoblocs LLC
+ Suction cup toy 
+ US9107495B2
+ (en)
+ 2012-05-24
+ 2015-08-18
+ Zenith Products Corporation
+ Adjustable pole caddy 
+ US9107529B2
+ (en)
+ 2012-11-14
+ 2015-08-18
+ Zenith Products Corporation
+ Adjustable tension-mounted curved rod assembly 
+ US9107544B2
+ (en)
+ 2011-12-09
+ 2015-08-18
+ Zenith Products Corporation
+ Hookless shower liner fastener 
+ US20150250333A1
+ (en)
+ *
+ 2014-03-07
+ 2015-09-10
+ Isee Store Innovations, Llc
+ Systems and methods for securing and displaying products 
+ US20150297038A1
+ (en)
+ 2014-04-22
+ 2015-10-22
+ Zenith Products Corporation
+ Adjustable rod assembly 
+ USD746667S1
+ (en)
+ 2014-01-24
+ 2016-01-05
+ Zenith Products Corporation
+ Pair of end caps for a curtain rod 
+ US20160097419A1
+ (en)
+ *
+ 2014-10-03
+ 2016-04-07
+ Chicony Electronics Co., Ltd.
+ Rotary suction device 
+ US9307838B1
+ (en)
+ 2014-02-17
+ 2016-04-12
+ Michael A. Blavat
+ Fishing rod holder 
+ US9357860B1
+ (en)
+ 2011-11-02
+ 2016-06-07
+ Kenney Manufacturing Company
+ Shower caddy with detachable parts 
+ US20160169269A1
+ (en)
+ *
+ 2014-08-21
+ 2016-06-16
+ San Hao Rubber Company Ltd.
+ Pad structure of sucking disc 
+ US9388837B1
+ (en)
+ 2013-07-10
+ 2016-07-12
+ Kenney Manufacturing Company
+ Telescoping tube assembly having twist lock 
+ US20160201714A1
+ (en)
+ 2013-09-30
+ 2016-07-14
+ Anho Houseware Co., Ltd. Jiangmen
+ Suction plate and suction plate device having suction plate 
+ USD769102S1
+ (en)
+ 2015-07-01
+ 2016-10-18
+ Euchner Gmbh & Co. Kg
+ Locking system 
+ US9474421B2
+ (en)
+ 2010-11-10
+ 2016-10-25
+ Maytex Mills, Inc.
+ Bath curtain rod assemblies 
+ US9494184B1
+ (en)
+ 2015-06-10
+ 2016-11-15
+ Goodsense Co., Ltd.
+ Rail-type vacuum fixer 
+ USD779305S1
+ (en)
+ 2015-01-29
+ 2017-02-21
+ Che-Ming KU
+ Switch 
+ US9581292B2
+ (en)
+ 2015-06-17
+ 2017-02-28
+ Hang Em Up Inc.
+ Magnetic surface mounting apparatus 
+ US9578995B2
+ (en)
+ 2014-09-30
+ 2017-02-28
+ Kenney Manufacturing Co.
+ Multi-piece two-hook hanger for a shower curtain 
+ USD782279S1
+ (en)
+ 2015-07-21
+ 2017-03-28
+ Airbolt Pty Ltd
+ Lock 
+ US9611884B1
+ (en)
+ 2016-06-24
+ 2017-04-04
+ Tils Homeware Ltd.
+ Suction cup 
+ USD783385S1
+ (en)
+ 2014-06-20
+ 2017-04-11
+ Alan Qing-Lin Zhu
+ Fence clip 
+ US9618032B2
+ (en)
+ *
+ 2013-03-19
+ 2017-04-11
+ Msintech Co., Ltd.
+ Vacuum absorber 
+ US9624963B2
+ (en)
+ *
+ 2012-11-19
+ 2017-04-18
+ Zhongshan Taili Household Products Manufacturing Co., Ltd.
+ Vacuum suction cup having bowl-shaped framework 
+ US20170360261A1
+ (en)
+ 2016-06-20
+ 2017-12-21
+ Zenith Products Corporation
+ Clip for a shower caddy and shower caddy with integrated clip 
+ USD811205S1
+ (en)
+ 2017-04-17
+ 2018-02-27
+ Kenney Manufacturing Company
+ Rod bracket 
+ USD813021S1
+ (en)
+ 2016-09-08
+ 2018-03-20
+ Kenney Manufacturing Company
+ Rod bracket 
+ US20180098656A1
+ (en)
+ 2015-09-17
+ 2018-04-12
+ Maytex Mills, Inc.
+ Room darkening curtain rods including removable finials 
+ US10034587B1
+ (en)
+ 2017-06-02
+ 2018-07-31
+ Kenney Manufacturing Company
+ Pole caddy for shower use 
+ US10070748B2
+ (en)
+ 2016-09-08
+ 2018-09-11
+ Kenney Manufacturing Co.
+ Curtain rod bracket and cam lock 
+ US10092126B2
+ (en)
+ 2015-09-17
+ 2018-10-09
+ Maytex Mills, Inc.
+ Window curtain rods with alignment brackets 
+ US20180296018A1
+ (en)
+ 2017-04-13
+ 2018-10-18
+ Maytex Mills, Inc.
+ Curtain and hook assemblies 
+ USD837039S1
+ (en)
+ 2018-01-16
+ 2019-01-01
+ Watts Regulator Co.
+ Hose hanger 
+ US20190082830A1
+ (en)
+ *
+ 2017-09-20
+ 2019-03-21
+ Isee Store Innovations, Llc
+ Product display assembly and method 
+ US10253803B2
+ (en)
+ *
+ 2017-07-19
+ 2019-04-09
+ Helen Of Troy Limited
+ Suction device 
+ USD861112S1
+ (en)
+ 2016-05-04
+ 2019-09-24
+ 2 Lott's L.L.C.
+ Cradle for holding sporting devices 
+ USD871891S1
+ (en)
+ 2017-11-14
+ 2020-01-07
+ Trumbull Manufacturing, Inc.
+ Adapter 
+ US20200093285A1
+ (en)
+ *
+ 2018-09-21
+ 2020-03-26
+ Isee Store Innovations, L.L.C.
+ Product displaying holder systems 
+ US10641314B1
+ (en)
+ *
+ 2019-03-15
+ 2020-05-05
+ Eagle Fan
+ Suction holder 
+ USD885165S1
+ (en)
+ 2018-10-15
+ 2020-05-26
+ Aylo Llc
+ Suction cup 
+ US20200224709A1
+ (en)
+ 2018-02-23
+ 2020-07-16
+ House of Atlas, LLC
+ Surface Mount 
+ US20200232501A1
+ (en)
+ *
+ 2015-09-29
+ 2020-07-23
+ Breville Pty Limited
+ Suction foot 
+ US10731391B2
+ (en)
+ *
+ 2017-09-27
+ 2020-08-04
+ James E. Lucari
+ Suction-security system 
+ USD897722S1
+ (en)
+ 2018-12-18
+ 2020-10-06
+ Camco Manufacturing, Inc.
+ Suction cup towel holder 
+ USD899226S1
+ (en)
+ 2019-09-09
+ 2020-10-20
+ Aylo Llc
+ Suction cup mount 
+ USD899895S1
+ (en)
+ 2018-02-23
+ 2020-10-27
+ House of Atlas, LLC
+ Surface mount 
+ USD915639S1
+ (en)
+ 2020-07-27
+ 2021-04-06
+ HongChun Zhao
+ Portable light bulb 
+ USD923460S1
+ (en)
+ 2018-12-31
+ 2021-06-29
+ Patrick J McNaughton
+ 360-degree hinged suction cup 
+ USD956522S1
+ (en)
+ 2020-03-24
+ 2022-07-05
+ Bridgeport Fittings, Llc
+ Conduit nipple grounding bushing 
+ USD974151S1
+ (en)
+ 2021-04-06
+ 2023-01-03
+ Tsan-Jee Chen
+ Bearing plate for anchor 
+ USD977181S1
+ (en)
+ 2021-05-05
+ 2023-01-31
+ HongChun Zhao
+ Lamp base 
+ USD977947S1
+ (en)
+ 2020-08-06
+ 2023-02-14
+ Safe Rack Llc
+ Top rail spacer 
+ USD979877S1
+ (en)
+ 2020-04-08
+ 2023-02-28
+ Bohle Ag
+ Two cup hoist for glass plates 
+ USD979377S1
+ (en)
+ 2021-05-19
+ 2023-02-28
+ Youjun HU
+ Portable holder 
+ 2020
+ 2020-12-22
+ US
+ US17/131,382
+ patent/US12031565B2/en
+ active
+ Active
+Patent Citations (518)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US453631A
+ (en)
+ 1891-06-09
+ Curtain-support 
+ US666467A
+ (en)
+ 1899-09-01
+ 1901-01-22
+ Phoenix Mfg Company
+ Telescopic curtain-pole. 
+ US1374026A
+ (en)
+ 1920-05-14
+ 1921-04-05
+ Peter A Nelson
+ Bracket for curtain-poles 
+ US1401727A
+ (en)
+ 1921-01-08
+ 1921-12-27
+ Pimlott Peter
+ Curtain-pole 
+ US1679881A
+ (en)
+ 1925-10-05
+ 1928-08-07
+ Herbert A Simpson
+ Hanger rod 
+ US1756716A
+ (en)
+ 1928-03-01
+ 1930-04-29
+ Whitmanis Mfg Company Inc
+ Supporting bar 
+ US1837340A
+ (en)
+ 1931-09-17
+ 1931-12-22
+ Schwartz Meyer
+ Curtain rod 
+ US1951660A
+ (en)
+ 1933-11-20
+ 1934-03-20
+ Helmuth R Klaudt
+ Adjustable supporting bar 
+ US2275330A
+ (en)
+ 1938-06-29
+ 1942-03-03
+ Tveten Finn
+ Ski stick 
+ US2293168A
+ (en)
+ 1940-07-18
+ 1942-08-18
+ Pirone Amato Mario Matthew
+ Hanger bar 
+ US2661850A
+ (en)
+ 1950-02-23
+ 1953-12-08
+ William E Fowler
+ Curtain rod 
+ US2637555A
+ (en)
+ 1950-07-07
+ 1953-05-05
+ Helmuth R Klaudt
+ Exercise bar 
+ US2903141A
+ (en)
+ 1954-06-21
+ 1959-09-08
+ Seewack Benjamin
+ Adjustable bracket for a shower rod, curtain holder, or the like 
+ US2974806A
+ (en)
+ 1957-06-27
+ 1961-03-14
+ Seewack Benjamin
+ Shower rod holder 
+ US3004743A
+ (en)
+ 1958-09-15
+ 1961-10-17
+ Harry J Wenger
+ Music stands 
+ US3180604A
+ (en)
+ 1963-08-02
+ 1965-04-27
+ Boyd F Hammer
+ Adjustable support means for a cassette and like devices 
+ US3240461A
+ (en)
+ *
+ 1963-11-22
+ 1966-03-15
+ Singleton Alan Martin
+ Suction devices 
+ US3560032A
+ (en)
+ 1968-05-27
+ 1971-02-02
+ Ltv Ling Altec Inc
+ Adjustable clutch for relatively moving tubular parts 
+ US3674294A
+ (en)
+ 1970-03-16
+ 1972-07-04
+ Arthur J Kirkham
+ Clamping telescopic tubes 
+ US4012007A
+ (en)
+ *
+ 1975-08-01
+ 1977-03-15
+ Cunningham Donald W
+ Paper towel holder 
+ US4133575A
+ (en)
+ *
+ 1975-11-28
+ 1979-01-09
+ Ever-Clean Gmbh H.W. Nixdorf
+ Vibration damping means for windshield 
+ US4012961A
+ (en)
+ 1976-01-15
+ 1977-03-22
+ Kenney Manufacturing Company
+ Pulley and support combination 
+ US4147199A
+ (en)
+ 1977-12-14
+ 1979-04-03
+ Kenney Manufacturing Company
+ Drapery support combination 
+ US4134703A
+ (en)
+ 1978-02-09
+ 1979-01-16
+ Hinners Earl S
+ Locking structure for extensible pole 
+ US4254815A
+ (en)
+ 1979-03-23
+ 1981-03-10
+ Kenney Manufacturing Company
+ Curtain supporting and positioning combination 
+ US4274467A
+ (en)
+ 1979-03-23
+ 1981-06-23
+ Kenney Manufacturing Company
+ Drapery and support combination 
+ US4276920A
+ (en)
+ 1979-03-23
+ 1981-07-07
+ Kenney Manufacturing Company
+ Traverse rod and support combination 
+ US4301852A
+ (en)
+ 1979-03-23
+ 1981-11-24
+ Kenney Manufacturing Company
+ Heavy duty traverse rod and curtain support combination 
+ US4419026A
+ (en)
+ 1980-08-28
+ 1983-12-06
+ Alfonso Leto
+ Internal locking device for telescopic elements and method of making the same 
+ US4438799A
+ (en)
+ 1982-04-21
+ 1984-03-27
+ Kenney Manufacturing Company
+ Tear starting mechanism for tear shades 
+ US4492262A
+ (en)
+ 1982-05-07
+ 1985-01-08
+ Kenney Manufacturing Company
+ Adjustable traverse rod and motor drive combination 
+ US4495671A
+ (en)
+ 1982-12-06
+ 1985-01-29
+ Kenney Manufacturing Company
+ Master carrier and perforated tape drive combination 
+ US4471275A
+ (en)
+ 1982-12-27
+ 1984-09-11
+ Kenney Manufacturing Company
+ Motor driven drapery closure and control circuit combination 
+ US4519433A
+ (en)
+ 1983-01-24
+ 1985-05-28
+ Kenney Manufacturing Company
+ Drive sprocket for traverse rod 
+ USD285044S
+ (en)
+ 1984-01-06
+ 1986-08-12
+ Mockett Douglas A J
+ Sleeve and cap grommet set for electrical wires 
+ US4607677A
+ (en)
+ 1984-08-23
+ 1986-08-26
+ Kenney Manufacturing Company
+ Mounting for blind 
+ US4619305A
+ (en)
+ 1985-03-25
+ 1986-10-28
+ Kenney Manufacturing Company
+ Semi-adjustable shade and roller combination 
+ US4712457A
+ (en)
+ 1986-06-20
+ 1987-12-15
+ Kenney Manufacturing Company
+ Apparatus and method for cutting window shades 
+ US4895471A
+ (en)
+ 1988-03-18
+ 1990-01-23
+ Zenith Products Corporation
+ Expander mechanism for telescoping tubes 
+ US4919185A
+ (en)
+ 1988-03-21
+ 1990-04-24
+ Kenney Manufacturing Company
+ Headrail and bracket combination for supporting blinds 
+ US4934640A
+ (en)
+ *
+ 1989-05-23
+ 1990-06-19
+ Russel Bichon
+ Portable container for soap 
+ USD329294S
+ (en)
+ 1989-08-02
+ 1992-09-08
+ Kenney Manufacturing Company
+ Beveled headrail 
+ US4955421A
+ (en)
+ 1989-08-31
+ 1990-09-11
+ Kenney Manufacturing Company
+ Continuous cord roll up blind 
+ US5104077A
+ (en)
+ *
+ 1990-09-07
+ 1992-04-14
+ Hung Mei Brush Co., Ltd.
+ Suction cup 
+ US5143336A
+ (en)
+ 1990-11-26
+ 1992-09-01
+ Kenney Manufacturing Company
+ Curtain rod mounting assembly 
+ US5180130A
+ (en)
+ 1990-11-26
+ 1993-01-19
+ Kenney Manufacturing Company
+ Supporting bracket and headrail combination for a window blind 
+ USD324328S
+ (en)
+ 1991-02-22
+ 1992-03-03
+ Zenith Products Corporation
+ Support rod 
+ US5156281A
+ (en)
+ 1991-03-22
+ 1992-10-20
+ Zenith Products Corp.
+ Locking mechanism for bracketless extension rods 
+ USD327421S
+ (en)
+ 1991-07-30
+ 1992-06-30
+ Zenith Products Corporation
+ End cap for support rod 
+ US5259520A
+ (en)
+ 1992-02-26
+ 1993-11-09
+ Zenith Products Corp.
+ Curtain rod assembly and cover 
+ USD346699S
+ (en)
+ 1992-12-18
+ 1994-05-10
+ Zenith Products Corporation
+ Shower head mounted fog free mirror 
+ USD349002S
+ (en)
+ 1993-01-06
+ 1994-07-26
+ Zenith Products Corporation
+ Shower caddy with fog free mirror 
+ US5303832A
+ (en)
+ 1993-03-10
+ 1994-04-19
+ Tu Wen Wu
+ Hanger assembly 
+ US5330061A
+ (en)
+ 1993-03-17
+ 1994-07-19
+ Zenith Products Corporation
+ Spinning shower rod mechanism 
+ US5544692A
+ (en)
+ 1993-08-03
+ 1996-08-13
+ Kenney Manufacturing Company
+ Curtain draping hardware and method for draping curtains 
+ USD356725S
+ (en)
+ 1993-08-03
+ 1995-03-28
+ Kenney Manufacturing Company
+ Curtain draping hardware 
+ US5333665A
+ (en)
+ 1993-10-01
+ 1994-08-02
+ Safar Samir H
+ Portable shade system 
+ US5495884A
+ (en)
+ *
+ 1993-12-21
+ 1996-03-05
+ Auto-Shade, Inc.
+ Rear window shade with window mounting suction cups 
+ US5433551A
+ (en)
+ 1994-01-12
+ 1995-07-18
+ Gordon; Larry D.
+ Telescoping rod assembly 
+ US5564666A
+ (en)
+ 1994-06-28
+ 1996-10-15
+ Kenney Manufacturing Company
+ Mounting bracket for curtain rods 
+ USD371829S
+ (en)
+ 1994-08-25
+ 1996-07-16
+ Zenith Products Corporation
+ Tub rail 
+ US5590804A
+ (en)
+ *
+ 1994-09-02
+ 1997-01-07
+ Crum; Donald
+ Device for draining and storing items in the vicinity of a sink 
+ USD364767S
+ (en)
+ 1994-11-21
+ 1995-12-05
+ Zenith Products Corporation
+ Shower caddy 
+ USD380141S
+ (en)
+ 1995-03-16
+ 1997-06-24
+ Kenney Manufacturing Company
+ Curtain hanger 
+ USD372963S
+ (en)
+ 1995-05-30
+ 1996-08-20
+ Kenney Manufacturing Company
+ Shower bar 
+ US5678703A
+ (en)
+ 1995-07-31
+ 1997-10-21
+ Sawyer; Gerald F.
+ Finial adapter for curtain rods 
+ US5615721A
+ (en)
+ 1995-08-22
+ 1997-04-01
+ Zenith Products Corp.
+ Shower rod attachments 
+ US5673884A
+ (en)
+ *
+ 1995-11-30
+ 1997-10-07
+ Zag Ltd.
+ Suction-mounted holding devices 
+ US5702010A
+ (en)
+ 1995-12-04
+ 1997-12-30
+ Liang; Shan-Kuai
+ Retractable laundry suspension rod 
+ US5971192A
+ (en)
+ *
+ 1995-12-27
+ 1999-10-26
+ Interdesign, Inc.
+ Bathroom accessories 
+ US5653057A
+ (en)
+ 1996-02-01
+ 1997-08-05
+ Gary; Anne Marie
+ Shutter assembly 
+ USD385478S
+ (en)
+ 1996-08-02
+ 1997-10-28
+ Kenney Manufacturing Company
+ Multisided shower curtain ring 
+ USD388693S
+ (en)
+ 1996-08-02
+ 1998-01-06
+ Kenney Manufacturing Company
+ Multisided shower bar 
+ USD383921S
+ (en)
+ 1996-08-09
+ 1997-09-23
+ Zenith Products Corp.
+ Shelving unit 
+ US5771726A
+ (en)
+ 1996-08-28
+ 1998-06-30
+ Kenney Manufacturing Company
+ Apparatus and method for twisting hollow rods 
+ USD388267S
+ (en)
+ 1996-08-29
+ 1997-12-30
+ Zenith Products Corporation
+ Shelf unit 
+ USD389352S
+ (en)
+ 1996-09-04
+ 1998-01-20
+ Zenith Products Corp.
+ Shower caddy 
+ USD388642S
+ (en)
+ 1996-09-04
+ 1998-01-06
+ Zenith Products Corp.
+ Shower caddy 
+ USD392135S
+ (en)
+ 1996-09-17
+ 1998-03-17
+ Zenith Products Corp.
+ Shower caddy 
+ US5894610A
+ (en)
+ 1996-12-20
+ 1999-04-20
+ Zenith Products Corp.
+ Shower rod mounting assembly 
+ USD391842S
+ (en)
+ 1997-01-17
+ 1998-03-10
+ Kenney Manufacturing Company
+ Shower bar end cap 
+ USD404948S
+ (en)
+ 1997-01-24
+ 1999-02-02
+ Zenith Products Corp.
+ Shower caddy 
+ USD392484S
+ (en)
+ 1997-01-24
+ 1998-03-24
+ Zenith Products Corp.
+ Shower caddy 
+ US5996674A
+ (en)
+ 1997-05-08
+ 1999-12-07
+ Gatewood; Denise D.
+ Rapid installation curtain 
+ US6250839B1
+ (en)
+ 1997-05-17
+ 2001-06-26
+ Klaus Lenhart
+ Length-adjustable tube, specially for ski poles or walking sticks 
+ USD396157S
+ (en)
+ 1997-09-04
+ 1998-07-21
+ Zenith Products Corp.
+ Shower caddy 
+ USD396585S
+ (en)
+ 1997-09-04
+ 1998-08-04
+ Zenith Products Corporation
+ Wire shower caddy 
+ USD395773S
+ (en)
+ 1997-09-04
+ 1998-07-07
+ Zenith Products Corp.
+ Shower caddy 
+ USD397567S
+ (en)
+ 1997-09-04
+ 1998-09-01
+ Zenith Products Corporation
+ Shower caddy 
+ USD394771S
+ (en)
+ 1997-09-04
+ 1998-06-02
+ Zenith Products Corp.
+ Wire shower caddy 
+ USD395971S
+ (en)
+ 1997-09-04
+ 1998-07-14
+ Zenith Products Corp.
+ Wire shower caddy 
+ USD398468S
+ (en)
+ 1997-09-19
+ 1998-09-22
+ Zenith Products Corp.
+ Towel rack 
+ USD408272S
+ (en)
+ 1998-01-09
+ 1999-04-20
+ Zenith Products Corp.
+ Shelf bracket 
+ USD407934S
+ (en)
+ 1998-04-09
+ 1999-04-13
+ Zenith Products Corp.
+ Corner caddy 
+ USD417390S
+ (en)
+ 1998-04-09
+ 1999-12-07
+ Zenith Products Corp.
+ Shower caddy ring 
+ USD408185S
+ (en)
+ 1998-04-09
+ 1999-04-20
+ Zenith Products Corp.
+ Corner bath shelf 
+ USD408721S
+ (en)
+ 1998-04-21
+ 1999-04-27
+ Kenney Manufacturing Company
+ Curtain rod bracket pair 
+ USD408722S
+ (en)
+ 1998-04-21
+ 1999-04-27
+ Kenney Manufacturing Company
+ Dual curtain rod bracket 
+ USD416416S
+ (en)
+ 1998-05-07
+ 1999-11-16
+ Zenith Products Corp.
+ Wall mountable caddy 
+ USD417990S
+ (en)
+ 1998-06-19
+ 1999-12-28
+ Zenith Products Corp.
+ Shower caddy 
+ USD417809S
+ (en)
+ 1998-06-26
+ 1999-12-21
+ Zenith Products Corp.
+ Bathtub organizer 
+ USD411951S
+ (en)
+ 1998-06-30
+ 1999-07-13
+ Kenney Manufacturing Company
+ Window treatment bracket 
+ USD416728S
+ (en)
+ 1998-07-15
+ 1999-11-23
+ Zenith Products Corp.
+ Shower basket with shelf 
+ USD404639S
+ (en)
+ 1998-07-27
+ 1999-01-26
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain ring 
+ USD417991S
+ (en)
+ 1998-07-30
+ 1999-12-28
+ Zenith Products Corp.
+ Shower caddy 
+ US6045111A
+ (en)
+ 1998-08-10
+ 2000-04-04
+ Chien Lu Hardware Co., Ltd.
+ Fixing sucker structure 
+ USD409424S
+ (en)
+ 1998-08-21
+ 1999-05-11
+ Zenith Products Corporation
+ Shower caddy 
+ USD415916S
+ (en)
+ 1998-08-21
+ 1999-11-02
+ Zenith Products Corporation
+ Shower caddy 
+ US5996791A
+ (en)
+ 1998-08-21
+ 1999-12-07
+ Kenney Manufacturing Co.
+ Curtain rod system 
+ USD410193S
+ (en)
+ 1998-08-24
+ 1999-05-25
+ Kenney Manufacturing Company
+ Rod support 
+ USD417605S
+ (en)
+ 1998-08-24
+ 1999-12-14
+ Kenney Manufacturing Company
+ Rod support 
+ USD409898S
+ (en)
+ 1998-08-24
+ 1999-05-18
+ Kenney Manufacturing Company
+ Rod support 
+ USD412827S
+ (en)
+ 1998-08-24
+ 1999-08-17
+ Kenney Manufacturing Company
+ Rod support 
+ USD410377S
+ (en)
+ 1998-08-24
+ 1999-06-01
+ Kenney Manufacturing Company
+ Rod support 
+ USD412433S
+ (en)
+ 1998-08-24
+ 1999-08-03
+ Kenney Manufacturing Company
+ Rod support 
+ USD410361S
+ (en)
+ 1998-08-27
+ 1999-06-01
+ Kenney Manufacturing Company
+ Window treatment tie back 
+ US6959752B2
+ (en)
+ 1998-10-19
+ 2005-11-01
+ Sunny En Liung Huang
+ Collapsible auto shade 
+ USD426763S
+ (en)
+ 1999-01-22
+ 2000-06-20
+ Master Lock Company
+ Padlock 
+ USD433618S
+ (en)
+ 1999-01-25
+ 2000-11-14
+ Kenney Manufacturing Co.
+ Rod support 
+ USD426992S
+ (en)
+ 1999-03-10
+ 2000-06-27
+ Zenith Products Corp.
+ Paper towel holder 
+ USD421692S
+ (en)
+ 1999-04-29
+ 2000-03-21
+ Zenith Products Corp.
+ Pole caddy 
+ USD429934S
+ (en)
+ 1999-08-13
+ 2000-08-29
+ Zenith Products Corp.
+ Pole caddy 
+ US6317904B1
+ (en)
+ 1999-09-17
+ 2001-11-20
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain 
+ US6663064B1
+ (en)
+ *
+ 1999-12-01
+ 2003-12-16
+ Garmin Corporation
+ Multi-position articulating mounting apparatus for an electronic device 
+ USD443813S1
+ (en)
+ 1999-12-06
+ 2001-06-19
+ Zenith Products Corp.
+ End cap unit for shower rod 
+ USD442394S1
+ (en)
+ 1999-12-06
+ 2001-05-22
+ Zenith Products Corp.
+ Magazine rack 
+ USD437693S1
+ (en)
+ 1999-12-06
+ 2001-02-20
+ Zenith Products Corp.
+ Wall mirror 
+ US6193197B1
+ (en)
+ 1999-12-27
+ 2001-02-27
+ Bing-Tson Lian
+ Multipurpose suction-type connection seat 
+ USD475551S1
+ (en)
+ 2000-02-14
+ 2003-06-10
+ Zenith Products Corp.
+ Towel rack 
+ USD436487S1
+ (en)
+ 2000-04-06
+ 2001-01-23
+ Zenith Products Corp.
+ Wallshelf 
+ USD443162S1
+ (en)
+ 2000-06-13
+ 2001-06-05
+ Zenith Products Corp.
+ Pole caddy 
+ USD444017S1
+ (en)
+ 2000-06-13
+ 2001-06-26
+ Zenith Products Corp.
+ Corner shelf unit 
+ USD453652S1
+ (en)
+ 2000-06-13
+ 2002-02-19
+ Zenith Products Corp.
+ Shelf unit 
+ USD438448S1
+ (en)
+ 2000-08-16
+ 2001-03-06
+ Kenney Manufacturing Co.
+ Rail support for storage hooks 
+ USD459201S1
+ (en)
+ 2000-10-30
+ 2002-06-25
+ Ex-Cell Home Fashions, Inc.
+ Hook for shower curtain and shower curtain liner 
+ US6530502B2
+ (en)
+ *
+ 2000-12-21
+ 2003-03-11
+ Mylene Neal
+ Self-draining dishwashing caddy 
+ US6663077B2
+ (en)
+ *
+ 2001-02-22
+ 2003-12-16
+ Dejun Zou
+ Sucker structure 
+ USD458791S1
+ (en)
+ 2001-02-26
+ 2002-06-18
+ Zenith Products Corp.
+ Wall shelving 
+ USD458790S1
+ (en)
+ 2001-02-26
+ 2002-06-18
+ Zenith Products Corp.
+ Wall shelf 
+ USD454730S1
+ (en)
+ 2001-02-26
+ 2002-03-26
+ Zenith Products Corp.
+ Spacesaver shelving 
+ USD456167S1
+ (en)
+ 2001-03-21
+ 2002-04-30
+ Zenith Products Corp.
+ Towel rack 
+ USD450947S1
+ (en)
+ 2001-04-19
+ 2001-11-27
+ Zenith Products Corp.
+ Towel rack 
+ USD456658S1
+ (en)
+ 2001-05-09
+ 2002-05-07
+ Zenith Products Corp.
+ Wall shelf 
+ USD456638S1
+ (en)
+ 2001-05-09
+ 2002-05-07
+ Zenith Products Corp.
+ Spacesaver shelving 
+ US20020175250A1
+ (en)
+ 2001-05-23
+ 2002-11-28
+ Bing-Tson Lian
+ Fixation seat capable of being attached firmly to wall 
+ US6443207B1
+ (en)
+ 2001-05-30
+ 2002-09-03
+ Zipshade Industrial (B.V.I.) Corp.
+ Window covering adjustment apparatus and method 
+ US20020190170A1
+ (en)
+ *
+ 2001-06-18
+ 2002-12-19
+ Tzu-Kuang Ting
+ Hanger device with suction cup 
+ USD464867S1
+ (en)
+ 2001-07-19
+ 2002-10-29
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ US6530120B2
+ (en)
+ 2001-07-26
+ 2003-03-11
+ Ex-Cell Home Fashions, Inc.
+ Roller shower curtain hook and method of manufacturing same 
+ US6478271B1
+ (en)
+ 2001-08-07
+ 2002-11-12
+ Free-Free Industrial Corporation
+ Mounting sucker 
+ US6543629B1
+ (en)
+ 2001-09-24
+ 2003-04-08
+ Ex-Cell Home Fashions, Inc.
+ Decorative curtain rod end cover 
+ USD475560S1
+ (en)
+ 2002-02-14
+ 2003-06-10
+ Zenith Products Corp.
+ Shower caddy 
+ USD475229S1
+ (en)
+ 2002-02-14
+ 2003-06-03
+ Zenith Products Corp.
+ Shelf for shower caddy 
+ USD483969S1
+ (en)
+ 2002-02-14
+ 2003-12-23
+ Zenith Products Corp.
+ Shelf for utility cabinet 
+ USD476828S1
+ (en)
+ 2002-02-20
+ 2003-07-08
+ Zenith Products Corp.
+ Magazine rack 
+ USD475857S1
+ (en)
+ 2002-02-20
+ 2003-06-17
+ Zenith Products Corp.
+ Wall mirror 
+ USD472453S1
+ (en)
+ 2002-02-27
+ 2003-04-01
+ Zenith Products Corp.
+ Decorative surface for shower rod 
+ USD479932S1
+ (en)
+ 2002-03-01
+ 2003-09-30
+ Zenith Products Corp.
+ Wall shelf 
+ USD466798S1
+ (en)
+ 2002-03-07
+ 2002-12-10
+ Zenith Products Corp.
+ Decorative surface for shower rod 
+ USD466799S1
+ (en)
+ 2002-03-13
+ 2002-12-10
+ Zenith Products Corp.
+ Curtain rod with hooks 
+ USD465996S1
+ (en)
+ 2002-03-13
+ 2002-11-26
+ Zenith Products Corp.
+ Curtain hook 
+ US6824000B2
+ (en)
+ 2002-03-27
+ 2004-11-30
+ Ex-Cell Home Fashions, Inc.
+ Tension rod with suction cups 
+ US6651831B2
+ (en)
+ 2002-03-27
+ 2003-11-25
+ Ex-Cell Home Fashions, Inc.
+ Tension rod with suction cups 
+ USD470337S1
+ (en)
+ 2002-04-10
+ 2003-02-18
+ Zenith Products Corp.
+ Magazine rack 
+ US20030209509A1
+ (en)
+ 2002-05-10
+ 2003-11-13
+ Felsenthal Sandy A.
+ Expandable rack assembly with telescoping tube sections adapted to facilitate connection to side supports 
+ US6681831B1
+ (en)
+ 2002-05-17
+ 2004-01-27
+ Zipshade Industrial (B.V.I.) Corp.
+ Window covering height adjustment apparatus and method using fixed position rotor 
+ US6669033B1
+ (en)
+ *
+ 2002-06-03
+ 2003-12-30
+ Bing-Tson Lian
+ Suction-type rack 
+ US6948545B1
+ (en)
+ 2002-06-05
+ 2005-09-27
+ Zipshade Industrial (B.V.I.) Corp.
+ Window covering height adjustment method and apparatus using traveling rotor 
+ US6761202B1
+ (en)
+ 2002-06-05
+ 2004-07-13
+ Zipshade Industrial (B.V.I.) Corp.
+ Window covering height adjustment method and apparatus using traveling rotor 
+ USD470394S1
+ (en)
+ 2002-06-25
+ 2003-02-18
+ Zenith Products Corp.
+ Door rack 
+ USD470332S1
+ (en)
+ 2002-06-25
+ 2003-02-18
+ Zenith Products Corp.
+ Towel rack 
+ US6823925B2
+ (en)
+ 2002-07-12
+ 2004-11-30
+ Shades Unlimited, Inc.
+ Retractable window shade with height adjustment control 
+ USD482223S1
+ (en)
+ 2002-07-29
+ 2003-11-18
+ Kenney Manufacturing Co.
+ Head rail mounting clip 
+ US6640867B1
+ (en)
+ 2002-07-31
+ 2003-11-04
+ The Procter & Gamble Company
+ Releasably attachable shades 
+ USD484345S1
+ (en)
+ 2002-07-31
+ 2003-12-30
+ Zenith Products Corp.
+ Wire wall hook 
+ USD472748S1
+ (en)
+ 2002-07-31
+ 2003-04-08
+ Zenith Products Corp.
+ Wire wall caddy 
+ USD472747S1
+ (en)
+ 2002-07-31
+ 2003-04-08
+ Zenith Products Corp.
+ Wire corner caddy 
+ USD485464S1
+ (en)
+ 2002-07-31
+ 2004-01-20
+ Zenith Products Corp.
+ Wire shelf with towel bar 
+ USD488945S1
+ (en)
+ 2002-08-14
+ 2004-04-27
+ Kenney Manufacturing Co.
+ Headrail for window blinds 
+ USD475562S1
+ (en)
+ 2002-10-16
+ 2003-06-10
+ Zenith Products Corp.
+ Corner bath caddy 
+ USD475561S1
+ (en)
+ 2002-10-16
+ 2003-06-10
+ Zenith Products Corp.
+ Corner caddy 
+ US7000521B1
+ (en)
+ 2002-10-29
+ 2006-02-21
+ Zipshade Industrial (B.V.I.) Corp.
+ Pleated shade cut-off method and apparatus 
+ US7255149B2
+ (en)
+ 2002-10-31
+ 2007-08-14
+ Newell Window Furnishings, Inc.
+ Temporary window covering 
+ US7665500B2
+ (en)
+ 2002-10-31
+ 2010-02-23
+ Newell Window Furnishings, Inc.
+ Temporary window covering 
+ US7264035B2
+ (en)
+ 2002-11-21
+ 2007-09-04
+ Newell Window Furnishing, Inc.
+ Temporary window covering 
+ USD484027S1
+ (en)
+ 2002-12-10
+ 2003-12-23
+ Zenith Products Corp.
+ Curtain hook 
+ USD483251S1
+ (en)
+ 2003-01-07
+ 2003-12-09
+ Zenith Products Corp.
+ Shower rod 
+ USD485104S1
+ (en)
+ 2003-01-07
+ 2004-01-13
+ Zenith Products Corp.
+ Hanging shower caddy 
+ US6776368B1
+ (en)
+ *
+ 2003-02-14
+ 2004-08-17
+ Creative Bath Products, Inc.
+ Paper towel holder 
+ US6666420B1
+ (en)
+ 2003-02-25
+ 2003-12-23
+ Jeffrey D. Carnevali
+ Suction cup having compact axial installation and release mechanism 
+ USD485462S1
+ (en)
+ 2003-03-04
+ 2004-01-20
+ Zenith Products Corp.
+ Shower caddy 
+ US20040182806A1
+ (en)
+ 2003-03-17
+ 2004-09-23
+ Figueroa Michael A.
+ Adjustable curtain rod 
+ US7225850B2
+ (en)
+ 2003-03-21
+ 2007-06-05
+ 3 Day Blinds, Inc.
+ Child safety blind 
+ US6994143B2
+ (en)
+ 2003-03-21
+ 2006-02-07
+ 3 Day Blinds, Inc.
+ Child safety blind 
+ US6865817B2
+ (en)
+ 2003-03-27
+ 2005-03-15
+ Shades Unlimited, Inc.
+ Window shade with measurement guide 
+ US8292253B2
+ (en)
+ *
+ 2003-04-19
+ 2012-10-23
+ Eli Zhadanov
+ Device for supporting bathroom accessories and the like 
+ US6896228B1
+ (en)
+ *
+ 2003-04-24
+ 2005-05-24
+ Tung Hsien Lu
+ Fixing device for a bath support rack 
+ USD500670S1
+ (en)
+ 2003-06-11
+ 2005-01-11
+ Zenith Products Corp.
+ Shower rod 
+ USD501106S1
+ (en)
+ 2003-06-11
+ 2005-01-25
+ Zenith Products Corp.
+ Door caddy 
+ USD491742S1
+ (en)
+ 2003-06-11
+ 2004-06-22
+ Zenith Products Corp.
+ Towel rack 
+ USD488319S1
+ (en)
+ 2003-06-11
+ 2004-04-13
+ Zenith Products Corp.
+ Combination wall cabinet and shelf 
+ USD491731S1
+ (en)
+ 2003-06-11
+ 2004-06-22
+ Zenith Products Corp.
+ Wall mirror 
+ USD491751S1
+ (en)
+ 2003-06-11
+ 2004-06-22
+ Zenith Products Corp.
+ Wall shelf 
+ USD487653S1
+ (en)
+ 2003-06-11
+ 2004-03-23
+ Zenith Products Corp.
+ Spacesaver shelves 
+ USD491448S1
+ (en)
+ 2003-06-11
+ 2004-06-15
+ Zenith Products Corp.
+ Shower rod 
+ USD490253S1
+ (en)
+ 2003-06-13
+ 2004-05-25
+ Zenith Products Corp.
+ Magazine rack 
+ USD488004S1
+ (en)
+ 2003-06-13
+ 2004-04-06
+ Zenith Products Corp.
+ Spacesaver shelving 
+ USD491445S1
+ (en)
+ 2003-06-13
+ 2004-06-15
+ Zenith Products Corp.
+ Door rack 
+ US6895642B2
+ (en)
+ *
+ 2003-08-26
+ 2005-05-24
+ Yea Yen Huang
+ Multi-function hanging and fastening device 
+ US20050044673A1
+ (en)
+ *
+ 2003-08-26
+ 2005-03-03
+ Huang Yea Yen
+ Multi-function hanging and fastening device 
+ USD491752S1
+ (en)
+ 2003-08-28
+ 2004-06-22
+ Zenith Products Corp.
+ Wall shelf 
+ USD495523S1
+ (en)
+ 2003-08-28
+ 2004-09-07
+ Zenith Products Corp.
+ Towel rack 
+ USD494845S1
+ (en)
+ 2003-08-29
+ 2004-08-24
+ Zenith Products Corp.
+ End cap for shower rod 
+ USD505062S1
+ (en)
+ 2003-08-29
+ 2005-05-17
+ Zenith Products Corp.
+ End cap for shower rod 
+ USD494455S1
+ (en)
+ 2003-08-29
+ 2004-08-17
+ Zenith Products Corp.
+ End cap for shower rod 
+ USD494052S1
+ (en)
+ 2003-08-29
+ 2004-08-10
+ Zenith Products Corp.
+ End cap for shower rod 
+ US6962186B2
+ (en)
+ 2003-09-12
+ 2005-11-08
+ Ching Feng Blinds Ind. Co., Ltd.
+ Retaining structure for cordless continuous folding blind 
+ US6966353B2
+ (en)
+ 2003-09-12
+ 2005-11-22
+ Ching Feng Blinds, Ind. Co., Ltd.
+ Retaining bracket structure for cordless continuous folding blind 
+ US8123181B2
+ (en)
+ *
+ 2003-10-11
+ 2012-02-28
+ Good Sense
+ Vacuum fixer 
+ USD527246S1
+ (en)
+ 2003-11-26
+ 2006-08-29
+ Zenith Products Corp.
+ Curtain ring 
+ USD495591S1
+ (en)
+ 2003-11-26
+ 2004-09-07
+ Zenith Products Corp.
+ Curtain ring 
+ US20060204322A1
+ (en)
+ 2003-12-15
+ 2006-09-14
+ Thomas Roiser
+ Clamp device for telescopic tubes inserted one in the other 
+ USD499286S1
+ (en)
+ 2004-02-04
+ 2004-12-07
+ Zenith Products Corp.
+ Door rack 
+ USD495528S1
+ (en)
+ 2004-02-04
+ 2004-09-07
+ Zenith Products Corp.
+ Magazine rack 
+ USD500225S1
+ (en)
+ 2004-02-23
+ 2004-12-28
+ Zenith Products Corp.
+ Wire shelf 
+ USD499296S1
+ (en)
+ 2004-02-23
+ 2004-12-07
+ Zenith Products Corp.
+ Basket shelf 
+ USD499329S1
+ (en)
+ 2004-02-23
+ 2004-12-07
+ Zenith Products Corp.
+ Wall hook 
+ USD498630S1
+ (en)
+ 2004-02-23
+ 2004-11-23
+ Zenith Products Corp.
+ Wall-mounted hook 
+ US7194811B2
+ (en)
+ 2004-03-22
+ 2007-03-27
+ Shades Unlimited, Inc.
+ Cutting guide for a window shade 
+ US6966530B2
+ (en)
+ 2004-04-02
+ 2005-11-22
+ Ching Feng Blinds Ind. Co., Ltd.
+ End securing device for telescopic tube 
+ USD539064S1
+ (en)
+ 2004-06-22
+ 2007-03-27
+ Shades Unlimited, Inc.
+ Hemi-circular window shade support base 
+ USD538571S1
+ (en)
+ 2004-06-22
+ 2007-03-20
+ Shades Unlimited, Inc.
+ Quadra-circular window shade support base 
+ USD548042S1
+ (en)
+ 2004-07-06
+ 2007-08-07
+ Master Lock Company Llc
+ Lock 
+ US7331370B1
+ (en)
+ 2004-08-03
+ 2008-02-19
+ Shades Unlimited, Inc.
+ Progressive resistance lifting mechanism for a window covering 
+ USD513142S1
+ (en)
+ 2004-08-18
+ 2005-12-27
+ Zenith Products Corp.
+ Corner bath caddy 
+ USD504310S1
+ (en)
+ 2004-08-18
+ 2005-04-26
+ Zenith Products Corp.
+ End cap for curtain rod 
+ USD516902S1
+ (en)
+ 2004-08-18
+ 2006-03-14
+ Zenith Products Corp.
+ End cap for curtain rod 
+ USD505317S1
+ (en)
+ 2004-08-18
+ 2005-05-24
+ Zenith Products Corp.
+ End cap for curtain rod 
+ USD504807S1
+ (en)
+ 2004-08-18
+ 2005-05-10
+ Zenith Products Corp.
+ End cap for curtain rod 
+ USD505614S1
+ (en)
+ 2004-08-27
+ 2005-05-31
+ Ex-Cell Home Fashions, Inc.
+ Hook for supporting shower curtain and shower curtain liner 
+ US7748673B2
+ (en)
+ 2004-08-27
+ 2010-07-06
+ Ex-Cell Home Fashions Inc.
+ Hook for supporting shower curtain and shower curtain liner and method for fabricating same 
+ US7128124B2
+ (en)
+ 2004-09-16
+ 2006-10-31
+ Kenney Manufacturing Company
+ Adjustable tension shade assembly 
+ USD525813S1
+ (en)
+ 2004-10-05
+ 2006-08-01
+ Beasley James L
+ Temporary cover sheet for a window frame opening 
+ US7549615B2
+ (en)
+ 2004-10-15
+ 2009-06-23
+ Shades Unlimited, Inc.
+ Compression mount for window coverings 
+ US7195051B2
+ (en)
+ 2004-10-21
+ 2007-03-27
+ Nien Made Enterprise Co., Ltd.
+ Collapsing and securing device of lateral blinds 
+ USD540568S1
+ (en)
+ 2005-01-18
+ 2007-04-17
+ Zenith Products Corp.
+ Shelves 
+ USD526520S1
+ (en)
+ 2005-01-18
+ 2006-08-15
+ Zenith Products Corp.
+ Towel rack 
+ USD513373S1
+ (en)
+ 2005-03-03
+ 2006-01-03
+ Zenith Products Corp.
+ Shower caddy 
+ USD543748S1
+ (en)
+ 2005-03-03
+ 2007-06-05
+ Zenith Products Corp.
+ Corner caddy 
+ USD543747S1
+ (en)
+ 2005-03-03
+ 2007-06-05
+ Zenith Products Corp.
+ Pole caddy 
+ USD534793S1
+ (en)
+ 2005-03-03
+ 2007-01-09
+ Zenith Products Corp.
+ Hanger clip 
+ USD522844S1
+ (en)
+ 2005-05-19
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ USD525115S1
+ (en)
+ 2005-05-19
+ 2006-07-18
+ Zenith Products Corp.
+ End cap for support rod 
+ USD549506S1
+ (en)
+ 2005-06-16
+ 2007-08-28
+ Kenney Manufacturing Company
+ Clothing rack 
+ USD522846S1
+ (en)
+ 2005-06-17
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ USD522845S1
+ (en)
+ 2005-06-17
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ USD522847S1
+ (en)
+ 2005-06-17
+ 2006-06-13
+ Zenith Products Corp.
+ End cap for support rod 
+ US7407237B2
+ (en)
+ 2005-07-20
+ 2008-08-05
+ Zenith Products Corp.
+ Combined magazine rack and toilet paper holder 
+ US7562689B1
+ (en)
+ 2005-08-16
+ 2009-07-21
+ Shades Unlimited, Inc.
+ Clip for window covering cord 
+ USD545180S1
+ (en)
+ 2005-09-08
+ 2007-06-26
+ Zenith Products Corp.
+ Curtain hook 
+ USD546177S1
+ (en)
+ 2005-09-22
+ 2007-07-10
+ General Mills Marketing, Inc.
+ Combined tear strip and access perforations on packaging 
+ US20070170134A1
+ (en)
+ 2005-09-23
+ 2007-07-26
+ Bishop Ryan B
+ Modular, customizable window covering hardware system 
+ USD548574S1
+ (en)
+ 2005-11-03
+ 2007-08-14
+ Zenith Products Corp.
+ Curtain hook 
+ US20070120027A1
+ (en)
+ *
+ 2005-11-28
+ 2007-05-31
+ Chang Ta S
+ Suction cup 
+ US7607622B2
+ (en)
+ 2006-03-08
+ 2009-10-27
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+ USD542897S1
+ (en)
+ 2006-03-14
+ 2007-05-15
+ Zenith Products Corp.
+ Curved shower rod 
+ US20070215766A1
+ (en)
+ *
+ 2006-03-17
+ 2007-09-20
+ Yen Shu C
+ Hands-free device capable of adjusting an angle of its mounting seat in any direction and positioning same 
+ US7708245B2
+ (en)
+ 2006-04-24
+ 2010-05-04
+ Cheol-Seok Woo
+ Multi-purpose vacuum suction apparatus 
+ US20070278371A1
+ (en)
+ *
+ 2006-05-31
+ 2007-12-06
+ Ching-Yang Wang
+ Holder 
+ USD560924S1
+ (en)
+ 2006-06-08
+ 2008-02-05
+ Zenith Products Corp.
+ Combination shower curtain hook and picture frame 
+ USD544786S1
+ (en)
+ 2006-06-08
+ 2007-06-19
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain rod assembly 
+ USD566991S1
+ (en)
+ 2006-06-08
+ 2008-04-22
+ Zenith Products Corp.
+ Pole caddy 
+ USD542392S1
+ (en)
+ 2006-06-13
+ 2007-05-08
+ Kenney Manufacturing Company
+ Curved shower bar 
+ US7926127B2
+ (en)
+ 2006-07-13
+ 2011-04-19
+ Ex-Cell Home Fashions, Inc.
+ Curved shower curtain rod assembly 
+ US8185981B2
+ (en)
+ 2006-08-03
+ 2012-05-29
+ Zenith Products Corporation
+ Adjustable curved shower rod assembly 
+ US8069507B2
+ (en)
+ 2006-08-03
+ 2011-12-06
+ Zenith Products Corporation
+ Adjustable curved shower curtain rod assembly 
+ US7600549B2
+ (en)
+ 2006-09-22
+ 2009-10-13
+ Li-Ming Cheng
+ Window covering cutting and bonding apparatus 
+ US8214938B2
+ (en)
+ 2006-09-29
+ 2012-07-10
+ Kenney Manufacturing Company
+ Shower bar assembly 
+ US7975971B2
+ (en)
+ 2006-11-15
+ 2011-07-12
+ Carnevali Jeffrey D
+ Suction cup device 
+ US7578487B2
+ (en)
+ 2006-11-21
+ 2009-08-25
+ Sony Corporation
+ Music stand and article retaining apparatus 
+ US20130045041A1
+ (en)
+ 2006-12-05
+ 2013-02-21
+ Dae Up Sohn
+ Connector for stick 
+ US20100316438A1
+ (en)
+ 2006-12-05
+ 2010-12-16
+ Dae Up Sohn
+ Connector for stick 
+ USD547167S1
+ (en)
+ 2006-12-08
+ 2007-07-24
+ Ex-Cell Home Fashions, Inc.
+ Finial for curtain rod 
+ USD547165S1
+ (en)
+ 2006-12-08
+ 2007-07-24
+ Ex-Cell Home Fashions, Inc.
+ Finial for curtain rod 
+ USD547166S1
+ (en)
+ 2006-12-08
+ 2007-07-24
+ Ex-Cell Home Fashions, Inc.
+ Finial for curtain rod 
+ US20100176253A1
+ (en)
+ 2006-12-19
+ 2010-07-15
+ Young Suck Son
+ Apparatus for connecting sucking plate and tablewares for table provided with the same 
+ US7857151B2
+ (en)
+ 2007-01-04
+ 2010-12-28
+ Ex-Cell Home Fashions, Inc.
+ Tension rod assembly with adaptor 
+ US20080163418A1
+ (en)
+ 2007-01-04
+ 2008-07-10
+ Ex-Cell Home Fashions, Inc.
+ Tension rod assembly with adaptor 
+ USD551010S1
+ (en)
+ 2007-02-28
+ 2007-09-18
+ Kenney Manufacturing Co.
+ Double-sided shower ring 
+ USD573386S1
+ (en)
+ 2007-03-01
+ 2008-07-22
+ Zenith Products Corp.
+ Pole caddy 
+ USD571136S1
+ (en)
+ 2007-03-01
+ 2008-06-17
+ Zenith Products Corp.
+ Shampoo station 
+ USD563136S1
+ (en)
+ 2007-03-01
+ 2008-03-04
+ Zenith Products Corp.
+ Vanity caddy 
+ US8186509B2
+ (en)
+ 2007-03-02
+ 2012-05-29
+ Ex-Cell Home Fashions, Inc.
+ Display hanger for curtain rod 
+ USD563209S1
+ (en)
+ 2007-03-02
+ 2008-03-04
+ Ex-Cell Home Fashions, Inc.
+ Display hanger for a shower curtain rod 
+ US7628362B2
+ (en)
+ *
+ 2007-03-13
+ 2009-12-08
+ Soon Young Song
+ Adhesion device by holding low pressure 
+ USD563138S1
+ (en)
+ 2007-03-27
+ 2008-03-04
+ Zenith Products Corp.
+ Wire corner caddy 
+ USD562609S1
+ (en)
+ 2007-03-27
+ 2008-02-26
+ Zenith Products Corp.
+ Shower massage caddy 
+ USD562608S1
+ (en)
+ 2007-03-27
+ 2008-02-26
+ Zenith Products Corp.
+ Shower massage caddy 
+ USD576475S1
+ (en)
+ 2007-07-12
+ 2008-09-09
+ Zenith Products Corp.
+ Hanger 
+ USD576476S1
+ (en)
+ 2007-07-12
+ 2008-09-09
+ Zenith Products Corp.
+ Hanger 
+ USD590696S1
+ (en)
+ 2007-08-22
+ 2009-04-21
+ Carnevali Jeffrey D
+ Suction cup clamp 
+ US7850133B2
+ (en)
+ 2007-08-22
+ 2010-12-14
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+ USD587917S1
+ (en)
+ 2007-09-10
+ 2009-03-10
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD591522S1
+ (en)
+ 2007-09-10
+ 2009-05-05
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD582760S1
+ (en)
+ 2007-09-10
+ 2008-12-16
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD577281S1
+ (en)
+ 2007-09-10
+ 2008-09-23
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD569668S1
+ (en)
+ 2007-09-14
+ 2008-05-27
+ Zenith Products Corp.
+ Shower caddy 
+ USD569149S1
+ (en)
+ 2007-09-14
+ 2008-05-20
+ Zenith Products Corp.
+ Shower caddy 
+ USD568656S1
+ (en)
+ 2007-09-14
+ 2008-05-13
+ Zenith Products Corp.
+ Shower caddy 
+ USD573387S1
+ (en)
+ 2007-09-14
+ 2008-07-22
+ Zenith Products Corp.
+ Pole caddy 
+ US8056873B1
+ (en)
+ 2007-11-05
+ 2011-11-15
+ Kenney Manufacturing Company
+ Tool-less double curtain rod assembly 
+ US8069999B2
+ (en)
+ 2008-01-09
+ 2011-12-06
+ Zenith Products Corporation
+ Hanger for suspending at least one object from a support 
+ US8157111B2
+ (en)
+ 2008-01-09
+ 2012-04-17
+ Zenith Products Corporation
+ Hanger for suspending at least one object from a support 
+ US7984814B2
+ (en)
+ 2008-01-09
+ 2011-07-26
+ Zenith Products Corp.
+ Hanger for suspending at least one object from a support 
+ US20090223642A1
+ (en)
+ 2008-03-07
+ 2009-09-10
+ Shades Unlimited, Inc.
+ Window covering with constant lifting cord friction 
+ US7819166B2
+ (en)
+ 2008-03-07
+ 2010-10-26
+ Shades Unlimited, Inc.
+ Window covering with constant lifting cord friction 
+ US20090223917A1
+ (en)
+ 2008-03-10
+ 2009-09-10
+ Grant Willie T
+ Telescoping support bar 
+ US7877824B2
+ (en)
+ 2008-03-10
+ 2011-02-01
+ Grant Willie T
+ Telescoping support bar 
+ USD590238S1
+ (en)
+ 2008-04-18
+ 2009-04-14
+ Panavise Products, Inc.
+ Turn dial window mount 
+ USD586647S1
+ (en)
+ 2008-06-10
+ 2009-02-17
+ Zenith Products Corp.
+ Double-curved shower curtain rod 
+ USD591142S1
+ (en)
+ 2008-06-10
+ 2009-04-28
+ Zenith Products Corp.
+ Shower curtain hanger device 
+ US8341775B2
+ (en)
+ 2008-06-10
+ 2013-01-01
+ Zenith Products Corporation
+ Adjustable curved double curtain rod shower assembly 
+ US8087625B2
+ (en)
+ *
+ 2008-06-17
+ 2012-01-03
+ Ta Shuo Chang
+ Article holder with suction cup 
+ USD607309S1
+ (en)
+ 2008-08-25
+ 2010-01-05
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD611328S1
+ (en)
+ 2008-09-09
+ 2010-03-09
+ Kenney Manufacturing Company
+ Pair of brackets for a tool-less double curtain rod 
+ USD624807S1
+ (en)
+ 2008-10-06
+ 2010-10-05
+ Ex-Cell Home Fashions, Inc.
+ Display hanger for a shower curtain rod 
+ US7712720B1
+ (en)
+ 2008-12-22
+ 2010-05-11
+ Hong Fu Jin Precision Industry (Shenzhen) Co., Ltd.
+ Resizable device stand 
+ US20100206492A1
+ (en)
+ 2009-02-13
+ 2010-08-19
+ Shades Unlimited, Inc.
+ Window covering featuring automatic cord collection 
+ USD647391S1
+ (en)
+ 2009-02-16
+ 2011-10-25
+ Ex-Cell Home Fashions, Inc.
+ Finial for a shower curtain rod 
+ US20120001042A1
+ (en)
+ 2009-03-17
+ 2012-01-05
+ Garbath Houseware Co., Ltd.
+ Hanger Mounted on a Wall 
+ US20100252700A1
+ (en)
+ 2009-04-02
+ 2010-10-07
+ Primax Electronics Ltd.
+ Suction cup assembly and fastening device including such suction cup assembly 
+ USD599140S1
+ (en)
+ 2009-04-17
+ 2009-09-01
+ Zenith Products Corp.
+ Shelving unit 
+ US8113361B2
+ (en)
+ 2009-04-17
+ 2012-02-14
+ Zenith Products Corp.
+ Shelving unit 
+ US20100320341A1
+ (en)
+ *
+ 2009-05-22
+ 2010-12-23
+ Clingo.Com Llc
+ Universal Stands for Portable Electronic Devices 
+ US20120112023A1
+ (en)
+ *
+ 2009-06-08
+ 2012-05-10
+ Bb Ipr Limited
+ Suction fixing 
+ US8347936B2
+ (en)
+ 2009-07-08
+ 2013-01-08
+ Kenney Manufacturing Co.
+ Hybrid mount assembly for a window treatment 
+ US20120241399A1
+ (en)
+ 2009-08-05
+ 2012-09-27
+ Trettin David J
+ Adjustable curtain rod 
+ US8215501B2
+ (en)
+ 2009-08-05
+ 2012-07-10
+ Focus Products Group, Llc
+ Adjustable curtain rod 
+ USD611329S1
+ (en)
+ 2009-08-14
+ 2010-03-09
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD614939S1
+ (en)
+ 2009-08-14
+ 2010-05-04
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD625987S1
+ (en)
+ 2009-08-14
+ 2010-10-26
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD618538S1
+ (en)
+ 2009-08-14
+ 2010-06-29
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD614938S1
+ (en)
+ 2009-08-14
+ 2010-05-04
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD614478S1
+ (en)
+ 2009-08-14
+ 2010-04-27
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD614479S1
+ (en)
+ 2009-08-14
+ 2010-04-27
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD611330S1
+ (en)
+ 2009-08-14
+ 2010-03-09
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ US8079557B2
+ (en)
+ 2010-01-08
+ 2011-12-20
+ Tu Tsung-Tzong
+ Suction cup device 
+ USD652236S1
+ (en)
+ 2010-01-27
+ 2012-01-17
+ Zenith Products Corporation
+ Spacesaver bottom assembly 
+ US20110210225A1
+ (en)
+ *
+ 2010-02-26
+ 2011-09-01
+ Shih-Hong Chen
+ Suction device 
+ USD633780S1
+ (en)
+ 2010-03-05
+ 2011-03-08
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain rod assembly 
+ USD628875S1
+ (en)
+ 2010-03-08
+ 2010-12-14
+ William Padilla
+ Hose handling apparatus 
+ US8235336B2
+ (en)
+ 2010-03-17
+ 2012-08-07
+ Hong Fu Jin Precision Industry (Shenzhen) Co., Ltd.
+ Vacuum suction base 
+ USD637892S1
+ (en)
+ 2010-04-22
+ 2011-05-17
+ Ex-Cell Home Fashions, Inc.
+ Shower curtain hook 
+ USD637854S1
+ (en)
+ 2010-06-01
+ 2011-05-17
+ Kenney Manufacturing Company
+ Clip 
+ US8191839B2
+ (en)
+ *
+ 2010-06-04
+ 2012-06-05
+ Eagle Fan
+ Enhanced structure for suction apparatus 
+ USD637856S1
+ (en)
+ 2010-06-04
+ 2011-05-17
+ Kenney Manufacturing Company
+ Handle 
+ US8561667B1
+ (en)
+ 2010-06-22
+ 2013-10-22
+ Kenney Manufacturing Co.
+ Window treatment with knuckle joint driver 
+ USD630088S1
+ (en)
+ 2010-07-01
+ 2011-01-04
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD630498S1
+ (en)
+ 2010-07-01
+ 2011-01-11
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD630089S1
+ (en)
+ 2010-07-01
+ 2011-01-04
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ US20130112639A1
+ (en)
+ 2010-07-06
+ 2013-05-09
+ Maytex Mills, Inc.
+ Curtain rods 
+ US20140166603A1
+ (en)
+ 2010-07-06
+ 2014-06-19
+ Maytex Mills, Inc.
+ Telescoping window tension rods 
+ US20120005823A1
+ (en)
+ 2010-07-06
+ 2012-01-12
+ Maytex Mills, Inc.
+ Shower Curtain Tension Rods 
+ US20130334156A1
+ (en)
+ 2010-07-06
+ 2013-12-19
+ Maytex Mills, Inc.
+ Pole caddy 
+ US20120017366A1
+ (en)
+ 2010-07-23
+ 2012-01-26
+ Ex-Cell Home Fashions, Inc.
+ Double tension curtain rod assembly 
+ USD650263S1
+ (en)
+ 2010-07-23
+ 2011-12-13
+ Ex-Cell Home Fashions, Inc.
+ Tension rod for shower curtains, towels, window treatments, or the like 
+ USD649020S1
+ (en)
+ 2010-08-11
+ 2011-11-22
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD649019S1
+ (en)
+ 2010-08-11
+ 2011-11-22
+ Ex-Cell Home Fashions, Inc.
+ Hook for a shower curtain, window treatment, or the like 
+ USD632513S1
+ (en)
+ 2010-08-23
+ 2011-02-15
+ Zenith Products Corp.
+ Shower caddy 
+ USD628000S1
+ (en)
+ 2010-08-23
+ 2010-11-30
+ Zenith Products Corporation
+ Shower caddy 
+ USD635807S1
+ (en)
+ 2010-08-23
+ 2011-04-12
+ Zenith Products Corp.
+ Shower pole caddy 
+ USD632514S1
+ (en)
+ 2010-08-23
+ 2011-02-15
+ Zenith Products Corp.
+ Shower caddy 
+ USD632515S1
+ (en)
+ 2010-09-01
+ 2011-02-15
+ Zenith Products Corp.
+ Shower caddy 
+ USD646558S1
+ (en)
+ 2010-09-09
+ 2011-10-11
+ Black & Decker Inc.
+ Suction cup hanging device 
+ US8573416B2
+ (en)
+ 2010-10-13
+ 2013-11-05
+ Zenith Products Corporation
+ Adjustable shelf assembly 
+ US8763822B2
+ (en)
+ 2010-10-13
+ 2014-07-01
+ Zenith Products Corp.
+ Adjustable shelf assembly 
+ US8584997B2
+ (en)
+ *
+ 2010-10-21
+ 2013-11-19
+ Zoya, Inc.
+ Suction cup apparatus for attachment to porous and nonporous surfaces 
+ US20140374553A1
+ (en)
+ *
+ 2010-10-28
+ 2014-12-25
+ Min Sik PARK
+ Attachable pad for a supporter 
+ US9009878B2
+ (en)
+ 2010-11-10
+ 2015-04-21
+ Maytex Mills, Inc.
+ Bath curtain rod assemblies 
+ US9474421B2
+ (en)
+ 2010-11-10
+ 2016-10-25
+ Maytex Mills, Inc.
+ Bath curtain rod assemblies 
+ US8979046B2
+ (en)
+ 2010-11-16
+ 2015-03-17
+ Chul Seok Woo
+ Vacuum adsorbing device 
+ USD696573S1
+ (en)
+ 2010-12-16
+ 2013-12-31
+ Zenith Products Corporation
+ Curtain rod end caps 
+ USD640488S1
+ (en)
+ 2010-12-16
+ 2011-06-28
+ Zenith Products Corporation
+ Shower caddy 
+ USD691029S1
+ (en)
+ 2010-12-16
+ 2013-10-08
+ Zenith Products Corporation
+ Shower rod with end caps 
+ US8827587B2
+ (en)
+ 2010-12-17
+ 2014-09-09
+ Zenith Products Corporation
+ Tension rod mechanism with opposing threads 
+ US20120152874A1
+ (en)
+ 2010-12-17
+ 2012-06-21
+ Zenith Products Corporation
+ Molded tension rod mechanism with single lock nut 
+ US20120152872A1
+ (en)
+ 2010-12-17
+ 2012-06-21
+ Zenith Products Corporation
+ Tension rod mechanism with opposing threads 
+ US8960456B2
+ (en)
+ 2010-12-17
+ 2015-02-24
+ Zenith Products Corporation
+ Molded tension rod mechanism with single lock nut 
+ US20120152873A1
+ (en)
+ 2010-12-17
+ 2012-06-21
+ Zenith Products Corporation
+ Unidirectional tension rod mechanism 
+ US8851305B2
+ (en)
+ 2010-12-17
+ 2014-10-07
+ Zenith Products Corporation
+ Unidirectional tension rod mechanism 
+ US20120168581A1
+ (en)
+ *
+ 2010-12-30
+ 2012-07-05
+ Hon Hai Precision Industry Co., Ltd.
+ Holder for electronic device 
+ USD641190S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower caddy 
+ USD643657S1
+ (en)
+ 2011-01-31
+ 2011-08-23
+ Zenith Products Corporation
+ Shower caddy 
+ USD644050S1
+ (en)
+ 2011-01-31
+ 2011-08-30
+ Zenith Products Corporation
+ Shower caddy 
+ USD641191S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower caddy 
+ USD641193S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower pole caddy 
+ USD641194S1
+ (en)
+ 2011-01-31
+ 2011-07-12
+ Zenith Products Corp.
+ Shower pole caddy 
+ USD643236S1
+ (en)
+ 2011-01-31
+ 2011-08-16
+ Zenith Products Corp.
+ Shower caddy 
+ US20120211633A1
+ (en)
+ *
+ 2011-02-18
+ 2012-08-23
+ Hon Hai Precision Industry Co., Ltd.
+ Connection mechanism for support apparatus 
+ US20140084118A1
+ (en)
+ *
+ 2011-03-04
+ 2014-03-27
+ Croydex Limited
+ Mounting 
+ US10208786B2
+ (en)
+ *
+ 2011-03-04
+ 2019-02-19
+ Croydex Limited
+ Mounting 
+ US8851435B1
+ (en)
+ 2011-03-15
+ 2014-10-07
+ Kenney Manufacturing Co.
+ Rod assembly with reversible locking device 
+ USD652237S1
+ (en)
+ 2011-04-19
+ 2012-01-17
+ Zenith Products Corporation
+ Corner shower caddy 
+ USD661927S1
+ (en)
+ 2011-04-19
+ 2012-06-19
+ Zenith Products Corporation
+ Shower caddy 
+ USD653067S1
+ (en)
+ 2011-04-19
+ 2012-01-31
+ Zenith Products Corporation
+ Corner shower caddy for pole 
+ USD667246S1
+ (en)
+ 2011-04-20
+ 2012-09-18
+ Zenith Products Corporation
+ Shower door caddy 
+ USD671395S1
+ (en)
+ 2011-04-28
+ 2012-11-27
+ Zenith Products Corporation
+ Pair of shower rod end caps 
+ USD667295S1
+ (en)
+ 2011-04-28
+ 2012-09-18
+ Zenith Products Corporation
+ Shower rod with end caps 
+ USD691031S1
+ (en)
+ 2011-04-28
+ 2013-10-08
+ Zenith Products Corporation
+ Pair of shower curtain rods 
+ USD684037S1
+ (en)
+ 2011-04-28
+ 2013-06-11
+ Zenith Products Corporation
+ Shower rod and end caps 
+ USD649352S1
+ (en)
+ 2011-05-04
+ 2011-11-29
+ Zenith Products Corporation
+ Tote 
+ USD661529S1
+ (en)
+ 2011-05-04
+ 2012-06-12
+ Zenith Products Corporation
+ Caddy with elastic mesh 
+ USD648969S1
+ (en)
+ 2011-05-04
+ 2011-11-22
+ Zenith Products Corporation
+ Support shelf 
+ US8479932B2
+ (en)
+ 2011-05-09
+ 2013-07-09
+ Interdesign, Inc.
+ Tension rod 
+ US20120284914A1
+ (en)
+ 2011-05-13
+ 2012-11-15
+ Bauer Alan M
+ Tension rod 
+ USD670522S1
+ (en)
+ 2011-07-15
+ 2012-11-13
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD671347S1
+ (en)
+ 2011-07-15
+ 2012-11-27
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD672990S1
+ (en)
+ 2011-07-15
+ 2012-12-25
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD672991S1
+ (en)
+ 2011-07-15
+ 2012-12-25
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD670521S1
+ (en)
+ 2011-07-15
+ 2012-11-13
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD672178S1
+ (en)
+ 2011-07-15
+ 2012-12-11
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD671348S1
+ (en)
+ 2011-07-15
+ 2012-11-27
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD670944S1
+ (en)
+ 2011-07-15
+ 2012-11-20
+ Zenith Products Corporation
+ Wall-mountable towel bar 
+ USD691030S1
+ (en)
+ 2011-08-05
+ 2013-10-08
+ Zenith Products Corporation
+ Curtain rod with end caps 
+ USD681423S1
+ (en)
+ 2011-08-05
+ 2013-05-07
+ Zenith Products Corporation
+ Pair of shower rod end caps 
+ USD693209S1
+ (en)
+ 2011-08-05
+ 2013-11-12
+ Zenith Products Corporation
+ Pair of shower rod end caps 
+ USD681422S1
+ (en)
+ 2011-08-05
+ 2013-05-07
+ Zenith Products Corporation
+ Pair of shower rod end caps 
+ USD666012S1
+ (en)
+ 2011-08-16
+ 2012-08-28
+ Zenith Products Corporation
+ End cap for a support rod 
+ USD660064S1
+ (en)
+ 2011-10-06
+ 2012-05-22
+ Zenith Products Corporation
+ Display fixture 
+ USD660066S1
+ (en)
+ 2011-10-06
+ 2012-05-22
+ Zenith Products Corporation
+ Display fixture 
+ USD660065S1
+ (en)
+ 2011-10-06
+ 2012-05-22
+ Zenith Products Corporation
+ Display fixture 
+ US9357860B1
+ (en)
+ 2011-11-02
+ 2016-06-07
+ Kenney Manufacturing Company
+ Shower caddy with detachable parts 
+ USD680421S1
+ (en)
+ 2011-11-02
+ 2013-04-23
+ Kenney Manufacturing Company
+ Shower curtain hanger having same-oriented double hooks 
+ US8875770B1
+ (en)
+ 2011-11-02
+ 2014-11-04
+ Kenney Manufacturing Co.
+ Hanger for shower curtain having same-orientation double hooks 
+ US8505129B2
+ (en)
+ 2011-11-11
+ 2013-08-13
+ Ex-Cell Home Fashions, Inc.
+ Rod with twist-end tension assembly 
+ USD664424S1
+ (en)
+ 2011-12-06
+ 2012-07-31
+ Zenith Products Corporation
+ Hookless shower liner fastener 
+ USD664423S1
+ (en)
+ 2011-12-06
+ 2012-07-31
+ Zenith Products Corporation
+ Hookless shower liner fastener 
+ US9107544B2
+ (en)
+ 2011-12-09
+ 2015-08-18
+ Zenith Products Corporation
+ Hookless shower liner fastener 
+ US8839980B2
+ (en)
+ 2011-12-23
+ 2014-09-23
+ Maytex Mills, Inc.
+ Bath and shower corner caddy 
+ US8869999B2
+ (en)
+ 2012-02-06
+ 2014-10-28
+ Zenith Products Corporation
+ Curtain rod end cap and cover 
+ US9107496B2
+ (en)
+ 2012-05-24
+ 2015-08-18
+ Zenith Products Corporation
+ Adjustable pole caddy 
+ US9107495B2
+ (en)
+ 2012-05-24
+ 2015-08-18
+ Zenith Products Corporation
+ Adjustable pole caddy 
+ US8925881B2
+ (en)
+ *
+ 2012-05-28
+ 2015-01-06
+ Anna Genevieve Diatzikis
+ Magnetic mount 
+ US8814114B2
+ (en)
+ 2012-06-26
+ 2014-08-26
+ Maytex Mills, Inc.
+ Tension window rods 
+ US20130341474A1
+ (en)
+ 2012-06-26
+ 2013-12-26
+ Maytex Mills, Inc.
+ Gripper window rod 
+ USD701745S1
+ (en)
+ 2012-08-28
+ 2014-04-01
+ Master Lock Company Llc
+ Lock 
+ USD698851S1
+ (en)
+ 2012-10-15
+ 2014-02-04
+ Woodman Labs, Inc.
+ Suction cup mount 
+ US20140131298A1
+ (en)
+ 2012-11-14
+ 2014-05-15
+ Zenith Products Corporation
+ Adjustable tension-mounted curved rod assembly 
+ US9271592B2
+ (en)
+ 2012-11-14
+ 2016-03-01
+ Zenith Products Corporation
+ Adjustable tension-mounted curved rod assembly 
+ US8978228B2
+ (en)
+ 2012-11-14
+ 2015-03-17
+ Zenith Products Corporation
+ Adjustable rod assembly 
+ US9131795B2
+ (en)
+ 2012-11-14
+ 2015-09-15
+ Zenith Products Corporation
+ Adjustable tension-mounted curved rod assembly 
+ US9107529B2
+ (en)
+ 2012-11-14
+ 2015-08-18
+ Zenith Products Corporation
+ Adjustable tension-mounted curved rod assembly 
+ US9624963B2
+ (en)
+ *
+ 2012-11-19
+ 2017-04-18
+ Zhongshan Taili Household Products Manufacturing Co., Ltd.
+ Vacuum suction cup having bowl-shaped framework 
+ USD702112S1
+ (en)
+ 2013-01-17
+ 2014-04-08
+ Zenith Products Corp.
+ Shower curtain hook 
+ USD728044S1
+ (en)
+ 2013-01-28
+ 2015-04-28
+ Donald Jeffrey Boatwright
+ Exercise band connector 
+ US20140263123A1
+ (en)
+ 2013-03-13
+ 2014-09-18
+ House of Atlas, LLC
+ Adjustable Tension Rod 
+ US9021627B2
+ (en)
+ 2013-03-13
+ 2015-05-05
+ Ex-Cell Home Fashions, Inc.
+ Tension rod with threaded end cap 
+ US9618032B2
+ (en)
+ *
+ 2013-03-19
+ 2017-04-11
+ Msintech Co., Ltd.
+ Vacuum absorber 
+ USD714415S1
+ (en)
+ 2013-05-10
+ 2014-09-30
+ Bow Buddy Holdings, LLC
+ Archery bow holder for a tree stand 
+ USD714414S1
+ (en)
+ 2013-05-10
+ 2014-09-30
+ Bow Buddy Holdings, LLC
+ Archery bow holder for a ground blind 
+ US20140335976A1
+ (en)
+ 2013-05-13
+ 2014-11-13
+ Ryan Michael Hiller
+ Training system for skill development 
+ US20140352054A1
+ (en)
+ *
+ 2013-05-31
+ 2014-12-04
+ Tonis Tollasepp
+ Sink container assembly 
+ US9388837B1
+ (en)
+ 2013-07-10
+ 2016-07-12
+ Kenney Manufacturing Company
+ Telescoping tube assembly having twist lock 
+ USD730162S1
+ (en)
+ 2013-07-26
+ 2015-05-26
+ Kenney Manufacturing Company
+ Article hanger for a product rack 
+ USD729618S1
+ (en)
+ 2013-07-26
+ 2015-05-19
+ Kenney Manufacturing Company
+ Article hanger for a product rack 
+ US20160201714A1
+ (en)
+ 2013-09-30
+ 2016-07-14
+ Anho Houseware Co., Ltd. Jiangmen
+ Suction plate and suction plate device having suction plate 
+ US20150108134A1
+ (en)
+ *
+ 2013-10-23
+ 2015-04-23
+ Jiang FANGYUAN
+ Apparatus that includes a suction cup mount 
+ US20150191124A1
+ (en)
+ *
+ 2014-01-03
+ 2015-07-09
+ O2Micro Inc.
+ Mounting system for attaching mobile device 
+ USD746667S1
+ (en)
+ 2014-01-24
+ 2016-01-05
+ Zenith Products Corporation
+ Pair of end caps for a curtain rod 
+ US9307838B1
+ (en)
+ 2014-02-17
+ 2016-04-12
+ Michael A. Blavat
+ Fishing rod holder 
+ US20150250333A1
+ (en)
+ *
+ 2014-03-07
+ 2015-09-10
+ Isee Store Innovations, Llc
+ Systems and methods for securing and displaying products 
+ USD714571S1
+ (en)
+ 2014-04-07
+ 2014-10-07
+ Zenith Products Corporation
+ Shower caddy 
+ USD734399S1
+ (en)
+ 2014-04-08
+ 2015-07-14
+ Octoblocs LLC
+ Suction cup toy 
+ US20150297038A1
+ (en)
+ 2014-04-22
+ 2015-10-22
+ Zenith Products Corporation
+ Adjustable rod assembly 
+ USD783385S1
+ (en)
+ 2014-06-20
+ 2017-04-11
+ Alan Qing-Lin Zhu
+ Fence clip 
+ US20160169269A1
+ (en)
+ *
+ 2014-08-21
+ 2016-06-16
+ San Hao Rubber Company Ltd.
+ Pad structure of sucking disc 
+ US9578995B2
+ (en)
+ 2014-09-30
+ 2017-02-28
+ Kenney Manufacturing Co.
+ Multi-piece two-hook hanger for a shower curtain 
+ US20160097419A1
+ (en)
+ *
+ 2014-10-03
+ 2016-04-07
+ Chicony Electronics Co., Ltd.
+ Rotary suction device 
+ US9404526B2
+ (en)
+ 2014-10-03
+ 2016-08-02
+ Chicony Electronics Co., Ltd.
+ Rotary suction device 
+ USD779305S1
+ (en)
+ 2015-01-29
+ 2017-02-21
+ Che-Ming KU
+ Switch 
+ US9494184B1
+ (en)
+ 2015-06-10
+ 2016-11-15
+ Goodsense Co., Ltd.
+ Rail-type vacuum fixer 
+ US9581292B2
+ (en)
+ 2015-06-17
+ 2017-02-28
+ Hang Em Up Inc.
+ Magnetic surface mounting apparatus 
+ USD769102S1
+ (en)
+ 2015-07-01
+ 2016-10-18
+ Euchner Gmbh & Co. Kg
+ Locking system 
+ USD782279S1
+ (en)
+ 2015-07-21
+ 2017-03-28
+ Airbolt Pty Ltd
+ Lock 
+ US20180098656A1
+ (en)
+ 2015-09-17
+ 2018-04-12
+ Maytex Mills, Inc.
+ Room darkening curtain rods including removable finials 
+ US10092126B2
+ (en)
+ 2015-09-17
+ 2018-10-09
+ Maytex Mills, Inc.
+ Window curtain rods with alignment brackets 
+ US20200232501A1
+ (en)
+ *
+ 2015-09-29
+ 2020-07-23
+ Breville Pty Limited
+ Suction foot 
+ USD861112S1
+ (en)
+ 2016-05-04
+ 2019-09-24
+ 2 Lott's L.L.C.
+ Cradle for holding sporting devices 
+ US20170360261A1
+ (en)
+ 2016-06-20
+ 2017-12-21
+ Zenith Products Corporation
+ Clip for a shower caddy and shower caddy with integrated clip 
+ US9611884B1
+ (en)
+ 2016-06-24
+ 2017-04-04
+ Tils Homeware Ltd.
+ Suction cup 
+ USD813022S1
+ (en)
+ 2016-09-08
+ 2018-03-20
+ Kenney Manufacturing Company
+ Rod bracket 
+ USD813021S1
+ (en)
+ 2016-09-08
+ 2018-03-20
+ Kenney Manufacturing Company
+ Rod bracket 
+ US10070748B2
+ (en)
+ 2016-09-08
+ 2018-09-11
+ Kenney Manufacturing Co.
+ Curtain rod bracket and cam lock 
+ US20180296018A1
+ (en)
+ 2017-04-13
+ 2018-10-18
+ Maytex Mills, Inc.
+ Curtain and hook assemblies 
+ USD811205S1
+ (en)
+ 2017-04-17
+ 2018-02-27
+ Kenney Manufacturing Company
+ Rod bracket 
+ US10034587B1
+ (en)
+ 2017-06-02
+ 2018-07-31
+ Kenney Manufacturing Company
+ Pole caddy for shower use 
+ US10253803B2
+ (en)
+ *
+ 2017-07-19
+ 2019-04-09
+ Helen Of Troy Limited
+ Suction device 
+ US20190082830A1
+ (en)
+ *
+ 2017-09-20
+ 2019-03-21
+ Isee Store Innovations, Llc
+ Product display assembly and method 
+ US10731391B2
+ (en)
+ *
+ 2017-09-27
+ 2020-08-04
+ James E. Lucari
+ Suction-security system 
+ USD871891S1
+ (en)
+ 2017-11-14
+ 2020-01-07
+ Trumbull Manufacturing, Inc.
+ Adapter 
+ USD837039S1
+ (en)
+ 2018-01-16
+ 2019-01-01
+ Watts Regulator Co.
+ Hose hanger 
+ US20200224709A1
+ (en)
+ 2018-02-23
+ 2020-07-16
+ House of Atlas, LLC
+ Surface Mount 
+ US20220120311A1
+ (en)
+ 2018-02-23
+ 2022-04-21
+ House of Atlas, LLC
+ Surface Mount 
+ US11215217B2
+ (en)
+ 2018-02-23
+ 2022-01-04
+ House of Atlas, LLC
+ Surface mount 
+ USD899895S1
+ (en)
+ 2018-02-23
+ 2020-10-27
+ House of Atlas, LLC
+ Surface mount 
+ US20200093285A1
+ (en)
+ *
+ 2018-09-21
+ 2020-03-26
+ Isee Store Innovations, L.L.C.
+ Product displaying holder systems 
+ USD885165S1
+ (en)
+ 2018-10-15
+ 2020-05-26
+ Aylo Llc
+ Suction cup 
+ USD897722S1
+ (en)
+ 2018-12-18
+ 2020-10-06
+ Camco Manufacturing, Inc.
+ Suction cup towel holder 
+ USD923460S1
+ (en)
+ 2018-12-31
+ 2021-06-29
+ Patrick J McNaughton
+ 360-degree hinged suction cup 
+ US10641314B1
+ (en)
+ *
+ 2019-03-15
+ 2020-05-05
+ Eagle Fan
+ Suction holder 
+ USD899226S1
+ (en)
+ 2019-09-09
+ 2020-10-20
+ Aylo Llc
+ Suction cup mount 
+ USD956522S1
+ (en)
+ 2020-03-24
+ 2022-07-05
+ Bridgeport Fittings, Llc
+ Conduit nipple grounding bushing 
+ USD979877S1
+ (en)
+ 2020-04-08
+ 2023-02-28
+ Bohle Ag
+ Two cup hoist for glass plates 
+ USD915639S1
+ (en)
+ 2020-07-27
+ 2021-04-06
+ HongChun Zhao
+ Portable light bulb 
+ USD977947S1
+ (en)
+ 2020-08-06
+ 2023-02-14
+ Safe Rack Llc
+ Top rail spacer 
+ USD974151S1
+ (en)
+ 2021-04-06
+ 2023-01-03
+ Tsan-Jee Chen
+ Bearing plate for anchor 
+ USD977181S1
+ (en)
+ 2021-05-05
+ 2023-01-31
+ HongChun Zhao
+ Lamp base 
+ USD979377S1
+ (en)
+ 2021-05-19
+ 2023-02-28
+ Youjun HU
+ Portable holder 
+Non-Patent Citations (10)
+ * Cited by examiner, † Cited by third party
+ Title
+ "Curtain Rod Bracket." More than one year before Feb. 23, 2018, 2 pages.
+ "Suction Cup Hooks, Pack of 12—Locking System—Extra Strong Vacuum Suction Power—Ideal Kitchen or Bath." More than one year before Feb. 23, 2018, 3 pages.
+ "Suction Cup Hooks." More than one year before Feb. 23, 2018, 2 pages.
+ "SUPOW Bathroom Grab Bar, Strong Suction Shower Handle & Bathroom Balance Bar Anti-slipping Suction Cut Support Assist Handle Grip Hand Rail Helping Tool Wall Mount for Elderly & Children." SUPOW, more than one year before Feb. 23, 2018, 4 pages.
+ Design U.S. Appl. No. 29/721,523, filed Jan. 21, 2020, 13 pages.
+ Design U.S. Appl. No. 29/750,985, filed Sep. 17, 2020, 35 pages.
+ HASKO accessories Suction Cup, Amazon, Aug. 24, 2020, https://www.amazon.com/HASKO-accessories-Stainless-Dispenser-Bathroom/dp/B08GL2BDGL (Year: 2020).
+ Mainstay Product—18-28 in. Basic Adjustable Curtain Rod (distributed by Wal-Mart Stores, Inc.) <https://www.walmart.com/ip/Mainstays-18-28-in-Basic-Adjustable-Curtain-Rod-2-in-Clearance/50015120>, believed to be publicly available for more than one year before Feb. 23, 2018, 8 pages.
+ Powerful Vacuum Suction Cup Hook, Amazon, Aug. 3, 2016, https://www.amazon.com/HASKO-accessories-Powerful-Organizer-Stainless/dp/B01 J MXKX5M (Year: 2016).
+ U.S. Appl. No. 16/831,478, filed Mar. 26, 2020, 18 pages.
+Cited By (2)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20240372937A1
+ (en)
+ *
+ 2023-05-04
+ 2024-11-07
+ Evolutive Labs Co., Ltd.
+ Supporting attachment and mobile electronic device casing 
+ US12355909B2
+ (en)
+ *
+ 2023-05-04
+ 2025-07-08
+ Evolutive Labs Co., Ltd.
+ Supporting attachment and mobile electronic device casing 
+Also Published As
+ Publication number
+ Publication date
+ US20210215193A1
+ (en)
+ 2021-07-15
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US20210215193A1
+ (en)
+ 2021-07-15
+ Suction Mount and Brackets and Accessories Therefor 
+ US6932306B2
+ (en)
+ 2005-08-23
+ Rapid-actuated suction cup device 
+ US7926772B2
+ (en)
+ 2011-04-19
+ Bathroom fixture attachment device including a rotary coupling 
+ US4795294A
+ (en)
+ 1989-01-03
+ Fixing device for brittle board such as plasterboard 
+ US5104077A
+ (en)
+ 1992-04-14
+ Suction cup 
+ US7100881B2
+ (en)
+ 2006-09-05
+ Mount 
+ CN100504083C
+ (en)
+ 2009-06-24
+ Quick-turn panel fastener 
+ US20090308993A1
+ (en)
+ 2009-12-17
+ Article holder with suction cup 
+ EP2484923B1
+ (en)
+ 2020-05-13
+ Fixing member, proximity sensor, proximity sensor attaching structure, and rotational connection structure and rotational connection structure producing method 
+ US5957642A
+ (en)
+ 1999-09-28
+ Cleat system 
+ CN111757690B
+ (en)
+ 2023-04-28
+ Cabinet legs and adjustment tools
+ US4429918A
+ (en)
+ 1984-02-07
+ Operatory stool 
+ US12234945B2
+ (en)
+ 2025-02-25
+ Assembly including a mounting portion and an implement-retaining portion 
+ US20190293228A1
+ (en)
+ 2019-09-26
+ Securing base for supporting a display suspending apparatus thereon 
+ US5870800A
+ (en)
+ 1999-02-16
+ Steering wheel rotating aid 
+ US6942190B1
+ (en)
+ 2005-09-13
+ Sucker assembly 
+ US7044427B2
+ (en)
+ 2006-05-16
+ Christmas tree stand 
+ US5722814A
+ (en)
+ 1998-03-03
+ Fan blade mounting device having a decorative member provided thereon 
+ JP3009772B2
+ (en)
+ 2000-02-14
+ Suspension tool with suction cup
+ US5085406A
+ (en)
+ 1992-02-04
+ Thumb wheel for a jack 
+ US7520692B2
+ (en)
+ 2009-04-21
+ Detachable fastening apparatus for front fork accessories of bicycles 
+ GB2201368A
+ (en)
+ 1988-09-01
+ Fixing-device for brittle board, such as plasterboard 
+ JP2006226368A
+ (en)
+ 2006-08-31
+ clip
+ US20030038219A1
+ (en)
+ 2003-02-27
+ Bracket fastende onto a wall to hold up a rack 
+ JPH0715732Y2
+ (en)
+ 1995-04-12
+ Disk holder assembly for polishing
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2020-12-22
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2020-12-23
+ AS
+ Assignment
+ Owner name:
+ OLSON IP TECHNOLOGIES, INC., ILLINOIS
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OLSON, ERIK;OLSON, RICHARD CARL;REEL/FRAME:054837/0469
+ Effective date:
+ 20201222
+ 2021-01-07
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2021-08-21
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION
+ 2022-07-15
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NON FINAL ACTION MAILED
+ 2022-10-18
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+ 2022-12-08
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ FINAL REJECTION MAILED
+ 2023-05-23
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+ 2023-07-19
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ FINAL REJECTION MAILED
+ 2023-09-21
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER
+ 2023-10-02
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ ADVISORY ACTION MAILED
+ 2023-10-24
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION
+ 2023-11-24
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NON FINAL ACTION MAILED
+ 2024-03-10
+ ZAAA
+ Notice of allowance and fees due
+ Free format text:
+ ORIGINAL CODE: NOA
+ 2024-03-11
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+ 2024-03-11
+ ZAAB
+ Notice of allowance mailed
+ Free format text:
+ ORIGINAL CODE: MN/=.
+ 2024-06-19
+ STCF
+ Information on status: patent grant
+ Free format text:
+ PATENTED CASE

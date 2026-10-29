@@ -1,0 +1,11 @@
+# Focused risk update
+
+Date:2026-10-21. Assessment remains incomplete. Existing rights status checked2026-10-20 is reused, not refreshed. No grade reduction is based on promises, a proposed drawing or unsupported market expectations.
+
+| Finding | Scope and evidence | Current/residual concern | Business impact | Evidence confidence | Coverage and remaining uncertainty |
+| --- | --- | --- | --- | --- | --- |
+| K-001 | F-006, R-012/R-013 and separate R-014/R-015/R-031; S-233 head report, S-017 sections, S-218/S-205 claim text | 3 plus decisive U, unchanged | If a complete adverse claim map succeeds, head redesign/permission or sales disruption; exposure unknown | High for what retained CAD/documents show; low for uncorroborated head material/contents/pole account | No new broad search. Head assembly and actual pole map needed. Reported arc/enclosure facts can be adverse, not automatically mitigating |
+| K-002 | F-002/F-003/F-007, R-008/R-010/R-011; S-233 cam/no-thread/no-latch account, S-020 claims1/3/5 and Fig4 | U, unchanged; narrower favorable conditional27/no-latch routes | Possible base redesign or delay if complete live claim mapping; costs unknown | High for CN embodiment content; low/medium for production identity and precise slot/rib/detent relationships | Factory base drawing needed. Rim pressure does not exclude embedding ribs; permanent hinge does not answer every fastening path; balls versus tongue needs actual joint identification |
+| K-004 | Remaining active pending R-016. Other R-006/R-007/R-018/R-029 stay closed by recorded dispositions | 3 plus U future-scope scenario, unchanged | Later claim amendments/grant could affect future stock/configuration; no current grant assumed | Medium for saved published wording; low for exact arrays/regions and future scope | Head drawing/polarity and claim interpretation; no fresh prosecution check or automatic watch |
+
+Other workstreams are unchanged and were not rerun. All12 utility closures remain intact. S-234 corrects a cited patent identity, not a newly identified blocking claim. The supplied numerical and material conflicts remain evidence issues, not manufactured high-risk conclusions. No qualified legal review or business launch acceptance is recorded; no completed design/license mitigation exists.

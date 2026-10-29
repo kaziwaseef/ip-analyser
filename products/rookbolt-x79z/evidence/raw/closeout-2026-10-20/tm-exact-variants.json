@@ -1,0 +1,234 @@
+{
+  "id": "ac6815dc-8cc9-437e-8e65-7fa127ef02c6",
+  "ok": true,
+  "result": {
+    "origin": "https://tmsearch.uspto.gov/search/search-results",
+    "refs": {
+      "e1": {
+        "name": "Feedback",
+        "role": "button"
+      },
+      "e10": {
+        "name": "search",
+        "role": "button"
+      },
+      "e11": {
+        "name": "collapsed Search builder",
+        "role": "button"
+      },
+      "e12": {
+        "name": "MyUSPTO",
+        "role": "link"
+      },
+      "e13": {
+        "name": "Sign in",
+        "role": "button"
+      },
+      "e14": {
+        "name": "Trademark search",
+        "role": "link"
+      },
+      "e15": {
+        "name": "Toggle new search experience",
+        "role": "switch"
+      },
+      "e16": {
+        "name": "",
+        "role": "generic"
+      },
+      "e17": {
+        "name": "View grid",
+        "role": "button"
+      },
+      "e18": {
+        "name": "View list",
+        "role": "button"
+      },
+      "e19": {
+        "name": "View compact list",
+        "role": "button"
+      },
+      "e2": {
+        "name": "Official government website",
+        "role": "region"
+      },
+      "e20": {
+        "name": "",
+        "role": "generic"
+      },
+      "e21": {
+        "name": "United States Patent and Trademark Office - An Agency of the Department of Commerce USPTO - United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e22": {
+        "name": "Facebook USPTO Facebook page",
+        "role": "link"
+      },
+      "e23": {
+        "name": "Instagram USPTO Instagram page",
+        "role": "link"
+      },
+      "e24": {
+        "name": "Linkedin USPTO Linkedin page",
+        "role": "link"
+      },
+      "e25": {
+        "name": "X USPTO X page",
+        "role": "link"
+      },
+      "e26": {
+        "name": "Youtube USPTO Youtube page",
+        "role": "link"
+      },
+      "e27": {
+        "name": "Patents",
+        "role": "button"
+      },
+      "e28": {
+        "name": "Trademarks",
+        "role": "button"
+      },
+      "e29": {
+        "name": "Fees and payment",
+        "role": "button"
+      },
+      "e3": {
+        "name": "header sub navigation",
+        "role": "navigation"
+      },
+      "e30": {
+        "name": "Contact Us",
+        "role": "button"
+      },
+      "e31": {
+        "name": "our new beta feature ",
+        "role": "link"
+      },
+      "e32": {
+        "name": "Search refinment",
+        "role": "combobox"
+      },
+      "e33": {
+        "name": "Sort",
+        "role": "heading"
+      },
+      "e34": {
+        "name": "Configure",
+        "role": "heading"
+      },
+      "e35": {
+        "name": "About the USPTO",
+        "role": "link"
+      },
+      "e36": {
+        "name": "Search for patents",
+        "role": "link"
+      },
+      "e37": {
+        "name": "Search for trademarks",
+        "role": "link"
+      },
+      "e38": {
+        "name": "Virtual Assistant avatar Need help? Ask the USPTO Virtual Assistant!",
+        "role": "button"
+      },
+      "e39": {
+        "name": "Home",
+        "role": "link"
+      },
+      "e4": {
+        "name": "Here’s how you know keyboard_arrow_down",
+        "role": "button"
+      },
+      "e40": {
+        "name": "Sort",
+        "role": "button"
+      },
+      "e41": {
+        "name": "Configure",
+        "role": "button"
+      },
+      "e42": {
+        "name": "Export",
+        "role": "combobox"
+      },
+      "e43": {
+        "name": "Enter your email to subscribe or update your preferences",
+        "role": "textbox"
+      },
+      "e44": {
+        "name": "Subscribe",
+        "role": "button"
+      },
+      "e45": {
+        "name": "US Department of Commerce",
+        "role": "link"
+      },
+      "e46": {
+        "name": "Accessibility",
+        "role": "link"
+      },
+      "e47": {
+        "name": "Privacy Policy",
+        "role": "link"
+      },
+      "e48": {
+        "name": "Terms of Use",
+        "role": "link"
+      },
+      "e49": {
+        "name": "Financial and Performance Data",
+        "role": "link"
+      },
+      "e5": {
+        "name": "United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e50": {
+        "name": "Freedom of Information Act",
+        "role": "link"
+      },
+      "e51": {
+        "name": "Inspector General",
+        "role": "link"
+      },
+      "e52": {
+        "name": "NoFEAR Act",
+        "role": "link"
+      },
+      "e53": {
+        "name": "USA.gov",
+        "role": "link"
+      },
+      "e54": {
+        "name": "Reset",
+        "role": "button"
+      },
+      "e55": {
+        "name": "Show image",
+        "role": "checkbox"
+      },
+      "e6": {
+        "name": "breadcrumb",
+        "role": "navigation"
+      },
+      "e7": {
+        "name": "Help",
+        "role": "button"
+      },
+      "e8": {
+        "name": "",
+        "role": "generic"
+      },
+      "e9": {
+        "name": "Search trademarks The search builder button follows the Search button",
+        "role": "combobox"
+      }
+    },
+    "snapshot": "- generic\n  - banner\n    - region \"Official government website\" [ref=e2]\n      - image \"U.S. flag\"\n      - paragraph\n        - StaticText \"An official website of the United States government\"\n      - button \"Here’s how you know keyboard_arrow_down\" [expanded=false, ref=e4]\n        - StaticText \"Here’s how you know \"\n        - StaticText \"keyboard_arrow_down\"\n    - navigation\n      - link \"United States Patent and Trademark Office\" [ref=e5]\n        - StaticText \"United States Patent and Trademark Office\"\n      - generic\n        - button \"Patents\" [expanded=false, ref=e27]\n          - StaticText \"Patents\"\n        - button \"Trademarks\" [expanded=false, ref=e28]\n          - StaticText \"Trademarks\"\n        - button \"Fees and payment\" [expanded=false, ref=e29]\n          - StaticText \"Fees and payment\"\n        - button \"Contact Us\" [expanded=false, ref=e30]\n          - StaticText \"Contact Us\"\n      - link \"MyUSPTO\" [ref=e12]\n      - button \"Sign in\" [ref=e13]\n    - link \"Trademark search\" [ref=e14]\n    - navigation \"header sub navigation\" [ref=e3]\n      - navigation \"breadcrumb\" [ref=e6]\n        - list\n          - listitem [level=1]\n            - link \"Home\" [ref=e39]\n          - listitem [level=1]\n            - StaticText \">\"\n            - StaticText \" Search results\"\n      - button \"Help\" [ref=e7]\n  - search\n    - alert\n      - generic\n        - LabelText \"Choose the new search experience\"\n          - StaticText \"Try \"\n          - link \"our new beta feature \" [ref=e31]\n          - StaticText \"to see more info when you open results\"\n        - switch \"Toggle new search experience\" [checked=true, ref=e15]\n        - StaticText \" On\"\n    - generic\n      - generic [ref=e8] clickable [cursor:pointer]\n        - combobox \"Search refinment\" [expanded=false, ref=e32]: Field tag and Search builder\n          - generic\n            - StaticText \"Field tag and Search builder\"\n      - combobox \"Search trademarks The search builder button follows the Search button\" [expanded=false, ref=e9]: CM:rookbolt OR CM:rocbolt OR CM:rockbolt OR CM:rokbolt OR CM:rukbolt OR CM:\"rook bolt\" OR CM:\"roc bolt\" OR CM:\"rock bolt\"\n        - StaticText \"CM:rookbolt OR CM:rocbolt OR CM:rockbolt OR CM:rokbolt OR CM:rukbolt OR CM:\\\"rook bolt\\\" OR CM:\\\"roc bolt\\\" OR CM:\\\"rock bolt\\\"\"\n      - generic [ref=e16] clickable [cursor:pointer, tabindex]\n        - StaticText \"clear\"\n      - button \"search\" [ref=e10]\n        - StaticText \"search\"\n      - button \"collapsed Search builder\" [ref=e11]\n        - StaticText \"chevron_right\"\n        - StaticText \"Search builder\"\n  - generic\n    - heading \"Sort\" [level=2, ref=e33]\n      - button \"Sort\" [expanded=false, ref=e40]\n    - heading \"Configure\" [level=2, ref=e34]\n      - button \"Configure\" [expanded=true, ref=e41]\n    - list\n      - listitem [level=1]\n        - generic\n          - checkbox \"Show image\" [checked=true, ref=e55]\n          - LabelText\n            - StaticText \"Show image\"\n      - listitem [level=1]\n        - button \"Reset\" [ref=e54]\n  - main\n    - generic\n      - group\n        - button \"View grid\" [ref=e17]\n          - StaticText \"grid_view\"\n        - button \"View list\" [ref=e18]\n          - StaticText \"format_list_bulleted\"\n        - button \"View compact list\" [ref=e19]\n          - StaticText \"drag_handle\"\n      - generic\n        - generic [ref=e20] clickable [cursor:pointer]\n          - combobox \"Export\" [expanded=false, ref=e42]\n            - generic\n              - StaticText \"Export\"\n    - alert\n      - StaticText \"No results found\"\n  - contentinfo\n    - generic\n      - paragraph\n        - StaticText \"Receive updates from the USPTO\"\n      - form\n        - LabelText\n          - StaticText \"Enter your email to subscribe or update your preferences\"\n        - generic\n          - textbox \"Enter your email to subscribe or update your preferences\" [ref=e43]\n          - button \"Subscribe\" [ref=e44]\n    - generic\n      - generic\n        - link \"About the USPTO\" [ref=e35]\n        - StaticText \" • \"\n        - link \"Search for patents\" [ref=e36]\n        - StaticText \" • \"\n        - link \"Search for trademarks\" [ref=e37]\n      - generic\n        - link \"US Department of Commerce\" [ref=e45]\n        - link \"Accessibility\" [ref=e46]\n        - link \"Privacy Policy\" [ref=e47]\n        - link \"Terms of Use\" [ref=e48]\n        - link \"Financial and Performance Data\" [ref=e49]\n      - generic\n        - link \"Freedom of Information Act\" [ref=e50]\n        - link \"Inspector General\" [ref=e51]\n        - link \"NoFEAR Act\" [ref=e52]\n        - link \"USA.gov\" [ref=e53]\n    - link \"United States Patent and Trademark Office - An Agency of the Department of Commerce USPTO - United States Patent and Trademark Office\" [ref=e21]\n      - image \"United States Patent and Trademark Office - An Agency of the Department of Commerce\"\n      - StaticText \"USPTO - United States Patent and Trademark Office\"\n    - generic\n      - StaticText \"Follow us\"\n      - link \"Facebook USPTO Facebook page\" [ref=e22]\n        - image \"Facebook\"\n        - StaticText \"USPTO Facebook page\"\n      - link \"Instagram USPTO Instagram page\" [ref=e23]\n        - image \"Instagram\"\n        - StaticText \"USPTO Instagram page\"\n      - link \"Linkedin USPTO Linkedin page\" [ref=e24]\n        - image \"Linkedin\"\n        - StaticText \"USPTO Linkedin page\"\n      - link \"X USPTO X page\" [ref=e25]\n        - image \"X\"\n        - StaticText \"USPTO X page\"\n      - link \"Youtube USPTO Youtube page\" [ref=e26]\n        - image \"Youtube\"\n        - StaticText \"USPTO Youtube page\"\n  - button \"Virtual Assistant avatar Need help? Ask the USPTO Virtual Assistant!\" [ref=e38]\n    - generic\n      - image \"Virtual Assistant avatar\"\n      - strong\n        - StaticText \"Need help? Ask the\"\n        - LineBreak \"\\n\"\n        - StaticText \"USPTO Virtual Assistant!\"\n  - button \"Feedback\" [ref=e1]\n    - generic\n      - StaticText \"Feedback\"",
+    "browserPageId": "1eccf4cf-c27f-4c5c-9002-9e70882834e2"
+  },
+  "_meta": {
+    "runtimeId": "797f96e2-9d5c-496a-858d-608ddbe5e2e0"
+  }
+}

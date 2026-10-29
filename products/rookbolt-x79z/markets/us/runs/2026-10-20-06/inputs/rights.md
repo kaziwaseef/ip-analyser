@@ -1,0 +1,99 @@
+# Candidate rights register
+
+US run as of 2026-10-20. R-001 is Chinese technical context only. Grant/publication identity is separated from present enforceability. Source links/hashes are in [the evidence register](evidence/index.md). Current title, licenses, prosecution changes, proceedings and status remain unverified unless an exact record is cited. Full claim triage and search dispositions are in the linked run notes. IDs are stable and never reused.
+
+| Right | Publication and named record party | Document evidence | Claim/figure scope and disposition | Status evidence |
+| --- | --- | --- | --- | --- |
+| R-001 | CN222884700U; Individual | S-020, [original](<evidence/raw/public-parent/CN222884700U.pdf>) | CN claim1; technical context only, not US protection | Historical grant certificate; CN current rights/license excluded |
+| R-002 | US20230328164A1; U2o Global Co Ltd | S-021, [original](<evidence/raw/public-parent/US20230328164A1.pdf>) | Published claim1; disc/adhesive/detent; source-report reference; keep adhesive question | Index displays Abandoned; not official present-status verification |
+| R-003 | US20100044534A1; Hongfujin Precision Industry Shenzhen Co Ltd | S-022, [original](<evidence/raw/public-parent/US20100044534A1.pdf>) | Published claim1 requires rack clamps; main magnetic head differs, optional clip unknown | Index displays Abandoned; not official present-status verification |
+| R-004 | US7913963B2; Hongfujin Precision Industry Shenzhen Co Ltd | S-023, [original](<evidence/raw/public-parent/US7913963B2.pdf>) | Granted claims1/6 face-cam sleeve/slot/pin; hidden geometry unknown | Index displays Expired - Fee Related; not official present-status verification |
+| R-005 | US12275356B1; Individual | S-024, [original](<evidence/raw/public-parent/US12275356B1.pdf>) | Granted claims1/9 require motor/piston electronics and ball joint; conditional nonpowered screen | Index displays Active; not official present-status verification |
+| R-006 | US20260019491A1; Dongguan Jinchi Electronic Technology Co Ltd | S-025, [original](<evidence/raw/public-independent-patents/US20260019491A1.uspto.pdf>) | Published claim1 broad holder; cup plurality and prosecution unknown; future watch | Index displays Pending; not official present-status verification |
+| R-007 | US20260012526A1; Dongguan Jinchi Electronic Technology Co Ltd | S-026, [original](<evidence/raw/public-independent-patents/US20260012526A1.uspto.pdf>) | Published claim1 specific sucker/pins/blocks; internal and plurality unknown; future watch | Index displays Pending; not official present-status verification |
+| R-008 | US9962040B2; Regalo International LLC | S-027, [original](<evidence/raw/public-independent-patents/US9962040B2.uspto.pdf>) | Granted claim1 bath rail/handle and fastener-through-cam-slot; internal/construction unknown | Index displays Active; not official present-status verification |
+| R-009 | US10731391B2; Individual | S-028, [original](<evidence/raw/public-independent-patents/US10731391B2.uspto.pdf>) | Granted claims1/15; close helical-ramp/post route; official historical lapse, reinstatement unknown | Official Oct1,2024 Gazette lists Aug4,2024 fee lapse; present reinstatement unresolved |
+| R-010 | US12031565B2; Olson IP Technologies Inc | S-029, [original](<evidence/raw/public-independent-patents/US12031565B2.uspto.pdf>) | Granted claims1/20/27; one-piece embedding rib route; internal unknown | Index displays Active; not official present-status verification |
+| R-011 | US11796128B1; Guangdong Shuowei Technology Co Ltd | S-030, [original](<evidence/raw/public-independent-patents/US11796128B1.uspto.pdf>) | Granted claim1 snapped connector/buckle/spring bead; clicking alone insufficient | Index displays Active; not official present-status verification |
+| R-012 | US12395201B2; Individual | S-031, [original](<evidence/raw/public-independent-patents/US12395201B2.google-patents.html>) | Granted claims1/36/61/76/85; head protrusion/recess/enclosed magnet route; decisive unknown | Index displays Active; not official present-status verification |
+| R-013 | US11722016B2; Apple Inc | S-032, [original](<evidence/raw/public-independent-patents/US11722016B2.pdf>) | Granted claims1/9/13; claim1 polarity/encapsulation/open center; no charger requirement | Index displays Active; not official present-status verification |
+| R-014 | US12126194B2; Apple Inc | S-033, [original](<evidence/raw/public-independent-patents/US12126194B2.pdf>) | Granted claims1/8/15; filled center/magnetic block/coils variants; keep separate from R-013 | Index displays Active; not official present-status verification |
+| R-015 | US11552667B2; Individual | S-034, [original](<evidence/raw/public-independent-patents/US11552667B2.pdf>) | Parent granted claims1/24/27; family retained, complete product chart outstanding | Index displays Active; not official present-status verification |
+| R-016 | US20250357961A1; Individual | S-035, [original](<evidence/raw/public-independent-patents/US20250357961A1.google-patents.html>) | Published continuation claims1–8; current grant/prosecution unknown | Index displays Pending; not official present-status verification |
+| R-017 | US12317995B1; Dongguan Kaishuo Electronics Technology Co Ltd | S-036, [original](<evidence/raw/public-independent-patents/US12317995B1.uspto.pdf>) | Granted claim1 nested bracket/rotation seat/through-hole and folded retention; partial comparison only | Index displays Active; not official present-status verification |
+| R-018 | US20250248515A1; Dongguan Kaishuo Electronics Technology Co Ltd | S-037, [original](<evidence/raw/public-independent-patents/US20250248515A1.google-patents.html>) | Pending continuation claims1/13/18; folded retention; compare independently | Index displays Pending; not official present-status verification |
+| R-019 | US7635111B2; Sony Corp | S-038, [original](<evidence/raw/public-independent-patents/US7635111B2.pdf>) | Granted claims1/11 Sony suction; lower-priority spring/shaft triage, not cleared | Index displays Expired - Fee Related; not official present-status verification |
+| R-020 | US12381970B2; Shenzhen Sodi Innovation Technologies Co Ltd | S-039, [original](<evidence/raw/public-independent-patents/US12381970B2.google-patents.html>) | Granted claim1 display-equipment geometry; lower priority, not cleared | Index displays Active; not official present-status verification |
+| R-021 | US12471722B2; Individual | S-040, [original](<evidence/raw/public-independent-patents/US12471722B2.google-patents.html>) | Granted claim1 mirror/plural cup; lower priority, not cleared | Index displays Active; not official present-status verification |
+| R-022 | US20230291234A1; Libratel Inc | S-041, [original](<evidence/raw/public-independent-patents/US20230291234A1.pdf>) | Published charging stand plus independent retrofit ring claim19; accessory branch unresolved | Index displays Pending; not official present-status verification |
+| R-023 | US11019910B2; Blkpina LLC | S-042, [original](<evidence/raw/public-independent-patents/US11019910B2.pdf>) | Cam family context only, no completed product chart | Index displays Expired - Fee Related; not official present-status verification |
+| R-024 | US12549213B2; Apple Inc | S-043, [original](<evidence/raw/public-independent-patents/US12549213B2.google-patents.html>) | Discovery context only; no completed product chart | Index displays Active; not official present-status verification |
+| R-025 | US20130112838A1; Belkin International Inc | S-044, [original](<evidence/raw/public-independent-patents/US20130112838A1.pdf>) | Published Belkin coupling device; discovery context only | Index displays Abandoned; not official present-status verification |
+| R-101 | USD944788S1; Shenzhen Chunchun Technology Co Ltd | S-045, [original](<evidence/raw/public-design/USD944788S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-102 | USD1044792S1; Individual | S-046, [original](<evidence/raw/public-design/USD1044792S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-103 | USD1050107S1; Guangdong Shuowei Technology Co., Ltd. | S-047, [original](<evidence/raw/public-design/USD1050107S1-uspto.pdf>) | Broken-line correction controls: ring/arms context, solid-line ribbed wall candidate; not whole-object claim | Index displays Active; not official present-status verification |
+| R-104 | USD1052575S1; See original front page / research inventory | S-048, [original](<evidence/raw/public-design/USD1052575S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Issued grant document; current status/title not verified |
+| R-105 | USD1053182S1; Individual | S-049, [original](<evidence/raw/public-design/USD1053182S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-106 | USD1060330S1; Individual | S-050, [original](<evidence/raw/public-design/USD1060330S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-107 | USD1061503S1; See original front page / research inventory | S-051, [original](<evidence/raw/public-design/USD1061503S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Issued grant document; current status/title not verified |
+| R-108 | USD1070561S1; Individual | S-052, [original](<evidence/raw/public-design/USD1070561S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-109 | USD1072801S1; See original front page / research inventory | S-053, [original](<evidence/raw/public-design/USD1072801S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Issued grant document; current status/title not verified |
+| R-110 | USD1073660S1; See original front page / research inventory | S-054, [original](<evidence/raw/public-design/USD1073660S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Issued grant document; current status/title not verified |
+| R-111 | USD1076906S1; Individual | S-055, [original](<evidence/raw/public-design/USD1076906S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-112 | USD1080612S1; See original front page / research inventory | S-056, [original](<evidence/raw/public-design/USD1080612S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Issued grant document; current status/title not verified |
+| R-113 | USD1084650S1; Shenzhen Huiwei Trading Co Ltd | S-057, [original](<evidence/raw/public-design/USD1084650S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-114 | USD1091526S1; Individual | S-058, [original](<evidence/raw/public-design/USD1091526S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-115 | USD1101739S1; Individual | S-059, [original](<evidence/raw/public-design/USD1101739S1-uspto.pdf>) | Secondary visual comparison; separate solid/broken scope audit and status incomplete | Index displays Active; not official present-status verification |
+| R-116 | USD1101740S1; See original front page / research inventory | S-060, [original](<evidence/raw/public-design/USD1101740S1-uspto.pdf>) | Secondary visual comparison; separate solid/broken scope audit and status incomplete | Issued grant document; current status/title not verified |
+| R-117 | USD1115755S1; Weiyu (Shenzhen) Technology Co., Ltd. | S-061, [original](<evidence/raw/public-design/USD1115755S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Index displays Active; not official present-status verification |
+| R-118 | USD1122241S1; See original front page / research inventory | S-062, [original](<evidence/raw/public-design/USD1122241S1-uspto.pdf>) | Drawing triage as recorded; retained scopes in design comparison; no blanket screen-out | Issued grant document; current status/title not verified |
+| R-119 | USD1134327S1; See original front page / research inventory | S-063, [original](<evidence/raw/public-design/USD1134327S1-uspto.pdf>) | Secondary visual comparison; separate solid/broken scope audit and status incomplete | Issued grant document; current status/title not verified |
+| R-201 | ROCBOLT, Rocstor company use assertion | First-party product page and manual, sources in register | Limited ROOKBOLT comparison; actual US registration/priority unknown | Company registration assertion only; official result not obtained |
+
+## Analysis and uncompleted candidates
+
+- [Claim charts](markets/us/runs/2026-10-20-01/patent-claim-chart.md) and [independent discovery](markets/us/runs/2026-10-20-01/outputs/independent-patent-discovery.md) identify operative claim versions, dependencies, family links, named parties and exact dates.
+
+- [Design comparison](markets/us/runs/2026-10-20-01/design-comparison.md) carries the controlling D1050107 scope correction. The discovery note is retained with its superseding addendum.
+
+- Sources without a completed product comparison remain discovery candidates. Retrieval is not a screen-out. The optional clip/retrofit-ring branch and full related portfolios remain incomplete.
+
+## Included-clip follow-up,2026-10-20
+
+| Right | Source | Operative document and initial disposition | Status limit |
+| --- | --- | --- | --- |
+| R-026 | S-079 | US20220228708A1, publication of17/576,940; followed to R-027, not treated as operative granted claims | Same application grant distinguished |
+| R-027 | S-080 | US11796126B2, granted2023-10-24, independent claims1/5/6; post/cross-bracket and parallel/perpendicular gripping-arm rotation unknown | Original mirrored grant retained, official endpoint incomplete; present title/status/prosecution unresolved |
+| R-028 | S-081 | US12442483B2, granted2025-10-14, claim1 snap-groove/button/tension-spring assembly; claims12/19 inherit it and add driven structures | Full claim HTML retained; original PDF/current official records unresolved |
+| R-029 | S-082 | US20250323990A1, published2025-10-16, claims1/11 and claim10 incorporating1; magnetic placement/function distinctions unresolved | Pending display only; no later grant established by indexed route |
+
+Exact source URLs/files/hashes are in the evidence register. [Run02 claim comparison](markets/us/runs/2026-10-20-02/outputs/clip-patent-screen.md) preserves mapping, dependency checks and construction/status gaps. These initial results do not clear the accessory.
+
+## Sample-evidence reassessment,2026-10-20
+
+[Run03](markets/us/runs/2026-10-20-03/report.md) updates K-008 from S-083–S-085. R-027 has a supported fixed-jaw distinction from all reviewed rotation-dependent claims. R-028 has a user-confirmed/no-button direct-magnetic-removal distinction from claim1 and its inherited structures. Their technical concern is2 with interpretation and current-record gaps. R-029 retains3 + U future-scope concern; no magnetic composition or later-grant fact is inferred. Broader family/design and main-unit findings remain incomplete.
+
+## Passive-clip confirmation,2026-10-20
+
+S-086 adds a negative phone-facing attraction test and the user-confirmed passive metal construction. This favors a distinction from a clip-contained magnet in R-027; R-027/R-028 limited technical concern2 remains. R-029 is not excluded simply because the standalone clip lacks a magnet: broader assembly/claim1 interpretation and any later prosecution remain unresolved. The3 + U future-scope scenario is retained, with the standalone-versus-combined distinction in [the addendum](markets/us/addenda/2026-10-20-04-passive-clip/assessment.md). Main-head R-012/R-013 and other findings remain separate.
+
+## Focused name follow-up,2026-10-20
+
+[Run04](markets/us/runs/2026-10-20-04/report.md) updates K-005 with official search access and intended brand range. The bounded ROCBOLT/ROOKBOLT/ROCKBOLT and spaced query returned no results, but R-201 first-party ROCBOLT use remains a lead; its asserted registration and priority are not verified. New candidates below are separate rights, not a conclusion of conflict.
+
+| Right | Identifier and source | Current record / comparison | Limits |
+| --- | --- | --- | --- |
+| R-202 | ROOKOBI, US serial99302183, registration8158757; S-095 pp1–2 | Official UI displayed live registered; full goods include phone holders, smartphone products and adjacent charging goods. Standard characters; owner Shenzhen Xingwanjia E-commerce Co., Ltd. | Whole-sign distinction retained; actual use/priority and full-range clearance incomplete |
+| R-203 | CASEROOKIE, US serial98358311, registration7640752; S-096 pp1–2 | Official UI displayed live registered; phone cases/covers; standard characters | Different full word, related goods; no blanket clearance |
+| R-204 | ROOK, US serial97598942, registration7739707; S-097 pp1–2 | Official UI displayed live registered; Delta Faucet Company bath goods; standard characters | Distinct goods for X79Z; future exact range can change relevance |
+| R-205 | ROOK GEAR, US serial99239031; S-091 summary and S-100 failed detail access | Bags discovery lead relevant to S-099 travel range | Full record/registration number not obtained; candidate-only U, no substantive rights conclusion |
+
+The18-summary table and exact queries are preserved in S-091. Remaining truncated summaries are uncompleted coverage. No assessment of future travel/power-bank hardware is included.
+
+## Included adhesive-ring follow-up,2026-10-20
+
+R-022 / S-041 was previously retained without a complete accessory chart. S-102/S-104 confirm closed adhesive metal phone rings. [Run05](markets/us/runs/2026-10-20-05/patent-claim-chart.md) maps published independent claim19 without importing claim1's charging requirement, while claim20 expressly inherits claim1. S-103 reopens the publication; no official present status, later grant or amended claims were verified. K-009 remains U with partial closed-metal/adhesive correspondence and geometry/status/coverage gaps. This is not a new verified granted-right conflict. No family-wide screen-out, validity opinion or clearance is recorded.
+
+## Adhesive-ring disposition,2026-10-20
+
+**Resolved at user direction**, S-106. Further R-022 ring-claim inquiry is closed for the current review; K-009 is removed from active blockers/follow-up. See [resolution](markets/us/addenda/2026-10-20-07-ring-issue-resolved.md). Preserve run05's historical U evidence without treating closure as a verified grant/status or non-infringement result. This closure does not remove rings from the product or decide unrelated main-mount findings.

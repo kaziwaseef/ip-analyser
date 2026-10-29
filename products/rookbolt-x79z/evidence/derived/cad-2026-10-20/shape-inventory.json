@@ -1,0 +1,2560 @@
+{
+  "FreeCAD": [
+    "1",
+    "0",
+    "2",
+    "39319 (Git)",
+    "https://github.com/FreeCAD/FreeCAD",
+    "2025/08/05 20:19:07",
+    "(HEAD detached at 1.0.2)",
+    "256fc7eff3379911ab5daf88e10182c509aa8052"
+  ],
+  "objects": [
+    {
+      "name": "Part__Feature",
+      "label": "PRT0062_161_2",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 1286,
+      "volume_mm3": 10721.812867945706,
+      "bounds_mm": [
+        -34.90549893658024,
+        45.093820933944,
+        -14.747639719721105,
+        34.90549893605945,
+        114.90617906659052,
+        3.7982891734423103
+      ],
+      "lengths_mm": [
+        69.81099787263969,
+        69.81235813264652,
+        18.545928893163417
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature001",
+      "label": "QW_116_1",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 969,
+      "volume_mm3": 14084.268197147692,
+      "bounds_mm": [
+        -39.78240779706523,
+        40.217592203214764,
+        -7.075000000026482,
+        39.78240779706523,
+        119.78240779734523,
+        9.918479965219841
+      ],
+      "lengths_mm": [
+        79.56481559413047,
+        79.56481559413047,
+        16.993479965246323
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature002",
+      "label": "0-ZT11_3_1_1",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 19,
+      "volume_mm3": 87.3393229069357,
+      "bounds_mm": [
+        13.288270224245629,
+        56.36792484091243,
+        -2.9549999999579275,
+        20.050664077720462,
+        63.35321095091039,
+        0.945000000050494
+      ],
+      "lengths_mm": [
+        6.762393853474833,
+        6.985286109997958,
+        3.9000000000084216
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature003",
+      "label": "PRT0065_1_1",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 197,
+      "volume_mm3": 4691.836945104183,
+      "bounds_mm": [
+        -26.93641388905209,
+        53.0635861109916,
+        -10.47500000011246,
+        26.936413889053753,
+        106.93641388909514,
+        -6.074999999936301
+      ],
+      "lengths_mm": [
+        53.872827778105844,
+        53.872827778103535,
+        4.40000000017616
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature004",
+      "label": "PRT0066_37_1",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 180,
+      "volume_mm3": 5105.469909290363,
+      "bounds_mm": [
+        -28.675591705622622,
+        51.32440829411,
+        -13.05500000008026,
+        28.67559170589738,
+        108.67559170563,
+        -6.954999999922552
+      ],
+      "lengths_mm": [
+        57.35118341152,
+        57.35118341152,
+        6.100000000157709
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature005",
+      "label": "PRT0068_3_1",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 6,
+      "volume_mm3": 54.57365318305952,
+      "bounds_mm": [
+        -8.32235565023166,
+        91.55833544582,
+        -11.77500000024,
+        -4.32235565013,
+        95.55833544583115,
+        -6.675000000188866
+      ],
+      "lengths_mm": [
+        4.000000000101661,
+        4.000000000011141,
+        5.100000000051135
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature006",
+      "label": "PRT0068_3_002",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 6,
+      "volume_mm3": 54.573653183059534,
+      "bounds_mm": [
+        4.3223556511653385,
+        64.44166455426,
+        -11.77499999984,
+        8.322355651267,
+        68.44166455427114,
+        -6.674999999788866
+      ],
+      "lengths_mm": [
+        4.000000000101661,
+        4.000000000011141,
+        5.100000000051135
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature007",
+      "label": "PRT0069_1_1",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 118,
+      "volume_mm3": 15905.3467015258,
+      "bounds_mm": [
+        -35.541278557244766,
+        44.40094408171786,
+        -8.455000000002176,
+        35.541278556722375,
+        124.52187452893338,
+        11.532801431198868
+      ],
+      "lengths_mm": [
+        71.08255711396714,
+        80.12093044721553,
+        19.987801431201042
+      ],
+      "children": []
+    },
+    {
+      "name": "__XT06_ASM_266_ASM_122_ASM_1_ASM",
+      "label": "0-XT06_ASM_266_ASM_122_ASM_1_ASM",
+      "type": "App::Part",
+      "solids": 8,
+      "faces": 2781,
+      "volume_mm3": 50738.811270039485,
+      "bounds_mm": [
+        -39.78240779706523,
+        40.217592203214764,
+        -14.747639719721105,
+        39.78240779706523,
+        124.52187452893338,
+        11.532801431198868
+      ],
+      "lengths_mm": [
+        79.56481559413047,
+        84.30428232571862,
+        26.280441150919973
+      ],
+      "children": [
+        "Origin",
+        "Part__Feature",
+        "Part__Feature001",
+        "Part__Feature002",
+        "Part__Feature003",
+        "Part__Feature004",
+        "Part__Feature005",
+        "Part__Feature006",
+        "Part__Feature007"
+      ]
+    },
+    {
+      "name": "X_Axis",
+      "label": "X-axis",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis",
+      "label": "Y-axis",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis",
+      "label": "Z-axis",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane",
+      "label": "XY-plane",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane",
+      "label": "XZ-plane",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane",
+      "label": "YZ-plane",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature008",
+      "label": "PRT0058_64",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 280,
+      "volume_mm3": 7632.4501790137565,
+      "bounds_mm": [
+        -28.6501372344672,
+        51.34986276564916,
+        -15.480250001730216,
+        28.650137234775617,
+        108.6501372348867,
+        -6.074999999725684
+      ],
+      "lengths_mm": [
+        57.300274469242815,
+        57.300274469237536,
+        9.405250002004532
+      ],
+      "children": []
+    },
+    {
+      "name": "ASM0001_ASM_ASM",
+      "label": "ASM0001_ASM_ASM",
+      "type": "App::Part",
+      "solids": 1,
+      "faces": 280,
+      "volume_mm3": 7632.4501790137565,
+      "bounds_mm": [
+        -28.6501372344672,
+        51.34986276564916,
+        -15.480250001730216,
+        28.650137234775617,
+        108.6501372348867,
+        -6.074999999725684
+      ],
+      "lengths_mm": [
+        57.300274469242815,
+        57.300274469237536,
+        9.405250002004532
+      ],
+      "children": [
+        "Origin001",
+        "Part__Feature008"
+      ]
+    },
+    {
+      "name": "X_Axis001",
+      "label": "X-axis001",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis001",
+      "label": "Y-axis001",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis001",
+      "label": "Z-axis001",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane001",
+      "label": "XY-plane001",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane001",
+      "label": "XZ-plane001",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane001",
+      "label": "YZ-plane001",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "_1_8_ASM_ASM",
+      "label": "01-8_ASM_ASM",
+      "type": "App::Part",
+      "solids": 1,
+      "faces": 280,
+      "volume_mm3": 7632.450179013763,
+      "bounds_mm": [
+        -28.65013723437955,
+        51.34986276526516,
+        -15.480250016629727,
+        28.650137234863266,
+        108.6501372345027,
+        -6.075000014908711
+      ],
+      "lengths_mm": [
+        57.300274469242815,
+        57.300274469237536,
+        9.405250001721015
+      ],
+      "children": [
+        "Origin002",
+        "ASM0001_ASM_ASM"
+      ]
+    },
+    {
+      "name": "X_Axis002",
+      "label": "X-axis002",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis002",
+      "label": "Y-axis002",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis002",
+      "label": "Z-axis002",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane002",
+      "label": "XY-plane002",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane002",
+      "label": "XZ-plane002",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane002",
+      "label": "YZ-plane002",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature009",
+      "label": "MANIFOLD_SOLID_BREP_190673",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 6,
+      "volume_mm3": 556.236055602378,
+      "bounds_mm": [
+        -27.49999999990746,
+        52.499999999519844,
+        -13.055000004962213,
+        27.500000000092612,
+        107.49999999961,
+        -12.554999995037786
+      ],
+      "lengths_mm": [
+        55.00000000000007,
+        55.000000000090154,
+        0.5000000099244275
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature010",
+      "label": "MANIFOLD_SOLID_BREP_190761",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 327.98620002558465,
+      "bounds_mm": [
+        -14.449999999845154,
+        65.54999999952693,
+        -16.080250004458303,
+        14.450000000167442,
+        94.44999999962,
+        -15.580249999021696
+      ],
+      "lengths_mm": [
+        28.900000000012597,
+        28.900000000093073,
+        0.5000000054366076
+      ],
+      "children": []
+    },
+    {
+      "name": "PRT0003_1_ASM",
+      "label": "PRT0003_1_ASM",
+      "type": "App::Part",
+      "solids": 2,
+      "faces": 10,
+      "volume_mm3": 884.2222556280224,
+      "bounds_mm": [
+        -27.49999999990746,
+        52.499999999519844,
+        -16.080250004458303,
+        27.500000000092612,
+        107.49999999961,
+        -12.554999995037786
+      ],
+      "lengths_mm": [
+        55.00000000000007,
+        55.000000000090154,
+        3.5252500094205175
+      ],
+      "children": [
+        "Origin003",
+        "Part__Feature009",
+        "Part__Feature010"
+      ]
+    },
+    {
+      "name": "X_Axis003",
+      "label": "X-axis003",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis003",
+      "label": "Y-axis003",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis003",
+      "label": "Z-axis003",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane003",
+      "label": "XY-plane003",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane003",
+      "label": "XZ-plane003",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane003",
+      "label": "YZ-plane003",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "_409_01_ASM_2_ASM",
+      "label": "0409-01_ASM_2_ASM",
+      "type": "App::Part",
+      "solids": 11,
+      "faces": 3071,
+      "volume_mm3": 59258.20544531396,
+      "bounds_mm": [
+        -39.78240779706523,
+        40.217592203214764,
+        -16.080250004458303,
+        39.78240779706523,
+        124.52187452893338,
+        11.532801431198868
+      ],
+      "lengths_mm": [
+        79.56481559413047,
+        84.30428232571862,
+        27.61305143565717
+      ],
+      "children": [
+        "Origin004",
+        "__XT06_ASM_266_ASM_122_ASM_1_ASM",
+        "_1_8_ASM_ASM",
+        "PRT0003_1_ASM"
+      ]
+    },
+    {
+      "name": "X_Axis004",
+      "label": "X-axis004",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis004",
+      "label": "Y-axis004",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis004",
+      "label": "Z-axis004",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane004",
+      "label": "XY-plane004",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane004",
+      "label": "XZ-plane004",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane004",
+      "label": "YZ-plane004",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature011",
+      "label": "MANIFOLD_SOLID_BREP_4054_6_1",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 203,
+      "volume_mm3": 2541.423824714973,
+      "bounds_mm": [
+        -38.36931818786065,
+        -6.824280558292443,
+        -21.57074778173106,
+        21.57129346426591,
+        4.869318187860648,
+        21.571023025831323
+      ],
+      "lengths_mm": [
+        59.94061165212656,
+        11.693598746153091,
+        43.14177080756238
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature012",
+      "label": "MANIFOLD_SOLID_BREP_88367",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 178,
+      "volume_mm3": 3415.2090784125276,
+      "bounds_mm": [
+        -38.255979153942484,
+        -4.75597915394248,
+        -9.179964315163,
+        38.36717716658432,
+        8.217177166584321,
+        9.180012919039
+      ],
+      "lengths_mm": [
+        76.6231563205268,
+        12.973156320526801,
+        18.359977234202
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature013",
+      "label": "MANIFOLD_SOLID_BREP_88455",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 14.1026094219646,
+      "bounds_mm": [
+        30.15,
+        0.0,
+        -9.0,
+        36.85,
+        6.7,
+        -8.6
+      ],
+      "lengths_mm": [
+        6.700000000000003,
+        6.7,
+        0.40000000000000036
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature014",
+      "label": "MANIFOLD_SOLID_BREP_88543",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 14.102609421964601,
+      "bounds_mm": [
+        -36.85,
+        -3.35,
+        -9.0,
+        -30.15,
+        3.35,
+        -8.6
+      ],
+      "lengths_mm": [
+        6.700000000000003,
+        6.7,
+        0.40000000000000036
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature015",
+      "label": "MANIFOLD_SOLID_BREP_88631",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 14.1026094219646,
+      "bounds_mm": [
+        88.2,
+        -3.4499999999999997,
+        -9.0,
+        94.89999999999999,
+        3.2500000000000004,
+        -8.6
+      ],
+      "lengths_mm": [
+        6.699999999999989,
+        6.7,
+        0.40000000000000036
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature016",
+      "label": "MANIFOLD_SOLID_BREP_88719",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 14.102609421964601,
+      "bounds_mm": [
+        30.15,
+        0.0,
+        8.6,
+        36.85,
+        6.7,
+        9.0
+      ],
+      "lengths_mm": [
+        6.700000000000003,
+        6.7,
+        0.40000000000000036
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature017",
+      "label": "MANIFOLD_SOLID_BREP_88807",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 14.1026094219646,
+      "bounds_mm": [
+        -36.85,
+        -3.35,
+        8.6,
+        -30.15,
+        3.35,
+        9.0
+      ],
+      "lengths_mm": [
+        6.700000000000003,
+        6.7,
+        0.40000000000000036
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature018",
+      "label": "MANIFOLD_SOLID_BREP_88895",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 14.1026094219646,
+      "bounds_mm": [
+        88.2,
+        -3.4499999999999997,
+        8.6,
+        94.89999999999999,
+        3.2500000000000004,
+        9.0
+      ],
+      "lengths_mm": [
+        6.699999999999989,
+        6.7,
+        0.40000000000000036
+      ],
+      "children": []
+    },
+    {
+      "name": "MANIFOLD_SOLID_BREP_7767_1_ASM_ASM",
+      "label": "MANIFOLD_SOLID_BREP_7767_1_ASM_ASM",
+      "type": "App::Part",
+      "solids": 7,
+      "faces": 202,
+      "volume_mm3": 3499.819854973835,
+      "bounds_mm": [
+        -38.255979153942484,
+        -4.75597915394248,
+        -9.179964315163,
+        94.89999999999999,
+        8.217177166584321,
+        9.180012919039
+      ],
+      "lengths_mm": [
+        133.15597915394247,
+        12.973156320526801,
+        18.359977234202
+      ],
+      "children": [
+        "Origin005",
+        "Part__Feature012",
+        "Part__Feature013",
+        "Part__Feature014",
+        "Part__Feature015",
+        "Part__Feature016",
+        "Part__Feature017",
+        "Part__Feature018"
+      ]
+    },
+    {
+      "name": "X_Axis005",
+      "label": "X-axis005",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis005",
+      "label": "Y-axis005",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis005",
+      "label": "Z-axis005",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane005",
+      "label": "XY-plane005",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane005",
+      "label": "XZ-plane005",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane005",
+      "label": "YZ-plane005",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "ASM0017_ASM",
+      "label": "ASM0017_ASM",
+      "type": "App::Part",
+      "solids": 7,
+      "faces": 202,
+      "volume_mm3": 3499.819854973837,
+      "bounds_mm": [
+        -161.9,
+        -8.217177166584321,
+        -9.174964315162999,
+        -28.74402084605752,
+        4.75597915394248,
+        9.185012919039
+      ],
+      "lengths_mm": [
+        133.1559791539425,
+        12.973156320526801,
+        18.359977234202
+      ],
+      "children": [
+        "Origin006",
+        "MANIFOLD_SOLID_BREP_7767_1_ASM_ASM"
+      ]
+    },
+    {
+      "name": "X_Axis006",
+      "label": "X-axis006",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis006",
+      "label": "Y-axis006",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis006",
+      "label": "Z-axis006",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane006",
+      "label": "XY-plane006",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane006",
+      "label": "XZ-plane006",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane006",
+      "label": "YZ-plane006",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature019",
+      "label": "MANIFOLD_SOLID_BREP_4704_6_2",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 188,
+      "volume_mm3": 3065.838533161199,
+      "bounds_mm": [
+        -163.0866583222008,
+        -8.217938664740249,
+        -9.163388564849,
+        -95.63206133525975,
+        4.636658322200773,
+        9.173430204528
+      ],
+      "lengths_mm": [
+        67.45459698694106,
+        12.854596986941022,
+        18.336818769377
+      ],
+      "children": []
+    },
+    {
+      "name": "PRT0061_53_ASM_1_ASM_1_ASM_ASM",
+      "label": "PRT0061_53_ASM_1_ASM_1_ASM_ASM",
+      "type": "App::Part",
+      "solids": 9,
+      "faces": 593,
+      "volume_mm3": 9107.080778481499,
+      "bounds_mm": [
+        -21.570747781726844,
+        58.42870653572409,
+        -22.89956818786065,
+        21.57102302583554,
+        243.0866583221908,
+        -9.81231133525975
+      ],
+      "lengths_mm": [
+        43.14177080756238,
+        184.6579517864667,
+        13.087256852600898
+      ],
+      "children": [
+        "Origin007",
+        "Part__Feature011",
+        "ASM0017_ASM",
+        "Part__Feature019"
+      ]
+    },
+    {
+      "name": "X_Axis007",
+      "label": "X-axis007",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis007",
+      "label": "Y-axis007",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis007",
+      "label": "Z-axis007",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane007",
+      "label": "XY-plane007",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane007",
+      "label": "XZ-plane007",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane007",
+      "label": "YZ-plane007",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature020",
+      "label": "MANIFOLD_SOLID_BREP_107232",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 93,
+      "volume_mm3": 3460.2819500953856,
+      "bounds_mm": [
+        -31.55141435218449,
+        -31.551732638523283,
+        -9.145762159320899,
+        31.55141435218449,
+        31.551732638523283,
+        3.891082038228
+      ],
+      "lengths_mm": [
+        63.10282870436898,
+        63.10346527704657,
+        13.036844197548898
+      ],
+      "children": []
+    },
+    {
+      "name": "Part__Feature021",
+      "label": "MANIFOLD_SOLID_BREP_107394",
+      "type": "Part::Feature",
+      "solids": 1,
+      "faces": 6,
+      "volume_mm3": 200.936266123603,
+      "bounds_mm": [
+        -27.85,
+        -27.85,
+        3.6,
+        27.85,
+        27.85,
+        3.8
+      ],
+      "lengths_mm": [
+        55.7,
+        55.7,
+        0.19999999999999973
+      ],
+      "children": []
+    },
+    {
+      "name": "PRT0027_71_5_ASM_ASM",
+      "label": "PRT0027_71_5_ASM_ASM",
+      "type": "App::Part",
+      "solids": 2,
+      "faces": 99,
+      "volume_mm3": 3661.2076398403215,
+      "bounds_mm": [
+        -31.39641435217629,
+        223.82299466381528,
+        -73.53349229883469,
+        31.70641435219269,
+        248.60606701634896,
+        -13.688381709965537
+      ],
+      "lengths_mm": [
+        63.10282870436898,
+        24.78307235253368,
+        59.84511058886915
+      ],
+      "children": [
+        "Origin008",
+        "Part__Feature020",
+        "Part__Feature021"
+      ]
+    },
+    {
+      "name": "X_Axis008",
+      "label": "X-axis008",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis008",
+      "label": "Y-axis008",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis008",
+      "label": "Z-axis008",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane008",
+      "label": "XY-plane008",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane008",
+      "label": "XZ-plane008",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane008",
+      "label": "YZ-plane008",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "__XT06_ASM_266_ASM_24_ASM_ASM",
+      "label": "0-XT06_ASM_266_ASM_24_ASM_ASM",
+      "type": "App::Part",
+      "solids": 11,
+      "faces": 692,
+      "volume_mm3": 12768.209063073115,
+      "bounds_mm": [
+        -31.39641435217629,
+        58.42870653572409,
+        -73.53349229883469,
+        31.70641435219269,
+        248.60606701634896,
+        -9.81231133525975
+      ],
+      "lengths_mm": [
+        63.10282870436898,
+        190.17736048062488,
+        63.72118096357494
+      ],
+      "children": [
+        "Origin009",
+        "PRT0061_53_ASM_1_ASM_1_ASM_ASM",
+        "PRT0027_71_5_ASM_ASM"
+      ]
+    },
+    {
+      "name": "X_Axis009",
+      "label": "X-axis009",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis009",
+      "label": "Y-axis009",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis009",
+      "label": "Z-axis009",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane009",
+      "label": "XY-plane009",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane009",
+      "label": "XZ-plane009",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane009",
+      "label": "YZ-plane009",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "_131_ASM_ASM",
+      "label": "0131_ASM_ASM",
+      "type": "App::Part",
+      "solids": 11,
+      "faces": 692,
+      "volume_mm3": 12768.209063073115,
+      "bounds_mm": [
+        -31.39641435217629,
+        58.42870653572409,
+        -73.53349229883469,
+        31.70641435219269,
+        248.60606701634896,
+        -9.81231133525975
+      ],
+      "lengths_mm": [
+        63.10282870436898,
+        190.17736048062488,
+        63.72118096357494
+      ],
+      "children": [
+        "Origin010",
+        "__XT06_ASM_266_ASM_24_ASM_ASM"
+      ]
+    },
+    {
+      "name": "X_Axis010",
+      "label": "X-axis010",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis010",
+      "label": "Y-axis010",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis010",
+      "label": "Z-axis010",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane010",
+      "label": "XY-plane010",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane010",
+      "label": "XZ-plane010",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane010",
+      "label": "YZ-plane010",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "_131_K26_ASM",
+      "label": "0131-K26_ASM",
+      "type": "App::Part",
+      "solids": 11,
+      "faces": 692,
+      "volume_mm3": 12768.20906307312,
+      "bounds_mm": [
+        -31.39641435130916,
+        58.42870653457658,
+        -73.53349227326528,
+        31.706414353053113,
+        248.60606701575708,
+        -9.812311318451606
+      ],
+      "lengths_mm": [
+        63.102828704362274,
+        190.1773604811805,
+        63.721180954813676
+      ],
+      "children": [
+        "Origin011",
+        "_131_ASM_ASM"
+      ]
+    },
+    {
+      "name": "X_Axis011",
+      "label": "X-axis011",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis011",
+      "label": "Y-axis011",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis011",
+      "label": "Z-axis011",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane011",
+      "label": "XY-plane011",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane011",
+      "label": "XZ-plane011",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane011",
+      "label": "YZ-plane011",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "_413_02_ASM",
+      "label": "0413-02_ASM",
+      "type": "App::Part",
+      "solids": 22,
+      "faces": 3763,
+      "volume_mm3": 72034.51028913505,
+      "bounds_mm": [
+        -39.78240779706523,
+        40.217592203214764,
+        -73.53349227326528,
+        39.78240779706523,
+        248.60606701575708,
+        11.532801431198868
+      ],
+      "lengths_mm": [
+        79.56481559413047,
+        208.3884748125423,
+        85.06629370446414
+      ],
+      "children": [
+        "Origin012",
+        "_409_01_ASM_2_ASM",
+        "_131_K26_ASM"
+      ]
+    },
+    {
+      "name": "X_Axis012",
+      "label": "X-axis012",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Y_Axis012",
+      "label": "Y-axis012",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "Z_Axis012",
+      "label": "Z-axis012",
+      "type": "App::Line",
+      "solids": 0,
+      "faces": 0,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        0.0,
+        0.0,
+        -1e+100,
+        0.0,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "XY_Plane012",
+      "label": "XY-plane012",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 0.0,
+      "bounds_mm": [
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100,
+        0.0
+      ],
+      "lengths_mm": [
+        2e+100,
+        2e+100,
+        0.0
+      ],
+      "children": []
+    },
+    {
+      "name": "XZ_Plane012",
+      "label": "XZ-plane012",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 4.789048565205903e+152,
+      "bounds_mm": [
+        -1e+100,
+        0.0,
+        -1e+100,
+        1e+100,
+        0.0,
+        1e+100
+      ],
+      "lengths_mm": [
+        2e+100,
+        0.0,
+        2e+100
+      ],
+      "children": []
+    },
+    {
+      "name": "YZ_Plane012",
+      "label": "YZ-plane012",
+      "type": "App::Plane",
+      "solids": 0,
+      "faces": 1,
+      "volume_mm3": 1.7958932119522137e+152,
+      "bounds_mm": [
+        0.0,
+        -1e+100,
+        -1e+100,
+        0.0,
+        1e+100,
+        1e+100
+      ],
+      "lengths_mm": [
+        0.0,
+        2e+100,
+        2e+100
+      ],
+      "children": []
+    }
+  ]
+}

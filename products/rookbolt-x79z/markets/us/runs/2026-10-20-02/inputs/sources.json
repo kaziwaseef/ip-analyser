@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "S-001",
+    "title": "intake-2026-10-20.md",
+    "files": [
+      {
+        "path": "evidence/raw/intake-2026-10-20.md",
+        "bytes": 812,
+        "sha256": "01afbd17c50716fdafe8fe9ee1e4e7ab0ad5dc0d3d1818fed96e8a65d4114c27"
+      }
+    ],
+    "url": "User message, 2026-10-20",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-002",
+    "title": "supplier-package/CNIPA_Patent_Certificate_ZL202421742990.1_CN222884700U.pdf",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/CNIPA_Patent_Certificate_ZL202421742990.1_CN222884700U.pdf",
+        "bytes": 1030523,
+        "sha256": "eb8b28b66bfbb4950eedb4c5469d9116bb33ddbd92a6865b7477813193296777"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/CNIPA_Patent_Certificate_ZL202421742990.1_CN222884700U.pdf",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-003",
+    "title": "supplier-package/CNIPA_Patent_Evaluation_Report_Positive_FTO_220701.pdf",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/CNIPA_Patent_Evaluation_Report_Positive_FTO_220701.pdf",
+        "bytes": 165986,
+        "sha256": "329419178a1474ca1f958916f89ee6b868c414e2cf99db9929c5fc1ac9505e65"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/CNIPA_Patent_Evaluation_Report_Positive_FTO_220701.pdf",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-004",
+    "title": "supplier-package/CTI_RoHS_Test_Report_ABS_Resin_A2250369486105001C.pdf",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/CTI_RoHS_Test_Report_ABS_Resin_A2250369486105001C.pdf",
+        "bytes": 864079,
+        "sha256": "edd6272cd00a5dd9c0130f978a3874c6da9f5d1b5486165d66eb2293aa206827"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/CTI_RoHS_Test_Report_ABS_Resin_A2250369486105001C.pdf",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-005",
+    "title": "supplier-package/CTI_RoHS_Test_Report_Silicone_Rubber_A2260155444101001E.pdf",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/CTI_RoHS_Test_Report_Silicone_Rubber_A2260155444101001E.pdf",
+        "bytes": 784774,
+        "sha256": "c42107535987eca67cc4c4e2f391aef3ddb3d849296c89725f1879dfad6a3ed7"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/CTI_RoHS_Test_Report_Silicone_Rubber_A2260155444101001E.pdf",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-006",
+    "title": "supplier-package/Pony_MSDS_Test_Report_NdFeB_Magnet_5446_MUIVD21G8305157U3.pdf",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Pony_MSDS_Test_Report_NdFeB_Magnet_5446_MUIVD21G8305157U3.pdf",
+        "bytes": 3843749,
+        "sha256": "ee3147af80f8ca98ffbc69b2f1fa0422a9ae4c5138fa184072edc0135a41c8ab"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Pony_MSDS_Test_Report_NdFeB_Magnet_5446_MUIVD21G8305157U3.pdf",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-007",
+    "title": "supplier-package/Product Images/Add-on clip for non magnetic phones.png",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/Add-on clip for non magnetic phones.png",
+        "bytes": 336406,
+        "sha256": "927710c128d3f0c1792725fbf498278d7d4ae85a15c09d29db7ea779c6de2bae"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/Add-on clip for non magnetic phones.png",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-008",
+    "title": "supplier-package/Product Images/X79Z_Evidence_01_70mm_Suction_and_Dual_Arm_Reach.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_01_70mm_Suction_and_Dual_Arm_Reach.jpg",
+        "bytes": 480292,
+        "sha256": "7efbac91902a4bbb8e835bce9bd45fcd2577669ca14b49a5ec1a3c26841683e0"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_01_70mm_Suction_and_Dual_Arm_Reach.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-009",
+    "title": "supplier-package/Product Images/X79Z_Evidence_02_N52_Magnetic_Array_Exploded_Callout.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_02_N52_Magnetic_Array_Exploded_Callout.jpg",
+        "bytes": 304247,
+        "sha256": "94b4e2d890671f4696b5a1944c54a1393eed0f31f1bca61bf8dda121e63bd4f9"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_02_N52_Magnetic_Array_Exploded_Callout.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-010",
+    "title": "supplier-package/Product Images/X79Z_Evidence_03_360_Turntable_and_Internal_Cam_Explosion.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_03_360_Turntable_and_Internal_Cam_Explosion.jpg",
+        "bytes": 356303,
+        "sha256": "b50802e5bacffdf672e7ef5fbbb98dce14eba4671e7d54a55ad250e25ebd3508"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_03_360_Turntable_and_Internal_Cam_Explosion.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-011",
+    "title": "supplier-package/Product Images/X79Z_Evidence_04_Kinematic_Degrees_of_Freedom_Angles.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_04_Kinematic_Degrees_of_Freedom_Angles.jpg",
+        "bytes": 481550,
+        "sha256": "6601b75f4e69da287a42db94c924e9e2709179dc925320adc550931367ec08ed"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_04_Kinematic_Degrees_of_Freedom_Angles.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-012",
+    "title": "supplier-package/Product Images/X79Z_Evidence_05_Folded_Profile_and_Substrate_Surfaces.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_05_Folded_Profile_and_Substrate_Surfaces.jpg",
+        "bytes": 452315,
+        "sha256": "8d41b2f5a6627c64ebd13894d89da6085ad875555eb227d044aef61e0276b71d"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_05_Folded_Profile_and_Substrate_Surfaces.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-013",
+    "title": "supplier-package/Product Images/X79Z_Evidence_06_Washable_PU_Base_and_Multi_Scenarios.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_06_Washable_PU_Base_and_Multi_Scenarios.jpg",
+        "bytes": 640530,
+        "sha256": "d18a5363ba6c4cbf384cd29e39337e22f34d4f8e15bb72299eb0e4cf886f0798"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_06_Washable_PU_Base_and_Multi_Scenarios.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-014",
+    "title": "supplier-package/Product Images/X79Z_Evidence_07_Dual_State_Folded_vs_Extended_Hero.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_07_Dual_State_Folded_vs_Extended_Hero.jpg",
+        "bytes": 200459,
+        "sha256": "2f8b07bdfddb4c6bc51ce326719ba841646ec17f3ec64bb42a24feb34995fe10"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_07_Dual_State_Folded_vs_Extended_Hero.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-015",
+    "title": "supplier-package/Product Images/X79Z_Evidence_08_2D_Engineering_Dimensional_Schematic.jpg",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product Images/X79Z_Evidence_08_2D_Engineering_Dimensional_Schematic.jpg",
+        "bytes": 380798,
+        "sha256": "03474145458b000260be68c4fc351988ff874336cf7c82a3e7bc9f3f15770e9f"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product Images/X79Z_Evidence_08_2D_Engineering_Dimensional_Schematic.jpg",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "All nine images viewed"
+  },
+  {
+    "id": "S-016",
+    "title": "supplier-package/Product video/1791015907852.mp4",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/Product video/1791015907852.mp4",
+        "bytes": 3466596,
+        "sha256": "a2887e4a4e119a8a71f6b2fa7b5f41cded4e8b3377f9b48cd9d338a1922abbbd"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/Product video/1791015907852.mp4",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-017",
+    "title": "supplier-package/X79Z 3D File.stp",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/X79Z 3D File.stp",
+        "bytes": 13550775,
+        "sha256": "c1d0c77402efb8e981831766eb159e058598048761cae918aa2dd57ab0b3fbe5"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/X79Z 3D File.stp",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-018",
+    "title": "supplier-package/X79Z details .pdf",
+    "files": [
+      {
+        "path": "evidence/raw/supplier-package/X79Z details .pdf",
+        "bytes": 1872803,
+        "sha256": "f684ca5b2941b907fac16a0ab218954e0bd93e4cf16424b8f11c3c11ebf7b307"
+      }
+    ],
+    "url": "/Users/kaziwaseef/Downloads/X79Z/X79Z details .pdf",
+    "issuer": "Supplier package; issuer in original",
+    "retrieved": "2026-10-20",
+    "locator": "Exact pages/images in technical intake and feature table",
+    "inspection": "See technical intake for inspected pages and limits"
+  },
+  {
+    "id": "S-019",
+    "title": "User analysis instruction",
+    "files": [
+      {
+        "path": "evidence/raw/analysis-instruction-2026-10-20.md",
+        "bytes": 695,
+        "sha256": "4055d53d152d5d448bd1a90985b3428488a9e88853f0cf58d58ed82014568be4"
+      }
+    ],
+    "url": "User conversation",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Full instruction",
+    "inspection": "Scope expansion recorded"
+  },
+  {
+    "id": "S-020",
+    "document": "CN222884700U",
+    "title": "\n        Suction cup magnetic bracket\n       \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-parent/CN222884700U.html",
+        "bytes": 67115,
+        "sha256": "08afebd15db1c65ec110344788defca9a1ae2d7a9c118a006125a7b27c3d0729"
+      },
+      {
+        "path": "evidence/raw/public-parent/CN222884700U.pdf",
+        "bytes": 1129702,
+        "sha256": "ff1b0a126bc4a720895588466a2dc4d2b05cc04e90f641fdba4c82b453ed3a50"
+      }
+    ],
+    "url": "https://patents.google.com/patent/CN222884700U/en",
+    "issuer": "CNIPA",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-021",
+    "document": "US20230328164A1",
+    "title": "Mobile phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-parent/US20230328164A1.html",
+        "bytes": 133348,
+        "sha256": "8e16f3dcdb6ed3e848b26ff886988d82183664add185c3dfbd2bd54b5567e6ad"
+      },
+      {
+        "path": "evidence/raw/public-parent/US20230328164A1.pdf",
+        "bytes": 413855,
+        "sha256": "6c9c61afb28336a4c0a7ae8ce8fb7d4aed062a4764693330bc7cc68c0feffb87"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20230328164A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-022",
+    "document": "US20100044534A1",
+    "title": "Resizable device stand \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-parent/US20100044534A1.html",
+        "bytes": 193756,
+        "sha256": "d38e3b64d5005b2cabdb39b20267542f0366b6bb81b58ef999a2003b0a363b03"
+      },
+      {
+        "path": "evidence/raw/public-parent/US20100044534A1.pdf",
+        "bytes": 410704,
+        "sha256": "60b23ddb0a4e8355449aa3ec15c761817d8df5ebf4b8c9f28b5704b960d0cd20"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20100044534A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-023",
+    "document": "US7913963B2",
+    "title": "Device stand with suction base \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-parent/US7913963B2.html",
+        "bytes": 235061,
+        "sha256": "8ac535247bbdcbf101b8c6e60a0f5745873f51fb919be3710c006731940f2f28"
+      },
+      {
+        "path": "evidence/raw/public-parent/US7913963B2.pdf",
+        "bytes": 455028,
+        "sha256": "d7a9cfd132360c14910aa537ae7e7b96a3649d87ac0329c4a410c12adcde6f5a"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US7913963B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-024",
+    "document": "US12275356B1",
+    "title": "Suction mount \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-parent/US12275356B1.html",
+        "bytes": 267576,
+        "sha256": "b9010784e799d28c1ce499d9b6d86d62bb8ea655744a23d75749d7a6b9e72d56"
+      },
+      {
+        "path": "evidence/raw/public-parent/US12275356B1.pdf",
+        "bytes": 1087144,
+        "sha256": "963b5807d37fee0e0fb31c209c6a1a5d82ca751463ffe63ffcd890d857905e2c"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12275356B1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-025",
+    "document": "US20260019491A1",
+    "title": "Vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways \n     ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20260019491A1.google-patents.html",
+        "bytes": 102427,
+        "sha256": "6f4158b2e9475a08fabcbc7cdc48edd8a3e1625a4a3a8b4f2062a2cc6518fae1"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US20260019491A1.uspto.pdf",
+        "bytes": 485095,
+        "sha256": "59ae2a32ed372a879738b260842fdb4859b3fe08a714e864599d764098af7a0a"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20260019491A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-026",
+    "document": "US20260012526A1",
+    "title": "Vehicle-mounted and household dual-purpose magnetic, rotatable and foldable mobile phone holder capable of being freely adsorbed \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20260012526A1.google-patents.html",
+        "bytes": 120649,
+        "sha256": "a3890ccef3ae5f1137ee88cfb61062d988f0fe36965a5c1db0227e20ebd792d6"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US20260012526A1.uspto.pdf",
+        "bytes": 556440,
+        "sha256": "6e9d72b593ba9f430b31c678355b4f19c1b7155524319cf3853542928c218fdb"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20260012526A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-027",
+    "document": "US9962040B2",
+    "title": "Bath safety rail \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US9962040B2.google-patents.html",
+        "bytes": 477859,
+        "sha256": "900ac435218985827abc88aa846cf5489df04f3eecda6a6aed66c31a279020b1"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US9962040B2.pdf",
+        "bytes": 1862554,
+        "sha256": "f077ba592aaedb7e4af837d2e9c6f008fec354a9e01a49f0b8cad00218c2d380"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US9962040B2.uspto.pdf",
+        "bytes": 1320960,
+        "sha256": "24d923641b33ef65732651c5cca71f0a84442542ea1250ffd644b57b76816acd"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US9962040B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-028",
+    "document": "US10731391B2",
+    "title": "Suction-security system \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US10731391B2.google-patents.html",
+        "bytes": 335468,
+        "sha256": "48f73fdaf0f30ad25ecca5c4c495872831a4567748962c359878209c395d7fb4"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US10731391B2.pdf",
+        "bytes": 1345004,
+        "sha256": "223b8a2c37eeba24f390940b0e6bc1353c3925272c6f1641ec03f39d46ad69a0"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US10731391B2.uspto.pdf",
+        "bytes": 1002068,
+        "sha256": "fec262c4d1f7664c105d2ed848ccedafe7a64791c834f3356895d1fb94da926b"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US10731391B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-029",
+    "document": "US12031565B2",
+    "title": "Suction mount and brackets and accessories therefor \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12031565B2.google-patents.html",
+        "bytes": 1055823,
+        "sha256": "0889892513fd6ae8be8c2a2e3a270f0f422415967498cbe879f2774103493684"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US12031565B2.pdf",
+        "bytes": 1704480,
+        "sha256": "1df6552724ea7fbfcffa5a12540e0d36188bd34e95d7b8ad065fdda5798f55a5"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US12031565B2.uspto.pdf",
+        "bytes": 1702165,
+        "sha256": "cd78bc1c8f055682057d9136a9424ab2f9c2057ca33cf9ec025e5cc3c7f5f4ce"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12031565B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-030",
+    "document": "US11796128B1",
+    "title": "Two-in-one multi-functional magnetic bracket \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US11796128B1.google-patents.html",
+        "bytes": 214872,
+        "sha256": "38bc077dc3263d4574fe695bd43549230c1f2c4851e0e80284b12c89f120d412"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US11796128B1.pdf",
+        "bytes": 616519,
+        "sha256": "fe2a25563e4b532045f62b83de328678cfa4f0e5dbefb27a7803750f23cb3e56"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US11796128B1.uspto.pdf",
+        "bytes": 616239,
+        "sha256": "e98a2760723a55a2a8906c80693663c17677cb057b4202bab2acae878fa2c3e5"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US11796128B1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-031",
+    "document": "US12395201B2",
+    "title": "Adaptive support accessory for mobile devices \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12395201B2.google-patents.html",
+        "bytes": 858691,
+        "sha256": "272e3ea3f494c6555512ce11f1c5e2a1d0896de66a97973e1496fdf5bd0e5bea"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12395201B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-032",
+    "document": "US11722016B2",
+    "title": "Accessory insert modules with magnetic alignment components \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US11722016B2.google-patents.html",
+        "bytes": 2389535,
+        "sha256": "7c9e46dd956421901fff165232dbdaa11b1b3b350c0ea7bdc0d516d7b1924945"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US11722016B2.pdf",
+        "bytes": 8836871,
+        "sha256": "43263bf88edf03a3ad7eae1171687fc2da4a99f04e5bd21e8ec26595ed2364f9"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US11722016B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-033",
+    "document": "US12126194B2",
+    "title": "Accessories with magnetic alignment components \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12126194B2.google-patents.html",
+        "bytes": 1600720,
+        "sha256": "88a9e164e45eb710dadfbecb1b623fd2161704e0cd5b35e26d39bc168e1ebc6c"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US12126194B2.pdf",
+        "bytes": 5705314,
+        "sha256": "ee8104538c718705cfde89af6854920fbcc9dbe906e67c6c259853798630b968"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12126194B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-034",
+    "document": "US11552667B2",
+    "title": "Adaptive support accessory for mobile devices \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US11552667B2.google-patents.html",
+        "bytes": 1576113,
+        "sha256": "563bf9cc49cbcaad40ec24f95958b7ebacdd74839e9bab3213aa1d71dadc667b"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US11552667B2.pdf",
+        "bytes": 5589698,
+        "sha256": "21a96793cd791a9d85c9bd5463e6ad4f42525e4542f609400dbe8301960a19a7"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US11552667B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-035",
+    "document": "US20250357961A1",
+    "title": "Magnetic component assemblies for mobile devices \n     ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20250357961A1.google-patents.html",
+        "bytes": 829300,
+        "sha256": "fcf88e9e6c9cf4cc13debfc685bc896fff63b1278ad0919e1f21507a57dc44c9"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20250357961A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-036",
+    "document": "US12317995B1",
+    "title": "Bracket assembly and electronic device bracket \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12317995B1.google-patents.html",
+        "bytes": 269848,
+        "sha256": "d25b97892a14dab1b8c7ae8fe2cb048cd167f1b2782bc7f876a81b1afa3150ee"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US12317995B1.pdf",
+        "bytes": 800167,
+        "sha256": "4c8e89f931f55989bcc5543f5bcac71ae429027fdd1504bc3ea62eccc660b78a"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US12317995B1.uspto.pdf",
+        "bytes": 799967,
+        "sha256": "def455a47b7c1f979c352a74d1028817c760cfc34a9230084bcdfe90aa1e006b"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12317995B1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-037",
+    "document": "US20250248515A1",
+    "title": "Bracket Assembly And Electronic Device Bracket \n     ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20250248515A1.google-patents.html",
+        "bytes": 176984,
+        "sha256": "3a88227b247e6007b4c428c0382f11a6d56a8c620fa1ad122c153fa158663aac"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20250248515A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-038",
+    "document": "US7635111B2",
+    "title": "Suction cup device \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US7635111B2.google-patents.html",
+        "bytes": 343117,
+        "sha256": "ac9446ed26747a2107a76ece367e52e0957ace050de363afced53a3c85efa31b"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US7635111B2.pdf",
+        "bytes": 1264681,
+        "sha256": "8a011aeab70ccd5974fb4d739d479b42010ec8a7a687c5a470a0185ea6944c12"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US7635111B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-039",
+    "document": "US12381970B2",
+    "title": "Magnetic type mobile phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12381970B2.google-patents.html",
+        "bytes": 252360,
+        "sha256": "678e7fdbf05869ff2367fe343324d3bcc6ba726da7dfe5182bd72f9f08f062b6"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12381970B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-040",
+    "document": "US12471722B2",
+    "title": "Suction cup holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12471722B2.google-patents.html",
+        "bytes": 175270,
+        "sha256": "f6da1b611336b478509f2daf55be77e56d33ef1b73f0c262d7e6932a21a6ee46"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12471722B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-041",
+    "document": "US20230291234A1",
+    "title": "Wireless charging stand \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20230291234A1.google-patents.html",
+        "bytes": 280526,
+        "sha256": "449724fadc409db5deeb19912017eaaddb29fde5d6579426528464ed14606dab"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US20230291234A1.pdf",
+        "bytes": 718211,
+        "sha256": "2b3666589a5138d26515f2b13ecdebf2de99a337232f0e00b247877aba0dbb0f"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20230291234A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-042",
+    "document": "US11019910B2",
+    "title": "Perspective adjustable viewing apparatus with base suction device for locking to surfaces \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US11019910B2.google-patents.html",
+        "bytes": 464536,
+        "sha256": "57aa785c38c9da03de32b3b50367f62151bc378e5201b702adc1e84f7e55e703"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US11019910B2.pdf",
+        "bytes": 2393758,
+        "sha256": "62c36870a501b4e4d1cee72c3fbcda312062d7db7dac26e15e651970fc49ce02"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US11019910B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-043",
+    "document": "US12549213B2",
+    "title": "Magnetic accessory for electronic devices \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US12549213B2.google-patents.html",
+        "bytes": 354064,
+        "sha256": "97d0b3ee9194e74a56713647fa2b8d9d24ff5195bc44bafbecd7be1a3c567a49"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12549213B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-044",
+    "document": "US20130112838A1",
+    "title": "Electrical Accessory and Method of Providing Same \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/US20130112838A1.google-patents.html",
+        "bytes": 782500,
+        "sha256": "df042b444eaa21861bc92fe93bf530d09f1390831b80e0115d2dee4462b618b1"
+      },
+      {
+        "path": "evidence/raw/public-independent-patents/US20130112838A1.pdf",
+        "bytes": 2957661,
+        "sha256": "ea8174c352f1f8f08bfb1a50e2b347106d1f2fd94af5d26893e20a0a337e1ef8"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20130112838A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-045",
+    "document": "USD944788S1",
+    "title": "Magnetic suction telescopic folding bracket \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD944788S1-uspto.pdf",
+        "bytes": 205697,
+        "sha256": "a33604a95c8a16c38f7e7cd4dbd2b46ecfa18d3d6c00685b2944eee3f368070f"
+      },
+      {
+        "path": "evidence/raw/public-design/USD944788S1.html",
+        "bytes": 95345,
+        "sha256": "8d1f0fab73acfab1867ae3663a0e9dd67b733aea29ecf53449acd4cab7e613dd"
+      },
+      {
+        "path": "evidence/raw/public-design/USD944788S1.pdf",
+        "bytes": 238418,
+        "sha256": "150a2ad8f806f3c684dae0ea0606c22911e50550dcafc6ea9cafe5d19c23ec07"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D944788",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-046",
+    "document": "USD1044792S1",
+    "title": "Magnetic phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1044792S1-uspto.pdf",
+        "bytes": 171418,
+        "sha256": "44927b527270a137bb203e06b1f22c9d0a63f0821fb8241817a6e134b0c7079c"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1044792S1.html",
+        "bytes": 85170,
+        "sha256": "18d95716463c6553f92b5e8af1bbc25a2e491d5bc5a06a5a253ff497310047d6"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1044792S1.pdf",
+        "bytes": 171456,
+        "sha256": "d0bb7d42a5f46f2d7283d86a60e326632384c26d4fb9a98f0602f33d6df4d94b"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1044792",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-047",
+    "document": "USD1050107S1",
+    "title": "Mobile phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1050107S1-uspto.pdf",
+        "bytes": 328580,
+        "sha256": "4b405f93d817ca81c2117413274b3ba27ee23a67e55f53d152555ee4f4be38c3"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1050107S1.html",
+        "bytes": 103081,
+        "sha256": "05acf95c18c3d1de5569916c82d36577210fc2b4e2efd6abc559ef64295c5e34"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1050107S1.pdf",
+        "bytes": 328698,
+        "sha256": "8f3efd4ab2e0b8d398f3288f6484f73b93d7c1d410e7642ba95c2e46420636eb"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1050107",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-048",
+    "document": "USD1052575S1",
+    "title": "USD1052575S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1052575S1-uspto.pdf",
+        "bytes": 244383,
+        "sha256": "86dbe51a071e77c27303d1575722dae862c2238f1e3d4308d2f964d6fb528598"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1052575",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-049",
+    "document": "USD1053182S1",
+    "title": "Suction mount phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1053182S1-uspto.pdf",
+        "bytes": 256380,
+        "sha256": "abf7f32504b0fd2152d09e2e0d27ff938f0ebe7c67a27deccd970ce121597446"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1053182S1.html",
+        "bytes": 73102,
+        "sha256": "46dd42edbb03a3291420087fcba1907ba305db1abff1f99c45930fe565086eca"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1053182S1.pdf",
+        "bytes": 256578,
+        "sha256": "8a8efcccadbe81205d19e2dfbac265563e5ff0872d09f87dd2525404ce54c07c"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1053182",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-050",
+    "document": "USD1060330S1",
+    "title": "Mobile phone holder with magnetic suction ring \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1060330S1-uspto.pdf",
+        "bytes": 322984,
+        "sha256": "2ec0bced4a61827cddfd11537ba95da7f44675f5485609a7be1e0ca69157d452"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1060330S1.html",
+        "bytes": 98355,
+        "sha256": "42b0aea43c8353238ffb563020c2d3cdfd93b49dad31106f2b42aed92f5e2c73"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1060330S1.pdf",
+        "bytes": 323262,
+        "sha256": "8c64301a0c56d4052bfa37164c28367bbc4444f7c0d30ab7286a81193159a42c"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1060330",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-051",
+    "document": "USD1061503S1",
+    "title": "USD1061503S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1061503S1-uspto.pdf",
+        "bytes": 366951,
+        "sha256": "5c6e4c8b37c844126c19e5b4637231c7da9322801c05246536c5fd6e27b0b04c"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1061503",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-052",
+    "document": "USD1070561S1",
+    "title": "Suction cup phone mount \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1070561S1-uspto.pdf",
+        "bytes": 269242,
+        "sha256": "4f7eeb7364de2d3fdbefb320f84ae4c256c1cbffa0f74e2a729eb40183ae6185"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1070561S1.html",
+        "bytes": 62649,
+        "sha256": "10b78f90567690eae6225e9a0862b7e4a5ddfab9d7bacb70b67e0bf0313566a9"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1070561S1.pdf",
+        "bytes": 269280,
+        "sha256": "429b6cb0b2f3a93276ba0f934ddabefad0019202f4482b6afc14ac60fa97449e"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1070561",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-053",
+    "document": "USD1072801S1",
+    "title": "USD1072801S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1072801S1-uspto.pdf",
+        "bytes": 199874,
+        "sha256": "599fac5ee752781387aacb93316795231618e9c135cca9a522733cf0d6d16dc0"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1072801",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-054",
+    "document": "USD1073660S1",
+    "title": "USD1073660S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1073660S1-uspto.pdf",
+        "bytes": 207957,
+        "sha256": "cc4f7fe182a3c93aed2b895e2a659624505f9fdfeb43bf5c0926ebf8070850a4"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1073660",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-055",
+    "document": "USD1076906S1",
+    "title": "Magnetic phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1076906S1-uspto.pdf",
+        "bytes": 216517,
+        "sha256": "46899d24bb7865e69386f6369536165ba9e7e7eba2ebb171a9aa28bab30ba62d"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1076906S1.html",
+        "bytes": 57278,
+        "sha256": "083512d5cea41e178a1eef62ffe3f2734d11640b03a1ed59e14d8fc3c2a23ff5"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1076906S1.pdf",
+        "bytes": 216715,
+        "sha256": "ecaee1cea66189d1542eb57083f8f17545bf9b278625f0c25e15daffb2e24c10"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1076906",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-056",
+    "document": "USD1080612S1",
+    "title": "USD1080612S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1080612S1-uspto.pdf",
+        "bytes": 593951,
+        "sha256": "423c58d7fc594a40d571fe1e1480e59d28899547703ea0e7ea83f72542122185"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1080612",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-057",
+    "document": "USD1084650S1",
+    "title": "Magnetic suction phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1084650S1-uspto.pdf",
+        "bytes": 290943,
+        "sha256": "1a999c05fe72d6c1660331160dca4affc82d059caada671de4cec1aca268599d"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1084650S1.html",
+        "bytes": 78667,
+        "sha256": "d09262abf639164d90ae27259c08297e33d8bc3d649cbf865439f37d281462bf"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1084650",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-058",
+    "document": "USD1091526S1",
+    "title": "Suction phone mount \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1091526S1-uspto.pdf",
+        "bytes": 258436,
+        "sha256": "c4aad201d762100e296a4fc3d0eb282cccf0fa1cbdc6564ff015964e7fd289d8"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1091526S1.html",
+        "bytes": 75940,
+        "sha256": "a56135dc6179062656c4953aa752310f428f97fb466e274139933f9cff2d0981"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1091526",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-059",
+    "document": "USD1101739S1",
+    "title": "Magnetic phone holder \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1101739S1-uspto.pdf",
+        "bytes": 265471,
+        "sha256": "9320a0120eab798ffc6ecb72669a085f4e1de349c66e6e0a1f0abb10fa182482"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1101739S1.html",
+        "bytes": 81098,
+        "sha256": "b52033078175ad80c7aae1a1630c2e6cc800a9ea380c59745d728eb343c067b3"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1101739",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-060",
+    "document": "USD1101740S1",
+    "title": "USD1101740S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1101740S1-uspto.pdf",
+        "bytes": 300675,
+        "sha256": "b68eeba24d73cfac449481ee16cd615c5d93a20ce117635bbe1bfe6bc9c10de4"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1101740",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-061",
+    "document": "USD1115755S1",
+    "title": "Magnetic phone holder with suction cup \n       ",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1115755S1-uspto.pdf",
+        "bytes": 211445,
+        "sha256": "b94565fb15bcbf345828d067ac28388b49abefc514c2629cf2e040646e549db7"
+      },
+      {
+        "path": "evidence/raw/public-design/USD1115755S1.html",
+        "bytes": 82866,
+        "sha256": "888418ffce32f8b5ae6208668cb1656e927f1265610efcf3589b27bdb4a01ee2"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1115755",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-062",
+    "document": "USD1122241S1",
+    "title": "USD1122241S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1122241S1-uspto.pdf",
+        "bytes": 295471,
+        "sha256": "97f481b270630e94cab33f0fd7c19feb3b88f75285f88d190e40fdd59355543c"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1122241",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-063",
+    "document": "USD1134327S1",
+    "title": "USD1134327S1",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/USD1134327S1-uspto.pdf",
+        "bytes": 498170,
+        "sha256": "d54d79b78015a8293cde7fe303f5c2d5862b3062300633f76ae74f7750b78718"
+      }
+    ],
+    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1134327",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Original claims, front page, figures as cited in run",
+    "inspection": "Retained claim text read; exact drawing inspection in research note; current legal status unverified",
+    "date_note": "Original front-page dates and research inventory control"
+  },
+  {
+    "id": "S-064",
+    "title": "Historic fee lapse",
+    "files": [
+      {
+        "path": "evidence/raw/public-independent-patents/USPTO-OG-2024-week40-expiration-notice.html",
+        "bytes": 738386,
+        "sha256": "11f6fb2c6c7f86abeb9f7f62f39995116fa841b6792a968da00e449c1b1046d1"
+      }
+    ],
+    "url": "https://www.uspto.gov/web/offices/com/sol/og/2024/week40/TOC.htm",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Oct1,2024 expiry notice, entry10,731,391 /16/143,299",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-065",
+    "title": "ROCBOLT product",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/rocbolt-product.html",
+        "bytes": 459585,
+        "sha256": "58b8b545fa875aa4459678a3efff8ace63c340b100ea2db70d080fda490d00af"
+      }
+    ],
+    "url": "https://rocstor.com/product/rocstor-rocbolt-premium-combination-cable-lock-4-digit-combination-lock-6-ft/",
+    "issuer": "Rocstor",
+    "retrieved": "2026-10-20",
+    "locator": "Title/general information/US distributors/HQ",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-066",
+    "title": "ROCBOLT manual",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/rocbolt-manual.pdf",
+        "bytes": 802866,
+        "sha256": "9e65f331b5289a2244c3c4b7d0c119acb0a8d9fc4178338cdaea4027d4a71017"
+      }
+    ],
+    "url": "https://rocstor.com/wp-content/uploads/2022/12/v2-Y1RB022-B1-Rocbolt-USB-4Digit-Combination-Lock-Manual.pdf",
+    "issuer": "Rocstor",
+    "retrieved": "2026-10-20",
+    "locator": "pp1–2; company registration assertion p2",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-067",
+    "title": "BON X79Z offer",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/ibits-x79z.html",
+        "bytes": 355923,
+        "sha256": "a05c0dd672364f0f7b3db53eab523545fac89137afaa46d729c09fe3e6a66126"
+      }
+    ],
+    "url": "https://www.ibits.tw/zh-TW/products/ci9018fx",
+    "issuer": "iBits Taiwan",
+    "retrieved": "2026-10-20",
+    "locator": "Title and parameters; US use not established",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-068",
+    "title": "Trademark Search app shell",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/uspto-trademark-search.html",
+        "bytes": 125603,
+        "sha256": "1b50fe39523553c0a6c994e9a25a2c4e6e98feee6d16aa4923883acc080a4c79"
+      }
+    ],
+    "url": "https://tmsearch.uspto.gov/",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "No register result set",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-069",
+    "title": "Design term",
+    "files": [
+      {
+        "path": "evidence/raw/public-design/uspto-mpep1505.html",
+        "bytes": 22695,
+        "sha256": "128609b655d35dbcabc6aca2e645c7ced634f5df99bd3ea902825a8351dd292a"
+      }
+    ],
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s1505.html",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "MPEP1505",
+    "inspection": "See run limits"
+  },
+  {
+    "id": "S-070",
+    "title": "patent-laws.html",
+    "files": [
+      {
+        "path": "evidence/raw/public-legal/patent-laws.html",
+        "bytes": 1498156,
+        "sha256": "e01be320575fec3f77a61f49a7fb1e0d6af15174d630b6abb0af0246553579e1"
+      }
+    ],
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/mpep-9015-appx-l.html",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Section/page cited in run",
+    "inspection": "Primary legal source retrieved; version limits in run"
+  },
+  {
+    "id": "S-071",
+    "title": "patent-manage.html",
+    "files": [
+      {
+        "path": "evidence/raw/public-legal/patent-manage.html",
+        "bytes": 158238,
+        "sha256": "e0a5aefbe344036bf1e532b2dde449a3544a76b396dc231aac1e82076e074f70"
+      }
+    ],
+    "url": "https://www.uspto.gov/patents/basics/manage",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Section/page cited in run",
+    "inspection": "Primary legal source retrieved; version limits in run"
+  },
+  {
+    "id": "S-072",
+    "title": "trademark-confusion.html",
+    "files": [
+      {
+        "path": "evidence/raw/public-legal/trademark-confusion.html",
+        "bytes": 142279,
+        "sha256": "d94300542e81d73480e369eda62e00ba44f17d276665bcfcf312ada4e4d14bb8"
+      }
+    ],
+    "url": "https://www.uspto.gov/trademarks/search/likelihood-confusion",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Section/page cited in run",
+    "inspection": "Primary legal source retrieved; version limits in run"
+  },
+  {
+    "id": "S-073",
+    "title": "trademark-search-scope.html",
+    "files": [
+      {
+        "path": "evidence/raw/public-legal/trademark-search-scope.html",
+        "bytes": 134141,
+        "sha256": "d3f14e7c1942a6306dc41d10f78ff60abf6b735512d7ea9b0bb0c322550295fa"
+      }
+    ],
+    "url": "https://www.uspto.gov/trademarks/basics/why-search-similar-trademarks",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Section/page cited in run",
+    "inspection": "Primary legal source retrieved; version limits in run"
+  },
+  {
+    "id": "S-074",
+    "title": "copyright-basics.pdf",
+    "files": [],
+    "url": "https://www.copyright.gov/circs/circ01.pdf",
+    "issuer": "Copyright Office",
+    "retrieved": "2026-10-20",
+    "locator": "Section/page cited in run",
+    "inspection": "Web PDF read; local HTTP403"
+  },
+  {
+    "id": "S-075",
+    "title": "lanard.pdf",
+    "files": [
+      {
+        "path": "evidence/raw/public-legal/lanard.pdf",
+        "bytes": 265869,
+        "sha256": "e67d03b1887a941fca5b5df6efc32c710a5398f4af537643bb7ac31d015c356c"
+      }
+    ],
+    "url": "https://www.cafc.uscourts.gov/opinions-orders/19-1781.opinion.5-14-2020_1587770.pdf",
+    "issuer": "Federal Circuit",
+    "retrieved": "2026-10-20",
+    "locator": "Section/page cited in run",
+    "inspection": "Primary legal source retrieved; version limits in run"
+  },
+  {
+    "id": "S-076",
+    "title": "mpep1504.html",
+    "files": [
+      {
+        "path": "evidence/raw/public-legal/mpep1504.html",
+        "bytes": 606808,
+        "sha256": "97725445ece6e5705226aba29d77395ca3774039b2a4dc39d201a672b59bc123"
+      }
+    ],
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s1504.html",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Section/page cited in run",
+    "inspection": "Primary legal source retrieved; version limits in run"
+  },
+  {
+    "id": "S-077",
+    "title": "User configuration, sample, CAD and contract-rights confirmation",
+    "files": [
+      {
+        "path": "evidence/raw/configuration-confirmation-2026-10-20.md",
+        "bytes": 1270,
+        "sha256": "65a961411195acafd43663a949b82d0190c208c7a41688969bd6b65e1a57ce78"
+      }
+    ],
+    "url": "User conversation",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Three numbered answers",
+    "inspection": "User-confirmed facts; contract not provided; sample not inspected"
+  },
+  {
+    "id": "S-078",
+    "title": "Exact S-007 clip selected for inclusion",
+    "files": [
+      {
+        "path": "evidence/raw/clip-confirmation-2026-10-20.md",
+        "bytes": 429,
+        "sha256": "b867f2172c519b77a8ca86ec48a07296dba8ada484fbaf977f01005cc1dd668c"
+      }
+    ],
+    "url": "User question response",
+    "issuer": "User",
+    "retrieved": "2026-10-20",
+    "locator": "Full question and answer",
+    "inspection": "Exact clip identity confirmed"
+  },
+  {
+    "id": "S-079",
+    "document": "US20220228708A1",
+    "title": "US20220228708A1",
+    "files": [
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US20220228708A1.html",
+        "bytes": 606600,
+        "sha256": "1f6509a1aa1f37c814e0823d05ba703480059df3115807ae389762c21e5832f1"
+      },
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US20220228708A1.pdf",
+        "bytes": 3087344,
+        "sha256": "b3095044825210cc2025f3261915126e56e291bf50e252921d05a0011b9f5552"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20220228708A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Full independent claims and relevant dependencies; frozen extracts in run02",
+    "inspection": "Operative text read. Current status/prosecution/title not officially verified. US11796126 granted claims distinguished from its A1"
+  },
+  {
+    "id": "S-080",
+    "document": "US11796126B2",
+    "title": "US11796126B2",
+    "files": [
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US11796126B2.html",
+        "bytes": 607032,
+        "sha256": "2ad2efd98c29f57c68d7a30a84da53296cd7cde8067740cdba89b9bb1d7d54bd"
+      },
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US11796126B2.pdf",
+        "bytes": 2545264,
+        "sha256": "edc458faf881c16f5d41de21d48a69960112c45107c3988036ba9c008122f066"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US11796126B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Full independent claims and relevant dependencies; frozen extracts in run02",
+    "inspection": "Operative text read. Current status/prosecution/title not officially verified. US11796126 granted claims distinguished from its A1"
+  },
+  {
+    "id": "S-081",
+    "document": "US12442483B2",
+    "title": "US12442483B2",
+    "files": [
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US12442483B2.html",
+        "bytes": 441394,
+        "sha256": "d3b39af1ef6f3bb545cc93bf3c558a2524103f96f14933dba0661db139d4d62e"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US12442483B2/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Full independent claims and relevant dependencies; frozen extracts in run02",
+    "inspection": "Operative text read. Current status/prosecution/title not officially verified. US11796126 granted claims distinguished from its A1"
+  },
+  {
+    "id": "S-082",
+    "document": "US20250323990A1",
+    "title": "US20250323990A1",
+    "files": [
+      {
+        "path": "evidence/raw/public-clip-2026-10-20/US20250323990A1.html",
+        "bytes": 162870,
+        "sha256": "b366419cc2524dfc231ee4adfcdfe464c89d9dac0cab5454d4f98ac4882d509a"
+      }
+    ],
+    "url": "https://patents.google.com/patent/US20250323990A1/en",
+    "issuer": "USPTO",
+    "retrieved": "2026-10-20",
+    "locator": "Full independent claims and relevant dependencies; frozen extracts in run02",
+    "inspection": "Operative text read. Current status/prosecution/title not officially verified. US11796126 granted claims distinguished from its A1"
+  }
+]

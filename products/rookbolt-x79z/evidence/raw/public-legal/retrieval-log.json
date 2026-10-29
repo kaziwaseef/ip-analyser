@@ -1,0 +1,49 @@
+[
+  {
+    "file": "patent-laws.html",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/mpep-9015-appx-l.html",
+    "status": 200,
+    "bytes": 1498156,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "patent-manage.html",
+    "url": "https://www.uspto.gov/patents/basics/manage",
+    "status": 200,
+    "bytes": 158238,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "trademark-confusion.html",
+    "url": "https://www.uspto.gov/trademarks/search/likelihood-confusion",
+    "status": 200,
+    "bytes": 142279,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "trademark-search-scope.html",
+    "url": "https://www.uspto.gov/trademarks/basics/why-search-similar-trademarks",
+    "status": 200,
+    "bytes": 134141,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "copyright-basics.pdf",
+    "url": "https://www.copyright.gov/circs/circ01.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "lanard.pdf",
+    "url": "https://www.cafc.uscourts.gov/opinions-orders/19-1781.opinion.5-14-2020_1587770.pdf",
+    "status": 200,
+    "bytes": 265869,
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "mpep1504.html",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s1504.html",
+    "status": 200,
+    "bytes": 606808,
+    "content_type": "text/html; charset=UTF-8"
+  }
+]

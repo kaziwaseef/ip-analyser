@@ -1,0 +1,98 @@
+Claims (
+19
+)
+What is claimed is:
+1. A clamping assembly, comprising:
+a supporting member, having a snap-fit groove, wherein the snap-fit groove includes a first snap groove arranged along a first direction; and
+a clamping member, configured to clamp a mobile device, wherein the clamping member includes a snap-fit structure that is detachably snap-fitted with the snap-fit groove, the clamping member includes a housing, clamping jaws and a button, the housing includes a first hole and a second hole, the clamping jaws are disposed on the housing and configured to clamp the mobile device, the button includes a button body and a tension spring connecting the button body and the housing, the button body includes a pressing part operable through the first hole and a snap part extending from the second hole, and the snap part stretches the tension spring under the action of an external force and clamps with the first snap groove.
+2. The clamping assembly of
+claim 1
+, wherein
+the snap-fit groove includes two first snap grooves arranged along the first direction and two second snap grooves arranged along the second direction, and the first direction is orthogonal to the second direction;
+the clamping member includes two buttons arranged to each other, and the housing includes two first holes corresponding to the two buttons in one-to-one correspondence, groove openings of the snap-fit grooves of the two buttons face away from each other, the snap parts of the two buttons snap-fit with two first snap grooves in one-to-one correspondence, and snap-fit with two second snap grooves in one-to-one correspondence.
+3. The clamping assembly of
+claim 2
+, wherein
+the snap-fit groove has a cross shape, and includes four blocking protrusions, each blocking protrusion is located between the adjacent first snap groove and the second snap groove;
+the housing includes two positioning ribs located on an edge of the second hole and arranged opposite to each other, the two positioning ribs are perpendicular to an extending direction of the snap parts of the two buttons, and when the snap parts of the two buttons snap-fit with the two first snap grooves in one-to-one correspondence or with the two second snap grooves in one-to-one correspondence, rotation of the two positioning ribs are restricted in the snap-fit groove by the four blocking protrusions.
+4. The clamping assembly of
+claim 3
+, wherein sides of the two positioning ribs facing away from each other have guiding slopes.
+5. The clamping assembly of
+claim 2
+, wherein
+a surface of the supporting member facing the clamping member has a substantially cross-shaped positioning groove;
+the housing has a substantially cross-shaped positioning protrusion, and the positioning protrusion is clamped into the positioning groove along the first direction and into the positioning groove along the second direction, and the second hole is located at a center position of the positioning protrusion.
+6. The clamping assembly of
+claim 2
+, wherein
+the housing is a square housing, and the two first holes are respectively located at two opposite ends of the square housing.
+7. The clamping assembly of
+claim 6
+, wherein
+the square housing includes two third holes, the two third holes are respectively located at the other two opposite ends of the square housing, and the clamping jaws pass through the two third holes.
+8. The clamping assembly of
+claim 1
+, wherein
+the pressing part is an arc-shaped pressing part; and/or
+the button body and the housing are connected through the at least two tension spring.
+9. The clamping assembly of
+claim 1
+, wherein
+a first magnet is provided inside the supporting member, a second magnet is provided inside the housing, and the supporting member and the clamping member are magnetically adsorbed through the first magnet and the second magnet.
+10. The clamping assembly of
+claim 1
+, wherein
+the supporting member includes a first body and a first magnet disposed on the first body, the first body has a snap-fit groove, and a sidewall of the snap-fit groove has at least one ball snap-fit groove;
+the clamping member includes a second body, a second magnet disposed on the second body and magnetically adsorbing the first magnet, clamping jaws disposed on the second body and configured to clamp the mobile device, and at least one ball screw, wherein the second body has a protruding part that is inserted into the snap-fit groove, and the at least one ball screw is arranged based on the protruding part, and the ball of each ball screw is clamped into the ball snap-fit groove.
+11. The clamping assembly of
+claim 10
+, wherein
+the at least one ball snap-fit groove includes at least one first ball snap-fit groove and at least one second ball snap-fit groove;
+the at least one ball screw is snap-fitted with the at least one first ball snap-fit groove in one-to-one correspondence, and after clockwise or counterclockwise rotation of 90° relative to the supporting member, at least one second ball snap-fit grooves are clamped in one-to-one correspondence.
+12. A gimbal, comprising:
+the clamping assembly of
+claim 1
+;
+a first cantilever, including a first guiding structure that provides guidance in a first guiding direction;
+a second cantilever, slidably assembled with the first guiding structure, and including a second guiding structure providing guidance in a second guiding direction, wherein the second guiding direction is orthogonal to the first guiding direction, and the clamping assembly is slidably assembled with the second guiding structure;
+a first locking mechanism, configured to lock the sliding of the second cantilever relative to the first guiding structure;
+a second locking mechanism, configured to lock the sliding of the clamping assembly relative to the second guiding structure; and
+a machine body assembly, of which the inside is provided with a first driving mechanism and a second driving mechanism, wherein the first driving mechanism is configured to drive the first cantilever to rotate around the first axis, and the second driving mechanism is configured to drive the machine body assembly to rotate around the second axis, the first axis is arranged along the first guiding direction, and the second axis is arranged along the second guiding direction.
+13. The gimbal of
+claim 12
+, wherein
+the first cantilever includes a first arm section extending along a first guiding direction and a second arm section extending along a second guiding direction, the first guiding structure is arranged on the first arm section, the first driving mechanism is configured to drive the second arm section to rotate around the first axis;
+the second cantilever includes a third arm section extending along the first guiding direction and a fourth arm section extending along the second guiding direction, the third arm section is slidably assembled with the first guiding structure, and the second guiding structure is arranged on the fourth arm section.
+14. The gimbal of
+claim 13
+, wherein
+the first guiding structure includes a guiding groove provided on the first arm section, the guiding groove has a blocking part, and the third arm section includes a sliding part that is slidably assembled in the guiding groove, the sliding part has a stopping part stopping at the blocking part, and the stopping part is closer to the second arm section than the blocking part; and/or
+the third arm section has a strip-shaped hole extending along the first guiding direction, and the first guiding structure includes a guiding post located in the strip-shaped hole and capable of sliding relative to the strip-shaped hole; and/or
+the first arm section is provided with a threaded hole, the first locking mechanism is a fastener threadedly coupled with the threaded hole, and the fastener is screwed to a first locking position where the fastener abuts against the third arm section to restrict the third arm section from sliding relative to the first guiding structure, the fastener is screwed to a first unlocking position where the fastener is separate from the third arm section to allow the third arm section to slide relative to the first guide structure, wherein the side of the third arm section facing the fastener has a groove extending along the first guiding direction, and the fastener abuts against the groove wall of the groove at the first locking position.
+15. The gimbal of
+claim 13
+, wherein the second locking mechanism is a wrench assembly provided on the clamping assembly, and the wrench assembly comprises:
+a wrench, rotating to the second locking position and the second unlocking position; and
+a locking block driven by the wrench, wherein when the wrench is in the second locking position, the locking block abuts against the fourth arm section to restrict the sliding of the clamping assembly relative to the fourth arm section, and when the wrench is in the second unlocking position, the locking block is separated from the fourth arm section to allow the sliding of the clamping assembly relative to the fourth arm section.
+16. The gimbal of
+claim 15
+, wherein the clamping assembly has a sliding groove slidably assembled with the fourth arm section, and an accommodating cavity communicated with the sliding groove, the wrench is disposed outside the clamping assembly, and the wrench assembly further comprises:
+a threaded shaft, which is coaxially and fixedly connected with the wrench through screws and extends into the accommodating cavity, wherein the locking block is threadedly coupled with the threaded shaft and is restricted from rotating with the threaded shaft by the cavity wall of the accommodating cavity, when the wrench is rotated from the second unlocking position to the second locking position, the locking block moves linearly toward the fourth arm section and abut against the fourth arm section, and when the wrench rotates from the second locking position to the second unlocking position, the locking block linearly moves away from the fourth arm section; and
+a spring, which is located in the accommodating chamber and is configured to apply a pre-tightening force to the locking block facing away from the wrench.
+17. The gimbal of
+claim 16
+, wherein
+the back side of the clamping assembly has a first blocking sidewall and a second blocking sidewall configured to restrict the rotation of the wrench between the second unlocking position and the second locking position; and/or
+a cross section of the fourth arm section perpendicular to the second guiding direction is roughly trapezoidal, and the sliding groove is a dovetail groove; and/or
+the side of the locking block facing the wrench has an accommodating groove, and the spring is located in the accommodating groove.
+18. The gimbal of
+claim 12
+, wherein
+the supporting member is magnetically connected to a clamping member, one of the supporting member and the clamping member has two rotational clamping structures arranged orthogonally, the other of the supporting member and the clamping member has a rotation positioning part, and the rotation positioning part cooperates with any one of the rotational clamping structures.
+19. A stabilizer, comprising:
+the gimbal of
+claim 12
+;
+a mounting chassis, disposed at the bottom of the machine body assembly, wherein the second driving mechanism is configured to drive the machine body assembly to rotate relative to the mounting chassis around the second axis; and
+a support frame, of which the top is connected to the mounting chassis.

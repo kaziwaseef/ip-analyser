@@ -1,0 +1,1660 @@
+US12381970B2 - Magnetic type mobile phone holder 
+ - Google Patents
+US12381970B2 - Magnetic type mobile phone holder 
+ - Google Patents
+ Magnetic type mobile phone holder 
+Info
+ Publication number
+ US12381970B2
+ US12381970B2
+ US18/319,905
+ US202318319905A
+ US12381970B2
+ US 12381970 B2
+ US12381970 B2
+ US 12381970B2
+ US 202318319905 A
+ US202318319905 A
+ US 202318319905A
+ US 12381970 B2
+ US12381970 B2
+ US 12381970B2
+ Authority
+ US
+ United States
+ Prior art keywords
+ holder
+ mobile phone
+ connecting section
+ magnetic
+ base
+ Prior art date
+ 2023-05-06
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Active, expires 2044-04-25
+ Application number
+ US18/319,905
+ Other versions
+ US20230291822A1
+ (en
+ Inventor
+ Yuelian Liu
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Shenzhen Sodi Innovation Technologies Co Ltd
+ Original Assignee
+ Shenzhen Sodi Innovation Technologies Co Ltd
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2023-05-06
+ Filing date
+ 2023-05-18
+ Publication date
+ 2025-08-05
+ 2023-05-18
+ Application filed by Shenzhen Sodi Innovation Technologies Co Ltd
+ filed
+ Critical
+ Shenzhen Sodi Innovation Technologies Co Ltd
+ 2023-05-18
+ Assigned to Shenzhen Sodi Innovation Technologies Co., Ltd.
+ reassignment
+ Shenzhen Sodi Innovation Technologies Co., Ltd.
+ ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+ Assignors: LIU, YUELIAN
+ 2023-09-14
+ Publication of US20230291822A1
+ publication
+ Critical
+ patent/US20230291822A1/en
+ 2025-08-05
+ Application granted
+ granted
+ Critical
+ 2025-08-05
+ Publication of US12381970B2
+ publication
+ Critical
+ patent/US12381970B2/en
+ Status
+ Active
+ legal-status
+ Critical
+ Current
+ 2044-04-25
+ Adjusted expiration
+ legal-status
+ Critical
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/04—Supports for telephone transmitters or receivers
+ G—PHYSICS
+ G06—COMPUTING OR CALCULATING; COUNTING
+ G06F—ELECTRIC DIGITAL DATA PROCESSING
+ G06F1/00—Details not covered by groups G06F3/00 - G06F13/00 and G06F21/00
+ G06F1/16—Constructional details or arrangements
+ G06F1/1613—Constructional details or arrangements for portable computers
+ G06F1/1632—External expansion units, e.g. docking stations
+ G—PHYSICS
+ G06—COMPUTING OR CALCULATING; COUNTING
+ G06F—ELECTRIC DIGITAL DATA PROCESSING
+ G06F1/00—Details not covered by groups G06F3/00 - G06F13/00 and G06F21/00
+ G06F1/16—Constructional details or arrangements
+ G06F1/1613—Constructional details or arrangements for portable computers
+ G06F1/1633—Constructional details or arrangements of portable computers not specific to the type of enclosures covered by groups G06F1/1615 - G06F1/1626
+ G06F1/1684—Constructional details or arrangements related to integrated I/O peripherals not covered by groups G06F1/1635 - G06F1/1675
+ G06F1/1686—Constructional details or arrangements related to integrated I/O peripherals not covered by groups G06F1/1635 - G06F1/1675 the I/O peripheral being an integrated camera
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04B—TRANSMISSION
+ H04B1/00—Details of transmission systems, not covered by a single one of groups H04B3/00 - H04B13/00; Details of transmission systems not characterised by the medium used for transmission
+ H04B1/38—Transceivers, i.e. devices in which transmitter and receiver form a structural unit and in which at least one part is used for functions of transmitting and receiving
+ H04B1/3827—Portable transceivers
+ H04B1/3888—Arrangements for carrying or protecting transceivers
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/0202—Portable telephone sets, e.g. cordless phones, mobile phones or bar type handsets
+ H04M1/026—Details of the structure or mounting of specific components
+ H04M1/0264—Details of the structure or mounting of specific components for a camera module assembly
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/0202—Portable telephone sets, e.g. cordless phones, mobile phones or bar type handsets
+ H04M1/026—Details of the structure or mounting of specific components
+ H04M1/0266—Details of the structure or mounting of specific components for a display module assembly
+Definitions
+ the present disclosure
+ relates to the technical field of mobile phone holders, specifically to a novel magnetic type mobile phone.
+ a mobile phone holder
+ is a holder used to support a digital product (such as a mobile phone and a tablet computer) just as its name implies.
+ a digital product
+ such as a mobile phone and a tablet computer
+ the mobile phone holder
+ is mainly designed according to the ergonomics to provide users with a more comfortable way to use digital products.
+ a traditional gripper type mobile phone holder
+ which clamps a mobile phone in a telescopic clamping or swinging clamping manner to achieve fixation.
+ a magnetic type mobile phone holder
+ which designs a magnetic structure on an abutting surface or a portion close to the abutting surface of the mobile phone holder.
+ the magnetic structure in the mobile phone holder
+ attracts a magnetic structure arranged in the mobile phone or a mobile phone protector or a magnetically attracted structure, thereby achieving an objective of fixing the mobile phone.
+ the existing magnetic type mobile phone holder
+ is usually designed as one piece, that is, a holder body and a head portion used for being connected to the mobile phone are of an integrated structure. In this way, the magnetic type mobile phone holder can only be used as a whole holder. When the mobile phone needs to be used with a tablet computer, a laptop computer, or a desktop computer, it is difficult for the integrated magnetic type mobile phone holder to meet the demand. Therefore, the existing magnetic type mobile phone holder needs to be improved.
+ the present disclosure
+ aims to provide a novel magnetic mobile phone holder for the defects and shortcomings in the prior art.
+ the novel magnetic mobile phone holder
+ has the advantages of wide application range, reliable connection, and convenience in use.
+ a novel magnetic type mobile phone holder
+ includes a base, wherein a balancing weight is arranged in the base; a lower holder, wherein one end of the lower holder is in rotatable fit with the base; a first abutment portion is arranged on the lower holder; the first abutment portion can cooperate with the base to fix the mobile phone holder to display equipment; an upper holder, wherein the upper holder is in rotatable fit with one side of the lower holder away from the base; and a magnetic disk holder, wherein the magnetic disk holder is detachably fitted to one side of the upper holder away from the lower holder.
+ the magnetic disk holder
+ When the magnetic disk holder is separated from the upper holder, the magnetic disk holder can be independently connected to the display equipment to connect a mobile phone fixed on the magnetic disk holder to the display equipment.
+ the lower holder
+ includes a first connecting section and a second connecting section connected to one side of the first connecting section away from the base; the first connecting section is perpendicular to the second connecting section; the first abutment portion is located at connection positions of the first connecting section and the second connecting section; the first abutment portion protrudes from the second connecting section and extends towards one side away from the upper holder; and the first abutment portion is perpendicular to the first connecting section.
+ a first hinge portion
+ is arranged at one end of the base; a second hinge portion is arranged on one side of the first connecting section away from the second connecting section; and the upper holder is in rotatable fit with the base through the first hinge portion and the second hinge portion.
+ a hinge end socket
+ is arranged on one side of the second connecting section away from the first connecting section; a hinge slot is formed in one side of the upper holder close to the second connecting section; and the hinge end socket is plugged into the hinge slot and is in rotatable fit through a first rotating shaft.
+ the lower holder
+ further includes a flexible protective member; the flexible protective member is connected to the first connecting section and is located between the first connecting section and an upper end surface of the base; and one side of the flexible protective member away from the second hinge portion is connected to the first abutment portion.
+ an end surface of the magnetic disk holder connected to the mobile phone
+ is a connecting end surface; and the magnetic disk holder includes:
+ a bulge structure
+ is arranged on one side of the outer shell away from the connecting end surface; the bulge structure extends towards one side away from the connecting end surface; a plugging port is formed in a side wall of the bulge structure; the display equipment is connected to the plugging port to achieve connection between the magnetic disk holder and the display equipment; and a magnetic piece, wherein the magnetic piece is mounted on one side, away from the bulge structure, in the outer shell.
+ a connecting portion
+ is arranged in the bulge structure; the connecting portion extends to one side of the magnetic piece; and the upper holder is threaded into the plugging port and is in detachable fit with the connecting portion.
+ a plugging portion
+ is arranged on one side of the upper holder close to the plugging port; a connecting slot matched with the connecting portion is formed in one side of the plugging portion close to the connecting portion; a recess is formed in a side wall of the connecting slot; a fixture block matched with the recess is arranged on an outer side wall of the connecting portion in a raised manner; and/or, a recess is formed in an outer side wall of the connecting portion, and a fixture block matched with the recess is arranged on a side wall of the connecting slot in a raised manner.
+ an abutment portion
+ is arranged on an end surface of the bulge structure located on one side of the plugging port; and the abutment portion is parallel to an attractive end surface of the magnetic disk holder.
+ the magnetic disk holder
+ further includes: a supporting member, wherein the supporting member is accommodated in the outer shell; an annular slot is formed in one side of the supporting member away from the bulge structure; the magnetic piece is embedded in the annular slot; and an abutting sheet, wherein the abutting sheet is located on an attractive side of the magnetic piece and is connected to the magnetic piece.
+ the present disclosure
+ has the beneficial effects that:
+ the mobile phone holder
+ can be hung on the display equipment.
+ the first abutment portion arranged on the lower holder
+ abuts against one end surface of the display equipment.
+ the balancing weight inside the base
+ leans against the other end surface of the display equipment.
+ the lower holder
+ is forced to press against a side wall of the display equipment under the gravity of the balancing weight, so that the first abutment portion resists against the end surface of the display equipment for fixation, thereby achieving the combination between the mobile phone holder and the display equipment.
+ the magnetic disk holder
+ is removed from the upper holder, and the plugging port is clipped into a thickness end surface of the notebook computer display screen or the tablet.
+ the abutment port
+ resists against the end surface of the notebook computer display screen or the tablet, and the outer shell resists against the other end surface of the notebook computer display screen or the tablet, thereby achieving combination between the magnetic disk holder and the notebook computer display screen or the tablet.
+ the mobile phone holder set in this way
+ can realize a basic function of the mobile phone holder, and can also fix the mobile phone on the display equipment for use with the display equipment through the first abutment portion and the abutment portion.
+ use scenes and use ways of the magnetic type mobile phone holder
+ are added, demands of users are greatly met, and the application range and the convenience of use of the magnetic type mobile phone holder are improved.
+ the reliability of combination between the magnetic disk holder and the display screen
+ can be effectively guaranteed.
+ FIG. 1
+ is a schematic structural diagram of combination between a magnetic type mobile phone holder and a display screen of Apple iMac in one embodiment
+ FIG. 2
+ is a schematic structural diagram of combination between a magnetic type mobile phone holder and a display screen of Apple macbook in one embodiment
+ FIG. 3
+ is a schematic structural diagram of combination between a magnetic disk holder and a display screen of Apple macbook in one embodiment
+ FIG. 4
+ is a schematic diagram of an entire structure of a magnetic type mobile phone holder in one embodiment
+ FIG. 5
+ is an exploded diagram of a magnetic disk holder and a main body holder in one embodiment
+ FIG. 6
+ is a schematic structural diagram of a magnetic type mobile phone holder in one embodiment after folding
+ FIG. 7
+ is an exploded diagram of a main body holder in one embodiment
+ FIG. 8
+ is a schematic structural diagram of an upper holder in one embodiment
+ FIG. 9
+ is an exploded diagram of a lower holder in one embodiment
+ FIG. 10
+ is an exploded diagram of a magnetic disk holder in one embodiment
+ FIG. 11
+ is a schematic structural diagram of an outer shell in one embodiment.
+ FIG. 12
+ is a schematic structural diagram of an outer shell in another embodiment.
+ this embodiment
+ mainly relates to a novel magnetic type mobile phone holder, which can not only realize a basic function of the mobile phone holder, but also combine a mobile phone with display equipment 300 to facilitate users to use the mobile phone to take pictures while using the display equipment 300 .
+ the display equipment 300
+ includes but is not limited to a desktop computer display, a notebook computer display screen, a tablet, a television set, and the like.
+ an Apple series product
+ is used for explanation.
+ the magnetic type mobile phone holder of this embodiment
+ is mainly suitable for iPhone 12 , iPhone 13 , iPhone 14 , and other Apple series mobile phones with magnetic blocks inside.
+ this magnetic type mobile phone holder
+ is also applicable to other mobile phones with magnetic blocks or magnetic metal blocks inside.
+ external magnetic blocks or external magnetic metal blocks
+ can be fixed to the mobile phones by pasting, covering, and in other ways, and the mobile phones are then used in conjunction with the magnetic type mobile phone holder.
+ the magnetic metal blocks
+ are metal blocks that can be attracted by magnets.
+ the magnetic type mobile phone holder
+ includes a main body holder 100 and a magnetic disk holder 200 detachably fitted with the main body holder 100 .
+ the magnetic disk holder 200
+ attracts a magnetic block or a magnetic metal block in a mobile phone or attracts a magnetic block or a magnetic metal block attached to a mobile phone housing in another connecting manner, so as to fix the mobile phone.
+ the magnetic disk holder 200 after removal
+ can be assembled with the display equipment 300 , thereby combining the mobile phone fixed on the magnetic disk holder 200 with the display equipment 300 .
+ the mobile phone
+ in the process of connecting the mobile phone to the display equipment 300 through the magnetic disk holder 200 , can also be connected to the display equipment 300 in a wired or wireless manner, thereby achieving interconnection between the mobile phone and the display equipment 300 .
+ the wired or wireless connection
+ includes but is not limited to Bluetooth connection, Internet of Things connection, and screen projection connection.
+ the main body holder 100
+ includes: an upper holder 110 , a lower holder 120 , a base 130 , and a balancing weight 140 .
+ the balancing weight 140
+ is arranged inside the base 130 .
+ One end of the lower holder 120
+ is in rotatable fit with the base 130
+ the other end
+ is in rotatable fit with one side of the upper holder 110 close to the base 130 .
+ the rotatable fit between the lower holder 120 and the base 130
+ is mainly used to adjust a supporting height by the magnetic type mobile phone holder.
+ the rotatable fit between the lower holder 120 and the upper holder 110
+ is mainly used to adjust a supporting angle by the magnetic type mobile phone holder.
+ the supporting angle of the mobile phone holder
+ can also be adjusted.
+ the supporting height
+ changes a lot in the rotating process, so that an adjustment height is used as a main adjustment parameter during the rotation of the lower holder 120 .
+ the supporting height of the mobile phone holder
+ can also be adjusted.
+ the supporting angle
+ changes a lot in the rotating process, so that an adjustment angle is used as a main adjustment parameter during the rotation of the upper holder 110 .
+ the lower holder 120 and the base 130
+ can rotate reversely to fold the lower holder 120 towards a side where the base 130 is located, to achieve folding and storage of the magnetic type mobile phone holder.
+ the upper holder 110
+ can still rotate relative to the lower holder 120 , so that the upper holder 110 is still in a supported state.
+ the supporting height of the magnetic type mobile phone holder
+ is significantly reduced, which is another use state of the magnetic type mobile phone holder.
+ the upper holder 110
+ includes a plugging portion 111 and a connecting portion 112 .
+ the plugging portion 111
+ is used for being plugged into the magnetic disk holder 200 and is assembled with the magnetic disk holder 200 .
+ the connecting portion 112
+ is located on one side of the plugging portion 111 away from the magnetic disk holder 200 .
+ the connecting portion 112
+ is used for being in rotatable fit with the lower holder 120 .
+ the connecting portion 112 and the plugging portion 111
+ are integrally formed, and a step 113 is formed at connection positions of the connecting portion 112 and the plugging portion 111 .
+ a step 113
+ is formed at connection positions of the connecting portion 112 and the plugging portion 111 .
+ a first hinge portion 131
+ is arranged on the base 130 .
+ the lower holder 120
+ includes a first connecting section 121 and a second connecting section 122 .
+ the first connecting section 121
+ is provided with a second hinge portion 121 a
+ the second hinge portion 121 a
+ is in rotatable fit with the first hinge portion 131 through a first rotating shaft 150 .
+ the second connecting section 122
+ is connected to one side of the first connecting section 121 away from the second hinge portion 121 a .
+ the second connecting section 122
+ is in rotatable fit with the upper holder 110 through a second rotating shaft 160 .
+ the first rotating shaft 150
+ is provided with first decorative covers 151 at both ends along an axial direction.
+ the second hinge portion 121 a
+ is provided with first accommodating slots (not shown in the figures) matched with the first decorative covers 151 .
+ the entire first rotating shaft 150
+ is in a regular hexagonal prism shape.
+ a hexagonal through hole (not shown in the figures) matched with the first rotating shaft 150
+ is formed in the second hinge portion 121 a .
+ the corresponding first hinge portion 131
+ is also provided with a hexagonal through hole (not shown in the figures).
+ the first rotating shaft 150
+ can also be in a regular octagon, a regular dodecagon, and other regular polygons, or the first rotating shaft 150 can be set as a damping rotating shaft, so that it can be stably supported at any position after rotation.
+ the second connecting section 122
+ is provided with a hinge end socket 122 a on one side close to the upper holder 110 .
+ An accommodating slot 112 a
+ is formed in one side of the connecting portion 112 close to the lower holder 120 .
+ the hinge end socket 122 a
+ is accommodated in the accommodating slot 112 a , and the second rotating shaft 160 penetrates through the connecting portion 112 and the hinge end socket 122 a to achieve rotatable fit between the hinge end socket 122 a and the connecting portion 112 .
+ the second rotating shaft 160
+ is provided with second decorative covers 161 at both ends along an axial direction.
+ the first hinge portion 112
+ is provided with second accommodating slots (not shown in the figures) matched with the second decorative covers 161 .
+ the entire second rotating shaft 160
+ is cylindrical, and correspondingly, circular through holes (not shown in the figures) for allowing the second rotating shaft 160 to penetrate are formed in the hinge end socket 122 a and the connecting portion 112 .
+ the second rotating shaft 160
+ can also be set as a damping rotating shaft to ensure that the upper holder 110 stably stays at a position-after-rotation after the upper holder rotates relative to the second connecting section 122 , and to ensure the stability of supporting of the upper holder 110 after rotation.
+ an abutment strip 122 b
+ is arranged on an outer side wall of the hinge end socket 122 a in a raised manner.
+ An inwards sunken abutment slot 112 b
+ is formed in a bottom of the accommodating slot 112 a .
+ Mutual cooperation between the abutment slot 112 b and the abutment strip 122 b
+ can effectively prevent excessive rotation between the hinge end socket 122 a and the connecting portion 112 , thereby limiting an angle of rotation between the upper holder 110 and the lower holder 120 .
+ the abutment strip 122 b
+ can abut against a side wall of the accommodating slot 112 a , thereby effectively preventing excessive rotation between the hinge end socket 122 a and the connecting portion 112 .
+ This solution
+ can avoid formation of an abutment slot 112 b in an inner wall of the accommodating slot 112 a.
+ a raised abutment strip
+ is arranged at a bottom of the accommodating slot 112 a , and an inwards sunken limiting slot is formed in an outer side wall of the hinge end socket 122 a .
+ first connecting section 121 and the second connecting section 122
+ are integrally formed, and the first connecting section 121 is perpendicular to the second connecting section 122 .
+ a first abutment portion 122 c
+ is arranged on one side of the second connecting section 122 away from the hinge end socket 122 a , and the first abutment portion 122 c is perpendicular to the first connecting section 121 .
+ the mobile phone holder
+ can be hung to the display equipment 300 .
+ the first abutment portion 122 c arranged on the lower holder 120
+ abuts against one end surface of the display equipment 300 , and the balancing weight 140 inside the base 130 leans against the other end surface of the display equipment 300 under the action of the gravity.
+ the lower holder 120
+ is forced to press tightly against a side wall of the display equipment under the gravity of the balancing weight 140 , causing the first abutment portion 122 c to resist against the end surface of the display equipment 300 for fixation, thereby achieving the combination between the mobile phone holder and the display equipment 300 .
+ the first abutment portion 122 c arranged on the lower holder 120
+ abuts against a display end surface of the display screen of Apple iMac, and the base 130 leans against a rear wall surface of the display screen of Apple iMac under the gravity of the balancing weight 140 inside.
+ the first connecting portion 121
+ is forced to be loaded and pressed on a side wall of the display screen of Apple iMac, thereby combining the magnetic type mobile phone holder with Apple iMac for use.
+ the magnetic type mobile phone holder
+ can also support and fix the mobile phone at a desired position by adjusting a clamping angle between the lower holder 120 and the base 130 , so that the mobile phone can be combined with the display screen of Apple iMac for use.
+ the first abutment portion 122 c
+ abuts against a display end surface of the display screen of Apple macbook, and the base 130 leans against a back surface of the display screen of Apple macbook under the action of the balancing weight 140 inside.
+ the first connecting portion 121
+ is forced to be loaded and pressed on a side wall of the display screen of Apple macbook, thereby combining the magnetic type mobile phone holder with Apple macbook for use.
+ the magnetic disk holder 200 of the magnetic type mobile phone holder
+ can be removed from the main body holder 100 and used directly in conjunction with the display screen of Apple macbook, for ease of use.
+ Apple iMac and Apple macbook
+ only refer to two kinds of terminal devices of the brand of Apple and have no other special meanings.
+ the lower holder 120
+ also includes a flexible protective member 123 .
+ the flexible protective member 123
+ is connected to the first connecting section 121 .
+ the lower holder 120
+ is provided with an insertion slot (not shown in the figures), and the flexible protective member 123 is provided with an insert 123 a .
+ the insert 123 a
+ is inserted into the insertion slot and is fixed in the insertion slot under the elastic action of the flexible protective member 123 itself, thereby fixedly mounting the flexible protective member 123 on the lower holder 120 .
+ the flexible protective member 123
+ is provided with an end portion 123 b that is matched with the first abutment portion 122 c .
+ the end portion 123 b
+ can protect the display equipment 300 and effectively prevent collision between the first abutment portion 122 c and the display equipment 300 .
+ the flexible protective member 123
+ is located between the lower holder 120 and an upper end surface of the base 130 , which can effectively prevent collision or friction between an end surface of the lower holder 120 and the upper end surface of the base 130 .
+ both the first connecting section 121 and the second connecting section 122
+ are provided with hollowed structures (not shown in the figures). In this way, the weight of the lower holder 200 can be effectively reduced, and the portability of the mobile phone holder is guaranteed.
+ the base 130
+ has an internal cavity.
+ the balancing weight 140
+ is mounted in the cavity, and a third decorative sheet 132 is arranged on one side of the base 130 .
+ the third decorative sheet 132
+ is used for being assembled with the base 130 , thereby closing the internal cavity on the base 130 .
+ the magnetic disk holder 200
+ includes an outer shell 210 and a magnetic piece 220 .
+ a bulge structure 211
+ is arranged on one side of the outer shell 210 away from the mobile phone, and the bulge structure 211 extends towards one side away from the mobile phone.
+ a plugging port 211 a
+ is formed in a side wall of the bulge structure 211 .
+ a connecting portion 211 b
+ is arranged in the bulge structure 211 , and the connecting portion 211 b extends to the side with the magnetic piece 220 .
+ the upper holder 110
+ is plugged into the plugging portion 211 a and is assembled with the connecting portion 211 b , thereby achieving detachable fit between the upper holder 110 and the magnetic disk holder 200 .
+ the magnetic piece 220
+ is mounted on one side, away from the bulge structure 211 , in the outer shell 210 . In this embodiment, the bulge structure 211 and the outer shell 210 are integrally formed.
+ the magnetic piece 220
+ is a magnet.
+ a connecting slot 113
+ is formed in one side of the plugging portion 111 close to the connecting portion 211 b , and the connecting slot 113 is used for accommodating the plugging portion 111 .
+ a recess 113 c
+ is formed in a side wall of the connecting slot 113 b
+ a fixture block 211 c
+ is arranged on an outer side wall of the connecting portion 211 b in a raised manner.
+ the fixture block 211 c
+ is matched with the recess 113 c , thereby further fixing the connecting portion 211 b and the plugging portion 111 in a detachable manner.
+ a fixture block
+ is arranged on a side wall of the connecting slot 113 b , and a recess matched with the fixture block is arranged on a side wall of the connecting portion 211 b .
+ a second abutment portion 211 d
+ is arranged on an end surface of the bulge structure 211 located on one side of the plugging port 211 a , and the second abutment portion 211 d is parallel to an attractive end surface of the magnetic disk holder 200 .
+ the second abutment portion 211 d
+ is used to abut against the display screen, thereby ensuring the stability of combination between the magnetic disk holder 200 and the display screen.
+ the magnetic disk holder 200
+ further includes a supporting member 230 , an abutting sheet 240 , and a filling member 250 .
+ the supporting member 230
+ is accommodated inside the outer shell 210 , and an annular slot 231 is formed in one side of the supporting member 230 away from the bulge structure 211 .
+ the magnetic piece 220
+ is annular and is embedded in the annular slot 231 .
+ the abutting sheet 240
+ is located on an attractive side of the magnetic piece 220 , and the abutting sheet 240 is bonded and fixed with the magnetic piece 220 .
+ the filling member 250
+ is mounted in a center of the supporting member 230 , and the filling member 250 and the supporting member 230 are in clamping fit.
+ the clamping fit
+ is the prior art, which will not be described in detail here. Due to the arrangement of the supporting member 230 and the filling member 250 , the outer shell 210 can be internally filled completely, so as to ensure that the magnetic disk holder 200 can be used normally.
+ the magnetic disk holder 200
+ further includes a flexible member 260 .
+ the flexible member 260
+ is located inside the outer shell 210 and completely covers an inner wall surface of the outer shell 210 .
+ the flexible member 260
+ can protect the plugging portion 111 while improving the tightness of combination between the plugging portion 111 and the plugging port 211 a.
+ the supporting member 230 and the filling member 250
+ can be replaced with a wireless charging device, so that the magnetic disk holder 200 has a wireless charging function. Due to the arrangement of the three notches, it is convenient to connect an external power line to the wireless charging device. It should be noted that in this embodiment, the wireless charging device is an Apple MagSafe wireless charging device.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ Theoretical Computer Science
+ (AREA)
+ Computer Hardware Design
+ (AREA)
+ Signal Processing
+ (AREA)
+ Human Computer Interaction
+ (AREA)
+ Physics & Mathematics
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ General Physics & Mathematics
+ (AREA)
+ Computer Networks & Wireless Communication
+ (AREA)
+ Telephone Set Structure
+ (AREA)
+Abstract
+A novel magnetic type mobile phone holder is provided, including a base, wherein a balancing weight is arranged in the base; a lower holder, wherein one end of the lower holder is in rotatable fit with the base; a first abutment portion is arranged on the lower holder; the first abutment portion can cooperate with the base to fix the mobile phone holder to display equipment; an upper holder, wherein the upper holder is in rotatable fit with one side of the lower holder away from the base; and a magnetic disk holder, wherein the magnetic disk holder is detachably fitted to one side of the upper holder away from the lower holder.
+Description
+ TECHNICAL FIELD
+The present disclosure relates to the technical field of mobile phone holders, specifically to a novel magnetic type mobile phone.
+ BACKGROUND
+A mobile phone holder is a holder used to support a digital product (such as a mobile phone and a tablet computer) just as its name implies. To make people comfortable and avoid people from suffering from cervical spondylosis, the mobile phone holder is mainly designed according to the ergonomics to provide users with a more comfortable way to use digital products.
+There are two kinds of commonly used mobile phone holders on the market according to their fixing manners. One kind is a traditional gripper type mobile phone holder, which clamps a mobile phone in a telescopic clamping or swinging clamping manner to achieve fixation. Another kind is a magnetic type mobile phone holder, which designs a magnetic structure on an abutting surface or a portion close to the abutting surface of the mobile phone holder. When the mobile phone abuts against the abutting surface of the mobile phone holder, the magnetic structure in the mobile phone holder attracts a magnetic structure arranged in the mobile phone or a mobile phone protector or a magnetically attracted structure, thereby achieving an objective of fixing the mobile phone.
+The existing magnetic type mobile phone holder is usually designed as one piece, that is, a holder body and a head portion used for being connected to the mobile phone are of an integrated structure. In this way, the magnetic type mobile phone holder can only be used as a whole holder. When the mobile phone needs to be used with a tablet computer, a laptop computer, or a desktop computer, it is difficult for the integrated magnetic type mobile phone holder to meet the demand. Therefore, the existing magnetic type mobile phone holder needs to be improved.
+ SUMMARY
+The present disclosure aims to provide a novel magnetic mobile phone holder for the defects and shortcomings in the prior art. The novel magnetic mobile phone holder has the advantages of wide application range, reliable connection, and convenience in use.
+In order to achieve the above objective, a technical solution adopted in the present disclosure is as follows: A novel magnetic type mobile phone holder includes a base, wherein a balancing weight is arranged in the base; a lower holder, wherein one end of the lower holder is in rotatable fit with the base; a first abutment portion is arranged on the lower holder; the first abutment portion can cooperate with the base to fix the mobile phone holder to display equipment; an upper holder, wherein the upper holder is in rotatable fit with one side of the lower holder away from the base; and a magnetic disk holder, wherein the magnetic disk holder is detachably fitted to one side of the upper holder away from the lower holder. When the magnetic disk holder is separated from the upper holder, the magnetic disk holder can be independently connected to the display equipment to connect a mobile phone fixed on the magnetic disk holder to the display equipment.
+In one embodiment, the lower holder includes a first connecting section and a second connecting section connected to one side of the first connecting section away from the base; the first connecting section is perpendicular to the second connecting section; the first abutment portion is located at connection positions of the first connecting section and the second connecting section; the first abutment portion protrudes from the second connecting section and extends towards one side away from the upper holder; and the first abutment portion is perpendicular to the first connecting section.
+In one embodiment, a first hinge portion is arranged at one end of the base; a second hinge portion is arranged on one side of the first connecting section away from the second connecting section; and the upper holder is in rotatable fit with the base through the first hinge portion and the second hinge portion.
+In one embodiment, a hinge end socket is arranged on one side of the second connecting section away from the first connecting section; a hinge slot is formed in one side of the upper holder close to the second connecting section; and the hinge end socket is plugged into the hinge slot and is in rotatable fit through a first rotating shaft.
+In one embodiment, the lower holder further includes a flexible protective member; the flexible protective member is connected to the first connecting section and is located between the first connecting section and an upper end surface of the base; and one side of the flexible protective member away from the second hinge portion is connected to the first abutment portion.
+In one embodiment, an end surface of the magnetic disk holder connected to the mobile phone is a connecting end surface; and the magnetic disk holder includes:
+an outer shell, wherein a bulge structure is arranged on one side of the outer shell away from the connecting end surface; the bulge structure extends towards one side away from the connecting end surface; a plugging port is formed in a side wall of the bulge structure; the display equipment is connected to the plugging port to achieve connection between the magnetic disk holder and the display equipment; and a magnetic piece, wherein the magnetic piece is mounted on one side, away from the bulge structure, in the outer shell.
+In one embodiment, a connecting portion is arranged in the bulge structure; the connecting portion extends to one side of the magnetic piece; and the upper holder is threaded into the plugging port and is in detachable fit with the connecting portion.
+In one embodiment, a plugging portion is arranged on one side of the upper holder close to the plugging port; a connecting slot matched with the connecting portion is formed in one side of the plugging portion close to the connecting portion; a recess is formed in a side wall of the connecting slot; a fixture block matched with the recess is arranged on an outer side wall of the connecting portion in a raised manner; and/or, a recess is formed in an outer side wall of the connecting portion, and a fixture block matched with the recess is arranged on a side wall of the connecting slot in a raised manner.
+In one embodiment, an abutment portion is arranged on an end surface of the bulge structure located on one side of the plugging port; and the abutment portion is parallel to an attractive end surface of the magnetic disk holder.
+The magnetic disk holder further includes: a supporting member, wherein the supporting member is accommodated in the outer shell; an annular slot is formed in one side of the supporting member away from the bulge structure; the magnetic piece is embedded in the annular slot; and an abutting sheet, wherein the abutting sheet is located on an attractive side of the magnetic piece and is connected to the magnetic piece.
+After the adoption of the above technical solution, the present disclosure has the beneficial effects that: During use, the mobile phone holder can be hung on the display equipment. The first abutment portion arranged on the lower holder abuts against one end surface of the display equipment. The balancing weight inside the base leans against the other end surface of the display equipment. The lower holder is forced to press against a side wall of the display equipment under the gravity of the balancing weight, so that the first abutment portion resists against the end surface of the display equipment for fixation, thereby achieving the combination between the mobile phone holder and the display equipment. If it is necessary to fix the mobile phone on a notebook computer display screen or a tablet, the magnetic disk holder is removed from the upper holder, and the plugging port is clipped into a thickness end surface of the notebook computer display screen or the tablet. Under the action of the gravities of the magnetic disk holder and the mobile phone, the abutment port resists against the end surface of the notebook computer display screen or the tablet, and the outer shell resists against the other end surface of the notebook computer display screen or the tablet, thereby achieving combination between the magnetic disk holder and the notebook computer display screen or the tablet. The mobile phone holder set in this way can realize a basic function of the mobile phone holder, and can also fix the mobile phone on the display equipment for use with the display equipment through the first abutment portion and the abutment portion. On the one hand, use scenes and use ways of the magnetic type mobile phone holder are added, demands of users are greatly met, and the application range and the convenience of use of the magnetic type mobile phone holder are improved. On the other hand, the reliability of combination between the magnetic disk holder and the display screen can be effectively guaranteed.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+To describe the embodiments of the present disclosure or the technical solutions in the existing art more clearly, drawings required to be used in the embodiments or the illustration of the existing art will be briefly introduced below. Obviously, the drawings in the illustration below are only some embodiments of the present disclosure. Those ordinarily skilled in the art also can acquire other drawings according to the provided drawings without doing creative work.
+ FIG. 1 is a schematic structural diagram of combination between a magnetic type mobile phone holder and a display screen of Apple iMac in one embodiment;
+ FIG. 2 is a schematic structural diagram of combination between a magnetic type mobile phone holder and a display screen of Apple macbook in one embodiment;
+ FIG. 3 is a schematic structural diagram of combination between a magnetic disk holder and a display screen of Apple macbook in one embodiment;
+ FIG. 4 is a schematic diagram of an entire structure of a magnetic type mobile phone holder in one embodiment;
+ FIG. 5 is an exploded diagram of a magnetic disk holder and a main body holder in one embodiment;
+ FIG. 6 is a schematic structural diagram of a magnetic type mobile phone holder in one embodiment after folding;
+ FIG. 7 is an exploded diagram of a main body holder in one embodiment;
+ FIG. 8 is a schematic structural diagram of an upper holder in one embodiment;
+ FIG. 9 is an exploded diagram of a lower holder in one embodiment;
+ FIG. 10 is an exploded diagram of a magnetic disk holder in one embodiment;
+ FIG. 11 is a schematic structural diagram of an outer shell in one embodiment; and
+ FIG. 12 is a schematic structural diagram of an outer shell in another embodiment.
+ DETAILED DESCRIPTION OF THE EMBODIMENTS
+The present disclosure is further described in detail below in combination with accompanying drawings.
+This specific embodiment is only an explanation of the present disclosure, and it is not a limitation to the present disclosure. After reading this specification, those skilled in the art can make modifications to this embodiment that do not create any contribution as needed, but the modifications shall be protected by the patent law within the scope of the claims of the present disclosure.
+Referring to FIG. 1 and FIG. 2 , this embodiment mainly relates to a novel magnetic type mobile phone holder, which can not only realize a basic function of the mobile phone holder, but also combine a mobile phone with display equipment 300 to facilitate users to use the mobile phone to take pictures while using the display equipment 300. It should be noted that the display equipment 300 includes but is not limited to a desktop computer display, a notebook computer display screen, a tablet, a television set, and the like. In this embodiment, an Apple series product is used for explanation.
+It should also be noted that the magnetic type mobile phone holder of this embodiment is mainly suitable for iPhone 12, iPhone 13, iPhone 14, and other Apple series mobile phones with magnetic blocks inside. Of course, this magnetic type mobile phone holder is also applicable to other mobile phones with magnetic blocks or magnetic metal blocks inside. For mobile phones that do not have magnetic blocks or magnetic metal blocks inside, external magnetic blocks or external magnetic metal blocks can be fixed to the mobile phones by pasting, covering, and in other ways, and the mobile phones are then used in conjunction with the magnetic type mobile phone holder. Obviously, the magnetic metal blocks are metal blocks that can be attracted by magnets.
+Continue to refer to FIG. 1 and FIG. 2 , the magnetic type mobile phone holder includes a main body holder 100 and a magnetic disk holder 200 detachably fitted with the main body holder 100. The magnetic disk holder 200 attracts a magnetic block or a magnetic metal block in a mobile phone or attracts a magnetic block or a magnetic metal block attached to a mobile phone housing in another connecting manner, so as to fix the mobile phone. As shown in FIG. 3 , the magnetic disk holder 200 after removal can be assembled with the display equipment 300, thereby combining the mobile phone fixed on the magnetic disk holder 200 with the display equipment 300.
+In one embodiment, in the process of connecting the mobile phone to the display equipment 300 through the magnetic disk holder 200, the mobile phone can also be connected to the display equipment 300 in a wired or wireless manner, thereby achieving interconnection between the mobile phone and the display equipment 300. The wired or wireless connection includes but is not limited to Bluetooth connection, Internet of Things connection, and screen projection connection.
+Referring to FIG. 4 and FIG. 5 , in one embodiment, the main body holder 100 includes: an upper holder 110, a lower holder 120, a base 130, and a balancing weight 140. Specifically, the balancing weight 140 is arranged inside the base 130. One end of the lower holder 120 is in rotatable fit with the base 130, and the other end is in rotatable fit with one side of the upper holder 110 close to the base 130.
+It should be noted that when the main body holder 100 is combined with the magnetic disk holder 200 for use, the rotatable fit between the lower holder 120 and the base 130 is mainly used to adjust a supporting height by the magnetic type mobile phone holder. The rotatable fit between the lower holder 120 and the upper holder 110 is mainly used to adjust a supporting angle by the magnetic type mobile phone holder. By mutual cooperation of the two adjustment manners mentioned above, a demand of a user during use of the mobile phone holder is met.
+Of course, when the lower holder 120 rotates relative to the base 130, the supporting angle of the mobile phone holder can also be adjusted. However, the supporting height changes a lot in the rotating process, so that an adjustment height is used as a main adjustment parameter during the rotation of the lower holder 120. Similarly, when the upper holder 110 rotates relative to the lower holder 120, the supporting height of the mobile phone holder can also be adjusted. However, the supporting angle changes a lot in the rotating process, so that an adjustment angle is used as a main adjustment parameter during the rotation of the upper holder 110.
+Referring to FIG. 6 , in one embodiment, the lower holder 120 and the base 130 can rotate reversely to fold the lower holder 120 towards a side where the base 130 is located, to achieve folding and storage of the magnetic type mobile phone holder. Obviously, in a folded state of the magnetic type mobile phone holder, the upper holder 110 can still rotate relative to the lower holder 120, so that the upper holder 110 is still in a supported state. At this time, the supporting height of the magnetic type mobile phone holder is significantly reduced, which is another use state of the magnetic type mobile phone holder.
+Referring to FIG. 5 and FIG. 7 . In one embodiment, the upper holder 110 includes a plugging portion 111 and a connecting portion 112. The plugging portion 111 is used for being plugged into the magnetic disk holder 200 and is assembled with the magnetic disk holder 200. The connecting portion 112 is located on one side of the plugging portion 111 away from the magnetic disk holder 200. The connecting portion 112 is used for being in rotatable fit with the lower holder 120.
+It should be noted that in this embodiment, the connecting portion 112 and the plugging portion 111 are integrally formed, and a step 113 is formed at connection positions of the connecting portion 112 and the plugging portion 111. In the process of plugging the plugging portion 111 into the magnetic disk holder 200, if the magnetic disk holder 120 resists against the step 113, it indicates that the plugging portion 111 has been plugged to a predetermined position in the magnetic disk holder 200, that is, assembling of the main body holder 100 and the magnetic disk holder 200 is completed.
+Continue to refer to FIG. 7 , in one embodiment, a first hinge portion 131 is arranged on the base 130. The lower holder 120 includes a first connecting section 121 and a second connecting section 122. The first connecting section 121 is provided with a second hinge portion 121 a, and the second hinge portion 121 a is in rotatable fit with the first hinge portion 131 through a first rotating shaft 150. The second connecting section 122 is connected to one side of the first connecting section 121 away from the second hinge portion 121 a. The second connecting section 122 is in rotatable fit with the upper holder 110 through a second rotating shaft 160.
+In one embodiment, the first rotating shaft 150 is provided with first decorative covers 151 at both ends along an axial direction. Correspondingly, the second hinge portion 121 a is provided with first accommodating slots (not shown in the figures) matched with the first decorative covers 151.
+It is worth noting that in this embodiment, the entire first rotating shaft 150 is in a regular hexagonal prism shape. A hexagonal through hole (not shown in the figures) matched with the first rotating shaft 150 is formed in the second hinge portion 121 a. The corresponding first hinge portion 131 is also provided with a hexagonal through hole (not shown in the figures). In this way, when the lower holder 120 rotates relative to the base 130, an angle between the lower holder 120 and the base 130 can be 60 degrees or 120 degrees, which makes supporting more stable. In other embodiments, the first rotating shaft 150 can also be in a regular octagon, a regular dodecagon, and other regular polygons, or the first rotating shaft 150 can be set as a damping rotating shaft, so that it can be stably supported at any position after rotation.
+Referring to FIG. 7 and FIG. 8 , in one embodiment, the second connecting section 122 is provided with a hinge end socket 122 a on one side close to the upper holder 110. An accommodating slot 112 a is formed in one side of the connecting portion 112 close to the lower holder 120. The hinge end socket 122 a is accommodated in the accommodating slot 112 a, and the second rotating shaft 160 penetrates through the connecting portion 112 and the hinge end socket 122 a to achieve rotatable fit between the hinge end socket 122 a and the connecting portion 112.
+In one embodiment, the second rotating shaft 160 is provided with second decorative covers 161 at both ends along an axial direction. Correspondingly, the first hinge portion 112 is provided with second accommodating slots (not shown in the figures) matched with the second decorative covers 161.
+In this embodiment, the entire second rotating shaft 160 is cylindrical, and correspondingly, circular through holes (not shown in the figures) for allowing the second rotating shaft 160 to penetrate are formed in the hinge end socket 122 a and the connecting portion 112. In other embodiments, the second rotating shaft 160 can also be set as a damping rotating shaft to ensure that the upper holder 110 stably stays at a position-after-rotation after the upper holder rotates relative to the second connecting section 122, and to ensure the stability of supporting of the upper holder 110 after rotation.
+Continue to refer to FIG. 8 and FIG. 9 , in one embodiment, an abutment strip 122 b is arranged on an outer side wall of the hinge end socket 122 a in a raised manner. An inwards sunken abutment slot 112 b is formed in a bottom of the accommodating slot 112 a. Mutual cooperation between the abutment slot 112 b and the abutment strip 122 b can effectively prevent excessive rotation between the hinge end socket 122 a and the connecting portion 112, thereby limiting an angle of rotation between the upper holder 110 and the lower holder 120.
+In one embodiment, the abutment strip 122 b can abut against a side wall of the accommodating slot 112 a, thereby effectively preventing excessive rotation between the hinge end socket 122 a and the connecting portion 112. This solution can avoid formation of an abutment slot 112 b in an inner wall of the accommodating slot 112 a. 
+In other embodiments, a raised abutment strip is arranged at a bottom of the accommodating slot 112 a, and an inwards sunken limiting slot is formed in an outer side wall of the hinge end socket 122 a. In this way, when the hinge end socket 122 a rotates relative to the connecting portion 112, the abutment strip located in the accommodating slot 112 a can only move within the limiting slot, thereby achieving an effect of preventing excessive rotation.
+Return to FIG. 9 , in one embodiment, the first connecting section 121 and the second connecting section 122 are integrally formed, and the first connecting section 121 is perpendicular to the second connecting section 122. A first abutment portion 122 c is arranged on one side of the second connecting section 122 away from the hinge end socket 122 a, and the first abutment portion 122 c is perpendicular to the first connecting section 121.
+Referring to FIG. 1 to FIG. 3 , FIG. 5 , and FIG. 7 , it should be noted that to combine the magnetic type mobile phone holder with the display equipment 300, the mobile phone holder can be hung to the display equipment 300. The first abutment portion 122 c arranged on the lower holder 120 abuts against one end surface of the display equipment 300, and the balancing weight 140 inside the base 130 leans against the other end surface of the display equipment 300 under the action of the gravity. The lower holder 120 is forced to press tightly against a side wall of the display equipment under the gravity of the balancing weight 140, causing the first abutment portion 122 c to resist against the end surface of the display equipment 300 for fixation, thereby achieving the combination between the mobile phone holder and the display equipment 300.
+Referring to FIG. 1 , FIG. 5 , and FIG. 7 , for example, to combine the magnetic type mobile phone holder with a display screen of Apple iMac, the first abutment portion 122 c arranged on the lower holder 120 abuts against a display end surface of the display screen of Apple iMac, and the base 130 leans against a rear wall surface of the display screen of Apple iMac under the gravity of the balancing weight 140 inside. Under the gravity of the balancing weight 140, the first connecting portion 121 is forced to be loaded and pressed on a side wall of the display screen of Apple iMac, thereby combining the magnetic type mobile phone holder with Apple iMac for use. Since the display screen of Apple iMac has an angle adjustment function, during the adjustment of an angle of the display screen of Apple iMac, the magnetic type mobile phone holder can also support and fix the mobile phone at a desired position by adjusting a clamping angle between the lower holder 120 and the base 130, so that the mobile phone can be combined with the display screen of Apple iMac for use.
+Referring to FIG. 2 , FIG. 5 , and FIG. 7 , for example, to combine the magnetic type mobile phone holder with a display screen of Apple macbook, the first abutment portion 122 c abuts against a display end surface of the display screen of Apple macbook, and the base 130 leans against a back surface of the display screen of Apple macbook under the action of the balancing weight 140 inside. Under the gravity of the balancing weight 140, the first connecting portion 121 is forced to be loaded and pressed on a side wall of the display screen of Apple macbook, thereby combining the magnetic type mobile phone holder with Apple macbook for use. However, in general, due to decreasing resistance of rotation between the display screen of Apple macbook and a keyboard rotation as the display screen is used, it is difficult to adjust the display screen of Apple macbook to an appropriate angle of use under the gravity of the balancing weight 140. Therefore, referring to FIG. 3 , the magnetic disk holder 200 of the magnetic type mobile phone holder can be removed from the main body holder 100 and used directly in conjunction with the display screen of Apple macbook, for ease of use.
+It should be noted that Apple iMac and Apple macbook only refer to two kinds of terminal devices of the brand of Apple and have no other special meanings.
+Referring to FIG. 9 , in one embodiment, the lower holder 120 also includes a flexible protective member 123. The flexible protective member 123 is connected to the first connecting section 121. Specifically, the lower holder 120 is provided with an insertion slot (not shown in the figures), and the flexible protective member 123 is provided with an insert 123 a. The insert 123 a is inserted into the insertion slot and is fixed in the insertion slot under the elastic action of the flexible protective member 123 itself, thereby fixedly mounting the flexible protective member 123 on the lower holder 120.
+It should be noted that the flexible protective member 123 is provided with an end portion 123 b that is matched with the first abutment portion 122 c. When an end surface of the first abutment portion 122 c close to one side of the second hinge portion 121 a is in contact with the display equipment 300, the end portion 123 b can protect the display equipment 300 and effectively prevent collision between the first abutment portion 122 c and the display equipment 300.
+Referring to FIG. 6 and FIG. 9 , in one embodiment, when the lower holder 120 and the base 130 are in a folded state, the flexible protective member 123 is located between the lower holder 120 and an upper end surface of the base 130, which can effectively prevent collision or friction between an end surface of the lower holder 120 and the upper end surface of the base 130.
+In one embodiment, both the first connecting section 121 and the second connecting section 122 are provided with hollowed structures (not shown in the figures). In this way, the weight of the lower holder 200 can be effectively reduced, and the portability of the mobile phone holder is guaranteed.
+Return to FIG. 7 , in one embodiment, the base 130 has an internal cavity. The balancing weight 140 is mounted in the cavity, and a third decorative sheet 132 is arranged on one side of the base 130. The third decorative sheet 132 is used for being assembled with the base 130, thereby closing the internal cavity on the base 130.
+Referring to FIG. 5 , FIG. 10 , and FIG. 11 , in one embodiment, the magnetic disk holder 200 includes an outer shell 210 and a magnetic piece 220. Specifically, a bulge structure 211 is arranged on one side of the outer shell 210 away from the mobile phone, and the bulge structure 211 extends towards one side away from the mobile phone. A plugging port 211 a is formed in a side wall of the bulge structure 211. A connecting portion 211 b is arranged in the bulge structure 211, and the connecting portion 211 b extends to the side with the magnetic piece 220. The upper holder 110 is plugged into the plugging portion 211 a and is assembled with the connecting portion 211 b, thereby achieving detachable fit between the upper holder 110 and the magnetic disk holder 200. The magnetic piece 220 is mounted on one side, away from the bulge structure 211, in the outer shell 210. In this embodiment, the bulge structure 211 and the outer shell 210 are integrally formed. The magnetic piece 220 is a magnet.
+Referring to FIG. 7 and FIG. 11 , in one embodiment, a connecting slot 113 is formed in one side of the plugging portion 111 close to the connecting portion 211 b, and the connecting slot 113 is used for accommodating the plugging portion 111. It is worth noting that a recess 113 c is formed in a side wall of the connecting slot 113 b, and a fixture block 211 c is arranged on an outer side wall of the connecting portion 211 b in a raised manner. The fixture block 211 c is matched with the recess 113 c, thereby further fixing the connecting portion 211 b and the plugging portion 111 in a detachable manner.
+In other embodiments, a fixture block is arranged on a side wall of the connecting slot 113 b, and a recess matched with the fixture block is arranged on a side wall of the connecting portion 211 b. Or, there are two fixture blocks, one of which is located on an outer side wall of the connecting slot 113 b and the other one of which is located on an outer side wall of the connecting portion 211 b. There are two corresponding recesses.
+In one embodiment, a second abutment portion 211 d is arranged on an end surface of the bulge structure 211 located on one side of the plugging port 211 a, and the second abutment portion 211 d is parallel to an attractive end surface of the magnetic disk holder 200. When the magnetic disk holder 200 is assembled with a display screen of external digital equipment, the second abutment portion 211 d is used to abut against the display screen, thereby ensuring the stability of combination between the magnetic disk holder 200 and the display screen.
+Referring to FIG. 10 , FIG. 11 , and FIG. 12 , in one embodiment, the magnetic disk holder 200 further includes a supporting member 230, an abutting sheet 240, and a filling member 250. The supporting member 230 is accommodated inside the outer shell 210, and an annular slot 231 is formed in one side of the supporting member 230 away from the bulge structure 211. The magnetic piece 220 is annular and is embedded in the annular slot 231. The abutting sheet 240 is located on an attractive side of the magnetic piece 220, and the abutting sheet 240 is bonded and fixed with the magnetic piece 220. The filling member 250 is mounted in a center of the supporting member 230, and the filling member 250 and the supporting member 230 are in clamping fit. The clamping fit is the prior art, which will not be described in detail here. Due to the arrangement of the supporting member 230 and the filling member 250, the outer shell 210 can be internally filled completely, so as to ensure that the magnetic disk holder 200 can be used normally.
+In other embodiments, the magnetic disk holder 200 further includes a flexible member 260. The flexible member 260 is located inside the outer shell 210 and completely covers an inner wall surface of the outer shell 210. When the plugging portion 111 is plugged into the plugging port 211 a, the flexible member 260 can protect the plugging portion 111 while improving the tightness of combination between the plugging portion 111 and the plugging port 211 a. 
+In other embodiments, there are three notches in a side wall of the outer shell 210, and there are three notches correspondingly formed in the flexible member 260. The supporting member 230 and the filling member 250 can be replaced with a wireless charging device, so that the magnetic disk holder 200 has a wireless charging function. Due to the arrangement of the three notches, it is convenient to connect an external power line to the wireless charging device. It should be noted that in this embodiment, the wireless charging device is an Apple MagSafe wireless charging device.
+The above is only used to explain the technical solution of the present disclosure, but not to limit the technical solution. Other modifications or equivalent substitutions made by those of ordinary skill in the art to the technical solution of the present disclosure shall fall within the scope of the claims of the present disclosure without departing from the spirit and scope of the technical solution of the present disclosure.
+Claims (9)
+ What is claimed is:
+1. A novel magnetic type mobile phone holder, comprising:
+a base, wherein a balancing weight is arranged in the base;
+a lower holder, wherein one end of the lower holder is in rotatable fit with the base;
+a first abutment portion is arranged on the lower holder; the first abutment portion cooperates with the base to fix the mobile phone holder to display equipment;
+an upper holder, wherein the upper holder is in rotatable fit with one side of the lower holder away from the base; and
+a magnetic disk holder, wherein the magnetic disk holder is detachably fitted to one side of the upper holder away from the lower holder; and when the magnetic disk holder is separated from the upper holder, the magnetic disk holder can be independently connected to the display equipment to connect a mobile phone fixed on the magnetic disk holder to the display equipment,
+wherein the lower holder comprises a first connecting section and a second connecting section connected to one side of the first connecting section away from the base; the first connecting section is perpendicular to the second connecting section; the first abutment portion is located at connection positions of the first connecting section and the second connecting section; the first abutment portion protrudes from the second connecting section and extends towards one side away from the upper holder; and the first abutment portion is perpendicular to the first connecting section.
+2. The novel magnetic type mobile phone holder according to claim 1, wherein a first hinge portion is arranged at one end of the base; a second hinge portion is arranged on one side of the first connecting section away from the second connecting section; and the upper holder is in rotatable fit with the base through the first hinge portion and the second hinge portion.
+3. The novel magnetic type mobile phone holder according to claim 1, wherein a hinge end socket is arranged on one side of the second connecting section away from the first connecting section; a hinge slot is formed in one side of the upper holder close to the second connecting section; and the hinge end socket is plugged into the hinge slot and is in rotatable fit through a first rotating shaft.
+4. The novel magnetic type mobile phone holder according to claim 2, wherein the lower holder further comprises a flexible protective member; the flexible protective member is connected to the first connecting section and is located between the first connecting section and an upper end surface of the base; and one side of the flexible protective member away from the second hinge portion is connected to the first abutment portion.
+5. The novel magnetic type mobile phone holder according to claim 1, wherein an end surface of the magnetic disk holder connected to the mobile phone is a connecting end surface; and the magnetic disk holder comprises: an outer shell, wherein a bulge structure is arranged on one side of the outer shell away from the connecting end surface; the bulge structure extends towards one side away from the connecting end surface; a plugging port is formed in a side wall of the bulge structure; the display equipment is connected to the plugging port to achieve connection between the magnetic disk holder and the display equipment; and a magnetic piece, wherein the magnetic piece is mounted on one side, away from the bulge structure, in the outer shell.
+6. The novel magnetic type mobile phone holder according to claim 5, wherein a connecting portion is arranged in the bulge structure; the connecting portion extends to one side of the magnetic piece; and the upper holder is threaded into the plugging port and is in detachable fit with the connecting portion.
+7. The novel magnetic type mobile phone holder according to claim 6, wherein a plugging portion is arranged on one side of the upper holder close to the plugging port; a connecting slot matched with the connecting portion is formed in one side of the plugging portion close to the connecting portion; a recess is formed in a side wall of the connecting slot; a fixture block matched with the recess is arranged on an outer side wall of the connecting portion in a raised manner; and/or, a recess is formed in an outer side wall of the connecting portion, and a fixture block matched with the recess is arranged on a side wall of the connecting slot in a raised manner.
+8. The novel magnetic type mobile phone holder according to claim 5, wherein an abutment portion is arranged on an end surface of the bulge structure located on one side of the plugging port; and the abutment portion is parallel to an attractive end surface of the magnetic disk holder.
+9. The novel magnetic type mobile phone holder according to claim 5, wherein the magnetic disk holder further comprises: a supporting member, wherein the supporting member is accommodated in the outer shell; an annular slot is formed in one side of the supporting member away from the bulge structure; the magnetic piece is embedded in the annular slot; and an abutting sheet, wherein the abutting sheet is located on an attractive side of the magnetic piece and is connected to the magnetic piece.
+ US18/319,905
+ 2023-05-06
+ 2023-05-18
+ Magnetic type mobile phone holder 
+ Active
+ 2044-04-25
+ US12381970B2
+ (en)
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN202321072287.X
+ 2023-05-06
+ CN202321072287.XU
+ CN220043473U
+ (en)
+ 2023-05-06
+ 2023-05-06
+ Novel formula cell phone stand is inhaled to magnetism 
+Publications (2)
+ Publication Number
+ Publication Date
+ US20230291822A1
+ US20230291822A1
+ (en)
+ 2023-09-14
+ US12381970B2
+ true
+ US12381970B2
+ (en)
+ 2025-08-05
+Family
+ID=87931417
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US18/319,905
+ Active
+ 2044-04-25
+ US12381970B2
+ (en)
+ 2023-05-06
+ 2023-05-18
+ Magnetic type mobile phone holder 
+Country Status (2)
+ Country
+ Link
+ US
+ (1)
+ US12381970B2
+ (en)
+ CN
+ (1)
+ CN220043473U
+ (en)
+Cited By (3)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ USD1126858S1
+ (en)
+ *
+ 2024-01-22
+ 2026-05-19
+ Christian Frederick Caspersen
+ Magnetic device holder 
+ USD1129429S1
+ (en)
+ *
+ 2024-04-04
+ 2026-06-09
+ Eagle Fan
+ Stand for mobile device 
+ US12706627B2
+ (en)
+ *
+ 2024-02-24
+ 2026-08-11
+ Ningbo Weifeng Intelligent Technology Co., Ltd.
+ Assembly structure for mobile phone clip module 
+Families Citing this family (11)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ USD1053860S1
+ (en)
+ *
+ 2023-02-17
+ 2024-12-10
+ Shenzhen Lisen Intelligent Co., Ltd.
+ Holder for electronic devices 
+ USD1075736S1
+ (en)
+ *
+ 2023-03-13
+ 2025-05-20
+ Shenzhen Sodi Innovation Technologies Co., Ltd
+ Mobile phone stand 
+ CN220043473U
+ (en)
+ *
+ 2023-05-06
+ 2023-11-17
+ 深圳市索迪新创科技有限公司
+ Novel formula cell phone stand is inhaled to magnetism 
+ USD1107690S1
+ (en)
+ *
+ 2023-06-30
+ 2025-12-30
+ Shenzhen Baiquan Zhilian Technology Co., Ltd.
+ Double magnetic folding phone ring holder 
+ USD1086033S1
+ (en)
+ *
+ 2023-07-31
+ 2025-07-29
+ Fubo SHI
+ Wireless charger 
+ US20250047771A1
+ (en)
+ *
+ 2023-08-02
+ 2025-02-06
+ Anand Mandaliya
+ Magnetic single-to-dual smartphone device mount 
+ USD1057703S1
+ (en)
+ *
+ 2024-01-30
+ 2025-01-14
+ Junxing Zhizao (Dongguan) Co., Ltd
+ Neck hanging magnetic support 
+ USD1122848S1
+ (en)
+ *
+ 2024-04-29
+ 2026-04-21
+ Shenzhen Haohua Technology Enterprise (sole proprietorship)
+ Combined cup lid and magnetic holder 
+ USD1052575S1
+ (en)
+ *
+ 2024-08-08
+ 2024-11-26
+ Shenzhen Joyroom Technology Co., Ltd
+ Foldable magnetic car phone mount 
+ CN222828394U
+ (en)
+ *
+ 2024-08-15
+ 2025-05-06
+ 林清伟
+ A thermos cup cover with a mobile phone magnetic bracket capable of changing into multiple angles
+ CN223990001U
+ (en)
+ *
+ 2025-04-02
+ 2026-03-13
+ 智涛
+ Folding bracket 
+Citations (46)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20060180726A1
+ (en)
+ 2003-01-23
+ 2006-08-17
+ Maurizio Mollinari
+ Holder for a clamshell-type mobile phone 
+ US7374142B2
+ (en)
+ *
+ 2003-03-27
+ 2008-05-20
+ Carnevali Jeffrey D
+ Magnetic mounting apparatus 
+ US7398952B2
+ (en)
+ *
+ 2005-04-29
+ 2008-07-15
+ Carnevali Jeffrey D
+ Telescoping pole mount 
+ US20080234013A1
+ (en)
+ 2007-03-23
+ 2008-09-25
+ Bury Sp Z O.O.
+ Mobile phone holder, especially for mechanical vehicle 
+ US8602376B2
+ (en)
+ *
+ 2011-05-31
+ 2013-12-10
+ Nite Ize, Inc.
+ Multi-positional mount for personal electronic devices with a magnetic interface 
+ US8613379B2
+ (en)
+ *
+ 2010-02-24
+ 2013-12-24
+ High Gear Specialties, Inc.
+ Scooter device mounting assembly 
+ US20140354218A1
+ (en)
+ *
+ 2013-06-04
+ 2014-12-04
+ Ali Kaynar
+ Magnetic mounting solution for electronic devices with integrated conductive charging of the device 
+ US20150189055A1
+ (en)
+ *
+ 2013-12-26
+ 2015-07-02
+ Hyundai Motor Company
+ Mobile phone holder for vehicle 
+ US9611881B2
+ (en)
+ *
+ 2013-03-15
+ 2017-04-04
+ Otter Products, Llc
+ Releasable mount apparatus and system 
+ USD818421S1
+ (en)
+ *
+ 2018-02-13
+ 2018-05-22
+ Mpow Technology Co., Limited
+ Car mobile phone holder 
+ US20180202601A1
+ (en)
+ *
+ 2017-01-17
+ 2018-07-19
+ Kameron D. Kelly
+ Tree mountable device holder for hunting 
+ US10192665B2
+ (en)
+ *
+ 2015-03-03
+ 2019-01-29
+ Attachit LLC
+ Magnetic mount system 
+ US20190195417A1
+ (en)
+ *
+ 2017-12-21
+ 2019-06-27
+ Jonathan Caleb Kwasniewski
+ Mobile Device Mount 
+ US20190230205A1
+ (en)
+ *
+ 2016-07-13
+ 2019-07-25
+ Hitec Parts Co.,Ltd.
+ Portable device holder and support for containing same 
+ US10491727B1
+ (en)
+ *
+ 2019-02-19
+ 2019-11-26
+ Valor Communication, Inc.
+ Mobile phone holder with wirelessly activated robotic arms and charger 
+ US20200237083A1
+ (en)
+ *
+ 2019-01-25
+ 2020-07-30
+ Huang Jin
+ Phone clip holder 
+ US20210026409A1
+ (en)
+ *
+ 2018-03-20
+ 2021-01-28
+ Mobile Tech, Inc.
+ Docking system for portable computing device 
+ US20210041057A1
+ (en)
+ *
+ 2019-07-31
+ 2021-02-11
+ Peak Design
+ Mobile device mounting system 
+ US10946810B2
+ (en)
+ *
+ 2018-10-28
+ 2021-03-16
+ Macneil Ip Llc
+ Cell phone stand 
+ US20210367452A1
+ (en)
+ *
+ 2018-09-10
+ 2021-11-25
+ Popsockets Llc
+ Induction charging for a portable electronic device with a grip attachment 
+ US20220228707A1
+ (en)
+ *
+ 2021-01-21
+ 2022-07-21
+ Chong Y. Ng
+ Apparatuses for holding and mounting mobile devices 
+ US11548451B2
+ (en)
+ *
+ 2019-07-31
+ 2023-01-10
+ Peak Design
+ Mobile device mounting system 
+ US20230072993A1
+ (en)
+ *
+ 2020-02-19
+ 2023-03-09
+ Min Soo Kim
+ Mobile phone fixing stand for selfies 
+ CN219107068U
+ (en)
+ *
+ 2022-09-23
+ 2023-05-30
+ 深圳市壹疆科技有限公司
+ Combined charger 
+ US20230291822A1
+ (en)
+ *
+ 2023-05-06
+ 2023-09-14
+ Shenzhen Sodi Innovation Technologies Co., Ltd.
+ Magnetic type mobile phone holder 
+ US20230332739A1
+ (en)
+ *
+ 2023-06-26
+ 2023-10-19
+ Wenhong Ma
+ Two-in-one multi-functional magnetic bracket 
+ US20230418330A1
+ (en)
+ *
+ 2022-06-25
+ 2023-12-28
+ Lenovo (Singapore) Pte. Ltd
+ Computing System 
+ USD1014492S1
+ (en)
+ *
+ 2023-10-09
+ 2024-02-13
+ Pingjun Sun
+ Mobile phone holder 
+ US11985264B1
+ (en)
+ *
+ 2023-03-06
+ 2024-05-14
+ Zhefu Han
+ Mobile phone stand with exhibition part 
+ CN220974075U
+ (en)
+ *
+ 2023-09-20
+ 2024-05-17
+ 深圳市银海兴科技有限公司
+ Collect number plate in on-vehicle cell phone stand of an organic whole 
+ USD1034623S1
+ (en)
+ *
+ 2022-09-21
+ 2024-07-09
+ Shenzhen Mingkang Electronic Commerce Co., Ltd.
+ Electronic device holder 
+ US20240308436A1
+ (en)
+ *
+ 2023-02-24
+ 2024-09-19
+ Kenu, Inc.
+ Multi-use mount 
+ USD1050107S1
+ (en)
+ *
+ 2024-03-28
+ 2024-11-05
+ Guangdong Shuowei Technology Co., Ltd.
+ Mobile phone holder 
+ US20240384829A1
+ (en)
+ *
+ 2023-05-19
+ 2024-11-21
+ Tilta Inc.
+ Magnetic attraction bracket and photographic device using the same 
+ USD1052575S1
+ (en)
+ *
+ 2024-08-08
+ 2024-11-26
+ Shenzhen Joyroom Technology Co., Ltd
+ Foldable magnetic car phone mount 
+ US20240422253A1
+ (en)
+ *
+ 2023-06-16
+ 2024-12-19
+ Shenzhen Deone Innovation Technology Co., Ltd
+ Mobile Phone Case With Holder 
+ US12228238B2
+ (en)
+ *
+ 2022-10-04
+ 2025-02-18
+ Ferraris Group S.A.G.L.
+ Supporting device for a portable processing and/or telecommunication apparatus or an accessory 
+ FR3154275A3
+ (en)
+ *
+ 2023-10-17
+ 2025-04-18
+ Eagle Fan
+ FOLDABLE MAGNETIC SUPPORT DEVICE
+ US20250131994A1
+ (en)
+ *
+ 2021-09-14
+ 2025-04-24
+ University Of Pittsburgh - Of The Commonwealth System Of Higher Education
+ Non-fungible token system for ensuring ethical, efficient and effective management of biospecimens 
+ US20250137574A1
+ (en)
+ *
+ 2023-10-27
+ 2025-05-01
+ Belkin International, Inc.
+ Device mount apparatuses and methods 
+ USD1073605S1
+ (en)
+ *
+ 2024-12-23
+ 2025-05-06
+ Chunwang MENG
+ Magnetic wireless charger 
+ USD1073660S1
+ (en)
+ *
+ 2024-09-10
+ 2025-05-06
+ Shenzhen Zhenwei Xin Technology Co., Ltd.
+ Cell phone holder 
+ USD1075736S1
+ (en)
+ *
+ 2023-03-13
+ 2025-05-20
+ Shenzhen Sodi Innovation Technologies Co., Ltd
+ Mobile phone stand 
+ USD1076905S1
+ (en)
+ *
+ 2024-09-14
+ 2025-05-27
+ Dongguan Ruilai Electronic Technology Co., Ltd.
+ Magnetic car mount 
+ USD1078717S1
+ (en)
+ *
+ 2023-07-31
+ 2025-06-10
+ Shenzhen Sodi Innovation Technologies Co., Ltd.
+ Ring holder 
+ US20250189069A1
+ (en)
+ *
+ 2022-11-07
+ 2025-06-12
+ Evolutive Labs Co., Ltd.
+ Container and lid and attachment thereof 
+ 2023
+ 2023-05-06
+ CN
+ CN202321072287.XU
+ patent/CN220043473U/en
+ active
+ Active
+ 2023-05-18
+ US
+ US18/319,905
+ patent/US12381970B2/en
+ active
+ Active
+Patent Citations (59)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20060180726A1
+ (en)
+ 2003-01-23
+ 2006-08-17
+ Maurizio Mollinari
+ Holder for a clamshell-type mobile phone 
+ US7374142B2
+ (en)
+ *
+ 2003-03-27
+ 2008-05-20
+ Carnevali Jeffrey D
+ Magnetic mounting apparatus 
+ US7398952B2
+ (en)
+ *
+ 2005-04-29
+ 2008-07-15
+ Carnevali Jeffrey D
+ Telescoping pole mount 
+ US20080234013A1
+ (en)
+ 2007-03-23
+ 2008-09-25
+ Bury Sp Z O.O.
+ Mobile phone holder, especially for mechanical vehicle 
+ US8613379B2
+ (en)
+ *
+ 2010-02-24
+ 2013-12-24
+ High Gear Specialties, Inc.
+ Scooter device mounting assembly 
+ US10066779B2
+ (en)
+ *
+ 2011-05-31
+ 2018-09-04
+ Nite Ize, Inc.
+ Multi-positional mount for personal electronic devices with a magnetic interface 
+ US8602376B2
+ (en)
+ *
+ 2011-05-31
+ 2013-12-10
+ Nite Ize, Inc.
+ Multi-positional mount for personal electronic devices with a magnetic interface 
+ US8870146B2
+ (en)
+ *
+ 2011-05-31
+ 2014-10-28
+ Nite Ize, Inc.
+ Multi-positional mount for personal electronic devices with a magnetic interface 
+ US9611881B2
+ (en)
+ *
+ 2013-03-15
+ 2017-04-04
+ Otter Products, Llc
+ Releasable mount apparatus and system 
+ US20140354218A1
+ (en)
+ *
+ 2013-06-04
+ 2014-12-04
+ Ali Kaynar
+ Magnetic mounting solution for electronic devices with integrated conductive charging of the device 
+ US20150189055A1
+ (en)
+ *
+ 2013-12-26
+ 2015-07-02
+ Hyundai Motor Company
+ Mobile phone holder for vehicle 
+ US20190371504A1
+ (en)
+ *
+ 2015-03-03
+ 2019-12-05
+ Attachit LLC
+ Magnetic mount system 
+ US20210005368A1
+ (en)
+ *
+ 2015-03-03
+ 2021-01-07
+ Attachit LLC
+ Magnetic mount system 
+ US10192665B2
+ (en)
+ *
+ 2015-03-03
+ 2019-01-29
+ Attachit LLC
+ Magnetic mount system 
+ US20190230205A1
+ (en)
+ *
+ 2016-07-13
+ 2019-07-25
+ Hitec Parts Co.,Ltd.
+ Portable device holder and support for containing same 
+ US10554799B2
+ (en)
+ *
+ 2016-07-13
+ 2020-02-04
+ Rearth, Inc.
+ Portable device holder and support for containing same 
+ US20180202601A1
+ (en)
+ *
+ 2017-01-17
+ 2018-07-19
+ Kameron D. Kelly
+ Tree mountable device holder for hunting 
+ US20190195417A1
+ (en)
+ *
+ 2017-12-21
+ 2019-06-27
+ Jonathan Caleb Kwasniewski
+ Mobile Device Mount 
+ USD818421S1
+ (en)
+ *
+ 2018-02-13
+ 2018-05-22
+ Mpow Technology Co., Limited
+ Car mobile phone holder 
+ US20210026409A1
+ (en)
+ *
+ 2018-03-20
+ 2021-01-28
+ Mobile Tech, Inc.
+ Docking system for portable computing device 
+ US20210367452A1
+ (en)
+ *
+ 2018-09-10
+ 2021-11-25
+ Popsockets Llc
+ Induction charging for a portable electronic device with a grip attachment 
+ US10946810B2
+ (en)
+ *
+ 2018-10-28
+ 2021-03-16
+ Macneil Ip Llc
+ Cell phone stand 
+ US20200237083A1
+ (en)
+ *
+ 2019-01-25
+ 2020-07-30
+ Huang Jin
+ Phone clip holder 
+ US10736407B1
+ (en)
+ *
+ 2019-01-25
+ 2020-08-11
+ Huang Jin
+ Phone clip holder 
+ US10491727B1
+ (en)
+ *
+ 2019-02-19
+ 2019-11-26
+ Valor Communication, Inc.
+ Mobile phone holder with wirelessly activated robotic arms and charger 
+ US11585485B2
+ (en)
+ *
+ 2019-07-31
+ 2023-02-21
+ Peak Design
+ Mobile device mounting system 
+ US11897396B2
+ (en)
+ *
+ 2019-07-31
+ 2024-02-13
+ Peak Design
+ Mobile device mounting system 
+ US11548451B2
+ (en)
+ *
+ 2019-07-31
+ 2023-01-10
+ Peak Design
+ Mobile device mounting system 
+ US20210041057A1
+ (en)
+ *
+ 2019-07-31
+ 2021-02-11
+ Peak Design
+ Mobile device mounting system 
+ US20230054404A1
+ (en)
+ *
+ 2019-07-31
+ 2023-02-23
+ Peak Design
+ Mobile device mounting system 
+ US20220214010A1
+ (en)
+ *
+ 2019-07-31
+ 2022-07-07
+ Peak Design
+ Mobile device mounting system 
+ US12241583B2
+ (en)
+ *
+ 2019-07-31
+ 2025-03-04
+ Peak Design
+ Mobile device mounting system 
+ US20230072993A1
+ (en)
+ *
+ 2020-02-19
+ 2023-03-09
+ Min Soo Kim
+ Mobile phone fixing stand for selfies 
+ US20220228707A1
+ (en)
+ *
+ 2021-01-21
+ 2022-07-21
+ Chong Y. Ng
+ Apparatuses for holding and mounting mobile devices 
+ US20250131994A1
+ (en)
+ *
+ 2021-09-14
+ 2025-04-24
+ University Of Pittsburgh - Of The Commonwealth System Of Higher Education
+ Non-fungible token system for ensuring ethical, efficient and effective management of biospecimens 
+ US20230418330A1
+ (en)
+ *
+ 2022-06-25
+ 2023-12-28
+ Lenovo (Singapore) Pte. Ltd
+ Computing System 
+ US12032405B2
+ (en)
+ *
+ 2022-06-25
+ 2024-07-09
+ Lenovo (Singapore) Pte. Ltd
+ Computing system 
+ USD1034623S1
+ (en)
+ *
+ 2022-09-21
+ 2024-07-09
+ Shenzhen Mingkang Electronic Commerce Co., Ltd.
+ Electronic device holder 
+ CN219107068U
+ (en)
+ *
+ 2022-09-23
+ 2023-05-30
+ 深圳市壹疆科技有限公司
+ Combined charger 
+ US12228238B2
+ (en)
+ *
+ 2022-10-04
+ 2025-02-18
+ Ferraris Group S.A.G.L.
+ Supporting device for a portable processing and/or telecommunication apparatus or an accessory 
+ US20250189069A1
+ (en)
+ *
+ 2022-11-07
+ 2025-06-12
+ Evolutive Labs Co., Ltd.
+ Container and lid and attachment thereof 
+ US20240308436A1
+ (en)
+ *
+ 2023-02-24
+ 2024-09-19
+ Kenu, Inc.
+ Multi-use mount 
+ US11985264B1
+ (en)
+ *
+ 2023-03-06
+ 2024-05-14
+ Zhefu Han
+ Mobile phone stand with exhibition part 
+ USD1075736S1
+ (en)
+ *
+ 2023-03-13
+ 2025-05-20
+ Shenzhen Sodi Innovation Technologies Co., Ltd
+ Mobile phone stand 
+ US20230291822A1
+ (en)
+ *
+ 2023-05-06
+ 2023-09-14
+ Shenzhen Sodi Innovation Technologies Co., Ltd.
+ Magnetic type mobile phone holder 
+ US20240384829A1
+ (en)
+ *
+ 2023-05-19
+ 2024-11-21
+ Tilta Inc.
+ Magnetic attraction bracket and photographic device using the same 
+ US20240422253A1
+ (en)
+ *
+ 2023-06-16
+ 2024-12-19
+ Shenzhen Deone Innovation Technology Co., Ltd
+ Mobile Phone Case With Holder 
+ US20230332739A1
+ (en)
+ *
+ 2023-06-26
+ 2023-10-19
+ Wenhong Ma
+ Two-in-one multi-functional magnetic bracket 
+ USD1078717S1
+ (en)
+ *
+ 2023-07-31
+ 2025-06-10
+ Shenzhen Sodi Innovation Technologies Co., Ltd.
+ Ring holder 
+ CN220974075U
+ (en)
+ *
+ 2023-09-20
+ 2024-05-17
+ 深圳市银海兴科技有限公司
+ Collect number plate in on-vehicle cell phone stand of an organic whole 
+ USD1014492S1
+ (en)
+ *
+ 2023-10-09
+ 2024-02-13
+ Pingjun Sun
+ Mobile phone holder 
+ FR3154275A3
+ (en)
+ *
+ 2023-10-17
+ 2025-04-18
+ Eagle Fan
+ FOLDABLE MAGNETIC SUPPORT DEVICE
+ US20250137581A1
+ (en)
+ *
+ 2023-10-17
+ 2025-05-01
+ Eagle Fan
+ Foldable Magnetic Stand Device 
+ US20250137574A1
+ (en)
+ *
+ 2023-10-27
+ 2025-05-01
+ Belkin International, Inc.
+ Device mount apparatuses and methods 
+ USD1050107S1
+ (en)
+ *
+ 2024-03-28
+ 2024-11-05
+ Guangdong Shuowei Technology Co., Ltd.
+ Mobile phone holder 
+ USD1052575S1
+ (en)
+ *
+ 2024-08-08
+ 2024-11-26
+ Shenzhen Joyroom Technology Co., Ltd
+ Foldable magnetic car phone mount 
+ USD1073660S1
+ (en)
+ *
+ 2024-09-10
+ 2025-05-06
+ Shenzhen Zhenwei Xin Technology Co., Ltd.
+ Cell phone holder 
+ USD1076905S1
+ (en)
+ *
+ 2024-09-14
+ 2025-05-27
+ Dongguan Ruilai Electronic Technology Co., Ltd.
+ Magnetic car mount 
+ USD1073605S1
+ (en)
+ *
+ 2024-12-23
+ 2025-05-06
+ Chunwang MENG
+ Magnetic wireless charger 
+Non-Patent Citations (2)
+ * Cited by examiner, † Cited by third party
+ Title
+ SODI, SODI Continuity Camera Mount, Apr. 7, 2023, Amazon.com, https://www.amazon.com/SODI-Continuity-Camera-Desktop-Monitor/dp/BOC1RHB3NQ/ (Year: 2023).
+ *
+ Stouchi, Stouchi Continuity Camera Mount, April 15th 20223, Amazon.com, https://www.amazon.com/Stouchi-Continuity-Compatible-Mag-Safe-Desktops/dp/B0BZP93WPY/ (Year: 2023).
+ *
+Cited By (3)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ USD1126858S1
+ (en)
+ *
+ 2024-01-22
+ 2026-05-19
+ Christian Frederick Caspersen
+ Magnetic device holder 
+ US12706627B2
+ (en)
+ *
+ 2024-02-24
+ 2026-08-11
+ Ningbo Weifeng Intelligent Technology Co., Ltd.
+ Assembly structure for mobile phone clip module 
+ USD1129429S1
+ (en)
+ *
+ 2024-04-04
+ 2026-06-09
+ Eagle Fan
+ Stand for mobile device 
+Also Published As
+ Publication number
+ Publication date
+ CN220043473U
+ (en)
+ 2023-11-17
+ US20230291822A1
+ (en)
+ 2023-09-14
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US20230291822A1
+ (en)
+ 2023-09-14
+ Magnetic type mobile phone holder 
+ KR100909011B1
+ (en)
+ 2009-07-22
+ Stand hinges for electronic devices and electronic devices equipped with them
+ US12580416B2
+ (en)
+ 2026-03-17
+ Charging base 
+ EP2615520B1
+ (en)
+ 2018-05-02
+ Portable terminal with support plate 
+ WO2024051867A1
+ (en)
+ 2024-03-14
+ Electronic device accessory 
+ KR101316210B1
+ (en)
+ 2013-10-08
+ Holder for portable device 
+ CN103312846A
+ (en)
+ 2013-09-18
+ Universal dock for portable phone 
+ CN114484172B
+ (en)
+ 2022-11-29
+ Support and terminal equipment subassembly 
+ CN205806838U
+ (en)
+ 2016-12-14
+ Support 
+ CN217010926U
+ (en)
+ 2022-07-19
+ Cell phone stand is inhaled to magnetism that area rotated and accomodate 
+ US8474775B2
+ (en)
+ 2013-07-02
+ Foldable and adjustable supporting apparatus for portable devices 
+ US20250141487A1
+ (en)
+ 2025-05-01
+ Protective case 
+ CN211551068U
+ (en)
+ 2020-09-22
+ A folding support for intelligent terminal 
+ CN215522510U
+ (en)
+ 2022-01-14
+ a bracket
+ CN215862657U
+ (en)
+ 2022-02-18
+ Notebook computer support with cell phone stand 
+ CN212115396U
+ (en)
+ 2020-12-08
+ Foldable mobile phone desktop support 
+ CN222916075U
+ (en)
+ 2025-05-27
+ Wireless folding support that charges 
+ CN209104844U
+ (en)
+ 2019-07-12
+ A kind of wireless charger 
+ CN216344783U
+ (en)
+ 2022-04-19
+ Support frame 
+ CN217428184U
+ (en)
+ 2022-09-13
+ Portable docking station support 
+ CN216959928U
+ (en)
+ 2022-07-12
+ Support protective housing 
+ CN219287574U
+ (en)
+ 2023-06-30
+ Mobile phone finger ring support is inhaled to magnetism 
+ CN223285856U
+ (en)
+ 2025-08-29
+ A circular mobile phone holder
+ CN222508835U
+ (en)
+ 2025-02-18
+ Three-in-one charger 
+ CN216079122U
+ (en)
+ 2022-03-18
+ Support frame 
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2023-05-18
+ AS
+ Assignment
+ Owner name:
+ SHENZHEN SODI INNOVATION TECHNOLOGIES CO., LTD., CHINA
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:LIU, YUELIAN;REEL/FRAME:063686/0933
+ Effective date:
+ 20230517
+ 2023-05-18
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2023-06-02
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2023-06-14
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION
+ 2025-07-23
+ STCF
+ Information on status: patent grant
+ Free format text:
+ PATENTED CASE

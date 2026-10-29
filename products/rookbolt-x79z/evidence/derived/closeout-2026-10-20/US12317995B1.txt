@@ -1,0 +1,840 @@
+US12317995B1 - Bracket assembly and electronic device bracket 
+ - Google Patents
+US12317995B1 - Bracket assembly and electronic device bracket 
+ - Google Patents
+ Bracket assembly and electronic device bracket 
+ Download PDF
+Info
+ Publication number
+ US12317995B1
+ US12317995B1
+ US18/732,483
+ US202418732483A
+ US12317995B1
+ US 12317995 B1
+ US12317995 B1
+ US 12317995B1
+ US 202418732483 A
+ US202418732483 A
+ US 202418732483A
+ US 12317995 B1
+ US12317995 B1
+ US 12317995B1
+ Authority
+ US
+ United States
+ Prior art keywords
+ bracket
+ rotation
+ rotation seat
+ hole
+ base
+ Prior art date
+ 2023-11-20
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Active
+ Application number
+ US18/732,483
+ Other versions
+ US20250160511A1
+ (en
+ Inventor
+ Jing Cai
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Dongguan Kaishuo Electronics Technology Co Ltd
+ Original Assignee
+ Dongguan Kaishuo Electronics Technology Co Ltd
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2023-11-20
+ Filing date
+ 2024-06-03
+ Publication date
+ 2025-06-03
+ 2024-06-03
+ Application filed by Dongguan Kaishuo Electronics Technology Co Ltd
+ filed
+ Critical
+ Dongguan Kaishuo Electronics Technology Co Ltd
+ 2025-04-21
+ Priority to US19/184,809
+ priority
+ Critical
+ patent/US20250248515A1/en
+ 2025-05-22
+ Publication of US20250160511A1
+ publication
+ Critical
+ patent/US20250160511A1/en
+ 2025-06-03
+ Application granted
+ granted
+ Critical
+ 2025-06-03
+ Publication of US12317995B1
+ publication
+ Critical
+ patent/US12317995B1/en
+ Status
+ Active
+ legal-status
+ Critical
+ Current
+ 2044-06-03
+ Anticipated expiration
+ legal-status
+ Critical
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ A—HUMAN NECESSITIES
+ A47—FURNITURE; DOMESTIC ARTICLES OR APPLIANCES; COFFEE MILLS; SPICE MILLS; SUCTION CLEANERS IN GENERAL
+ A47B—TABLES; DESKS; OFFICE FURNITURE; CABINETS; DRAWERS; GENERAL DETAILS OF FURNITURE
+ A47B23/00—Bed-tables; Trays; Reading-racks; Book-rests, i.e. items used in combination with something else
+ A47B23/04—Bed-tables; Trays; Reading-racks; Book-rests, i.e. items used in combination with something else supported from table, floor or wall
+ A47B23/042—Book-rests or note-book holders resting on tables
+ A47B23/043—Book-rests or note-book holders resting on tables adjustable, foldable
+ A47B23/044—Book-rests or note-book holders resting on tables adjustable, foldable only foldable
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/041—Allowing quick release of the apparatus
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/10—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/2007—Undercarriages with or without wheels comprising means allowing pivoting adjustment
+ F16M11/2021—Undercarriages with or without wheels comprising means allowing pivoting adjustment around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/24—Undercarriages with or without wheels changeable in height or length of legs, also for transport only, e.g. by means of tubes screwed into each other
+ F16M11/38—Undercarriages with or without wheels changeable in height or length of legs, also for transport only, e.g. by means of tubes screwed into each other by folding, e.g. pivoting or scissors tong mechanisms
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/04—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or holding steady relative to, a person, e.g. by chains, e.g. rifle butt or pistol grip supports, supports attached to the chest or head
+Definitions
+ the present application
+ relates to the technical field of bracket assemblies, and specifically to a bracket assembly and an electronic device bracket.
+ the bracket assembly
+ As part of the electronic device bracket, is used to support electronic products.
+ the bracket assembly
+ includes a base and a bracket, the bracket is connected to the base, at this time, the bracket is in a fixed state relative to the base for supporting the electronic products, but the existing bracket assembly is only used for support, resulting in a poor functionality of the existing bracket assembly.
+ Embodiments of the present application
+ provide a bracket assembly and an electronic device bracket, the bracket assembly is compatible with a first bracket and a second bracket, the first bracket is swingably mounted to a base and is swingable or foldable relative to the base, such that there is an inclined angle between the first bracket and the base, thus the first bracket contacts a tabletop or supports the tabletop, so as to facilitate that the bracket assembly contacts the tabletop or supports tabletop, so as to maintain the inclined state of the bracket assembly and the electronic device connected to the bracket assembly.
+ the second bracket
+ achieves a rotation function with the base through the rotation seat, so that the second bracket has a rotation function, and the second bracket is foldably mounted to the rotation seat and openable or foldable relative to the rotation seat.
+ the second bracket
+ When the second bracket is opened relative to the rotation seat, the second bracket is held by a user's hand, so as to facilitate the user holding the bracket assembly and the electronic device connected to the bracket assembly, whereby the bracket assembly is compatible with the support function of the first bracket and the handhold function of the second bracket, which enriches the function of the bracket assembly and satisfies the comprehensive application of the first bracket and the second bracket.
+ the second bracket
+ when the second bracket is folded relative to the rotation seat, the second bracket is fixed to the rotation seat by adsorption force or snap fit force, the folding stability between the second bracket and the rotation seat is ensured.
+ bracket assembly
+ including:
+ the base
+ is provided with a rotation hole and a through hole, and the rotation hole is located on an outside of the through hole and communicated with the through hole;
+ a rotation arm
+ is projected from a peripheral side wall of the rotation seat, the rotation arm is inserted in the rotation hole and rotatable within the rotation hole, and an upper side wall of the rotation arm is contacted with an inner side wall of the rotation hole.
+ the first bracket
+ when the first bracket is folded relative to the base, the first bracket is provided with a through hole, and the second bracket is exposed to the through hole, and the second bracket is located inside the first bracket and is opened or folded relative to the rotation seat.
+ the first bracket
+ is provided with an operation hole, the operation hole is provided on an outer peripheral side of the through hole and communicated with the through hole;
+ an operation space
+ is formed between an inner side wall of the operation hole and an outer peripheral wall of the second bracket, the operation space is configured for insertion of a user's hand to open the second bracket.
+ first bracket
+ when the first bracket is folded relative to the base, and a surface of the second bracket extends not beyond a surface of the first bracket along an axis of the second bracket.
+ the second bracket
+ is provided with a folding member between the second bracket and the rotation seat, and an end of the folding member is connected to the second bracket and another end of the folding member is connected to the rotation seat;
+ the folding member
+ include at least one folding arm, each folding arm is provided with a first folding portion and a second folding portion connected to each other, the first folding portion is connected to the rotation seat, and the second folding portion is connected to the second bracket, and the first folding portion and second folding portion are openable or foldable each other.
+ the first folding portion, the second folding portion, the rotation seat and the second bracket
+ form a handhold space for insertion of the user's hand or clamping the user's hand.
+ the rotation seat and the second bracket
+ are folded to each other and are subjected to adsorption force or snap fit force
+ An electronic device bracket
+ includes the bracket assembly and an electronic device, the bracket assembly is located on an outside of the electronic device, the base of the bracket assembly is magnetically or adhesively connected to the electronic device.
+ the bracket assembly
+ is compatible with a first bracket and a second bracket
+ the first bracket
+ is swingably mounted to a base and is swingable or foldable relative to the base, such that there is an inclined angle between the first bracket and the base, thus the first bracket contacts a tabletop or supports the tabletop, so as to facilitate that the bracket assembly contacts the tabletop or supports tabletop, so as to maintain the inclined state of the bracket assembly and the electronic device connected to the bracket assembly.
+ the second bracket
+ achieves a rotation function with the base through the rotation seat, so that the second bracket has a rotation function, and the second bracket is foldably mounted to the rotation seat and openable or foldable relative to the rotation seat.
+ the second bracket
+ When the second bracket is opened relative to the rotation seat, the second bracket is held by a user's hand, so as to facilitate the user holding the bracket assembly and the electronic device connected to the bracket assembly, whereby the bracket assembly is compatible with the support function of the first bracket and the handhold function of the second bracket, which enriches the function of the bracket assembly and satisfies the comprehensive application of the first bracket and the second bracket.
+ the second bracket
+ when the second bracket is folded relative to the rotation seat, the second bracket is fixed to the rotation seat by adsorption force or snap fit force, the folding stability between the second bracket and the rotation seat is ensured.
+ FIG. 1
+ is a schematic view of a bracket assembly according to an embodiment of the present application.
+ FIG. 2
+ is a cross-sectional view of the bracket assembly according to an embodiment of the present application.
+ FIG. 3
+ is a partially enlarged view at A in FIG. 2 .
+ FIG. 4
+ is a schematic view of a first bracket of the bracket assembly according to an embodiment of the present application.
+ FIG. 5
+ is a schematic view of a folded state of the bracket assembly according to an embodiment of the present application.
+ FIG. 6
+ is a schematic diagram of a magnetic attraction of a second connection member to a rotation seat of the bracket assembly according to an embodiment of the present application.
+ FIG. 7
+ is a schematic diagram of a magnetic attraction of a first connection member to the second connection member of the bracket assembly according to an embodiment of the present application.
+ FIG. 8
+ is a schematic diagram of adhesion of a fourth connection member to the rotation seat of the bracket assembly according to an embodiment of the present application.
+ FIG. 9
+ is a schematic diagram of adhesion of the fourth connection member to a third connection member of the bracket assembly according to an embodiment of the present application.
+ embodiments of the present application
+ provide a bracket assembly 100 for supporting an electronic product.
+ the bracket assembly 100
+ includes a base 10 , a first bracket 20 , a rotation seat 30 and a second bracket 40 .
+ the first bracket 20 , the rotation seat 30 and the second bracket 40
+ are provided on one side of the base 10
+ the base 10
+ serves as a support component of the bracket assembly 100 for supporting the first bracket 20 , the rotation seat 30 and the second bracket 40 .
+ the first bracket 20
+ has an outside wall for contacting a tabletop or a desktop.
+ the base 10
+ is used to connect the electronic device or the support member, so as to facilitate that the electronic device or the support member is fixed to the base 10 , which achieves fixing of the electronic device or the support member.
+ the base 10
+ is adsorbed to the mobile phone or electronic tablet by a magnet.
+ the first bracket 20
+ is swingably mounted to the base 10 and is swingable or foldable relative to the base 10 , at this time, the first bracket 20 is provided on an upper side of the base 10 , the first bracket 20 is swingably mounted to the base 10 and is swingable or foldable relative to the base 10 , so as to facilitate adjusting the position of the first bracket 20 relative to the base 10 .
+ An inclined angle
+ is provided between the first bracket 20 and the base 10 , such that the first bracket 20 contacts the tabletop or supports the tabletop, thereby facilitating that the bracket assembly 100 contacts the tabletop or supports the tabletop, so as to maintain the inclined state of the bracket assembly 100 and the electronic device connected to the bracket assembly 100 .
+ the first bracket 20
+ is mounted to the base 10 via an opening hinge.
+ the rotation seat 30
+ is rotatably mounted to the base 10 and rotated along the axis of the rotation seat 30 , at this time the rotation seat 30 is provided on an inner side of the base 10 , and the rotation seat 30 is rotatably mounted to the base 10 and rotated along the axis of the rotation seat 30 , so as to facilitate adjusting the position of the rotation seat 30 relative to the base 10 , thereby adjusting an axis direction of the rotation seat 30 relative to the base 10 .
+ the second bracket 40
+ is arranged along the axis of the rotation seat 30 relative to the rotation seat 30 , and the second bracket 40 is foldably mounted to the rotation seat 30 and is opened or folded relative to the rotation seat 30 ; when the second bracket 40 is folded relative to the rotation seat 30 , the second bracket 40 is fixed to the rotation seat 30 by adsorption force or snap fit force.
+ the second bracket 40
+ is provided on an upper side of the rotation seat 30 , the second bracket 40 is foldably mounted to the rotation seat 30 and is opened or folded relative to the rotation seat 30 , and when the second bracket 40 is opened relative to the rotation seat 30 , the second bracket 40 is held by the user's hand, so as to facilitate the user holding the bracket assembly 100 and the electronic device connected to the bracket assembly 100 , whereby the bracket assembly 100 is compatible with the support function of the first bracket 20 and the handhold function of the second bracket 40 , which enriches the function of the bracket assembly 100 and satisfies the comprehensive application of the first bracket 20 and the second bracket 40 .
+ the second bracket 40
+ is folded relative to the rotation seat 30 , the second bracket 40 is fixed to the rotation seat 30 by adsorption force or snap fit force, the folding stability between the second bracket 40 and the rotation seat 30 is ensured.
+ the base 10
+ is provided with a rotation hole 10 a and a through hole 10 b , the rotation hole 10 a is located on an outside of the through hole 10 b and is communicated with the through hole 10 b .
+ the rotation seat 30
+ is located inside the through hole 10 b , the rotation seat 30 is connected to the rotation hole 10 a , and a gap is provided between the rotation seat 30 and the rotation hole 10 a , and the rotation seat 30 is rotatable relative to the rotation hole 10 a , and at this time, the rotation hole 10 a is located on the outside of the through hole 10 b and a diameter of the rotation hole 10 a is larger than a diameter of the through hole 10 b .
+ the rotation hole 10 a
+ is communicated with the through hole 10 b , the rotation seat 30 is located inside the through hole 10 b , the rotation seat 30 is connected to the rotation hole 10 a , and a gap is provided between the rotation seat 30 and the rotation hole 10 a , and an outer diameter of the rotation seat 30 is smaller than an inner diameter of the rotation hole 10 a , and the rotation seat 30 is rotatable relative to the rotation hole 10 a , so as to facilitate the rotation of the rotation seat 30 relative to the base 10 through the through hole 10 b , to realize rotation function of the rotation seat 30 .
+ the rotation seat 30
+ is locate inside the through hole 10 b , a rotation bearing is provided between the rotation seat 30 and the rotation hole 10 a , the rotation seat 30 rotates relative to the rotation hole 10 a through the rotation bearing, and at this time, the rotation bearing is provided between the rotation seat 30 and the base 10 , a fixing end of the rotation bearing is connected to the rotation hole 10 a , a rotation end of the rotation bearing is connected to the rotation seat 30 to drive the rotation seat 30 to rotate, and the rotation seat 30 is rotated relative to the rotation hole 10 a through the rotation bearing, so as to facilitate the rotation of the rotation seat 30 through the rotation bearing.
+ a rotation arm 31
+ is projected from a peripheral side wall of the rotation seat 30 , the rotation arm 31 is inserted into the rotation hole 10 a and rotates within the rotation hole 10 a .
+ An upper side wall of the rotation arm 31
+ contacts an inner side wall of the rotation hole 10 a , at this time, the rotation arm 31 is located at the peripheral side wall of the rotation seat 30 , the rotation arm 31 is inserted into the rotation hole 10 a and rotates within the rotation hole 10 a , and the upper side wall of the rotation arm 31 contacts the inner side wall of the rotation hole 10 a , so as to facilitate that the rotation seat 30 rotates relative to the base 10 through the rotation arm 31 , thereby facilitating adjusting the position of the rotation seat 30 relative to the base 10 .
+ the first bracket 20
+ When the first bracket 20 is folded relative to the base 10 , the first bracket 20 is provided with a through hole 20 a , and the second bracket 40 is exposed to the through hole 20 a , and at this time the through hole 20 a is in the middle of the first bracket 20 , the second bracket 40 is located inside the first bracket 20 , and the second bracket 40 is exposed to the through hole 20 a , so as to facilitate that the second bracket 40 can be opened or folded, and the second bracket 40 is opened or folded relative to the rotation seat 30 .
+ the second bracket 40
+ When the second bracket 40 is opened relative to the rotation seat 30 , the second bracket 40 is held by the user's hand, so as to facilitate the user to hold the bracket assembly 100 and the electronic device connected to the bracket assembly 100 , and when the second bracket 40 is folded relative to the rotation seat 30 , so as to reduce the longitudinal space between the second bracket 40 and the rotation seat 30 , thereby facilitate storage of the bracket assembly 100 .
+ the first bracket 20
+ is connected to the base 10 by the magnet.
+ the first bracket 20
+ may be a metal sheet.
+ the first bracket 20
+ is provided with an operation hole 20 b
+ the operation hole 20 b
+ is provided at an outer peripheral side of the through hole 20 a , and is communicated with to the through hole 20 a .
+ an operation space 20 c
+ is formed between an inner side wall of the operation hole 20 b and an outer peripheral wall of the second bracket 40 , and the operation space 20 c is used for insertion of the user's hand to open the second bracket 40 , and at this time, the operation hole 20 b is located on an outer peripheral side of the through hole 20 a , and the operation hole 20 b is communicated with the through hole 20 a , so as to facilitate enlarging an outer diameter of the through hole 20 a through the operation hole 20 b .
+ an operation space 20 c
+ is formed between an inner side wall of the operation hole 20 b and an outer peripheral wall of the second bracket 40 , the operation space 20 c is used for insertion of the user's hand to open the second bracket 40 , so as to facilitate opening the second bracket 40 by the user's hand through the operation space 20 c , realizing the opening of the second bracket 40 relative to the rotation seat 30 .
+ the surface of the second bracket 40
+ does not extend beyond the surface of the first bracket 20 along the axis of the second bracket 40 , so as to accommodate the second bracket 40 within the first bracket 20 , such that the second bracket 40 and the first bracket 20 are integrated by the bracket assembly 100 .
+ the second bracket 40
+ is provided with a folding member 50 between the second bracket 40 and the rotation seat 30 , and two ends of the folding member 50 are connected to the second bracket 40 and the rotation seat 30 , respectively.
+ the folding member 50
+ includes at least one folding arm 51 , the folding arm 51 is provided with a first folding portion 511 and a second folding portion 512 , the first folding portion 511 is connected to the rotation seat 30 , and the second folding portion 512 is connected to the second bracket 40 , and the first folding portion 511 and the second folding portion 512 can be folded or opened each other.
+ the folding member 50
+ is located between the second bracket 40 and the rotation seat 30 , and the folding member 50 is provided with at least one folding arm 51 , and one end of the folding arm 51 is connected to the second bracket 40 and another end of the folding arm 51 is connected to the rotation seat 30 , and the second bracket 40 and the rotation seat 30 are folded along with the folding of the folding arm 51 , or, the second bracket 40 and the rotation seat 30 are opened along with the opening of the folding arm 51 , so that the folding member 50 realizes a folding function or an opening function between the second bracket 40 and the rotation seat 30 , and the second bracket 40 and the rotation seat 30 are opened with the opening of the folding arm 51 .
+ a handhold space 51 a
+ is formed among the second bracket 40 , the rotation seat 30 and the folding arm 51 , so as to facilitate the user handholding the bracket assembly 100 through the handhold space 51 a , to improve the handhold effect of the bracket assembly 100 .
+ the folding arm 51
+ includes a first folding portion 511 and a second folding portion 512 , the first folding portion 511 is located on a lower side of the second folding portion 512 , and one end of the first folding portion 511 is connected to the rotation seat 30 and one end of the second folding portion 512 is connected to the second bracket 40 , so as to facilitate that the rotation seat 30 fixes the first folding portion 511 and the second bracket 40 fixes the second folding portion 512 .
+ the first folding portion 511 and the second folding portion 512
+ are connected, the first folding portion 511 and the second folding portion 512 are swingable with each other, and the first folding portion 511 and the second folding portion 512 are folded or opened along the axial direction of the rotation seat 30 , so as to facilitate the rotation seat 30 and the second bracket 40 to being folded or opened by the first folding portion 511 and the second folding portion 512 .
+ a bent
+ is formed between the first folding portion 511 and the second folding portion 512 .
+ the first folding portion 511 and the second folding portion 512
+ are in a shape of a “less than” or “greater than” character.
+ a handhold space 51 a
+ is formed among the first folding portion 511 , the second folding portion 512 , the rotation seat 30 , and the second bracket 40 .
+ the handhold space 51 a
+ is used for the insertion of the user's hand or clamping, so as to facilitate insertion of the user's hand into the handhold space 51 a , thereby facilitating the user handholding the bracket assembly 100 , the handhold space 51 a has a heterogeneous inner contour.
+ the rotation seat 30 and the second bracket 40
+ are folded against each other and subjected to an adsorption force, thus when the folding arm 51 is folded, the rotation seat 30 and the second bracket 40 are folded against each other, such that the rotation seat 30 and the second bracket 40 are close to each other, and the rotation seat 30 and the second bracket 40 are adsorbed to each other by the adsorption force, so that the rotation seat 30 is fixed relative to the second bracket 40 by the adsorption force, to avoid the second bracket 40 from automatically opening relative to the rotation seat 30 .
+ the rotation seat 30
+ is a metal member
+ the second bracket 40
+ is provided with a second connection member 41
+ the second connection member 41
+ is magnetically adsorbed with the rotation seat 30
+ the second connection member 41
+ is a magnet
+ the second connection member 41
+ is magnetically adsorbed with the rotation seat 30 , so as to facilitate making the second bracket 40 and the rotation seat 30 to be subjected to the magnetic adsorption force.
+ the rotation seat 30
+ when there is a magnetic adsorption force between the rotation seat 30 and the second bracket 40 , the rotation seat 30 is provided with a first connection member 32 , the second bracket 40 is provided with a second connection member 41 , the first connection member 32 and the second connection member 41 are two magnets that are oppositely attracted to each other, therefore, the second connection member 41 is magnetically adsorbed with the first connection member 32 , such that the second bracket 40 and the rotation seat 30 are subjected to the magnetic adsorption force.
+ the second bracket 40
+ when there is an adhesive adsorption force between the rotation seat 30 and the second bracket 40 , the second bracket 40 is provided with a fourth connection member 42 , the fourth connection member 42 is adhesively adsorbed with the rotation seat 30 , and the fourth connection member 42 is an adhesive member, therefore, the fourth connection member 42 is adhesively adsorbed with the rotation seat 30 , so as to facilitate making the second bracket 40 and the rotation seat 30 to be subjected to the adhesive adsorption force.
+ the rotation seat 30
+ when there is an adhesive adsorption force between the rotation seat 30 and the second bracket 40 , the rotation seat 30 is provided with a third connection member 33 , and the second bracket 40 is provided with a fourth connection member 42 , and the third connection member 33 and the fourth connection member 42 are both adhesive members that are attracted to each other, therefore, the fourth connection member 42 is adhesively adsorbed with the third connection member 33 , so as to facilitate making the second bracket 40 and the rotation seat 30 to be subjected to the adhesive adsorption force.
+ the rotation seat 30 and the second bracket 40
+ when the folding arm 51 is folded, the rotation seat 30 and the second bracket 40 are folded into each other and subjected to a snap fit force, therefore when the folding arm 51 is folded, the rotation seat 30 and the second bracket 40 are folded into each other, so as to facilitate making the rotation seat 30 and the second bracket 40 close to each other, and the snap fit force enables the rotation seat 30 and the second bracket 40 to be snapped into each other, so that the rotation seat 30 is fixed relative to the second bracket 40 by the snap fit force, thereby preventing the second bracket 40 from automatically opening relative to the rotation seat 30 .
+ the rotation seat 30 and the second bracket 40
+ are snapped through snapping of the snap arm with the snap slot, which is not limited herein.
+ an electronic device bracket
+ in another embodiment, includes a bracket assembly 100 and an electronic device; the bracket assembly 100 is located on an outside of the electronic device, and a base 10 of the bracket assembly 100 is magnetically or adhesively fixed to the electronic device, so as to facilitate that the electronic device is magnetically or adhesively fixed to the base 10 of the bracket assembly 100 , to achieve fixation of the electronic device.
+ the bracket assembly 100
+ is compatible with a first bracket 20 and a second bracket 40 , the first bracket 20 is swingably mounted to the base 10 and is swingable or foldable relative to the base 10 , such that there is an inclined angle between the first bracket 20 and the base 10 , thus the first bracket 20 contacts a tabletop or supports the tabletop, so as to facilitate that the bracket assembly 100 contacts the tabletop or supports tabletop, so as to maintain the inclined state of the bracket assembly 100 and the electronic device connected to the bracket assembly 100 .
+ the second bracket 40
+ achieves a rotation function with the base 10 through the rotation seat 30 , so that the second bracket 40 has a rotation function, and the second bracket 40 is foldably mounted to the rotation seat 30 and openable or foldable relative to the rotation seat 30 .
+ the second bracket 40
+ is opened relative to the rotation seat 30 , the second bracket 40 is held by a user's hand, so as to facilitate the user holding the bracket assembly 100 and the electronic device connected to the bracket assembly 100 , whereby the bracket assembly 100 is compatible with the support function of the first bracket 20 and the handhold function of the second bracket 40 , which enriches the function of the bracket assembly 100 and satisfies the comprehensive application of the first bracket 20 and the second bracket 40 .
+ the second bracket 40
+ is folded relative to the rotation seat 30 , the second bracket 40 is fixed to the rotation seat 30 by adsorption force or snap fit force, the folding stability between the second bracket 40 and the rotation seat 30 is ensured.
+ first and second
+ are used for descriptive purposes only and are not to be understood as indicating or implying relative importance or implicitly specifying the number of technical features indicated.
+ a feature defined with “first” and “second”
+ may include one or more features, either explicitly or implicitly.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Pivots And Pivotal Connections
+ (AREA)
+ Telephone Set Structure
+ (AREA)
+Abstract
+The present application discloses a bracket assembly, which includes a base, a first bracket, a rotation seat and a second bracket. The first bracket is swingably mounted to the base and swingable or foldable relative to the base, to facilitate providing an inclined angle between the first bracket and the base, thereby contacting a tabletop or supporting a tabletop through the first bracket. In addition, the second bracket achieves the rotation function relative to the base through the rotation seat, to facilitate that the second bracket has the rotation function, and the second bracket is foldably mounted to the rotation seat and openable and foldable relative to the rotation seat, and when the second bracket is folded relative to the rotation seat, the second bracket is held by the user's hand.
+Description
+ CROSS-REFERENCE TO RELATED APPLICATIONS
+The present application claims priority to Chinese Application No. 202323124777.2, filed Nov. 20, 2023, the entire disclosure of which is incorporated herein by reference.
+ TECHNICAL FIELD
+The present application relates to the technical field of bracket assemblies, and specifically to a bracket assembly and an electronic device bracket.
+ BACKGROUND
+With the development of science and technology, the electronic device bracket is used in human's lives, the bracket assembly, as part of the electronic device bracket, is used to support electronic products. In the existing technology, the bracket assembly includes a base and a bracket, the bracket is connected to the base, at this time, the bracket is in a fixed state relative to the base for supporting the electronic products, but the existing bracket assembly is only used for support, resulting in a poor functionality of the existing bracket assembly.
+ SUMMARY
+Embodiments of the present application provide a bracket assembly and an electronic device bracket, the bracket assembly is compatible with a first bracket and a second bracket, the first bracket is swingably mounted to a base and is swingable or foldable relative to the base, such that there is an inclined angle between the first bracket and the base, thus the first bracket contacts a tabletop or supports the tabletop, so as to facilitate that the bracket assembly contacts the tabletop or supports tabletop, so as to maintain the inclined state of the bracket assembly and the electronic device connected to the bracket assembly. Furthermore, the second bracket achieves a rotation function with the base through the rotation seat, so that the second bracket has a rotation function, and the second bracket is foldably mounted to the rotation seat and openable or foldable relative to the rotation seat. When the second bracket is opened relative to the rotation seat, the second bracket is held by a user's hand, so as to facilitate the user holding the bracket assembly and the electronic device connected to the bracket assembly, whereby the bracket assembly is compatible with the support function of the first bracket and the handhold function of the second bracket, which enriches the function of the bracket assembly and satisfies the comprehensive application of the first bracket and the second bracket. In addition, when the second bracket is folded relative to the rotation seat, the second bracket is fixed to the rotation seat by adsorption force or snap fit force, the folding stability between the second bracket and the rotation seat is ensured.
+Other features and advantages of the present application will become apparent by the following detailed description, or will partly be learned by practice of the present application.
+According to an aspect of the embodiment of the present application, it provides a bracket assembly, including:
+a base, connecting an electronic device or a support member; 
+a first bracket, swingably mounted to the base and swingable or foldable relative to the base; 
+a rotation seat, rotatably mounted to the base and rotatable along an axis of the rotation seat; and 
+a second bracket, arranged along the axis of the rotation seat relative to the rotation seat, wherein the second bracket is foldably mounted to the rotation seat and openable and foldable relative to the rotation seat, and when the second bracket is folded relative to the rotation seat, the second bracket is fixed to the rotation seat by adsorption force or snap fit force. 
+In an embodiment, the base is provided with a rotation hole and a through hole, and the rotation hole is located on an outside of the through hole and communicated with the through hole;
+the rotation seat is located inside the through hole, the rotation seat is connected to the rotation hole, and a gap is provided between the rotation seat and the rotation hole for rotatable relative to the rotation hole; or 
+the rotation seat is located inside the through hole, a rotation bearing is provided between the rotation hole and the rotation seat, and the rotation seat is rotatable relative to the rotation hole through the rotation bearing. 
+In an embodiment, a rotation arm is projected from a peripheral side wall of the rotation seat, the rotation arm is inserted in the rotation hole and rotatable within the rotation hole, and an upper side wall of the rotation arm is contacted with an inner side wall of the rotation hole.
+In an embodiment, when the first bracket is folded relative to the base, the first bracket is provided with a through hole, and the second bracket is exposed to the through hole, and the second bracket is located inside the first bracket and is opened or folded relative to the rotation seat.
+In an embodiment, the first bracket is provided with an operation hole, the operation hole is provided on an outer peripheral side of the through hole and communicated with the through hole; and
+when the first bracket is folded relative to the base, an operation space is formed between an inner side wall of the operation hole and an outer peripheral wall of the second bracket, the operation space is configured for insertion of a user's hand to open the second bracket.
+In an embodiment, when the first bracket is folded relative to the base, and a surface of the second bracket extends not beyond a surface of the first bracket along an axis of the second bracket.
+In an embodiment, the second bracket is provided with a folding member between the second bracket and the rotation seat, and an end of the folding member is connected to the second bracket and another end of the folding member is connected to the rotation seat;
+the folding member include at least one folding arm, each folding arm is provided with a first folding portion and a second folding portion connected to each other, the first folding portion is connected to the rotation seat, and the second folding portion is connected to the second bracket, and the first folding portion and second folding portion are openable or foldable each other.
+In an embodiment, when the folding arm is opened, and a bent is formed between the first folding portion and the second folding portion, the first folding portion, the second folding portion, the rotation seat and the second bracket form a handhold space for insertion of the user's hand or clamping the user's hand.
+In an embodiment, when the folding arm is folded, the rotation seat and the second bracket are folded to each other and are subjected to adsorption force or snap fit force
+An electronic device bracket includes the bracket assembly and an electronic device, the bracket assembly is located on an outside of the electronic device, the base of the bracket assembly is magnetically or adhesively connected to the electronic device.
+In the technical solutions provided by some embodiments of the present application, the bracket assembly is compatible with a first bracket and a second bracket, the first bracket is swingably mounted to a base and is swingable or foldable relative to the base, such that there is an inclined angle between the first bracket and the base, thus the first bracket contacts a tabletop or supports the tabletop, so as to facilitate that the bracket assembly contacts the tabletop or supports tabletop, so as to maintain the inclined state of the bracket assembly and the electronic device connected to the bracket assembly. Furthermore, the second bracket achieves a rotation function with the base through the rotation seat, so that the second bracket has a rotation function, and the second bracket is foldably mounted to the rotation seat and openable or foldable relative to the rotation seat. When the second bracket is opened relative to the rotation seat, the second bracket is held by a user's hand, so as to facilitate the user holding the bracket assembly and the electronic device connected to the bracket assembly, whereby the bracket assembly is compatible with the support function of the first bracket and the handhold function of the second bracket, which enriches the function of the bracket assembly and satisfies the comprehensive application of the first bracket and the second bracket. In addition, when the second bracket is folded relative to the rotation seat, the second bracket is fixed to the rotation seat by adsorption force or snap fit force, the folding stability between the second bracket and the rotation seat is ensured.
+It should be understood that the above general description and the detailed description that follows are merely exemplary and explanatory, and do not limit the present application.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+The accompanying drawings herein are incorporated into and form a part of the specification, illustrate embodiments in accordance with the present application, and are used in conjunction with the specification to explain the principles of the present application. It will be apparent that the accompanying drawings in the following description are only some of the embodiments of the present application, and that other accompanying drawings may be obtained from these drawings without creative labour for those skilled in the art. In the accompanying drawings:
+ FIG. 1 is a schematic view of a bracket assembly according to an embodiment of the present application.
+ FIG. 2 is a cross-sectional view of the bracket assembly according to an embodiment of the present application.
+ FIG. 3 is a partially enlarged view at A in FIG. 2 .
+ FIG. 4 is a schematic view of a first bracket of the bracket assembly according to an embodiment of the present application.
+ FIG. 5 is a schematic view of a folded state of the bracket assembly according to an embodiment of the present application.
+ FIG. 6 is a schematic diagram of a magnetic attraction of a second connection member to a rotation seat of the bracket assembly according to an embodiment of the present application.
+ FIG. 7 is a schematic diagram of a magnetic attraction of a first connection member to the second connection member of the bracket assembly according to an embodiment of the present application.
+ FIG. 8 is a schematic diagram of adhesion of a fourth connection member to the rotation seat of the bracket assembly according to an embodiment of the present application.
+ FIG. 9 is a schematic diagram of adhesion of the fourth connection member to a third connection member of the bracket assembly according to an embodiment of the present application.
+ DETAILED DESCRIPTION OF THE EMBODIMENTS
+Embodiments will now be described more fully with reference to the accompanying drawings. However, the embodiments can be implemented in a variety of forms and should not be construed as being limited to the examples set forth herein; rather, the provision of these embodiments allows the present application to be more comprehensive and complete and conveys the idea of the embodiments in a comprehensive manner to those skilled in the art.
+In addition, the described features, structures, or characteristics may be combined in one or more embodiments in any suitable manner. In the following description, many specific details are provided thereby giving a full understanding of the embodiments of the present application. However, those skilled in the art will realize that it is possible to practice the technical embodiments of the present application without one or more of the specific details, or that other methods, components, devices, steps, etc. may be employed. In other instances, publicly known methods, devices, implementations, or operations are not shown or described in detail to avoid obscuring aspects of the present application.
+The block diagrams shown in the accompanying drawings are merely functional entities and do not necessarily have to correspond to physically separate entities. That is, the functional entities may be implemented in software form, or in one or more hardware modules or integrated circuits, or in different networks and/or processor devices and/or microcontroller devices.
+The flowcharts shown in the accompanying drawings are only exemplary illustrations and it is not necessary to include all elements and operations/steps, nor necessary to perform them in the order depicted. For example, some of the operations/steps may also be decomposed, and some of the operations/steps may be combined or partially combined, so that the actual order of execution may change according to the actual situation.
+Referring to FIGS. 1 to 9 , embodiments of the present application provide a bracket assembly 100 for supporting an electronic product.
+In the embodiment of the present application, the bracket assembly 100 includes a base 10, a first bracket 20, a rotation seat 30 and a second bracket 40. The first bracket 20, the rotation seat 30 and the second bracket 40 are provided on one side of the base 10, the base 10 serves as a support component of the bracket assembly 100 for supporting the first bracket 20, the rotation seat 30 and the second bracket 40. Optionally, the first bracket 20 has an outside wall for contacting a tabletop or a desktop.
+In embodiments of the present application, the base 10 is used to connect the electronic device or the support member, so as to facilitate that the electronic device or the support member is fixed to the base 10, which achieves fixing of the electronic device or the support member. Optionally, the base 10 is adsorbed to the mobile phone or electronic tablet by a magnet.
+In an embodiment of the present application, the first bracket 20 is swingably mounted to the base 10 and is swingable or foldable relative to the base 10, at this time, the first bracket 20 is provided on an upper side of the base 10, the first bracket 20 is swingably mounted to the base 10 and is swingable or foldable relative to the base 10, so as to facilitate adjusting the position of the first bracket 20 relative to the base 10. An inclined angle is provided between the first bracket 20 and the base 10, such that the first bracket 20 contacts the tabletop or supports the tabletop, thereby facilitating that the bracket assembly 100 contacts the tabletop or supports the tabletop, so as to maintain the inclined state of the bracket assembly 100 and the electronic device connected to the bracket assembly 100. Optionally, the first bracket 20 is mounted to the base 10 via an opening hinge.
+In an embodiment of the present application, the rotation seat 30 is rotatably mounted to the base 10 and rotated along the axis of the rotation seat 30, at this time the rotation seat 30 is provided on an inner side of the base 10, and the rotation seat 30 is rotatably mounted to the base 10 and rotated along the axis of the rotation seat 30, so as to facilitate adjusting the position of the rotation seat 30 relative to the base 10, thereby adjusting an axis direction of the rotation seat 30 relative to the base 10.
+In an embodiment of the present application, the second bracket 40 is arranged along the axis of the rotation seat 30 relative to the rotation seat 30, and the second bracket 40 is foldably mounted to the rotation seat 30 and is opened or folded relative to the rotation seat 30; when the second bracket 40 is folded relative to the rotation seat 30, the second bracket 40 is fixed to the rotation seat 30 by adsorption force or snap fit force.
+At this time, the second bracket 40 is provided on an upper side of the rotation seat 30, the second bracket 40 is foldably mounted to the rotation seat 30 and is opened or folded relative to the rotation seat 30, and when the second bracket 40 is opened relative to the rotation seat 30, the second bracket 40 is held by the user's hand, so as to facilitate the user holding the bracket assembly 100 and the electronic device connected to the bracket assembly 100, whereby the bracket assembly 100 is compatible with the support function of the first bracket 20 and the handhold function of the second bracket 40, which enriches the function of the bracket assembly 100 and satisfies the comprehensive application of the first bracket 20 and the second bracket 40. In addition, when the second bracket 40 is folded relative to the rotation seat 30, the second bracket 40 is fixed to the rotation seat 30 by adsorption force or snap fit force, the folding stability between the second bracket 40 and the rotation seat 30 is ensured.
+In an embodiment of the present application, the base 10 is provided with a rotation hole 10 a and a through hole 10 b, the rotation hole 10 a is located on an outside of the through hole 10 b and is communicated with the through hole 10 b. The rotation seat 30 is located inside the through hole 10 b, the rotation seat 30 is connected to the rotation hole 10 a, and a gap is provided between the rotation seat 30 and the rotation hole 10 a, and the rotation seat 30 is rotatable relative to the rotation hole 10 a, and at this time, the rotation hole 10 a is located on the outside of the through hole 10 b and a diameter of the rotation hole 10 a is larger than a diameter of the through hole 10 b. The rotation hole 10 a is communicated with the through hole 10 b, the rotation seat 30 is located inside the through hole 10 b, the rotation seat 30 is connected to the rotation hole 10 a, and a gap is provided between the rotation seat 30 and the rotation hole 10 a, and an outer diameter of the rotation seat 30 is smaller than an inner diameter of the rotation hole 10 a, and the rotation seat 30 is rotatable relative to the rotation hole 10 a, so as to facilitate the rotation of the rotation seat 30 relative to the base 10 through the through hole 10 b, to realize rotation function of the rotation seat 30.
+Alternatively, the rotation seat 30 is locate inside the through hole 10 b, a rotation bearing is provided between the rotation seat 30 and the rotation hole 10 a, the rotation seat 30 rotates relative to the rotation hole 10 a through the rotation bearing, and at this time, the rotation bearing is provided between the rotation seat 30 and the base 10, a fixing end of the rotation bearing is connected to the rotation hole 10 a, a rotation end of the rotation bearing is connected to the rotation seat 30 to drive the rotation seat 30 to rotate, and the rotation seat 30 is rotated relative to the rotation hole 10 a through the rotation bearing, so as to facilitate the rotation of the rotation seat 30 through the rotation bearing.
+In an embodiment of the present application, a rotation arm 31 is projected from a peripheral side wall of the rotation seat 30, the rotation arm 31 is inserted into the rotation hole 10 a and rotates within the rotation hole 10 a. An upper side wall of the rotation arm 31 contacts an inner side wall of the rotation hole 10 a, at this time, the rotation arm 31 is located at the peripheral side wall of the rotation seat 30, the rotation arm 31 is inserted into the rotation hole 10 a and rotates within the rotation hole 10 a, and the upper side wall of the rotation arm 31 contacts the inner side wall of the rotation hole 10 a, so as to facilitate that the rotation seat 30 rotates relative to the base 10 through the rotation arm 31, thereby facilitating adjusting the position of the rotation seat 30 relative to the base 10.
+When the first bracket 20 is folded relative to the base 10, the first bracket 20 is provided with a through hole 20 a, and the second bracket 40 is exposed to the through hole 20 a, and at this time the through hole 20 a is in the middle of the first bracket 20, the second bracket 40 is located inside the first bracket 20, and the second bracket 40 is exposed to the through hole 20 a, so as to facilitate that the second bracket 40 can be opened or folded, and the second bracket 40 is opened or folded relative to the rotation seat 30. When the second bracket 40 is opened relative to the rotation seat 30, the second bracket 40 is held by the user's hand, so as to facilitate the user to hold the bracket assembly 100 and the electronic device connected to the bracket assembly 100, and when the second bracket 40 is folded relative to the rotation seat 30, so as to reduce the longitudinal space between the second bracket 40 and the rotation seat 30, thereby facilitate storage of the bracket assembly 100. Optionally, the first bracket 20 is connected to the base 10 by the magnet. Optionally, the first bracket 20 may be a metal sheet.
+In an embodiment of the present application, the first bracket 20 is provided with an operation hole 20 b, the operation hole 20 b is provided at an outer peripheral side of the through hole 20 a, and is communicated with to the through hole 20 a. When the first bracket 20 is folded relative to the base 10, an operation space 20 c is formed between an inner side wall of the operation hole 20 b and an outer peripheral wall of the second bracket 40, and the operation space 20 c is used for insertion of the user's hand to open the second bracket 40, and at this time, the operation hole 20 b is located on an outer peripheral side of the through hole 20 a, and the operation hole 20 b is communicated with the through hole 20 a, so as to facilitate enlarging an outer diameter of the through hole 20 a through the operation hole 20 b. When the first bracket 20 is folded relative to the base 10, an operation space 20 c is formed between an inner side wall of the operation hole 20 b and an outer peripheral wall of the second bracket 40, the operation space 20 c is used for insertion of the user's hand to open the second bracket 40, so as to facilitate opening the second bracket 40 by the user's hand through the operation space 20 c, realizing the opening of the second bracket 40 relative to the rotation seat 30.
+When the first bracket 20 is folded relative to the base 10, the surface of the second bracket 40 does not extend beyond the surface of the first bracket 20 along the axis of the second bracket 40, so as to accommodate the second bracket 40 within the first bracket 20, such that the second bracket 40 and the first bracket 20 are integrated by the bracket assembly 100.
+In an embodiment of the present application, the second bracket 40 is provided with a folding member 50 between the second bracket 40 and the rotation seat 30, and two ends of the folding member 50 are connected to the second bracket 40 and the rotation seat 30, respectively. The folding member 50 includes at least one folding arm 51, the folding arm 51 is provided with a first folding portion 511 and a second folding portion 512, the first folding portion 511 is connected to the rotation seat 30, and the second folding portion 512 is connected to the second bracket 40, and the first folding portion 511 and the second folding portion 512 can be folded or opened each other.
+At this time, the folding member 50 is located between the second bracket 40 and the rotation seat 30, and the folding member 50 is provided with at least one folding arm 51, and one end of the folding arm 51 is connected to the second bracket 40 and another end of the folding arm 51 is connected to the rotation seat 30, and the second bracket 40 and the rotation seat 30 are folded along with the folding of the folding arm 51, or, the second bracket 40 and the rotation seat 30 are opened along with the opening of the folding arm 51, so that the folding member 50 realizes a folding function or an opening function between the second bracket 40 and the rotation seat 30, and the second bracket 40 and the rotation seat 30 are opened with the opening of the folding arm 51. A handhold space 51 a is formed among the second bracket 40, the rotation seat 30 and the folding arm 51, so as to facilitate the user handholding the bracket assembly 100 through the handhold space 51 a, to improve the handhold effect of the bracket assembly 100.
+The folding arm 51 includes a first folding portion 511 and a second folding portion 512, the first folding portion 511 is located on a lower side of the second folding portion 512, and one end of the first folding portion 511 is connected to the rotation seat 30 and one end of the second folding portion 512 is connected to the second bracket 40, so as to facilitate that the rotation seat 30 fixes the first folding portion 511 and the second bracket 40 fixes the second folding portion 512. The first folding portion 511 and the second folding portion 512 are connected, the first folding portion 511 and the second folding portion 512 are swingable with each other, and the first folding portion 511 and the second folding portion 512 are folded or opened along the axial direction of the rotation seat 30, so as to facilitate the rotation seat 30 and the second bracket 40 to being folded or opened by the first folding portion 511 and the second folding portion 512.
+When the folding arm 51 is opened, a bent is formed between the first folding portion 511 and the second folding portion 512. Optionally, the first folding portion 511 and the second folding portion 512 are in a shape of a “less than” or “greater than” character. A handhold space 51 a is formed among the first folding portion 511, the second folding portion 512, the rotation seat 30, and the second bracket 40. The handhold space 51 a is used for the insertion of the user's hand or clamping, so as to facilitate insertion of the user's hand into the handhold space 51 a, thereby facilitating the user handholding the bracket assembly 100, the handhold space 51 a has a heterogeneous inner contour.
+In the embodiment of the present application, when the folding arm 51 is folded, the rotation seat 30 and the second bracket 40 are folded against each other and subjected to an adsorption force, thus when the folding arm 51 is folded, the rotation seat 30 and the second bracket 40 are folded against each other, such that the rotation seat 30 and the second bracket 40 are close to each other, and the rotation seat 30 and the second bracket 40 are adsorbed to each other by the adsorption force, so that the rotation seat 30 is fixed relative to the second bracket 40 by the adsorption force, to avoid the second bracket 40 from automatically opening relative to the rotation seat 30.
+At this time, when there is a magnetic adsorption force between the rotation seat 30 and the second bracket 40, the rotation seat 30 is a metal member, the second bracket 40 is provided with a second connection member 41, the second connection member 41 is magnetically adsorbed with the rotation seat 30, and the second connection member 41 is a magnet, therefore the second connection member 41 is magnetically adsorbed with the rotation seat 30, so as to facilitate making the second bracket 40 and the rotation seat 30 to be subjected to the magnetic adsorption force.
+Alternatively, when there is a magnetic adsorption force between the rotation seat 30 and the second bracket 40, the rotation seat 30 is provided with a first connection member 32, the second bracket 40 is provided with a second connection member 41, the first connection member 32 and the second connection member 41 are two magnets that are oppositely attracted to each other, therefore, the second connection member 41 is magnetically adsorbed with the first connection member 32, such that the second bracket 40 and the rotation seat 30 are subjected to the magnetic adsorption force.
+In another embodiment of the present application, when there is an adhesive adsorption force between the rotation seat 30 and the second bracket 40, the second bracket 40 is provided with a fourth connection member 42, the fourth connection member 42 is adhesively adsorbed with the rotation seat 30, and the fourth connection member 42 is an adhesive member, therefore, the fourth connection member 42 is adhesively adsorbed with the rotation seat 30, so as to facilitate making the second bracket 40 and the rotation seat 30 to be subjected to the adhesive adsorption force.
+Alternatively, when there is an adhesive adsorption force between the rotation seat 30 and the second bracket 40, the rotation seat 30 is provided with a third connection member 33, and the second bracket 40 is provided with a fourth connection member 42, and the third connection member 33 and the fourth connection member 42 are both adhesive members that are attracted to each other, therefore, the fourth connection member 42 is adhesively adsorbed with the third connection member 33, so as to facilitate making the second bracket 40 and the rotation seat 30 to be subjected to the adhesive adsorption force.
+In the embodiment of the present application, when the folding arm 51 is folded, the rotation seat 30 and the second bracket 40 are folded into each other and subjected to a snap fit force, therefore when the folding arm 51 is folded, the rotation seat 30 and the second bracket 40 are folded into each other, so as to facilitate making the rotation seat 30 and the second bracket 40 close to each other, and the snap fit force enables the rotation seat 30 and the second bracket 40 to be snapped into each other, so that the rotation seat 30 is fixed relative to the second bracket 40 by the snap fit force, thereby preventing the second bracket 40 from automatically opening relative to the rotation seat 30. Optionally, the rotation seat 30 and the second bracket 40 are snapped through snapping of the snap arm with the snap slot, which is not limited herein.
+In another embodiment, an electronic device bracket includes a bracket assembly 100 and an electronic device; the bracket assembly 100 is located on an outside of the electronic device, and a base 10 of the bracket assembly 100 is magnetically or adhesively fixed to the electronic device, so as to facilitate that the electronic device is magnetically or adhesively fixed to the base 10 of the bracket assembly 100, to achieve fixation of the electronic device.
+In the technical solution provided in some embodiments of the present application, the bracket assembly 100 is compatible with a first bracket 20 and a second bracket 40, the first bracket 20 is swingably mounted to the base 10 and is swingable or foldable relative to the base 10, such that there is an inclined angle between the first bracket 20 and the base 10, thus the first bracket 20 contacts a tabletop or supports the tabletop, so as to facilitate that the bracket assembly 100 contacts the tabletop or supports tabletop, so as to maintain the inclined state of the bracket assembly 100 and the electronic device connected to the bracket assembly 100. Furthermore, the second bracket 40 achieves a rotation function with the base 10 through the rotation seat 30, so that the second bracket 40 has a rotation function, and the second bracket 40 is foldably mounted to the rotation seat 30 and openable or foldable relative to the rotation seat 30. When the second bracket 40 is opened relative to the rotation seat 30, the second bracket 40 is held by a user's hand, so as to facilitate the user holding the bracket assembly 100 and the electronic device connected to the bracket assembly 100, whereby the bracket assembly 100 is compatible with the support function of the first bracket 20 and the handhold function of the second bracket 40, which enriches the function of the bracket assembly 100 and satisfies the comprehensive application of the first bracket 20 and the second bracket 40. In addition, when the second bracket 40 is folded relative to the rotation seat 30, the second bracket 40 is fixed to the rotation seat 30 by adsorption force or snap fit force, the folding stability between the second bracket 40 and the rotation seat 30 is ensured.
+In the above embodiments, the description of each embodiment has its own focus, and the portion not described in detail in an embodiment can be referred to the relevant description of other embodiments.
+In the description of the present application, the terms “first” and “second” are used for descriptive purposes only and are not to be understood as indicating or implying relative importance or implicitly specifying the number of technical features indicated. As a result, a feature defined with “first” and “second” may include one or more features, either explicitly or implicitly.
+Herein, the principle and implementation of the present application are described by applying specific examples, the description of above examples are only used to help understand the method and the core ideas of the present application, and for those skilled in the art, based on ideas of the present application, there have changes in the specific implementation and the scope of application. In summary, the contents of this specification should not be construed as a limitation on the present application.
+Claims (8)
+ What is claimed is:
+1. A bracket assembly for supporting an electric device bracket, comprising:
+a base, connecting an electronic device or a support member;
+a first bracket, swingably mounted to the base and swingable or foldable relative to the base;
+a rotation seat, rotatably mounted to the base and rotatable along an axis of the rotation seat; and
+a second bracket, arranged along the axis of the rotation seat relative to the rotation seat, wherein the second bracket is foldably mounted to the rotation seat and openable and foldable relative to the rotation seat, and when the second bracket is folded relative to the rotation seat, the second bracket is fixed to the rotation seat by adsorption force or snap fit force;
+when the first bracket is folded relative to the base, the first bracket is provided with a through hole, and the second bracket is exposed to the through hole, and the second bracket is located inside the first bracket and is opened or folded relative to the rotation seat.
+2. The bracket assembly according to claim 1, wherein the base is provided with a rotation hole and a through hole, and the rotation hole is located on an outside of the through hole and communicated with the through hole;
+the rotation seat is located inside the through hole, the rotation seat is connected to the rotation hole, and a gap is provided between the rotation seat and the rotation hole for rotatable relative to the rotation hole; or
+the rotation seat is located inside the through hole, a rotation bearing is provided between the rotation hole and the rotation seat, and the rotation seat is rotatable relative to the rotation hole through the rotation bearing.
+3. The bracket assembly according to claim 2, wherein a rotation arm is projected from a peripheral side wall of the rotation seat, the rotation arm is inserted in the rotation hole and rotatable within the rotation hole, and an upper side wall of the rotation arm is contacted with an inner side wall of the rotation hole.
+4. The bracket assembly according to claim 1, wherein the first bracket is provided with an operation hole, the operation hole is provided on an outer peripheral side of the through hole and communicated with the through hole; and
+when the first bracket is folded relative to the base, an operation space is formed between an inner side wall of the operation hole and an outer peripheral wall of the second bracket, the operation space is configured for insertion of a user's hand to open the second bracket.
+5. The bracket assembly according to claim 1, wherein when the first bracket is folded relative to the base, and a surface of the second bracket extends not beyond a surface of the first bracket along an axis of the second bracket.
+6. The bracket assembly according to claim 1, wherein the second bracket is provided with a folding member between the second bracket and the rotation seat, and an end of the folding member is connected to the second bracket and another end of the folding member is connected to the rotation seat;
+wherein the folding member comprises at least one folding arm, each folding arm is provided with a first folding portion and a second folding portion connected to each other, the first folding portion is connected to the rotation seat, and the second folding portion is connected to the second bracket, and the first folding portion and second folding portion are openable or foldable each other.
+7. The bracket assembly according to claim 6, wherein when the folding arm is opened, and a bent is formed between the first folding portion and the second folding portion, the first folding portion, the second folding portion, the rotation seat and the second bracket form a handhold space for insertion of a user's hand or clamping the user's hand.
+8. The bracket assembly according to claim 6, wherein when the folding arm is folded, the rotation seat and the second bracket are folded to each other and are subjected to adsorption force or snap fit force.
+ US18/732,483
+ 2023-11-20
+ 2024-06-03
+ Bracket assembly and electronic device bracket 
+ Active
+ US12317995B1
+ (en)
+Priority Applications (1)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ US19/184,809
+ US20250248515A1
+ (en)
+ 2023-11-20
+ 2025-04-21
+ Bracket Assembly And Electronic Device Bracket 
+Applications Claiming Priority (3)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN2023231247772
+ 2023-11-20
+ CN202323124777.2
+ 2023-11-20
+ CN202323124777.2U
+ CN221004551U
+ (en)
+ 2023-11-20
+ 2023-11-20
+ Bracket assembly and electronic equipment bracket
+Related Child Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US19/184,809
+ Continuation
+ US20250248515A1
+ (en)
+ 2023-11-20
+ 2025-04-21
+ Bracket Assembly And Electronic Device Bracket 
+Publications (2)
+ Publication Number
+ Publication Date
+ US20250160511A1
+ US20250160511A1
+ (en)
+ 2025-05-22
+ US12317995B1
+ true
+ US12317995B1
+ (en)
+ 2025-06-03
+Family
+ID=91117421
+Family Applications (2)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US18/732,483
+ Active
+ US12317995B1
+ (en)
+ 2023-11-20
+ 2024-06-03
+ Bracket assembly and electronic device bracket 
+ US19/184,809
+ Pending
+ US20250248515A1
+ (en)
+ 2023-11-20
+ 2025-04-21
+ Bracket Assembly And Electronic Device Bracket 
+Family Applications After (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US19/184,809
+ Pending
+ US20250248515A1
+ (en)
+ 2023-11-20
+ 2025-04-21
+ Bracket Assembly And Electronic Device Bracket 
+Country Status (2)
+ Country
+ Link
+ US
+ (2)
+ US12317995B1
+ (en)
+ CN
+ (1)
+ CN221004551U
+ (en)
+Cited By (1)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20260117921A1
+ (en)
+ *
+ 2018-07-03
+ 2026-04-30
+ Popsockets Llc
+ Expandable device for a portable electronic device 
+Families Citing this family (1)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN223990001U
+ (en)
+ *
+ 2025-04-02
+ 2026-03-13
+ 智涛
+ Folding bracket 
+Citations (7)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US5337062A
+ (en)
+ *
+ 1992-11-18
+ 1994-08-09
+ Winegard Company
+ Deployable satellite antenna for use on vehicles 
+ US5646638A
+ (en)
+ *
+ 1995-05-30
+ 1997-07-08
+ Winegard Company
+ Portable digital satellite system 
+ US7325875B1
+ (en)
+ *
+ 2007-03-16
+ 2008-02-05
+ Derrek Guerrini
+ Beach chair 
+ US8544809B1
+ (en)
+ *
+ 2013-01-14
+ 2013-10-01
+ Joseph N. Laurita
+ Method and apparatus for swivel device 
+ US20140265459A1
+ (en)
+ *
+ 2013-03-12
+ 2014-09-18
+ Carlo Gambino
+ Rotatable and collapsible chair 
+ US20150257288A1
+ (en)
+ *
+ 2014-03-04
+ 2015-09-10
+ Paul Andrew Livernois
+ Support Assembly for a Portable Electronic Device 
+ US20190365074A1
+ (en)
+ *
+ 2016-12-25
+ 2019-12-05
+ Pt. Kemas Indah Maju Co., Ltd.
+ Device having a sealable container for a volatile composition 
+ 2023
+ 2023-11-20
+ CN
+ CN202323124777.2U
+ patent/CN221004551U/en
+ active
+ Active
+ 2024
+ 2024-06-03
+ US
+ US18/732,483
+ patent/US12317995B1/en
+ active
+ Active
+ 2025
+ 2025-04-21
+ US
+ US19/184,809
+ patent/US20250248515A1/en
+ active
+ Pending
+Patent Citations (7)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US5337062A
+ (en)
+ *
+ 1992-11-18
+ 1994-08-09
+ Winegard Company
+ Deployable satellite antenna for use on vehicles 
+ US5646638A
+ (en)
+ *
+ 1995-05-30
+ 1997-07-08
+ Winegard Company
+ Portable digital satellite system 
+ US7325875B1
+ (en)
+ *
+ 2007-03-16
+ 2008-02-05
+ Derrek Guerrini
+ Beach chair 
+ US8544809B1
+ (en)
+ *
+ 2013-01-14
+ 2013-10-01
+ Joseph N. Laurita
+ Method and apparatus for swivel device 
+ US20140265459A1
+ (en)
+ *
+ 2013-03-12
+ 2014-09-18
+ Carlo Gambino
+ Rotatable and collapsible chair 
+ US20150257288A1
+ (en)
+ *
+ 2014-03-04
+ 2015-09-10
+ Paul Andrew Livernois
+ Support Assembly for a Portable Electronic Device 
+ US20190365074A1
+ (en)
+ *
+ 2016-12-25
+ 2019-12-05
+ Pt. Kemas Indah Maju Co., Ltd.
+ Device having a sealable container for a volatile composition 
+Cited By (1)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20260117921A1
+ (en)
+ *
+ 2018-07-03
+ 2026-04-30
+ Popsockets Llc
+ Expandable device for a portable electronic device 
+Also Published As
+ Publication number
+ Publication date
+ CN221004551U
+ (en)
+ 2024-05-24
+ US20250248515A1
+ (en)
+ 2025-08-07
+ US20250160511A1
+ (en)
+ 2025-05-22
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US20250248515A1
+ (en)
+ 2025-08-07
+ Bracket Assembly And Electronic Device Bracket 
+ CN102655536B
+ (en)
+ 2016-12-07
+ Slim type support unit for portable terminal 
+ EP4142267A1
+ (en)
+ 2023-03-01
+ Support structure, screen assembly and electronic device 
+ US20220263931A1
+ (en)
+ 2022-08-18
+ Folding terminal structure 
+ JP2018522304A
+ (en)
+ 2018-08-09
+ Cylindrical biaxial hinge for electronic devices
+ WO2020108240A1
+ (en)
+ 2020-06-04
+ Folding mobile terminal 
+ CN218103189U
+ (en)
+ 2022-12-20
+ A folding screen terminal
+ CN215494778U
+ (en)
+ 2022-01-11
+ Electronic device 
+ CN220896727U
+ (en)
+ 2024-05-03
+ Mobile phone bracket 
+ CN219018857U
+ (en)
+ 2023-05-12
+ Case Components and Stands
+ CN221922826U
+ (en)
+ 2024-10-29
+ Integrated support and electronic equipment support 
+ CN216034145U
+ (en)
+ 2022-03-15
+ Vehicle-mounted foldable mobile phone support 
+ CN202931412U
+ (en)
+ 2013-05-08
+ Hinge device and portable terminal provided with the hinge device 
+ CN215861282U
+ (en)
+ 2022-02-18
+ A damping hinge of a portable electronic terminal
+ CN212095128U
+ (en)
+ 2020-12-08
+ An assembly mechanism for TF card holder
+ CN222029960U
+ (en)
+ 2024-11-19
+ Mobile phone bracket 
+ CN204334662U
+ (en)
+ 2015-05-13
+ mobile terminal
+ CN223745073U
+ (en)
+ 2025-12-30
+ Cover mechanism and electronic equipment support 
+ CN223379202U
+ (en)
+ 2025-09-23
+ A mobile phone holder
+ CN221748454U
+ (en)
+ 2024-09-20
+ Mobile phone support capable of being supported at multiple angles 
+ CN218386959U
+ (en)
+ 2023-01-24
+ Magnetic attraction wireless charging and hooking support folding dual-purpose support 
+ CN222321610U
+ (en)
+ 2025-01-07
+ Rotating shaft linkage structure, electronic equipment support and electronic equipment protection shell 
+ CN215764255U
+ (en)
+ 2022-02-08
+ Motion mechanism for unfolding and opening portable electronic terminal 
+ CN221684208U
+ (en)
+ 2024-09-10
+ Protective housing, terminal device and terminal equipment subassembly 
+ CN220629368U
+ (en)
+ 2024-03-19
+ Mobile phone support with magnetism is inhaled and two unifications of centre gripping 
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2024-06-03
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2024-06-18
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2025-05-21
+ STCF
+ Information on status: patent grant
+ Free format text:
+ PATENTED CASE

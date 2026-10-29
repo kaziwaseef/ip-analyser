@@ -1,0 +1,499 @@
+US20260019491A1 - Vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways 
+ - Google Patents
+US20260019491A1 - Vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways 
+ - Google Patents
+ Vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways 
+Info
+ Publication number
+ US20260019491A1
+ US20260019491A1
+ US19/187,669
+ US202519187669A
+ US2026019491A1
+ US 20260019491 A1
+ US20260019491 A1
+ US 20260019491A1
+ US 202519187669 A
+ US202519187669 A
+ US 202519187669A
+ US 2026019491 A1
+ US2026019491 A1
+ US 2026019491A1
+ Authority
+ US
+ United States
+ Prior art keywords
+ mobile phone
+ adsorbed
+ foldable
+ vehicle
+ phone holder
+ Prior art date
+ 2024-07-10
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Pending
+ Application number
+ US19/187,669
+ Inventor
+ Pengcheng Du
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Dongguan Jinchi Electronic Technology Co Ltd
+ Original Assignee
+ Dongguan Jinchi Electronic Technology Co Ltd
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2024-07-10
+ Filing date
+ 2025-04-23
+ Publication date
+ 2026-01-15
+ 2025-04-23
+ Application filed by Dongguan Jinchi Electronic Technology Co Ltd
+ filed
+ Critical
+ Dongguan Jinchi Electronic Technology Co Ltd
+ 2026-01-15
+ Publication of US20260019491A1
+ publication
+ Critical
+ patent/US20260019491A1/en
+ Status
+ Pending
+ legal-status
+ Critical
+ Current
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ H—ELECTRICITY
+ H04—ELECTRIC COMMUNICATION TECHNIQUE
+ H04M—TELEPHONIC COMMUNICATION
+ H04M1/00—Substation equipment, e.g. for use by subscribers
+ H04M1/02—Constructional features of telephone sets
+ H04M1/04—Supports for telephone transmitters or receivers
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/041—Allowing quick release of the apparatus
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/10—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting around a horizontal axis
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/02—Heads
+ F16M11/04—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand
+ F16M11/06—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting
+ F16M11/12—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting in more than one direction
+ F16M11/125—Means for attachment of apparatus; Means allowing adjustment of the apparatus relatively to the stand allowing pivoting in more than one direction for tilting and rolling
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M11/00—Stands or trestles as supports for apparatus or articles placed thereon ; Stands for scientific apparatus such as gravitational force meters
+ F16M11/20—Undercarriages with or without wheels
+ F16M11/2007—Undercarriages with or without wheels comprising means allowing pivoting adjustment
+ F16M11/2035—Undercarriages with or without wheels comprising means allowing pivoting adjustment in more than one direction
+ F16M11/2064—Undercarriages with or without wheels comprising means allowing pivoting adjustment in more than one direction for tilting and panning
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16M—FRAMES, CASINGS OR BEDS OF ENGINES, MACHINES OR APPARATUS, NOT SPECIFIC TO ENGINES, MACHINES OR APPARATUS PROVIDED FOR ELSEWHERE; STANDS; SUPPORTS
+ F16M13/00—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles
+ F16M13/02—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle
+ F16M13/022—Other supports for positioning apparatus or articles; Means for steadying hand-held apparatus or articles for supporting on, or attaching to, an object, e.g. tree, gate, window-frame, cycle repositionable
+Definitions
+ the present disclosure
+ relates to the technical field of mobile phone holders, and in particular to a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways.
+ magsafe magnetic holders in a use environment of vehicle-mounted holders capable of being stuck available on the market
+ are inconvenient for angle adjustment and incompatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder).
+ POPsockets
+ airbag ring holder
+ Ring
+ ordinary ring holder
+ holders capable of being stuck
+ are only stuck on one type of products, which is inapplicable to products that require varying use scenarios.
+ an objective of the present disclosure
+ is to provide a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, so as to solve the above problems.
+ the present disclosure
+ provides the technical solutions as follows:
+ a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder
+ capable of being adsorbed in two ways, including a lower component, where a rotary supporting frame is mounted on the lower component, and an upper component is mounted at the other end of the rotary supporting frame; and suction cups are mounted on the lower component, and a magnet is mounted on the upper component.
+ a bottom disc
+ is arranged in a bottom cavity of the lower component, and the suction cups are fixedly mounted on the bottom disc.
+ one end of the upper component
+ is provided with an annular groove, and the magnet is annular and embedded in the annular groove.
+ the rotary supporting frame
+ includes a lower connecting member, one end of the lower connecting member is hinged to a swing rod through a second rotary shaft, and one end of the swing rod is hinged to an upper connecting member through a third rotary shaft.
+ the lower component and the bottom disc
+ are jointly arranged on a first rotary shaft in a sleeving manner, and the lower connecting member is connected to the first rotary shaft through a first screw.
+ the upper component and the upper connecting member
+ are connected through a second screw.
+ a hardware decorative sheet
+ is stuck to a nut of the first screw, a first decorative sheet and a second decorative sheet are stuck to two ends of the second rotary shaft respectively, a third decorative sheet and a fourth decorative sheet are stuck to two ends of the third rotary shaft respectively, and a surface sticker is stuck to the magnet.
+ a groove
+ is provided at the first rotary shaft, and a magnetic block is stuck to an interior of the groove.
+ a groove
+ is provided at the first rotary shaft, and an arc-shaped elastic sheet is welded in the groove.
+ a bottom surface housing
+ can realize a 360-degree rotation and hovering function
+ the swing rod in a middle
+ can realize an up-and-down folding function
+ an upper portion
+ can be compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder).
+ the mobile phone holder
+ is arranged to have two use ways, which truly realizes quick switches of the mobile phone holder among different use scenarios.
+ the mobile phone holder
+ has the two use ways.
+ First use way
+ the mobile phone holder is adsorbed on a smooth surface such as glass and a table board through the silica suction cups.
+ the magsafe mobile phone adsorption use way
+ may be selected at the scenarios including a household or a vehicle-mounted scenario.
+ the use way of adsorbing a bare mobile phone through the silica gel suction cups
+ may be selected in the use scenarios having metal objects such as a gymnasium.
+ the two use ways
+ can completely cover a plurality of use scenarios, such as the household and vehicle-mounted scenarios, and an exercise and fitness scenario. And therefore, quick switches of one mobile phone holder among different use scenarios is truly realized.
+ FIG. 1
+ is a schematic diagram of a structure provided by Example 1 of the present disclosure.
+ FIG. 2
+ is a bottom view of FIG. 1 provided by Example 1 of the present disclosure.
+ FIG. 3
+ is an exploded diagram of FIG. 1 provided by Example 1 of the present disclosure.
+ FIG. 4
+ is a schematic diagram of FIG. 1 after dismounting of a surface sticker provided by Example 1 of the present disclosure.
+ FIG. 5
+ is a schematic diagram of FIG. 4 after dismounting of an upper component provided by Example 1 of the present disclosure.
+ FIG. 6
+ is a sectional view of FIG. 5 provided by Example 1 of the present disclosure.
+ FIG. 7
+ is a sectional view of FIG. 5 provided by Example 2 of the present disclosure.
+ FIG. 8
+ is a sectional view of FIG. 5 provided by Example 3 of the present disclosure.
+ FIG. 9
+ is a schematic diagram of a first rotary shaft provided by Example 3 of the present disclosure.
+ suction cup
+ 2 . first rotary shaft; 3 . lower component; 4 . first decorative sheet; 5 . lower connecting member; 6. second rotary shaft; 7. second decorative sheet; 8 . first screw; 9 . hardware decorative sheet; 10 . swing rod; 11 . third decorative sheet; 12 . upper connecting member; 13 . third rotary shaft; 14 . fourth decorative sheet; 15 . upper component; 16 . magnet; 17 . surface sticker; 18. second screw; 19 . bottom disc; 20 . magnetic block; and 21 . arc-shaped elastic sheet.
+ the present disclosure
+ provides a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, referring to FIGS. 1 - 6 , including a lower component 3 , where a rotary supporting frame is mounted on the lower component 3 , and an upper component 15 is mounted at the other end of the rotary supporting frame; and suction cups 1 are mounted on the lower component 3 , a magnet 16 is mounted on the upper component 15 , and a surface sticker 17 is stuck to the magnet 16 .
+ a bottom disc 19
+ is arranged in a bottom cavity of the lower component 3 , and the suction cups 1 are fixedly mounted on the bottom disc 19 .
+ One end of the upper component 15
+ is provided with an annular groove, the magnet 16 is annular and embedded in the annular groove, and the magnet 16 is stuck to an inner wall of the annular groove through glue, thereby ensuring connection firmness of the magnet 16 .
+ the rotary supporting frame
+ includes a lower connecting member 5 , and one end of the lower connecting member 5 is hinged to a swing rod 10 through a second rotary shaft 6 .
+ a first decorative sheet 4 and a second decorative sheet 7
+ are stuck to two ends of the second rotary shaft 6 respectively, and a rubber ring is arranged on the second rotary shaft 6 in a sleeving manner, such that the swing rod 10 is prevented from rotating unexpectedly.
+ One end of the swing rod 10
+ is hinged to an upper connecting member 12 through a third rotary shaft 13 , and the upper component 15 and the upper connecting member 12 are connected through a second screw 18 .
+ a third decorative sheet 11 and a fourth decorative sheet 14
+ are stuck to two ends of the third rotary shaft 13 respectively, a rubber ring is arranged on the third rotary shaft 13 in a sleeving manner, and the rubber rings elastically abut against an inner wall of the upper connecting member 12 , such that the upper component 15 is prevented from rotating unexpectedly.
+ the lower component 3 and the bottom disc 19
+ are jointly arranged on a first rotating 2 in a sleeving manner, the lower connecting member 5 is connected to the first rotary shaft 2 through a first screw 8 , and a hardware decorative sheet 9 is stuck to a nut of the first screw 8 .
+ the mobile phone holder
+ is adsorbed on a smooth surface such as glass and a table board through the suction cups 1 .
+ a mobile phone or a metal mobile phone housing
+ is adsorbed through the magnet 16 on the upper component 15 .
+ the upper component 15
+ is adsorbed on a metal object such as an iron object and a steel object through the magnet 16 , and the silica gel suction cups are adsorbed to a bare mobile phone.
+ a groove
+ is provided at the first rotary shaft 2 , and a magnetic block 20 is stuck to an interior of the groove.
+ An inner wall of the lower component 3
+ is attracted by the magnetic block 20 , such that the first rotary shaft 2 is prevented from rotating unexpectedly.
+ the mobile phone holder
+ is adsorbed on a smooth surface such as glass and a table board through the suction cups 1 .
+ a mobile phone or a metal mobile phone housing
+ is adsorbed through the magnet 16 on the upper component 15 .
+ the upper component 15
+ is adsorbed on a metal object such as an iron object and a steel object through the magnet 16 , and the silica gel suction cups are adsorbed to a bare mobile phone.
+ a groove
+ is provided at the first rotary shaft 2 , and an arc-shaped elastic sheet 21 is welded in the groove.
+ a middle of the arc-shaped elastic sheet 21
+ protrudes from the groove and elastically abuts against an inner wall of the lower component 3 .
+ the mobile phone holder
+ is adsorbed on a smooth surface such as glass and a table board through the suction cups 1 .
+ a mobile phone or a metal mobile phone housing
+ is adsorbed through the magnet 16 on the upper component 15 .
+ the upper component 15
+ is adsorbed on a metal object such as an iron object and a steel object through the magnet 16 , and the silica gel suction cups are adsorbed to a bare mobile phone.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ General Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Signal Processing
+ (AREA)
+ Telephone Set Structure
+ (AREA)
+Abstract
+Disclosed in the present disclosure is a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, which relates to the technical of mobile phone holders. The mobile phone holder includes a lower component, where a rotary supporting frame is mounted on the lower component, and an upper component is mounted at the other end of the rotary supporting frame. Suction cups are mounted on the lower component, and a magnet is mounted on the upper component. A bottom disc is arranged in a bottom cavity of the lower component, and the suction cups are fixedly mounted on the bottom disc. One end of the upper component is provided with an annular groove, and the magnet is annular and embedded in the annular groove. The rotary supporting frame includes a lower connecting member.
+Description
+ CROSS-REFERENCE TO RELATED APPLICATIONS
+ The present application claims priority to Chinese Patent Application No. 202421625096.6, filed on July 10, 2024, the entire disclosure of which is incorporated herein by reference.
+ TECHNICAL FIELD
+ The present disclosure relates to the technical field of mobile phone holders, and in particular to a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways.
+ BACKGROUND
+ At present, magsafe magnetic holders in a use environment of vehicle-mounted holders capable of being stuck available on the market are inconvenient for angle adjustment and incompatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder). Generally, holders capable of being stuck are only stuck on one type of products, which is inapplicable to products that require varying use scenarios.
+ SUMMARY
+ In view of the problems occurring to an existing vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, the present disclosure is provided.
+ Therefore, an objective of the present disclosure is to provide a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, so as to solve the above problems.
+ In order to solve the above technical problems, in a first aspect of the present disclosure, the present disclosure provides the technical solutions as follows:
+ A vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, including a lower component, where a rotary supporting frame is mounted on the lower component, and an upper component is mounted at the other end of the rotary supporting frame; and suction cups are mounted on the lower component, and a magnet is mounted on the upper component.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, a bottom disc is arranged in a bottom cavity of the lower component, and the suction cups are fixedly mounted on the bottom disc.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, one end of the upper component is provided with an annular groove, and the magnet is annular and embedded in the annular groove.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, the rotary supporting frame includes a lower connecting member, one end of the lower connecting member is hinged to a swing rod through a second rotary shaft, and one end of the swing rod is hinged to an upper connecting member through a third rotary shaft.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, the lower component and the bottom disc are jointly arranged on a first rotary shaft in a sleeving manner, and the lower connecting member is connected to the first rotary shaft through a first screw.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, the upper component and the upper connecting member are connected through a second screw.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, a hardware decorative sheet is stuck to a nut of the first screw, a first decorative sheet and a second decorative sheet are stuck to two ends of the second rotary shaft respectively, a third decorative sheet and a fourth decorative sheet are stuck to two ends of the third rotary shaft respectively, and a surface sticker is stuck to the magnet.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, a groove is provided at the first rotary shaft, and a magnetic block is stuck to an interior of the groove.
+ As a preferred solution of the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways provided by the present disclosure, a groove is provided at the first rotary shaft, and an arc-shaped elastic sheet is welded in the groove.
+Compared with the prior art:
+1. According to the vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, a bottom surface housing can realize a 360-degree rotation and hovering function, the swing rod in a middle can realize an up-and-down folding function, and an upper portion can be compatible with POPsockets (airbag ring holder) and Ring (ordinary ring holder).
+2. The mobile phone holder is arranged to have two use ways, which truly realizes quick switches of the mobile phone holder among different use scenarios. The mobile phone holder has the two use ways. First use way: the mobile phone holder is adsorbed on a smooth surface such as glass and a table board through the silica suction cups. The magsafe mobile phone adsorption use way may be selected at the scenarios including a household or a vehicle-mounted scenario. Second use way: the upper component provided with the magnet is adsorbed on a metal object such as an iron object and a steel object. The use way of adsorbing a bare mobile phone through the silica gel suction cups may be selected in the use scenarios having metal objects such as a gymnasium. The two use ways can completely cover a plurality of use scenarios, such as the household and vehicle-mounted scenarios, and an exercise and fitness scenario. And therefore, quick switches of one mobile phone holder among different use scenarios is truly realized.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+ FIG. 1 is a schematic diagram of a structure provided by Example 1 of the present disclosure.
+ FIG. 2 is a bottom view of FIG. 1 provided by Example 1 of the present disclosure.
+ FIG. 3 is an exploded diagram of FIG. 1 provided by Example 1 of the present disclosure.
+ FIG. 4 is a schematic diagram of FIG. 1 after dismounting of a surface sticker provided by Example 1 of the present disclosure.
+ FIG. 5 is a schematic diagram of FIG. 4 after dismounting of an upper component provided by Example 1 of the present disclosure.
+ FIG. 6 is a sectional view of FIG. 5 provided by Example 1 of the present disclosure.
+ FIG. 7 is a sectional view of FIG. 5 provided by Example 2 of the present disclosure.
+ FIG. 8 is a sectional view of FIG. 5 provided by Example 3 of the present disclosure.
+ FIG. 9 is a schematic diagram of a first rotary shaft provided by Example 3 of the present disclosure.
+ In the figures: 1. suction cup; 2. first rotary shaft; 3. lower component; 4. first decorative sheet; 5. lower connecting member; 6. second rotary shaft; 7. second decorative sheet; 8. first screw; 9. hardware decorative sheet; 10. swing rod; 11. third decorative sheet; 12. upper connecting member; 13. third rotary shaft; 14. fourth decorative sheet; 15. upper component; 16. magnet; 17. surface sticker; 18. second screw; 19. bottom disc; 20. magnetic block; and 21. arc-shaped elastic sheet.
+ DETAILED DESCRIPTIONS OF THE EMBODIMENTS
+ To make the objectives, technical solutions, and advantages of the present disclosure clearer, the following further describes the embodiments of the present disclosure in detail with reference to the accompanying drawings.
+Example 1:
+ The present disclosure provides a vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, referring to FIGS. 1-6 , including a lower component 3, where a rotary supporting frame is mounted on the lower component 3, and an upper component 15 is mounted at the other end of the rotary supporting frame; and suction cups 1 are mounted on the lower component 3, a magnet 16 is mounted on the upper component 15, and a surface sticker 17 is stuck to the magnet 16.
+ A bottom disc 19 is arranged in a bottom cavity of the lower component 3, and the suction cups 1 are fixedly mounted on the bottom disc 19.
+ One end of the upper component 15 is provided with an annular groove, the magnet 16 is annular and embedded in the annular groove, and the magnet 16 is stuck to an inner wall of the annular groove through glue, thereby ensuring connection firmness of the magnet 16.
+ The rotary supporting frame includes a lower connecting member 5, and one end of the lower connecting member 5 is hinged to a swing rod 10 through a second rotary shaft 6. A first decorative sheet 4 and a second decorative sheet 7 are stuck to two ends of the second rotary shaft 6 respectively, and a rubber ring is arranged on the second rotary shaft 6 in a sleeving manner, such that the swing rod 10 is prevented from rotating unexpectedly. One end of the swing rod 10 is hinged to an upper connecting member 12 through a third rotary shaft 13, and the upper component 15 and the upper connecting member 12 are connected through a second screw 18. A third decorative sheet 11 and a fourth decorative sheet 14 are stuck to two ends of the third rotary shaft 13 respectively, a rubber ring is arranged on the third rotary shaft 13 in a sleeving manner, and the rubber rings elastically abut against an inner wall of the upper connecting member 12, such that the upper component 15 is prevented from rotating unexpectedly.
+ The lower component 3 and the bottom disc 19 are jointly arranged on a first rotating 2 in a sleeving manner, the lower connecting member 5 is connected to the first rotary shaft 2 through a first screw 8, and a hardware decorative sheet 9 is stuck to a nut of the first screw 8.
+In specific use:
+ First use way: the mobile phone holder is adsorbed on a smooth surface such as glass and a table board through the suction cups 1. In this case, a mobile phone or a metal mobile phone housing is adsorbed through the magnet 16 on the upper component 15.
+ Second use way: the upper component 15 is adsorbed on a metal object such as an iron object and a steel object through the magnet 16, and the silica gel suction cups are adsorbed to a bare mobile phone.
+Example 2:
+ Referring to FIG. 7 , difference from Example 1 is as follows: a groove is provided at the first rotary shaft 2, and a magnetic block 20 is stuck to an interior of the groove. An inner wall of the lower component 3 is attracted by the magnetic block 20, such that the first rotary shaft 2 is prevented from rotating unexpectedly.
+In specific use:
+ First use way: the mobile phone holder is adsorbed on a smooth surface such as glass and a table board through the suction cups 1. In this case, a mobile phone or a metal mobile phone housing is adsorbed through the magnet 16 on the upper component 15.
+ Second use way: the upper component 15 is adsorbed on a metal object such as an iron object and a steel object through the magnet 16, and the silica gel suction cups are adsorbed to a bare mobile phone.
+Example 3:
+ Referring to FIGS. 8 and 9 , difference from Example 1 is as follows: a groove is provided at the first rotary shaft 2, and an arc-shaped elastic sheet 21 is welded in the groove. A middle of the arc-shaped elastic sheet 21 protrudes from the groove and elastically abuts against an inner wall of the lower component 3.
+In specific use:
+ First use way: the mobile phone holder is adsorbed on a smooth surface such as glass and a table board through the suction cups 1. In this case, a mobile phone or a metal mobile phone housing is adsorbed through the magnet 16 on the upper component 15.
+ Second use way: the upper component 15 is adsorbed on a metal object such as an iron object and a steel object through the magnet 16, and the silica gel suction cups are adsorbed to a bare mobile phone.
+ Although the present disclosure has been described hereinbefore with reference to the embodiments, various modifications may be made thereto and equivalents may be substituted for components thereof without departing from the scope of the present disclosure. In particular, as long as there is no structural conflict, the features in the embodiments disclosed by the present disclosure can be combined with each other in any manner, and the failure to fully describe these combinations in this description is merely for the sake of space omission and resource conservation. Therefore, the present disclosure is not limited to the particular embodiments disclosed herein, but includes all technical solutions falling within the scope of the claims.
+Claims (9)
+ 1. A vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways, comprising a lower component, wherein a rotary supporting frame is mounted on the lower component, and an upper component is mounted at the other end of the rotary supporting frame; and suction cups are mounted on the lower component, and a magnet is mounted on the upper component.
+ 2. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 1, wherein a bottom disc is arranged in a bottom cavity of the lower component, and the suction cups are fixedly mounted on the bottom disc.
+ 3. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 2, wherein one end of the upper component is provided with an annular groove, and the magnet is annular and embedded in the annular groove. 
+ 4. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 3, wherein the rotary supporting frame comprises a lower connecting member, one end of the lower connecting member is hinged to a swing rod through a second rotary shaft, and one end of the swing rod is hinged to an upper connecting member through a third rotary shaft.
+ 5. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 4, wherein the lower component and the bottom disc are jointly arranged on a first rotary shaft in a sleeving manner, and the lower connecting member is connected to the first rotary shaft through a first screw.
+ 6. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 5, wherein the upper component and the upper connecting member are connected through a second screw.
+ 7. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 6, wherein a hardware decorative sheet is stuck to a nut of the first screw, a first decorative sheet and a second decorative sheet are stuck to two ends of the second rotary shaft respectively, a third decorative sheet and a fourth decorative sheet are stuck to two ends of the third rotary shaft respectively, and a surface sticker is stuck to the magnet.
+ 8. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 7, wherein a groove is provided at the first rotary shaft, and a magnetic block is stuck to an interior of the groove.
+ 9. The vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways according to claim 7, wherein a groove is provided at the first rotary shaft, and an arc-shaped elastic sheet is welded in the groove.
+ US19/187,669
+ 2024-07-10
+ 2025-04-23
+ Vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways 
+ Pending
+ US20260019491A1
+ (en)
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN202421625096.6U
+ CN223080044U
+ (en)
+ 2024-07-10
+ 2024-07-10
+ Folding rotatory cell phone stand is inhaled to two-way absorption magnetism of on-vehicle house 
+ CN202421625096.6
+ 2024-07-10
+Publications (1)
+ Publication Number
+ Publication Date
+ US20260019491A1
+ true
+ US20260019491A1
+ (en)
+ 2026-01-15
+Family
+ID=96254072
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US19/187,669
+ Pending
+ US20260019491A1
+ (en)
+ 2024-07-10
+ 2025-04-23
+ Vehicle-mounted and household magnetic, foldable and rotatable mobile phone holder capable of being adsorbed in two ways 
+Country Status (2)
+ Country
+ Link
+ US
+ (1)
+ US20260019491A1
+ (en)
+ CN
+ (1)
+ CN223080044U
+ (en)
+ 2024
+ 2024-07-10
+ CN
+ CN202421625096.6U
+ patent/CN223080044U/en
+ active
+ Active
+ 2025
+ 2025-04-23
+ US
+ US19/187,669
+ patent/US20260019491A1/en
+ active
+ Pending
+Also Published As
+ Publication number
+ Publication date
+ CN223080044U
+ (en)
+ 2025-07-08
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ CN217883505U
+ (en)
+ 2022-11-22
+ Mobile phone support 
+ US20200300289A1
+ (en)
+ 2020-09-24
+ Rotatable ball joint and universal ball joint assembly 
+ CN1971074A
+ (en)
+ 2007-05-30
+ Multi-stage rotation shaft structure 
+ CN221004551U
+ (en)
+ 2024-05-24
+ Bracket assembly and electronic equipment bracket
+ CN208566050U
+ (en)
+ 2019-03-01
+ A kind of tablet computer second(-)motion shaft with vibration absorber 
+ CN102846041B
+ (en)
+ 2014-07-02
+ Furniture 
+ CN214177344U
+ (en)
+ 2021-09-10
+ Folding storage support 
+ CN113586856A
+ (en)
+ 2021-11-02
+ Video camera 
+ CN223080044U
+ (en)
+ 2025-07-08
+ Folding rotatory cell phone stand is inhaled to two-way absorption magnetism of on-vehicle house 
+ CN211380039U
+ (en)
+ 2020-09-01
+ Table with folding and accommodating functions 
+ CN208768232U
+ (en)
+ 2019-04-19
+ A kind of portable car-mounted intelligent sound box 
+ CN218266781U
+ (en)
+ 2023-01-10
+ A drawing book rotating support assembly with a sense of damping and staying
+ CN207055186U
+ (en)
+ 2018-03-02
+ A kind of magnetic-type support 
+ CN107942515B
+ (en)
+ 2020-07-24
+ Clamping mechanism and VR glasses 
+ CN223309871U
+ (en)
+ 2025-09-05
+ A multifunctional mobile phone holder
+ CN104345782B
+ (en)
+ 2018-01-23
+ A kind of electronic equipment 
+ CN222352046U
+ (en)
+ 2025-01-14
+ Multifunctional bracket 
+ CN221811174U
+ (en)
+ 2024-10-08
+ Magnetic attraction type bracket 
+ CN213279766U
+ (en)
+ 2021-05-25
+ Novel multifunctional mobile phone support 
+ CN222706530U
+ (en)
+ 2025-04-01
+ Ultra-thin gyro magnetic attraction ring 
+ CN218543895U
+ (en)
+ 2023-02-28
+ Terminal support is inhaled to multistage magnetism 
+ CN207410396U
+ (en)
+ 2018-05-25
+ A kind of mobile phone rotary support 
+ CN105599533B
+ (en)
+ 2019-03-01
+ Folding easel 
+ CN222363619U
+ (en)
+ 2025-01-17
+ A support device
+ CN221768085U
+ (en)
+ 2024-09-24
+ Switching device 
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2025-05-18
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION

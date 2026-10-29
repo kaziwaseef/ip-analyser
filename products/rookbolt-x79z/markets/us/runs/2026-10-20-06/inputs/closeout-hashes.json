@@ -1,0 +1,12 @@
+{
+  "inputs/closeout-sources.json": "6f63a381e2262c5b8974f0b2f8058a46903d23e5c86459df1d27ed14fd42483e",
+  "inputs/closeout-source-document-map.json": "20aec157d78039a1ce1efe5edd30296f0be0f37444c337ce89791eaa12d9fce4",
+  "inputs/closeout-rights.md": "18bc86ea572ff8c982ce1c1474fc82556a6d5d07374d432dbb354ef8c78a0859",
+  "inputs/closeout-rights-map.json": "4c4e3d5dfa7280ebcc51219426a230c5433a0a4394eb3f04d3377664c9a930cd",
+  "inputs/closeout-features.md": "84bc97ebe41399113d03ca1dbfc449d6f8518335fa4cc8ebc9efead73b990852",
+  "inputs/closeout-intake.md": "6c55ae355061638d1d5d2960df811ee2c586e6cf5699e2c9880d85795606baab",
+  "inputs/closeout-tool-register.md": "d3f6c1e63b7c319b42a6ca3526915a3038cdbaa0f508531d0ecd676969282230",
+  "inputs/closeout-search-log.md": "784e54e4c2ac2f5f62e6dea9b9952284d7b0645be6fb73ce718d0726f4c8566e",
+  "inputs/closeout-decision-log.md": "20b529cbd6c727240228b9cbf2fa812dd0903a432e99f39a14fab8032d8db297",
+  "inputs/closeout-source-map.json": "eeb253de6555467c0947df5ec3dfb129e90ac6eea3f6ce7663b44f1e5bf3077d"
+}

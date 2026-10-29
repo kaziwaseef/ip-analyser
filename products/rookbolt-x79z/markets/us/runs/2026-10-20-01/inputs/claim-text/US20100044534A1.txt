@@ -1,0 +1,31 @@
+Claims (
+6
+)
+1
+. A resizable device stand comprising:
+a suction base; and
+a load-supporting module mounted on the suction base, the load-supporting module comprising:
+a housing defining a groove therein;
+a pair of clamps, each clamp comprising a vertical part and a horizontal part, wherein the horizontal part comprises a rack gear, and is received by the groove, the vertical parts being positioned upwardly from opposite sides of the housing, respectively;
+a gear rotatably mounted in the housing and meshing with the rack gears of the clamps, respectively; and
+a locking structure for locking or unlocking the clamps.
+2
+. The stand of
+claim 1
+, further comprising a torsion spring configured for causing the gear to rotate, and thus for causing the clamps to move away from each other.
+3
+. The stand of
+claim 2
+, wherein the torsion spring is fit over a shaft of the gear.
+4
+. The stand of
+claim 1
+, wherein the rack gear define a plurality of locking grooves, the locking structure comprises a locking pin, a spring for causing the locking pin engage with the locking grooves of the rack gear, and an elastic piece configured for causing the locking pin to move away from the locking grooves when received a pressure.
+5
+. The stand of
+claim 1
+, wherein the locking structure is a wedge slideably mounted in the housing, the wedge is able to plug into gaps between teeth of the gear or move away from the gear.
+6
+. The stand of
+claim 1
+, wherein the clamps are L-shaped.

@@ -1,0 +1,22 @@
+{
+  "inputs/assurance-and-decisions.md": "3e29ac1d64eb48bac19c46387144c57c834477eacb89a1746b9e79d52e616c6f",
+  "inputs/rights.md": "751fa1931d4e0998eeff6fd46f4bfd9838386e0976031abc50c023f83967258c",
+  "inputs/sources.json": "d0c74b8a2b56828bef3ff0852dc31b496adb3ab6ed0b744eaa7a81211e52992f",
+  "inputs/product.md": "5f97d1ea5ebe67e067371d63e5c478639116da3f1c21bd660c02f93439b7140b",
+  "inputs/S-102-box-contents.md": "a81d716739cecc046db6f14443f4b7946b9825a54eb32be2f4cc56bc69aee02d",
+  "inputs/overview.md": "435c0d348df8143133c9bd1481748099386b3f0f386a168f14724f053be43192",
+  "inputs/07-report.md": "7f1b1a4845443f43fc0f7639fdd4fedfbdf7d6f686d54c2f84d13e2f4fad7442",
+  "inputs/02-patent-claims.md": "5b97583807e07cb7743984c2dd2fcf43a20b206e319eb40aae1e11bb5f34e3d5",
+  "inputs/evidence-file-hashes.json": "09cf56f098961fbc5d19ea1f4d9b0fd5d3ac364d6c4c291947eab68d50b235d3",
+  "inputs/run-analysis.md": "9b5764cb47396f13d9297b1bfbb39eb9610907e69db6be58c39d54e9b50fc6f5",
+  "inputs/US20230291234A1-published-claims.txt": "42f042c88bf356f53a98b32460352196c9799226d1acdadc3cb1c1e2003e7394",
+  "inputs/06-challenge.md": "c563c3e4584f9020a064778df37341f1d3ab84ea50ae7c0dee9c40ca8914b644",
+  "inputs/legal-foundations.md": "758d80a37118aeacb019fa3b4a1285ff613893d05c4baacbf4b042f78f9f9d8d",
+  "inputs/rate-risk.md": "8b15f5d80f3a49144a4555c2e8a9effa0fe1d60a9a96a5e2db04f665232c38cc",
+  "inputs/intake.md": "d01538c572dda9433358826b6cf2941ab9ffdad122bee392992153071c9857dc",
+  "inputs/task.md": "be7f93c50e0ff1ceca7fdd9a111667ba4e5d0a0e89793933f1059756c81edab5",
+  "inputs/features.md": "2b39ae553c4ce2c86dc396c84f358e59a92e200a6f7e7326ea8e2cb223644954",
+  "inputs/01-scope-and-evidence.md": "2eb17d288bd8253869f68f48e9176e65f9d748e46b7a1bdb7740512fda3a7006",
+  "inputs/S-104-closed-rings.md": "e62a12394fbd2d085f70614b768fce3ba6939d21a96bf13b74a99f8fbb93a7cd",
+  "inputs/S-105-original-manual.md": "25eb032e6aab1fed36a551f32ea50c4bc87b8d2cd27d5bc5f9c4d43a5dd59692"
+}

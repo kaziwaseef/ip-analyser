@@ -1,0 +1,442 @@
+{
+  "id": "a636d1d4-558a-4280-aff1-4bb97153dabf",
+  "ok": true,
+  "result": {
+    "origin": "https://tmsearch.uspto.gov/search/search-results/88735779",
+    "refs": {
+      "e1": {
+        "name": "Feedback",
+        "role": "button"
+      },
+      "e10": {
+        "name": "photo_camera NEW",
+        "role": "button"
+      },
+      "e100": {
+        "name": "Proceeding",
+        "role": "cell"
+      },
+      "e101": {
+        "name": "Date 2021-05-04",
+        "role": "cell"
+      },
+      "e102": {
+        "name": "Description NOTICE OF ACCEPTANCE OF STATEMENT OF USE E-MAILED",
+        "role": "cell"
+      },
+      "e103": {
+        "name": "Document",
+        "role": "cell"
+      },
+      "e104": {
+        "name": "Proceeding",
+        "role": "cell"
+      },
+      "e105": {
+        "name": "Courtesy E-Reminder of Sec. 8 (6-yr)",
+        "role": "button"
+      },
+      "e106": {
+        "name": "Registration Certificate",
+        "role": "button"
+      },
+      "e107": {
+        "name": "Items per page:",
+        "role": "combobox"
+      },
+      "e11": {
+        "name": "search",
+        "role": "button"
+      },
+      "e12": {
+        "name": "collapsed Search builder",
+        "role": "button"
+      },
+      "e13": {
+        "name": "MyUSPTO",
+        "role": "link"
+      },
+      "e14": {
+        "name": "Kazi Waseef Mohammad ",
+        "role": "button"
+      },
+      "e15": {
+        "name": "Trademark search",
+        "role": "link"
+      },
+      "e16": {
+        "name": "",
+        "role": "generic"
+      },
+      "e17": {
+        "name": "First page",
+        "role": "button"
+      },
+      "e18": {
+        "name": "Previous page",
+        "role": "button"
+      },
+      "e19": {
+        "name": "Next page",
+        "role": "button"
+      },
+      "e2": {
+        "name": "Official government website",
+        "role": "region"
+      },
+      "e20": {
+        "name": "Last page",
+        "role": "button"
+      },
+      "e21": {
+        "name": "Return to search results Search results",
+        "role": "button"
+      },
+      "e22": {
+        "name": "Print   Print/Save",
+        "role": "button"
+      },
+      "e23": {
+        "name": "Change view   View case summary",
+        "role": "button"
+      },
+      "e24": {
+        "name": "View in TSDR   Open in new tab",
+        "role": "button"
+      },
+      "e25": {
+        "name": "United States Patent and Trademark Office - An Agency of the Department of Commerce USPTO - United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e26": {
+        "name": "Patents",
+        "role": "button"
+      },
+      "e27": {
+        "name": "Trademarks",
+        "role": "button"
+      },
+      "e28": {
+        "name": "Fees and payment",
+        "role": "button"
+      },
+      "e29": {
+        "name": "Contact Us",
+        "role": "button"
+      },
+      "e3": {
+        "name": "header sub navigation",
+        "role": "navigation"
+      },
+      "e30": {
+        "name": "Search refinment",
+        "role": "combobox"
+      },
+      "e31": {
+        "name": "Search result details for serial number 88735779",
+        "role": "heading"
+      },
+      "e32": {
+        "name": "Related Properties Information",
+        "role": "heading"
+      },
+      "e33": {
+        "name": "Goods and services",
+        "role": "heading"
+      },
+      "e34": {
+        "name": "Collapse goods and services",
+        "role": "button"
+      },
+      "e35": {
+        "name": "Current owner",
+        "role": "heading"
+      },
+      "e36": {
+        "name": "Mark information",
+        "role": "heading"
+      },
+      "e37": {
+        "name": "Basis information",
+        "role": "heading"
+      },
+      "e38": {
+        "name": "Attorney information",
+        "role": "heading"
+      },
+      "e39": {
+        "name": "Correspondence information",
+        "role": "heading"
+      },
+      "e4": {
+        "name": "Here’s how you know keyboard_arrow_down",
+        "role": "button"
+      },
+      "e40": {
+        "name": "Prosecution history and documents",
+        "role": "heading"
+      },
+      "e41": {
+        "name": "Proceedings",
+        "role": "heading"
+      },
+      "e42": {
+        "name": "International registration (Section 66a)",
+        "role": "heading"
+      },
+      "e43": {
+        "name": "Foreign information",
+        "role": "heading"
+      },
+      "e44": {
+        "name": "Maintenance information",
+        "role": "heading"
+      },
+      "e45": {
+        "name": "About the USPTO",
+        "role": "link"
+      },
+      "e46": {
+        "name": "Search for patents",
+        "role": "link"
+      },
+      "e47": {
+        "name": "Search for trademarks",
+        "role": "link"
+      },
+      "e48": {
+        "name": "Facebook USPTO Facebook page",
+        "role": "link"
+      },
+      "e49": {
+        "name": "Instagram USPTO Instagram page",
+        "role": "link"
+      },
+      "e5": {
+        "name": "United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e50": {
+        "name": "Linkedin USPTO Linkedin page",
+        "role": "link"
+      },
+      "e51": {
+        "name": "X USPTO X page",
+        "role": "link"
+      },
+      "e52": {
+        "name": "Youtube USPTO Youtube page",
+        "role": "link"
+      },
+      "e53": {
+        "name": "Virtual Assistant avatar Need help? Ask the USPTO Virtual Assistant!",
+        "role": "button"
+      },
+      "e54": {
+        "name": "Home",
+        "role": "link"
+      },
+      "e55": {
+        "name": "Search results",
+        "role": "link"
+      },
+      "e56": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e57": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e58": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e59": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e6": {
+        "name": "breadcrumb",
+        "role": "navigation"
+      },
+      "e60": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e61": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e62": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e63": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e64": {
+        "name": "Documents only",
+        "role": "checkbox"
+      },
+      "e65": {
+        "name": "",
+        "role": "generic"
+      },
+      "e66": {
+        "name": "First page",
+        "role": "button"
+      },
+      "e67": {
+        "name": "Previous page",
+        "role": "button"
+      },
+      "e68": {
+        "name": "Next page",
+        "role": "button"
+      },
+      "e69": {
+        "name": "Last page",
+        "role": "button"
+      },
+      "e7": {
+        "name": "Help",
+        "role": "button"
+      },
+      "e70": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e71": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e72": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e73": {
+        "name": "Show in Case summary view",
+        "role": "switch"
+      },
+      "e74": {
+        "name": "Enter your email to subscribe or update your preferences",
+        "role": "textbox"
+      },
+      "e75": {
+        "name": "Subscribe",
+        "role": "button"
+      },
+      "e76": {
+        "name": "US Department of Commerce",
+        "role": "link"
+      },
+      "e77": {
+        "name": "Accessibility",
+        "role": "link"
+      },
+      "e78": {
+        "name": "Privacy Policy",
+        "role": "link"
+      },
+      "e79": {
+        "name": "Terms of Use",
+        "role": "link"
+      },
+      "e8": {
+        "name": "",
+        "role": "generic"
+      },
+      "e80": {
+        "name": "Financial and Performance Data",
+        "role": "link"
+      },
+      "e81": {
+        "name": "Freedom of Information Act",
+        "role": "link"
+      },
+      "e82": {
+        "name": "Inspector General",
+        "role": "link"
+      },
+      "e83": {
+        "name": "NoFEAR Act",
+        "role": "link"
+      },
+      "e84": {
+        "name": "USA.gov",
+        "role": "link"
+      },
+      "e85": {
+        "name": "Date 2026-06-08",
+        "role": "cell"
+      },
+      "e86": {
+        "name": "Description COURTESY REMINDER - SEC. 8 (6-YR) E-MAILED",
+        "role": "cell"
+      },
+      "e87": {
+        "name": "Document",
+        "role": "cell"
+      },
+      "e88": {
+        "name": "Proceeding",
+        "role": "cell"
+      },
+      "e89": {
+        "name": "Date 2026-06-08",
+        "role": "cell"
+      },
+      "e9": {
+        "name": "Search trademarks The search builder button follows the Search button",
+        "role": "combobox"
+      },
+      "e90": {
+        "name": "Description Courtesy E-Reminder of Sec. 8 (6-yr)",
+        "role": "cell"
+      },
+      "e91": {
+        "name": "Document Courtesy E-Reminder of Sec. 8 (6-yr)",
+        "role": "cell"
+      },
+      "e92": {
+        "name": "Proceeding",
+        "role": "cell"
+      },
+      "e93": {
+        "name": "Date 2021-06-08",
+        "role": "cell"
+      },
+      "e94": {
+        "name": "Description REGISTERED-PRINCIPAL REGISTER",
+        "role": "cell"
+      },
+      "e95": {
+        "name": "Document",
+        "role": "cell"
+      },
+      "e96": {
+        "name": "Proceeding",
+        "role": "cell"
+      },
+      "e97": {
+        "name": "Date 2021-06-08",
+        "role": "cell"
+      },
+      "e98": {
+        "name": "Description Registration Certificate",
+        "role": "cell"
+      },
+      "e99": {
+        "name": "Document Registration Certificate",
+        "role": "cell"
+      }
+    },
+    "snapshot": "- generic\n  - banner\n    - region \"Official government website\" [ref=e2]\n      - image \"U.S. flag\"\n      - paragraph\n        - StaticText \"An official website of the United States government\"\n      - button \"Here’s how you know keyboard_arrow_down\" [expanded=false, ref=e4]\n        - StaticText \"Here’s how you know \"\n        - StaticText \"keyboard_arrow_down\"\n    - navigation\n      - link \"United States Patent and Trademark Office\" [ref=e5]\n        - StaticText \"United States Patent and Trademark Office\"\n      - generic\n        - button \"Patents\" [expanded=false, ref=e26]\n          - StaticText \"Patents\"\n        - button \"Trademarks\" [expanded=false, ref=e27]\n          - StaticText \"Trademarks\"\n        - button \"Fees and payment\" [expanded=false, ref=e28]\n          - StaticText \"Fees and payment\"\n        - button \"Contact Us\" [expanded=false, ref=e29]\n          - StaticText \"Contact Us\"\n      - link \"MyUSPTO\" [ref=e13]\n        - StaticText \"MyUSPTO\"\n      - button \"Kazi Waseef Mohammad\" [expanded=false, ref=e14]\n        - StaticText \"Kazi Waseef Mohammad\"\n    - link \"Trademark search\" [ref=e15]\n    - navigation \"header sub navigation\" [ref=e3]\n      - navigation \"breadcrumb\" [ref=e6]\n        - list\n          - listitem [level=1]\n            - link \"Home\" [ref=e54]\n          - listitem [level=1]\n            - StaticText \">\"\n            - link \"Search results\" [ref=e55]\n          - listitem [level=1]\n            - StaticText \">\"\n            - StaticText \" Details\"\n      - button \"Help\" [ref=e7]\n  - search\n    - generic\n      - generic [ref=e8] clickable [cursor:pointer]\n        - combobox \"Search refinment\" [expanded=false, ref=e30]: Field tag and Search builder\n          - generic\n            - StaticText \"Field tag and Search builder\"\n      - combobox \"Search trademarks The search builder button follows the Search button\" [expanded=false, ref=e9]: SN:88735779\n        - StaticText \"SN:88735779\"\n      - generic [ref=e16] clickable [cursor:pointer, tabindex]\n        - StaticText \"clear\"\n      - button \"photo_camera NEW\" [ref=e10]\n        - StaticText \"photo_camera\"\n        - StaticText \"NEW\"\n      - button \"search\" [ref=e11]\n        - StaticText \"search\"\n      - button \"collapsed Search builder\" [ref=e12]\n        - StaticText \"chevron_right\"\n        - StaticText \"Search builder\"\n  - main\n    - generic\n      - StaticText \"Result 1 of 1 for SN:88735779\"\n    - generic\n      - group \"Select result page\"\n        - button \"First page\" [disabled, ref=e17]\n        - button \"Previous page\" [disabled, ref=e18]\n        - button \"Next page\" [disabled, ref=e19]\n        - button \"Last page\" [disabled, ref=e20]\n      - group\n        - button \"Return to search results Search results\" [ref=e21]\n          - image \"Return to search results\"\n            - StaticText \"arrow_back\"\n          - StaticText \"Search results\"\n        - button \"Print  Print/Save\" [ref=e22]\n          - image \"Print\"\n            - StaticText \"print\"\n          - StaticText \" Print/Save\"\n        - button \"Change view  View case summary\" [ref=e23]\n          - image \"Change view\"\n            - StaticText \"swap_horiz\"\n          - StaticText \" View case summary\"\n      - button \"View in TSDR  Open in new tab\" [ref=e24]\n        - StaticText \"View in TSDR\"\n        - image \"Open in new tab\"\n          - StaticText \"open_in_new\"\n    - generic\n      - generic\n        - heading \"Search result details for serial number 88735779\" [level=1, ref=e31]\n        - generic\n          - StaticText \"Trademark\"\n          - image \"Image for 88735779\"\n        - generic\n          - StaticText \"Wordmark\"\n          - paragraph\n            - StaticText \"ROOK\"\n          - generic\n            - StaticText \"Serial number\"\n            - paragraph\n              - StaticText \"88735779\"\n            - StaticText \"Registration number\"\n            - paragraph\n              - StaticText \"6381370\"\n          - generic\n            - StaticText \"Filing date\"\n            - paragraph\n              - StaticText \"2019-12-20\"\n            - StaticText \"Registration date\"\n            - paragraph\n              - StaticText \"2021-06-08\"\n        - generic\n          - StaticText \"Status\"\n          - paragraph\n            - StaticText \"LIVE\"\n            - StaticText \"REGISTERED\"\n        - generic\n          - StaticText \"Status date\"\n          - paragraph\n            - StaticText \"2021-06-08\"\n        - generic\n          - StaticText \"Registration type\"\n          - paragraph\n            - StaticText \"PRINCIPAL\"\n        - generic\n          - StaticText \"Case status\"\n          - paragraph\n            - StaticText \"Registered. The registration date is used to determine when post-registration maintenance documents are due.\"\n        - generic\n          - StaticText \"Publication date\"\n          - paragraph\n            - StaticText \"2020-04-21\"\n        - generic\n          - StaticText \"Class\"\n          - paragraph\n            - StaticText \"009\"\n        - generic\n          - StaticText \"TM Attorney\"\n          - paragraph\n            - StaticText \"N/A\"\n        - generic\n          - StaticText \"Law Office Assigned\"\n          - paragraph\n            - StaticText \"LAW OFFICE 116\"\n        - StaticText \"TM5 Status\"\n        - image \"TM5 Common Status image\"\n        - generic\n          - paragraph\n            - StaticText \"LIVE/REGISTRATION/Issued and Active\"\n          - paragraph\n            - StaticText \"The trademark application has been registered with the Office.\"\n      - heading \"Related Properties Information\" [level=2, ref=e32]\n      - generic\n        - switch \"Show in Case summary view\" [checked=false, ref=e56]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - paragraph\n        - StaticText \"N/A\"\n      - heading \"Goods and services\" [level=2, ref=e33]\n      - generic\n        - switch \"Show in Case summary view\" [checked=true, ref=e57]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - button \"Collapse goods and services\" [expanded=true, ref=e34]\n        - StaticText \"Collapse\"\n        - StaticText \"goods and services\"\n      - paragraph\n        - StaticText \"IC 009: Batteries; Batteries for vehicles; Batteries, electric, for vehicles; Battery chargers for use with electric vehicles; Electric batteries for powering electric vehicles; Electrical cells and batteries; Lithium ion batteries; Nickel-cadmium storage batteries; Solar batteries; Solar-powered rechargeable batteries; Emergency auto kits comprised of a battery charger and a hand held spotlight; Rechargeable batteries. | First Use Anywhere: January 20, 2020 | First Use in Commerce: January 20, 2020\"\n      - heading \"Current owner\" [level=2, ref=e35]\n      - generic\n        - switch \"Show in Case summary view\" [checked=true, ref=e58]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - generic\n        - StaticText \"Name\"\n        - paragraph\n          - StaticText \"Rook Innovative Solutions, LLC\"\n      - generic\n        - StaticText \"Address\"\n        - paragraph\n          - StaticText \"75 Van Brunt Street\"\n          - LineBreak \"\\n\"\n          - StaticText \"Brooklyn NEW YORK 11231\"\n          - LineBreak \"\\n\"\n          - StaticText \"UNITED STATES\"\n          - LineBreak \"\\n\"\n      - generic\n        - StaticText \"Entity type\"\n        - paragraph\n          - StaticText \"LIMITED LIABILITY COMPANY\"\n      - generic\n        - StaticText \"Organized\"\n        - paragraph\n          - StaticText \"NEW YORK\"\n      - generic\n        - StaticText \"Ownership transitions\"\n        - paragraph\n          - StaticText \"No assignments\"\n      - heading \"Mark information\" [level=2, ref=e36]\n      - generic\n        - switch \"Show in Case summary view\" [checked=true, ref=e59]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - generic\n        - StaticText \"Mark literal element\"\n        - paragraph\n          - StaticText \"ROOK\"\n      - generic\n        - StaticText \"Standard character claim\"\n        - paragraph\n          - StaticText \"Yes. The mark consists of standard characters without claim to any particular font style, size, or color.\"\n      - generic\n        - StaticText \"Mark type\"\n        - paragraph\n          - StaticText \"TRADEMARK\"\n      - generic\n        - StaticText \"Mark drawing code\"\n        - paragraph\n          - StaticText \"(4) Standard character drawing\"\n      - generic\n        - StaticText \"Description\"\n        - paragraph\n          - StaticText \"N/A\"\n      - generic\n        - StaticText \"Translation\"\n        - paragraph\n          - StaticText \"N/A\"\n      - generic\n        - StaticText \"Transliteration\"\n        - paragraph\n          - StaticText \"N/A\"\n      - generic\n        - StaticText \"Disclaimer\"\n        - paragraph\n          - StaticText \"N/A\"\n      - generic\n        - StaticText \"Design codes\"\n        - paragraph\n          - StaticText \"N/A\"\n      - heading \"Basis information\" [level=2, ref=e37]\n      - generic\n        - switch \"Show in Case summary view\" [checked=true, ref=e60]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - generic\n        - StaticText \"Filed\"\n        - paragraph\n          - StaticText \"1(b)\"\n      - generic\n        - StaticText \"Currently\"\n        - paragraph\n          - StaticText \"1(a)\"\n      - heading \"Attorney information\" [level=2, ref=e38]\n      - generic\n        - switch \"Show in Case summary view\" [checked=true, ref=e61]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - generic\n        - StaticText \"Name\"\n        - paragraph\n          - StaticText \"XINYU ZHU\"\n      - generic\n        - StaticText \"Address\"\n        - paragraph\n          - StaticText \"HUANG, CHEN & WU LAW GROUP P.C.\"\n          - LineBreak \"\\n\"\n          - StaticText \"38-08 UNION STREET, SUITE 9B\"\n          - LineBreak \"\\n\"\n          - StaticText \"FLUSHING NEW YORK 11354\"\n          - LineBreak \"\\n\"\n          - StaticText \"UNITED STATES\"\n          - LineBreak \"\\n\"\n      - generic\n        - StaticText \"Primary email\"\n        - paragraph\n          - StaticText \"XYZHU@HCWLAWGROUP.COM\"\n      - generic\n        - StaticText \"Docket number\"\n        - paragraph\n          - StaticText \"N/A\"\n      - heading \"Correspondence information\" [level=2, ref=e39]\n      - generic\n        - switch \"Show in Case summary view\" [checked=false, ref=e62]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - generic\n        - StaticText \"Name\"\n        - paragraph\n          - StaticText \"XINYU ZHU\"\n      - generic\n        - StaticText \"Address\"\n        - paragraph\n          - StaticText \"HUANG, CHEN & WU LAW GROUP P.C.\"\n          - LineBreak \"\\n\"\n          - StaticText \"38-08 UNION STREET, SUITE 9B\"\n          - LineBreak \"\\n\"\n          - StaticText \"FLUSHING NEW YORK 11354\"\n          - LineBreak \"\\n\"\n          - StaticText \"UNITED STATES\"\n          - LineBreak \"\\n\"\n      - generic\n        - StaticText \"Email\"\n        - paragraph\n          - StaticText \"xhuang@hcwlawgroup.com\"\n      - heading \"Prosecution history and documents\" [level=2, ref=e40]\n      - generic\n        - switch \"Show in Case summary view\" [checked=false, ref=e63]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - generic\n        - checkbox \"Documents only\" [checked=false, ref=e64]\n        - LabelText\n          - StaticText \"Documents only\"\n      - generic\n        - table\n          - row\n            - cell \"Date 2026-06-08\" [ref=e85]\n              - StaticText \"Date\"\n              - StaticText \" 2026-06-08\"\n            - cell \"Description COURTESY REMINDER - SEC. 8 (6-YR) E-MAILED\" [ref=e86]\n              - StaticText \"Description\"\n              - StaticText \" COURTESY REMINDER - SEC. 8 (6-YR) E-MAILED\"\n            - cell \"Document\" [ref=e87]\n              - StaticText \"Document\"\n            - cell \"Proceeding\" [ref=e88]\n              - StaticText \"Proceeding\"\n          - row\n            - cell \"Date 2026-06-08\" [ref=e89]\n              - StaticText \"Date\"\n              - StaticText \" 2026-06-08\"\n            - cell \"Description Courtesy E-Reminder of Sec. 8 (6-yr)\" [ref=e90]\n              - StaticText \"Description\"\n              - StaticText \" Courtesy E-Reminder of Sec. 8 (6-yr)\"\n            - cell \"Document Courtesy E-Reminder of Sec. 8 (6-yr)\" [ref=e91]\n              - StaticText \"Document\"\n              - button \"Courtesy E-Reminder of Sec. 8 (6-yr)\" [ref=e105]\n                - StaticText \"Courtesy E-Reminder of Sec. 8 (6-yr)\"\n            - cell \"Proceeding\" [ref=e92]\n              - StaticText \"Proceeding\"\n          - row\n            - cell \"Date 2021-06-08\" [ref=e93]\n              - StaticText \"Date\"\n              - StaticText \" 2021-06-08\"\n            - cell \"Description REGISTERED-PRINCIPAL REGISTER\" [ref=e94]\n              - StaticText \"Description\"\n              - StaticText \" REGISTERED-PRINCIPAL REGISTER\"\n            - cell \"Document\" [ref=e95]\n              - StaticText \"Document\"\n            - cell \"Proceeding\" [ref=e96]\n              - StaticText \"Proceeding\"\n          - row\n            - cell \"Date 2021-06-08\" [ref=e97]\n              - StaticText \"Date\"\n              - StaticText \" 2021-06-08\"\n            - cell \"Description Registration Certificate\" [ref=e98]\n              - StaticText \"Description\"\n              - StaticText \" Registration Certificate\"\n            - cell \"Document Registration Certificate\" [ref=e99]\n              - StaticText \"Document\"\n              - button \"Registration Certificate\" [ref=e106]\n                - StaticText \"Registration Certificate\"\n            - cell \"Proceeding\" [ref=e100]\n              - StaticText \"Proceeding\"\n          - row\n            - cell \"Date 2021-05-04\" [ref=e101]\n              - StaticText \"Date\"\n              - StaticText \" 2021-05-04\"\n            - cell \"Description NOTICE OF ACCEPTANCE OF STATEMENT OF USE E-MAILED\" [ref=e102]\n              - StaticText \"Description\"\n              - StaticText \" NOTICE OF ACCEPTANCE OF STATEMENT OF USE E-MAILED\"\n            - cell \"Document\" [ref=e103]\n              - StaticText \"Document\"\n            - cell \"Proceeding\" [ref=e104]\n              - StaticText \"Proceeding\"\n        - group \"Select prosecution history page\"\n          - StaticText \"Items per page:\"\n          - generic [ref=e65] clickable [cursor:pointer]\n            - generic\n            - generic\n              - combobox \"Items per page:\" [expanded=false, ref=e107]: 5\n                - generic\n                  - StaticText \"5\"\n          - StaticText \"1 – 5 of 38\"\n          - button \"First page\" [disabled, ref=e66]\n          - button \"Previous page\" [disabled, ref=e67]\n          - button \"Next page\" [ref=e68]\n          - button \"Last page\" [ref=e69]\n      - heading \"Proceedings\" [level=2, ref=e41]\n      - generic\n        - switch \"Show in Case summary view\" [checked=false, ref=e70]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - paragraph\n        - StaticText \"N/A\"\n      - heading \"International registration (Section 66a)\" [level=2, ref=e42]\n      - generic\n        - switch \"Show in Case summary view\" [checked=false, ref=e71]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - paragraph\n        - StaticText \"N/A\"\n      - heading \"Foreign information\" [level=2, ref=e43]\n      - generic\n        - switch \"Show in Case summary view\" [checked=false, ref=e72]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - paragraph\n        - StaticText \"N/A\"\n      - heading \"Maintenance information\" [level=2, ref=e44]\n      - generic\n        - switch \"Show in Case summary view\" [checked=false, ref=e73]\n        - LabelText\n          - StaticText \"Show in Case summary view\"\n      - paragraph\n        - StaticText \"N/A\"\n  - contentinfo\n    - generic\n      - paragraph\n        - StaticText \"Receive updates from the USPTO\"\n      - form\n        - LabelText\n          - StaticText \"Enter your email to subscribe or update your preferences\"\n        - generic\n          - textbox \"Enter your email to subscribe or update your preferences\" [ref=e74]\n          - button \"Subscribe\" [ref=e75]\n    - generic\n      - generic\n        - link \"About the USPTO\" [ref=e45]\n        - StaticText \" • \"\n        - link \"Search for patents\" [ref=e46]\n        - StaticText \" • \"\n        - link \"Search for trademarks\" [ref=e47]\n      - generic\n        - link \"US Department of Commerce\" [ref=e76]\n        - link \"Accessibility\" [ref=e77]\n        - link \"Privacy Policy\" [ref=e78]\n        - link \"Terms of Use\" [ref=e79]\n        - link \"Financial and Performance Data\" [ref=e80]\n      - generic\n        - link \"Freedom of Information Act\" [ref=e81]\n        - link \"Inspector General\" [ref=e82]\n        - link \"NoFEAR Act\" [ref=e83]\n        - link \"USA.gov\" [ref=e84]\n    - link \"United States Patent and Trademark Office - An Agency of the Department of Commerce USPTO - United States Patent and Trademark Office\" [ref=e25]\n      - image \"United States Patent and Trademark Office - An Agency of the Department of Commerce\"\n      - StaticText \"USPTO - United States Patent and Trademark Office\"\n    - generic\n      - StaticText \"Follow us\"\n      - generic\n        - link \"Facebook USPTO Facebook page\" [ref=e48]\n          - image \"Facebook\"\n          - StaticText \"USPTO Facebook page\"\n        - link \"Instagram USPTO Instagram page\" [ref=e49]\n          - image \"Instagram\"\n          - StaticText \"USPTO Instagram page\"\n        - link \"Linkedin USPTO Linkedin page\" [ref=e50]\n          - image \"Linkedin\"\n          - StaticText \"USPTO Linkedin page\"\n        - link \"X USPTO X page\" [ref=e51]\n          - image \"X\"\n          - StaticText \"USPTO X page\"\n        - link \"Youtube USPTO Youtube page\" [ref=e52]\n          - image \"Youtube\"\n          - StaticText \"USPTO Youtube page\"\n  - button \"Virtual Assistant avatar Need help? Ask the USPTO Virtual Assistant!\" [ref=e53]\n    - generic\n      - image \"Virtual Assistant avatar\"\n      - strong\n        - StaticText \"Need help? Ask the\"\n        - LineBreak \"\\n\"\n        - StaticText \"USPTO Virtual Assistant!\"\n  - button \"Feedback\" [ref=e1]\n    - generic\n      - StaticText \"Feedback\"",
+    "browserPageId": "95b3f020-5637-46a1-92ad-e5fdb3af12b5"
+  },
+  "_meta": {
+    "runtimeId": "797f96e2-9d5c-496a-858d-608ddbe5e2e0"
+  }
+}

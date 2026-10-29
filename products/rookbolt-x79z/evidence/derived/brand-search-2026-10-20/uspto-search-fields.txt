@@ -1,0 +1,485 @@
+## Page 1
+Transitioning from TESS to the new 
+search system 
+Retiring the Trademark Electronic Search System (TESS) 
+Overview 
+•
+We introduced TESS in 2000.
+•
+It relied on a proprietary search language that is no longer supported.
+•
+Therefore, we introduced a new public trademark search system and search language.
+•
+To ease your transition, use these shortcuts and tips as a guide.
+Practical tips 
+•
+Continue to use the same searching concepts you
+always have.
+o
+Knock-out searches
+o
+Fields tags
+o
+Pattern matching, wildcards, and truncation
+•
+Conduct exact-match, single-term searches using the
+Wordmark drop-down option.
+o
+Type in your search term with no pattern
+marching, wildcards, or truncation.
+•
+Conduct complex, multiple-term searches using the
+Field tag and Search builder option.
+o
+Field tag searching
+
+Begin with a field tag in all caps,
+followed by a colon.
+
+Type in your search term in lowercase.
+o
+Search builder
+
+Use this tool to construct searches
+while you're learning the new syntax.
+o
+Field tag searching with regular expressions (regex)
+
+Only use regex when you want to conduct phonetic equivalent and alternate
+spelling searches.
+•
+Log in to your USPTO.gov account to access summary pages and to reduce error messages.
+•
+Turn on "expert mode" to tag results, conduct combined line searches, and access the
+summary page feature.
+
+
+## Page 2
+Searching mechanics 
+Field tag searching 
+Field tags 
+For each mark in our database, data is stored in distinct fields, and you can use field tags to search 
+the various fields individually. In the new syntax, the field tag appears first, followed by a colon.  
+Field tags are the best way to conduct complex, multiple-term searches similar to TESS free-form and 
+structured searches. 
+TESS 
+field tag 
+New search 
+field tag 
+Field 
+Example 
+[comb] 
+CM: 
+Combines word, pseudo 
+mark, translation fields 
+CM:map    finds map in the word, pseudo mark, 
+and translation fields 
+[bi] 
+WP: 
+Word/pseudo mark 
+WP:english    finds english in the word and 
+pseudo mark fields, but not the translation field 
+[fm] 
+FM: 
+Full mark 
+FM:flex    finds only flex 
+[gs] 
+GS: 
+Goods and services 
+GS:dish*    finds dish, dished, dishing 
+GS:"dietary supplements"    finds exact phrase 
+[cc] 
+CC: 
+Coordinated class 
+CC:009    finds marks in classes coordinated to 
+international class 9 
+[ic] 
+IC: 
+International class 
+IC:025    finds marks in international class 25 
+[ld] 
+LD: 
+Live/dead indicator 
+LD:true    finds live marks 
+LD:false    finds dead marks 
+[rg] 
+RG: 
+Register 
+RG:supplemental  or  RG:s*    searches for 
+trademarks on the Supplemental Register 
+[ds] 
+DS: 
+Disclaimer 
+DS:beauty    finds disclaimers that include beauty 
+[dc] 
+DC: 
+Design code 
+DC:26.17.13  or  DC:261713    periods are optional 
+DC:0311*    use wildcards for multiple codes 
+[de] 
+DE: 
+Description of the mark 
+DE:panda    finds marks with panda in the mark 
+description 
+[on] 
+ON: 
+Owner name 
+ON:"pepsico, inc"    finds exact owner names 
+[sn] 
+SN: 
+Serial number 
+SN:79*    finds all Madrid applications 
+[rn] 
+RN: 
+Registration number 
+RN:6182232    finds specific registrations 
+[at] 
+AT: 
+Attorney of record 
+AT:("Jane Smith" OR "Jane D Smith") 
+
+
+## Page 3
+Wildcards 
+Use wildcards in your search term to match any character except for an empty space. You can use 
+them anywhere in the search term and in any field, but don’t use them inside quotations. 
+Wildcard 
+Explanation 
+Search example 
+? 
+Returns one instance of any character except 
+space 
+d?g 
+* 
+Returns infinite instances of any character 
+except space 
+*test*
+"  " 
+Matches an exact item 
+ON:"nike inc" returns all marks 
+owned by Nike Inc. 
+Does not return owners with just 
+nike in the name 
+[ TO ] 
+Designates a range 
+RD:[2020-01-01 TO 2020-12-31] 
+returns all marks with a 
+registration date in 2020 
+~ 
+Returns words in a certain proximity 
+CM:"zebra star"~3 returns zebra 
+star, star zebra, and zebra on a star 
+Does not return zebra on a rocket 
+to the stars 
+Logical operators 
+You can use logical operators to create multiple line searches. 
+Operator 
+Explanation 
+Search example 
+AND 
+Only returns results that meet additional 
+search statements 
+CM:*dog* AND LD:true 
+OR space 
+Returns results that meet one of multiple 
+search statements 
+IC:009 OR IC:016 
+CM:(*hip* *hop*) 
+AND NOT 
+Exclude results that meet search statements 
+GS:toy* AND NOT GS:pet* 
+( ) 
+Groups together search statements to be 
+modified by field or operator 
+IC:(009 a b 200) 
+(1 AND 2) OR 4 
+
+
+## Page 4
+Field tag searching with regular expressions 
+The new search system includes an optional syntax called regular expressions (or “regex”) that 
+allows you to do the same phonetic searching you did with TESS. 
+You don’t need to learn regex searching to use the system, but it does allow for more efficient 
+searching in the database. 
+How to trigger regular expression searching 
+Every regex begins and ends with a forward slash (“/”). 
+Regex component 
+Explanation 
+New search 
+/ 
+Triggers the ability to search 
+phonetically using pattern matching 
+/w[iy][ck]{1,2}et/    finds alternate spellings of 
+the word wicket 
+Common phonetic equivalent combinations 
+Like TESS, the new search system allows you to find marks that sound like your mark (the phonetic 
+equivalent). However, the new search system and TESS use different characters and syntax. 
+Sound 
+Example 
+TESS 
+New search 
+Hard K 
+CAT; KITE; FOX 
+{“ckqx”} or {“ckqx”:2} 
+[ckqx] or [ckqx]{1,2} 
+Soft S 
+SOUP; SCENE; ZEN 
+{“scz”} or {“scz”:2} 
+[scz] or [scz]{1,2} 
+F/PH 
+FUN, PHONICS 
+{“fph”} or {“fph”:2} 
+[fph] or [fph]{1,2} 
+J/G 
+GENIUS, JEANS, LEDGER {d0:1}{“gj”}{“eiy”1:2} 
+d{0,1}[gj][eiy]{1,2} 
+Soft Y 
+CANYON, HALLELUJAH 
+{“jy”:2} 
+[jy]{1,2} 
+SH 
+OCEAN, SURE 
+{“scz”}{“h”0:1} 
+[scz]h{0,1} 
+CH 
+MATCH, INCH 
+{“t”0:1}c{“ch”} 
+t{0,1}c[ch] 
+TION 
+ACTION, FASHION 
+{“scth”:3}{v:2}n 
+[scth]{1,3}[aeiouy]{1,2}n 
+ITE/IGHT MITE, MIGHT 
+{“iy”}{“gh”0:2}t 
+[iy][gh]{0,2}t 
+A 
+MAKE, FAIR, PAY 
+a{“iey”0:1} 
+a[eiy]{0,1} 
+
+
+## Page 5
+Regex wildcards 
+Use wildcards in your search term to match any character except for an empty space. You can use 
+them anywhere in the search term and in any field, but don’t use them inside quotations. 
+As you can see below, the asterisk and question mark wildcards work differently in regex. 
+Wildcard 
+Explanation 
+TESS 
+New search 
+. 
+Match exactly one 
+instance of any character 
+except space 
+d?g 
+/d.g/  
+.{0,n} 
+Match 0 to n instances of 
+any character except 
+space 
+test$2r 
+/test.{0,2}r/ 
+.* 
+Match 0 or more instances 
+of any character except 
+space 
+*{“ckq”}{“a”:2}{“n”:2}$t* 
+(internal truncation) 
+*d{“oa”}g*
+(front/end truncation)
+/.*[ckq]a{1,2}n{1,2}.*t.* / 
+(internal truncation) 
+/.*d[oa]g.*/ 
+(front/end truncation) 
+* 
+Repeats the preceding 
+character 0+ times 
+/cat*/    finds ca, cat, catt, 
+cattt, but not cats 
+? 
+Repeats the preceding 
+character 0-1 times 
+/fis?t/    finds fit and fist 
++ 
+Repeats the preceding 
+character 1+ times 
+/com+/    finds com, 
+comm, and commm 
+Search builder 
+Use the search builder tool to construct complex searches while you're learning the search syntax. 
+•
+Simply choose the field you want to
+search.
+•
+Enter your search term, including any
+wildcards or regular expressions.
+•
+Select Build to add the search to the
+search bar.
+•
+You can then initiate the search, add
+additional search terms, or even edit the
+search in the search bar.
+
+
+## Page 6
+Sample searches 
+How TESS and new search differ 
+•
+Compare knock-out search strings for this trademark: CAT
+TESS 
+New search 
+cat[comb] 
+CM:cat 
+•
+Compare pattern-matched search strings for this trademark: CAT
+TESS 
+New search 
+{“ckq”}{“a”1:2}t[comb] 
+CM:/[ckq]a{1,2}t/ 
+•
+Compare truncated search strings for this trademark: RABBITY
+TESS 
+New search 
+r{v}{“b”1:2}{v}t*[comb] 
+CM:/r[aeiouy]b{1,2}[aeiouy]t.*/ 
+•
+Compare truncated search strings for this trademark: RRRRABBITY
+TESS 
+New search 
+*r{v}{“b”1:2}{v}t*[comb]
+CM:/.*r[aeiouy]b{1,2}[aeiouy]t.*/ 
+•
+Compare truncated search strings for this trademark: CAN’T
+TESS 
+New search 
+*{“ckq”}{“a”1:2}{“n”1:2}$t*[comb] 
+CM:/.*[ckq]a{1,2}n{1,2}.*t.*/ 
+•
+Compare truncated search strings for live versions of this trademark: CAT
+TESS 
+New search 
+*{“ckq”}{“a”1:2}t*[comb] and live[ld] 
+CM:/.*[ckq]a{1,2}t.*/ AND LD:true 
+•
+Compare truncated search strings for live, registered versions of this trademark: CAT
+TESS 
+New search 
+*{“ckq”}{“a”1:2}t*[comb] and live[ld] and 
+registrant[ow] 
+CM:/.*[ckq]a{1,2}t.*/ AND LD:true AND RN:* 
+•
+Compare truncated search strings for live, registered versions of this trademark on the
+Principal Register: CAT
+TESS 
+New search 
+*{“ckq”}{“a”1:2}t*[comb] and live[ld] and 
+registrant[ow] and principal[rg] 
+CM:/.*[ckq]a{1,2}t.*/ AND LD:true AND RN:* 
+AND RG:p* 
+
+
+## Page 7
+Common search strings 
+For your convenience, use the search strings below to execute common searches. Replace the words 
+in bold with the terms you want to search. You don’t need to use bold when actually searching. 
+•
+Search for all applications filed by a particular attorney.
+o
+AT:name
+•
+Search for all applications filed by a particular owner.
+o
+OW:name
+•
+Search for all applications filed by a particular owner in the month of July, 2023.
+o
+OW:name AND FD:[20230701 TO 20230731]
+•
+Search for all applications filed by a particular owner from July, 2023 to present.
+o
+OW:name AND FD:[20230701 TO *]
+•
+Search for all applications registered by a particular owner.
+o
+OW:name AND RN:*
+•
+Search for all live, pending applications.
+o
+(SN:* AND LD:true) AND NOT RN:*
+•
+Search for all live, unregistered trademarks that have published for opposition.
+o
+(PO:* AND NOT RN:*) AND LD:true
+•
+Search for all live, registered trademarks.
+o
+RN:* AND LD:true
+•
+Search for all live trademarks containing a particular word.
+o
+CM:word AND LD:true
+•
+Search for all live trademarks containing a particular word in a particular coordinated class.
+o
+CM:word AND LD:true AND CC:000
+•
+Search for all live trademarks containing a particular word in a particular international class.
+o
+CM:word AND LD:true AND IC:(000 035 042 a b 200)
+•
+Search for all live trademarks containing a particular word and used with particular goods or
+services.
+o
+CM:word AND LD:true AND GS:(goods1 goods2)
+•
+Search for all live trademarks used with particular goods or services.
+o
+LD:true AND GS:(goods1 goods2)
+
+
+## Page 8
+Combined line searches 
+To execute combined line searches, make sure you’re in expert mode. 
+Trademark examples 
+Let’s say you want to search for live applications and registrations that contain the mark: DOG TOY. 
+Compare two alternative ways of searching. 
+•
+Alternative 1
+1.
+CM:dog AND LD:true
+2. CM:toy AND LD:true
+3. 1 AND 2
+•
+Alternative 2
+o
+CM:"dog toy" AND LD:true
+Alternative 1 requires you to execute three separate searches, but also allows you to search the words 
+DOG and TOY both individually and together. 
+Attorney examples 
+Let’s say you’re attorney Jane Smith and want to find all your filed applications and registrations, but 
+aren’t sure whether you are listed as "Jane Smith," "Smith, Jane," or with your middle initial. Compare 
+three alternative ways of searching. 
+•
+Alternative 1
+1.
+AT:jane
+2. AT:smith
+3. 1 AND 2
+•
+Alternative 2
+o
+AT:("jane smith" OR "smith, jane" OR "jane d smith")
+•
+Alternative 3
+o
+AT:"jane smith"
+Alternative 1 allows you to find all applications and registrations that include both JANE and SMITH in 
+the attorney field. But it will also return results that include, for example, both JANE DOE and JOHN 
+SMITH in the attorney field. 
+Alternative 2 allows you to find all your applications and registrations, but will also return those with, 
+for example, "JOHN SMITH, JANE DOE" listed together in the attorney field. 
+Alternative 3 won’t return results with your surname first or that include your middle initial. 
+DISCLAIMER: References to particular trademarks, service marks, certification marks, products, services, companies, or 
+organizations are for illustrative and educational purposes only and do not constitute or imply endorsement by the U.S. 
+government, the U.S. Department of Commerce, the U.S. Patent and Trademark Office, or any other federal agency. 

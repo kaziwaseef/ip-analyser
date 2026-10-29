@@ -1,0 +1,124 @@
+{
+  "source": "S-017 via existing cad-sections.json; numerical recheck only, no new CAD import",
+  "head_cylindrical_faces": [
+    {
+      "solid": 21,
+      "face": 20,
+      "surface": "Cylinder",
+      "Radius": 29.15,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 21,
+      "face": 21,
+      "surface": "Cylinder",
+      "Radius": 29.15,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 21,
+      "face": 26,
+      "surface": "Cylinder",
+      "Radius": 4.25,
+      "Axis": [
+        1.0,
+        -7.179318619337433e-17,
+        1.6842415355205974e-17
+      ]
+    },
+    {
+      "solid": 21,
+      "face": 39,
+      "surface": "Cylinder",
+      "Radius": 27.95,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 21,
+      "face": 40,
+      "surface": "Cylinder",
+      "Radius": 27.95,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 21,
+      "face": 57,
+      "surface": "Cylinder",
+      "Radius": 21.25,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 21,
+      "face": 59,
+      "surface": "Cylinder",
+      "Radius": 21.25,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 21,
+      "face": 66,
+      "surface": "Cylinder",
+      "Radius": 20.25,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 22,
+      "face": 2,
+      "surface": "Cylinder",
+      "Radius": 27.85,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    },
+    {
+      "solid": 22,
+      "face": 3,
+      "surface": "Cylinder",
+      "Radius": 27.85,
+      "Axis": [
+        7.322397260236113e-17,
+        0.9396926207858973,
+        -0.3420201433256993
+      ]
+    }
+  ],
+  "same_axis_head_body_radii_mm": [
+    29.15,
+    27.95,
+    21.25,
+    20.25
+  ],
+  "outer_body_diameter_mm": 58.3,
+  "inner_body_cylindrical_diameter_mm": 40.5,
+  "interpretation_limit": "These are modeled surfaces of solid21, not measured sample dimensions. 57/30mm in supplied account is unreconciled; no decisive claim dimension threshold identified."
+}

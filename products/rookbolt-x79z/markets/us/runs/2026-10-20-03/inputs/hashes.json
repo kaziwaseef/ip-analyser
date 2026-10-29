@@ -1,0 +1,106 @@
+[
+  {
+    "path": "inputs/claims/US11796126B2.txt",
+    "sha256": "bf69c2b1e13451dfd859bb8635dd16cfc82ff8a601e85b1a947824d0b39a7316"
+  },
+  {
+    "path": "inputs/claims/US12442483B2.txt",
+    "sha256": "7912b78638db9be49fd4f704ca872137f9d247dc6a2ba00ec045ce8190420629"
+  },
+  {
+    "path": "inputs/claims/US20220228708A1.txt",
+    "sha256": "0c143a2ee8c4b23a6d423e0dc37c0af697e101fdecea769882af03ddb531aeb0"
+  },
+  {
+    "path": "inputs/claims/US20250323990A1.txt",
+    "sha256": "00c79f350005ecd41f7c56f03caa52ba7a8f2d27f30c39f13f520263708856b9"
+  },
+  {
+    "path": "inputs/clip-operation-statement.md",
+    "sha256": "2fc5471f5be8435d4150cdae731879a3e35672957bff00e590204e07350923fd"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--00-research-plan.txt",
+    "sha256": "25e3943261669b800729b170e5c06bfad7a9f946f645419517c3037363818373"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--01-scope-and-evidence.txt",
+    "sha256": "2eb17d288bd8253869f68f48e9176e65f9d748e46b7a1bdb7740512fda3a7006"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--02-patent-claims.txt",
+    "sha256": "5b97583807e07cb7743984c2dd2fcf43a20b206e319eb40aae1e11bb5f34e3d5"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--03-designs.txt",
+    "sha256": "06750e2158742cafaaecc4ba5aea3f6f5fa7e29643d8e6c7127097da16720534"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--04-trademarks.txt",
+    "sha256": "5dbd6bbfd1262e1ddf58a33ae04c9088113a3d6af835e0d0c46985ecb76ab6ae"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--05-copyright-and-adjacent.txt",
+    "sha256": "f0bdcd58da48dcc8022bd66fc74c56b67a6f89765964c28c8346f04446bd9bd0"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--06-challenge.txt",
+    "sha256": "c563c3e4584f9020a064778df37341f1d3ab84ea50ae7c0dee9c40ca8914b644"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--07-report.txt",
+    "sha256": "7f1b1a4845443f43fc0f7639fdd4fedfbdf7d6f686d54c2f84d13e2f4fad7442"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--README.txt",
+    "sha256": "a9ad4883b3d37c17f763a387b64f28bddd9c42f662127f002815086f5f66b81b"
+  },
+  {
+    "path": "inputs/exact-instructions/prompts--external-patent-search.txt",
+    "sha256": "3f94527119bf07ce7e1702a3aca0787e55a7f0f30770d63f57ca1cf8479708cd"
+  },
+  {
+    "path": "inputs/exact-instructions/workflows--assurance-and-decisions.txt",
+    "sha256": "3e29ac1d64eb48bac19c46387144c57c834477eacb89a1746b9e79d52e616c6f"
+  },
+  {
+    "path": "inputs/exact-instructions/workflows--rate-risk.txt",
+    "sha256": "8b15f5d80f3a49144a4555c2e8a9effa0fe1d60a9a96a5e2db04f665232c38cc"
+  },
+  {
+    "path": "inputs/exact-instructions/workflows--run-analysis.txt",
+    "sha256": "9b5764cb47396f13d9297b1bfbb39eb9610907e69db6be58c39d54e9b50fc6f5"
+  },
+  {
+    "path": "inputs/features.md",
+    "sha256": "0e365f020813a62062bc2ce8eb1849f68c68602bf0c2baac320febe251c950f5"
+  },
+  {
+    "path": "inputs/intake.md",
+    "sha256": "8acb63128b099a8a3affdeb917598984e17622c2f2c8275355acfd7d91a7892e"
+  },
+  {
+    "path": "inputs/product.md",
+    "sha256": "fbefe7c6622ca08e9c37e10708c7b7b20886246df2a92614dd8512ce73e31496"
+  },
+  {
+    "path": "inputs/rights.md",
+    "sha256": "ee50d019e9f1295ccbdacbc9f71ce74f31403b7eee5d0ec5efafacae614ec065"
+  },
+  {
+    "path": "inputs/search-log.md",
+    "sha256": "8aad1b544699ffdd1ba09e5b7992f02d179f248c378f7c6c90d8ad4607c3632d"
+  },
+  {
+    "path": "inputs/source-document-map.json",
+    "sha256": "c1b25034745fee4b31ee777ee91f749f7b19eb51660b93318fe23510c28d2c86"
+  },
+  {
+    "path": "inputs/sources.json",
+    "sha256": "a4fa16ced1762915754a15cc4139dca2773aeb12ac7ee399023ab074fcd22d06"
+  },
+  {
+    "path": "inputs/task.md",
+    "sha256": "c7a91366bdca1031b048403b1eb3f19ba950735b1b8839cb14b153a944f892e6"
+  }
+]

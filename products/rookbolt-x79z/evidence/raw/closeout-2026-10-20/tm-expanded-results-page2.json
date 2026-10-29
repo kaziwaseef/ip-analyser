@@ -1,0 +1,1058 @@
+{
+  "id": "998ccf02-7e12-4f2c-88ec-4327a635a3b2",
+  "ok": true,
+  "result": {
+    "origin": "https://tmsearch.uspto.gov/search/search-results",
+    "refs": {
+      "e1": {
+        "name": "Feedback",
+        "role": "button"
+      },
+      "e10": {
+        "name": "Search trademarks The search builder button follows the Search button",
+        "role": "combobox"
+      },
+      "e100": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e101": {
+        "name": "Check to tag for 75100390",
+        "role": "checkbox"
+      },
+      "e102": {
+        "name": "",
+        "role": "generic"
+      },
+      "e103": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e104": {
+        "name": "Check to tag for 90596307",
+        "role": "checkbox"
+      },
+      "e105": {
+        "name": "",
+        "role": "generic"
+      },
+      "e106": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e107": {
+        "name": "Check to tag for 88206807",
+        "role": "checkbox"
+      },
+      "e108": {
+        "name": "",
+        "role": "generic"
+      },
+      "e109": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e11": {
+        "name": "search",
+        "role": "button"
+      },
+      "e110": {
+        "name": "Check to tag for 74658651",
+        "role": "checkbox"
+      },
+      "e111": {
+        "name": "",
+        "role": "generic"
+      },
+      "e112": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e113": {
+        "name": "Check to tag for 76640135",
+        "role": "checkbox"
+      },
+      "e114": {
+        "name": "",
+        "role": "generic"
+      },
+      "e115": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e116": {
+        "name": "Check to tag for 85854678",
+        "role": "checkbox"
+      },
+      "e117": {
+        "name": "",
+        "role": "generic"
+      },
+      "e118": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e119": {
+        "name": "Check to tag for 85428625",
+        "role": "checkbox"
+      },
+      "e12": {
+        "name": "collapsed Search builder",
+        "role": "button"
+      },
+      "e120": {
+        "name": "",
+        "role": "generic"
+      },
+      "e121": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e122": {
+        "name": "Check to tag for 87857164",
+        "role": "checkbox"
+      },
+      "e123": {
+        "name": "",
+        "role": "generic"
+      },
+      "e124": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e125": {
+        "name": "Check to tag for 87857149",
+        "role": "checkbox"
+      },
+      "e126": {
+        "name": "",
+        "role": "generic"
+      },
+      "e127": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e128": {
+        "name": "Check to tag for 87318017",
+        "role": "checkbox"
+      },
+      "e129": {
+        "name": "",
+        "role": "generic"
+      },
+      "e13": {
+        "name": "MyUSPTO",
+        "role": "link"
+      },
+      "e130": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e131": {
+        "name": "Check to tag for 87766701",
+        "role": "checkbox"
+      },
+      "e132": {
+        "name": "",
+        "role": "generic"
+      },
+      "e133": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e134": {
+        "name": "Check to tag for 99302183",
+        "role": "checkbox"
+      },
+      "e135": {
+        "name": "",
+        "role": "generic"
+      },
+      "e136": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e137": {
+        "name": "Check to tag for 88735765",
+        "role": "checkbox"
+      },
+      "e138": {
+        "name": "",
+        "role": "generic"
+      },
+      "e139": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e14": {
+        "name": "Sign in",
+        "role": "button"
+      },
+      "e140": {
+        "name": "Check to tag for 99098783",
+        "role": "checkbox"
+      },
+      "e141": {
+        "name": "",
+        "role": "generic"
+      },
+      "e142": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e143": {
+        "name": "Check to tag for 90341010",
+        "role": "checkbox"
+      },
+      "e144": {
+        "name": "",
+        "role": "generic"
+      },
+      "e145": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e146": {
+        "name": "Check to tag for 88735779",
+        "role": "checkbox"
+      },
+      "e147": {
+        "name": "",
+        "role": "generic"
+      },
+      "e148": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e149": {
+        "name": "Check to tag for 87766720",
+        "role": "checkbox"
+      },
+      "e15": {
+        "name": "Trademark search",
+        "role": "link"
+      },
+      "e150": {
+        "name": "",
+        "role": "generic"
+      },
+      "e151": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e152": {
+        "name": "Check to tag for 99598613",
+        "role": "checkbox"
+      },
+      "e153": {
+        "name": "",
+        "role": "generic"
+      },
+      "e154": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e155": {
+        "name": "Check to tag for 50029904",
+        "role": "checkbox"
+      },
+      "e156": {
+        "name": "",
+        "role": "generic"
+      },
+      "e157": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e158": {
+        "name": "Check to tag for 78691005",
+        "role": "checkbox"
+      },
+      "e159": {
+        "name": "",
+        "role": "generic"
+      },
+      "e16": {
+        "name": "Toggle new search experience",
+        "role": "switch"
+      },
+      "e160": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e161": {
+        "name": "Check to tag for 88151681",
+        "role": "checkbox"
+      },
+      "e162": {
+        "name": "",
+        "role": "generic"
+      },
+      "e163": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e164": {
+        "name": "Check to tag for 78394228",
+        "role": "checkbox"
+      },
+      "e165": {
+        "name": "",
+        "role": "generic"
+      },
+      "e166": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e167": {
+        "name": "Check to tag for 76585828",
+        "role": "checkbox"
+      },
+      "e168": {
+        "name": "",
+        "role": "generic"
+      },
+      "e169": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e17": {
+        "name": "",
+        "role": "generic"
+      },
+      "e170": {
+        "name": "Check to tag for 88442121",
+        "role": "checkbox"
+      },
+      "e171": {
+        "name": "",
+        "role": "generic"
+      },
+      "e172": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e173": {
+        "name": "Check to tag for 88450518",
+        "role": "checkbox"
+      },
+      "e174": {
+        "name": "",
+        "role": "generic"
+      },
+      "e175": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e176": {
+        "name": "Check to tag for 88470920",
+        "role": "checkbox"
+      },
+      "e177": {
+        "name": "",
+        "role": "generic"
+      },
+      "e178": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e179": {
+        "name": "Check to tag for 79203329",
+        "role": "checkbox"
+      },
+      "e18": {
+        "name": "View grid",
+        "role": "button"
+      },
+      "e180": {
+        "name": "",
+        "role": "generic"
+      },
+      "e181": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e182": {
+        "name": "Check to tag for 87205732",
+        "role": "checkbox"
+      },
+      "e183": {
+        "name": "",
+        "role": "generic"
+      },
+      "e184": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e185": {
+        "name": "Check to tag for 99558040",
+        "role": "checkbox"
+      },
+      "e186": {
+        "name": "",
+        "role": "generic"
+      },
+      "e187": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e188": {
+        "name": "Check to tag for 88049932",
+        "role": "checkbox"
+      },
+      "e189": {
+        "name": "",
+        "role": "generic"
+      },
+      "e19": {
+        "name": "View list",
+        "role": "button"
+      },
+      "e190": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e191": {
+        "name": "Check to tag for 85544250",
+        "role": "checkbox"
+      },
+      "e192": {
+        "name": "",
+        "role": "generic"
+      },
+      "e193": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e194": {
+        "name": "Check to tag for 99711708",
+        "role": "checkbox"
+      },
+      "e195": {
+        "name": "",
+        "role": "generic"
+      },
+      "e196": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e197": {
+        "name": "Check to tag for 99857834",
+        "role": "checkbox"
+      },
+      "e198": {
+        "name": "",
+        "role": "generic"
+      },
+      "e199": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e2": {
+        "name": "Official government website",
+        "role": "region"
+      },
+      "e20": {
+        "name": "View compact list",
+        "role": "button"
+      },
+      "e200": {
+        "name": "Check to tag for 88811777",
+        "role": "checkbox"
+      },
+      "e201": {
+        "name": "",
+        "role": "generic"
+      },
+      "e202": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e203": {
+        "name": "Check to tag for 97598942",
+        "role": "checkbox"
+      },
+      "e204": {
+        "name": "",
+        "role": "generic"
+      },
+      "e205": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e206": {
+        "name": "Check to tag for 77872102",
+        "role": "checkbox"
+      },
+      "e207": {
+        "name": "",
+        "role": "generic"
+      },
+      "e208": {
+        "name": "Check to tag for 77943274",
+        "role": "checkbox"
+      },
+      "e209": {
+        "name": "",
+        "role": "generic"
+      },
+      "e21": {
+        "name": "",
+        "role": "generic"
+      },
+      "e210": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e211": {
+        "name": "Check to tag for 98231881",
+        "role": "checkbox"
+      },
+      "e212": {
+        "name": "",
+        "role": "generic"
+      },
+      "e213": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e214": {
+        "name": "Check to tag for 85237040",
+        "role": "checkbox"
+      },
+      "e215": {
+        "name": "",
+        "role": "generic"
+      },
+      "e216": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e217": {
+        "name": "Check to tag for 86108171",
+        "role": "checkbox"
+      },
+      "e218": {
+        "name": "",
+        "role": "generic"
+      },
+      "e219": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e22": {
+        "name": "",
+        "role": "generic"
+      },
+      "e220": {
+        "name": "Check to tag for 88941538",
+        "role": "checkbox"
+      },
+      "e221": {
+        "name": "",
+        "role": "generic"
+      },
+      "e222": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e223": {
+        "name": "Check to tag for 90882517",
+        "role": "checkbox"
+      },
+      "e224": {
+        "name": "",
+        "role": "generic"
+      },
+      "e225": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e226": {
+        "name": "Check to tag for 88049936",
+        "role": "checkbox"
+      },
+      "e227": {
+        "name": "",
+        "role": "generic"
+      },
+      "e228": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e229": {
+        "name": "Check to tag for 98485066",
+        "role": "checkbox"
+      },
+      "e23": {
+        "name": "",
+        "role": "generic"
+      },
+      "e230": {
+        "name": "",
+        "role": "generic"
+      },
+      "e231": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e232": {
+        "name": "Check to tag for 97871704",
+        "role": "checkbox"
+      },
+      "e233": {
+        "name": "",
+        "role": "generic"
+      },
+      "e234": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e235": {
+        "name": "first_page",
+        "role": "link"
+      },
+      "e236": {
+        "name": "navigate_before",
+        "role": "link"
+      },
+      "e237": {
+        "name": "navigate_next",
+        "role": "link"
+      },
+      "e238": {
+        "name": "last_page",
+        "role": "link"
+      },
+      "e239": {
+        "name": "arrow_upward",
+        "role": "link"
+      },
+      "e24": {
+        "name": "",
+        "role": "generic"
+      },
+      "e240": {
+        "name": "About the USPTO",
+        "role": "link"
+      },
+      "e241": {
+        "name": "Search for patents",
+        "role": "link"
+      },
+      "e242": {
+        "name": "Search for trademarks",
+        "role": "link"
+      },
+      "e243": {
+        "name": "Virtual Assistant avatar Need help? Ask the USPTO Virtual Assistant!",
+        "role": "button"
+      },
+      "e244": {
+        "name": "Home",
+        "role": "link"
+      },
+      "e245": {
+        "name": "Sort",
+        "role": "button"
+      },
+      "e246": {
+        "name": "Configure",
+        "role": "button"
+      },
+      "e247": {
+        "name": "Export",
+        "role": "combobox"
+      },
+      "e248": {
+        "name": "50 per page",
+        "role": "button"
+      },
+      "e249": {
+        "name": "Enter your email to subscribe or update your preferences",
+        "role": "textbox"
+      },
+      "e25": {
+        "name": "",
+        "role": "generic"
+      },
+      "e250": {
+        "name": "Subscribe",
+        "role": "button"
+      },
+      "e251": {
+        "name": "US Department of Commerce",
+        "role": "link"
+      },
+      "e252": {
+        "name": "Accessibility",
+        "role": "link"
+      },
+      "e253": {
+        "name": "Privacy Policy",
+        "role": "link"
+      },
+      "e254": {
+        "name": "Terms of Use",
+        "role": "link"
+      },
+      "e255": {
+        "name": "Financial and Performance Data",
+        "role": "link"
+      },
+      "e256": {
+        "name": "Freedom of Information Act",
+        "role": "link"
+      },
+      "e257": {
+        "name": "Inspector General",
+        "role": "link"
+      },
+      "e258": {
+        "name": "NoFEAR Act",
+        "role": "link"
+      },
+      "e259": {
+        "name": "USA.gov",
+        "role": "link"
+      },
+      "e26": {
+        "name": "",
+        "role": "generic"
+      },
+      "e260": {
+        "name": "Reset",
+        "role": "button"
+      },
+      "e261": {
+        "name": "Show image",
+        "role": "checkbox"
+      },
+      "e27": {
+        "name": "",
+        "role": "generic"
+      },
+      "e28": {
+        "name": "",
+        "role": "generic"
+      },
+      "e29": {
+        "name": "",
+        "role": "generic"
+      },
+      "e3": {
+        "name": "header sub navigation",
+        "role": "navigation"
+      },
+      "e30": {
+        "name": "",
+        "role": "generic"
+      },
+      "e31": {
+        "name": "",
+        "role": "generic"
+      },
+      "e32": {
+        "name": "",
+        "role": "generic"
+      },
+      "e33": {
+        "name": "",
+        "role": "generic"
+      },
+      "e34": {
+        "name": "",
+        "role": "generic"
+      },
+      "e35": {
+        "name": "",
+        "role": "generic"
+      },
+      "e36": {
+        "name": "",
+        "role": "generic"
+      },
+      "e37": {
+        "name": "",
+        "role": "generic"
+      },
+      "e38": {
+        "name": "",
+        "role": "generic"
+      },
+      "e39": {
+        "name": "",
+        "role": "generic"
+      },
+      "e4": {
+        "name": "Page navigation",
+        "role": "navigation"
+      },
+      "e40": {
+        "name": "",
+        "role": "generic"
+      },
+      "e41": {
+        "name": "",
+        "role": "generic"
+      },
+      "e42": {
+        "name": "",
+        "role": "generic"
+      },
+      "e43": {
+        "name": "",
+        "role": "generic"
+      },
+      "e44": {
+        "name": "",
+        "role": "generic"
+      },
+      "e45": {
+        "name": "",
+        "role": "generic"
+      },
+      "e46": {
+        "name": "",
+        "role": "generic"
+      },
+      "e47": {
+        "name": "",
+        "role": "generic"
+      },
+      "e48": {
+        "name": "",
+        "role": "generic"
+      },
+      "e49": {
+        "name": "",
+        "role": "generic"
+      },
+      "e5": {
+        "name": "Here’s how you know keyboard_arrow_down",
+        "role": "button"
+      },
+      "e50": {
+        "name": "",
+        "role": "generic"
+      },
+      "e51": {
+        "name": "",
+        "role": "generic"
+      },
+      "e52": {
+        "name": "",
+        "role": "generic"
+      },
+      "e53": {
+        "name": "",
+        "role": "generic"
+      },
+      "e54": {
+        "name": "",
+        "role": "generic"
+      },
+      "e55": {
+        "name": "",
+        "role": "generic"
+      },
+      "e56": {
+        "name": "",
+        "role": "generic"
+      },
+      "e57": {
+        "name": "",
+        "role": "generic"
+      },
+      "e58": {
+        "name": "",
+        "role": "generic"
+      },
+      "e59": {
+        "name": "",
+        "role": "generic"
+      },
+      "e6": {
+        "name": "United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e60": {
+        "name": "",
+        "role": "generic"
+      },
+      "e61": {
+        "name": "",
+        "role": "generic"
+      },
+      "e62": {
+        "name": "",
+        "role": "generic"
+      },
+      "e63": {
+        "name": "",
+        "role": "generic"
+      },
+      "e64": {
+        "name": "",
+        "role": "generic"
+      },
+      "e65": {
+        "name": "",
+        "role": "generic"
+      },
+      "e66": {
+        "name": "",
+        "role": "generic"
+      },
+      "e67": {
+        "name": "",
+        "role": "generic"
+      },
+      "e68": {
+        "name": "",
+        "role": "generic"
+      },
+      "e69": {
+        "name": "",
+        "role": "generic"
+      },
+      "e7": {
+        "name": "breadcrumb",
+        "role": "navigation"
+      },
+      "e70": {
+        "name": "",
+        "role": "generic"
+      },
+      "e71": {
+        "name": "",
+        "role": "generic"
+      },
+      "e72": {
+        "name": "United States Patent and Trademark Office - An Agency of the Department of Commerce USPTO - United States Patent and Trademark Office",
+        "role": "link"
+      },
+      "e73": {
+        "name": "Facebook USPTO Facebook page",
+        "role": "link"
+      },
+      "e74": {
+        "name": "Instagram USPTO Instagram page",
+        "role": "link"
+      },
+      "e75": {
+        "name": "Linkedin USPTO Linkedin page",
+        "role": "link"
+      },
+      "e76": {
+        "name": "X USPTO X page",
+        "role": "link"
+      },
+      "e77": {
+        "name": "Youtube USPTO Youtube page",
+        "role": "link"
+      },
+      "e78": {
+        "name": "Patents",
+        "role": "button"
+      },
+      "e79": {
+        "name": "Trademarks",
+        "role": "button"
+      },
+      "e8": {
+        "name": "Help",
+        "role": "button"
+      },
+      "e80": {
+        "name": "Fees and payment",
+        "role": "button"
+      },
+      "e81": {
+        "name": "Contact Us",
+        "role": "button"
+      },
+      "e82": {
+        "name": "our new beta feature ",
+        "role": "link"
+      },
+      "e83": {
+        "name": "Search refinment",
+        "role": "combobox"
+      },
+      "e84": {
+        "name": "Sort",
+        "role": "heading"
+      },
+      "e85": {
+        "name": "Configure",
+        "role": "heading"
+      },
+      "e86": {
+        "name": "Check to tag for 88151667",
+        "role": "checkbox"
+      },
+      "e87": {
+        "name": "",
+        "role": "generic"
+      },
+      "e88": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e89": {
+        "name": "Check to tag for 99905145",
+        "role": "checkbox"
+      },
+      "e9": {
+        "name": "",
+        "role": "generic"
+      },
+      "e90": {
+        "name": "",
+        "role": "generic"
+      },
+      "e91": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e92": {
+        "name": "Check to tag for 74193097",
+        "role": "checkbox"
+      },
+      "e93": {
+        "name": "",
+        "role": "generic"
+      },
+      "e94": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e95": {
+        "name": "Check to tag for 74193096",
+        "role": "checkbox"
+      },
+      "e96": {
+        "name": "",
+        "role": "generic"
+      },
+      "e97": {
+        "name": "Select for expanded goods and services",
+        "role": "dialog"
+      },
+      "e98": {
+        "name": "Check to tag for 99239031",
+        "role": "checkbox"
+      },
+      "e99": {
+        "name": "",
+        "role": "generic"
+      }
+    },
+    "snapshot": "- generic\n  - banner\n    - region \"Official government website\" [ref=e2]\n      - image \"U.S. flag\"\n      - paragraph\n        - StaticText \"An official website of the United States government\"\n      - button \"Here’s how you know keyboard_arrow_down\" [expanded=false, ref=e5]\n        - StaticText \"Here’s how you know \"\n        - StaticText \"keyboard_arrow_down\"\n    - navigation\n      - link \"United States Patent and Trademark Office\" [ref=e6]\n        - StaticText \"United States Patent and Trademark Office\"\n      - generic\n        - button \"Patents\" [expanded=false, ref=e78]\n          - StaticText \"Patents\"\n        - button \"Trademarks\" [expanded=false, ref=e79]\n          - StaticText \"Trademarks\"\n        - button \"Fees and payment\" [expanded=false, ref=e80]\n          - StaticText \"Fees and payment\"\n        - button \"Contact Us\" [expanded=false, ref=e81]\n          - StaticText \"Contact Us\"\n      - link \"MyUSPTO\" [ref=e13]\n      - button \"Sign in\" [ref=e14]\n    - link \"Trademark search\" [ref=e15]\n    - navigation \"header sub navigation\" [ref=e3]\n      - navigation \"breadcrumb\" [ref=e7]\n        - list\n          - listitem [level=1]\n            - link \"Home\" [ref=e244]\n          - listitem [level=1]\n            - StaticText \">\"\n            - StaticText \" Search results\"\n      - button \"Help\" [ref=e8]\n  - search\n    - alert\n      - generic\n        - LabelText \"Choose the new search experience\"\n          - StaticText \"Try \"\n          - link \"our new beta feature \" [ref=e82]\n          - StaticText \"to see more info when you open results\"\n        - switch \"Toggle new search experience\" [checked=true, ref=e16]\n        - StaticText \" On\"\n    - generic\n      - generic [ref=e9] clickable [cursor:pointer]\n        - combobox \"Search refinment\" [expanded=false, ref=e83]: Field tag and Search builder\n          - generic\n            - StaticText \"Field tag and Search builder\"\n      - combobox \"Search trademarks The search builder button follows the Search button\" [expanded=false, ref=e10]: CM:/.*r(oo|o|oc|ock|ok|u)k?bolt.*/ OR (CM:rook* AND (GS:batter* OR GS:charg* OR GS:travel OR GS:luggage OR GS:bag* OR GS:holder* OR GS:mount* OR GS:case* OR GS:power*))\n        - StaticText \"CM:/.*r(oo|o|oc|ock|ok|u)k?bolt.*/ OR (CM:rook* AND (GS:batter* OR GS:charg* OR GS:travel OR GS:luggage OR GS:bag* OR GS:holder* OR GS:mount* OR GS:case* OR GS:power*))\"\n      - generic [ref=e17] clickable [cursor:pointer, tabindex]\n        - StaticText \"clear\"\n      - button \"search\" [ref=e11]\n        - StaticText \"search\"\n      - button \"collapsed Search builder\" [ref=e12]\n        - StaticText \"chevron_right\"\n        - StaticText \"Search builder\"\n  - generic\n    - heading \"Sort\" [level=2, ref=e84]\n      - button \"Sort\" [expanded=false, ref=e245]\n    - heading \"Configure\" [level=2, ref=e85]\n      - button \"Configure\" [expanded=true, ref=e246]\n    - list\n      - listitem [level=1]\n        - generic\n          - checkbox \"Show image\" [checked=true, ref=e261]\n          - LabelText\n            - StaticText \"Show image\"\n      - listitem [level=1]\n        - button \"Reset\" [ref=e260]\n  - main\n    - generic\n      - StaticText \"100 results for CM:/.*r(oo|o|oc|ock|ok|u)k?bolt.*/ OR (CM:rook* AND (GS:batter* OR GS:charg* OR GS:travel OR GS:luggage OR GS:bag* OR GS:holder* OR GS:mount* OR GS:case* OR GS:power*))\"\n    - generic\n      - group\n        - button \"View grid\" [ref=e18]\n          - StaticText \"grid_view\"\n        - button \"View list\" [ref=e19]\n          - StaticText \"format_list_bulleted\"\n        - button \"View compact list\" [ref=e20]\n          - StaticText \"drag_handle\"\n      - generic\n        - generic [ref=e21] clickable [cursor:pointer]\n          - combobox \"Export\" [expanded=false, ref=e247]\n            - generic\n              - StaticText \"Export\"\n    - generic\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88151667\" [checked=false, ref=e86]\n        - generic [ref=e22] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88151667\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e87] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOK + VET\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: airline travel bags; all purpose sport bags; all-purpose...\"\n        - dialog \"Select for expanded goods and services\" [ref=e88] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018\"\n        - StaticText \"Serial\"\n        - StaticText \"88151667\"\n        - StaticText \"Owners\"\n        - StaticText \"Raphael Inc. (CORPORATION; CANADA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99905145\" [checked=false, ref=e89]\n        - generic [ref=e23] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99905145\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e90] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKLINE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"PENDING\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: Travel bags; Garment bags for travel.; IC 024: Towels; Golf...\"\n        - dialog \"Select for expanded goods and services\" [ref=e91] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018, 024, 025, 028\"\n        - StaticText \"Serial\"\n        - StaticText \"99905145\"\n        - StaticText \"Owners\"\n        - StaticText \"SED LICENSING LLC (LIMITED LIABILITY COMPANY; New York, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 74193097\" [checked=false, ref=e92]\n        - generic [ref=e24] clickable [cursor:pointer, tabindex]\n          - paragraph\n            - StaticText \"No image for typed drawing\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e93] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE LEAGUE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: [ luggage; namely, suitcases, trunks for travelling, garment...\"\n        - dialog \"Select for expanded goods and services\" [ref=e94] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018, 028\"\n        - StaticText \"Serial\"\n        - StaticText \"74193097\"\n        - StaticText \"Owners\"\n        - StaticText \"Office of the Commissioner of Baseball (UNINCORPORATED ASSOCIATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 74193096\" [checked=false, ref=e95]\n        - generic [ref=e25] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 74193096\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e96] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE LEAGUE OFFICIAL\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: [ luggage; namely, suitcases, trunks for travelling, garment...\"\n        - dialog \"Select for expanded goods and services\" [ref=e97] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018, 028\"\n        - StaticText \"Serial\"\n        - StaticText \"74193096\"\n        - StaticText \"Owners\"\n        - StaticText \"Office of the Commissioner of Baseball (UNINCORPORATED ASSOCIATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99239031\" [checked=false, ref=e98]\n        - generic [ref=e26] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99239031\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e99] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOK GEAR\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: Satchels; Back packs; Schoolbags; School satchels; Knap sacks;...\"\n        - dialog \"Select for expanded goods and services\" [ref=e100] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018\"\n        - StaticText \"Serial\"\n        - StaticText \"99239031\"\n        - StaticText \"Owners\"\n        - StaticText \"Shaodong Balabala Luggage Co., Ltd. (Limited Company; China)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 75100390\" [checked=false, ref=e101]\n        - generic [ref=e27] clickable [cursor:pointer, tabindex]\n          - paragraph\n            - StaticText \"No image for typed drawing\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e102] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE LEAGUE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: luggage, namely, suitcases, trunks for traveling, garment bags...\"\n        - dialog \"Select for expanded goods and services\" [ref=e103] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018, 028\"\n        - StaticText \"Serial\"\n        - StaticText \"75100390\"\n        - StaticText \"Owners\"\n        - StaticText \"Office of the Commissioner of Baseball (UNINCORPORATED ASSOCIATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 90596307\" [checked=false, ref=e104]\n        - generic [ref=e28] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 90596307\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e105] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"HERON ROOKERY\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 043: Bar services; Coffee shops; Providing campground facilities;...\"\n        - dialog \"Select for expanded goods and services\" [ref=e106] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"043\"\n        - StaticText \"Serial\"\n        - StaticText \"90596307\"\n        - StaticText \"Owners\"\n        - StaticText \"Great Blue Heron, Inc. (CORPORATION; KANSAS, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88206807\" [checked=false, ref=e107]\n        - generic [ref=e29] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88206807\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e108] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE-BUD\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"CANCELLED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: [ Bags, namely, leather bags, leather leads, boxes made of...\"\n        - dialog \"Select for expanded goods and services\" [ref=e109] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018\"\n        - StaticText \"Serial\"\n        - StaticText \"88206807\"\n        - StaticText \"Owners\"\n        - StaticText \"In Sook Jung (INDIVIDUAL; REPUBLIC OF KOREA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 74658651\" [checked=false, ref=e110]\n        - generic [ref=e30] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 74658651\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e111] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE LEAGUE OFFICIAL\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: luggage, namely suitcases, trunks for traveling, garment bags...\"\n        - dialog \"Select for expanded goods and services\" [ref=e112] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018, 028\"\n        - StaticText \"Serial\"\n        - StaticText \"74658651\"\n        - StaticText \"Owners\"\n        - StaticText \"Major League Baseball Properties, Inc. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 76640135\" [checked=false, ref=e113]\n        - generic [ref=e31] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 76640135\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e114] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: [ HANDBAGS, WALLETS, CHANGE PURSES, COSMETIC AND TOILETRY...\"\n        - dialog \"Select for expanded goods and services\" [ref=e115] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018, 025\"\n        - StaticText \"Serial\"\n        - StaticText \"76640135\"\n        - StaticText \"Owners\"\n        - StaticText \"DE LA REZA, MARCELO A. (INDIVIDUAL; USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 85854678\" [checked=false, ref=e116]\n        - generic [ref=e32] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 85854678\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e117] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE ZONE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: All-purpose sports and athletic bags; book, carry-on, duffel,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e118] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018\"\n        - StaticText \"Serial\"\n        - StaticText \"85854678\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 85428625\" [checked=false, ref=e119]\n        - generic [ref=e33] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 85428625\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e120] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIEUSA\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: All-purpose sports and athletic bags; book, carry-on, duffel,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e121] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018\"\n        - StaticText \"Serial\"\n        - StaticText \"85428625\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 87857164\" [checked=false, ref=e122]\n        - generic [ref=e34] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 87857164\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e123] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 014: Leather key chains.; IC 018: All-purpose sports and athletic...\"\n        - dialog \"Select for expanded goods and services\" [ref=e124] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"014, 018\"\n        - StaticText \"Serial\"\n        - StaticText \"87857164\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 87857149\" [checked=false, ref=e125]\n        - generic [ref=e35] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 87857149\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e126] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 014: Leather key chains.; IC 018: All-purpose sports and athletic...\"\n        - dialog \"Select for expanded goods and services\" [ref=e127] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"014, 018\"\n        - StaticText \"Serial\"\n        - StaticText \"87857149\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 87318017\" [checked=false, ref=e128]\n        - generic [ref=e36] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 87318017\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e129] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"THE COOKIE ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 041: Providing a website featuring non-downloadable articles in the...\"\n        - dialog \"Select for expanded goods and services\" [ref=e130] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"041\"\n        - StaticText \"Serial\"\n        - StaticText \"87318017\"\n        - StaticText \"Owners\"\n        - StaticText \"TULOS HELSINKI OY (LIMITED COMPANY; FINLAND)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 87766701\" [checked=false, ref=e131]\n        - generic [ref=e37] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 87766701\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e132] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"THE ROOK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: Audio and visual recordings featuring and promoting television...\"\n        - dialog \"Select for expanded goods and services\" [ref=e133] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009\"\n        - StaticText \"Serial\"\n        - StaticText \"87766701\"\n        - StaticText \"Owners\"\n        - StaticText \"Lions Gate Entertainment Inc. (CORPORATION; DELAWARE, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99302183\" [checked=false, ref=e134]\n        - generic [ref=e38] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99302183\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e135] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKOBI\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: Webcams; Ear phones; Computer cameras; Wireless computer...\"\n        - dialog \"Select for expanded goods and services\" [ref=e136] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009\"\n        - StaticText \"Serial\"\n        - StaticText \"99302183\"\n        - StaticText \"Owners\"\n        - StaticText \"Shenzhen Xingwanjia E-commerce Co., Ltd. (Limited Company; China)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88735765\" [checked=false, ref=e137]\n        - generic [ref=e39] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88735765\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e138] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: Batteries; Batteries for vehicles; Batteries, electric, for...\"\n        - dialog \"Select for expanded goods and services\" [ref=e139] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009\"\n        - StaticText \"Serial\"\n        - StaticText \"88735765\"\n        - StaticText \"Owners\"\n        - StaticText \"Rook Innovative Solutions, LLC (LIMITED LIABILITY COMPANY; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99098783\" [checked=false, ref=e140]\n        - generic [ref=e40] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99098783\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e141] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"PEEC, A DIGITAL MUSIC GROUP CONSISTING OF FOUR ANIMATED CHARACTERS: ROOKOH, ROSSNE, LAUCHI, AND ZIMO, WHO PERFORM AS A...\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: Downloadable music files; Downloadable multimedia files...\"\n        - dialog \"Select for expanded goods and services\" [ref=e142] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009, 016, 041\"\n        - StaticText \"Serial\"\n        - StaticText \"99098783\"\n        - StaticText \"Owners\"\n        - StaticText \"Virginia Ivelisse Romero Hernandez (INDIVIDUAL; USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 90341010\" [checked=false, ref=e143]\n        - generic [ref=e41] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 90341010\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e144] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE OPTICS\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 013: Holsters; Ammunition bags; Cleaning implements for firearms,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e145] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"013\"\n        - StaticText \"Serial\"\n        - StaticText \"90341010\"\n        - StaticText \"Owners\"\n        - StaticText \"Shenzhen Ganglong Technology Co., Ltd. (limited company (ltd.); CHINA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88735779\" [checked=false, ref=e146]\n        - generic [ref=e42] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88735779\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e147] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: Batteries; Batteries for vehicles; Batteries, electric, for...\"\n        - dialog \"Select for expanded goods and services\" [ref=e148] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009\"\n        - StaticText \"Serial\"\n        - StaticText \"88735779\"\n        - StaticText \"Owners\"\n        - StaticText \"Rook Innovative Solutions, LLC (LIMITED LIABILITY COMPANY; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 87766720\" [checked=false, ref=e149]\n        - generic [ref=e43] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 87766720\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e150] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"THE ROOK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 041: Amusement arcades; amusement park and theme park services;...\"\n        - dialog \"Select for expanded goods and services\" [ref=e151] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"041\"\n        - StaticText \"Serial\"\n        - StaticText \"87766720\"\n        - StaticText \"Owners\"\n        - StaticText \"Lions Gate Entertainment Inc. (CORPORATION; DELAWARE, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99598613\" [checked=false, ref=e152]\n        - generic [ref=e44] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99598613\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e153] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"PENDING\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 007: Household cleaning robots; Industrial robots; Household...\"\n        - dialog \"Select for expanded goods and services\" [ref=e154] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"007, 009, 012\"\n        - StaticText \"Serial\"\n        - StaticText \"99598613\"\n        - StaticText \"Owners\"\n        - StaticText \"NAVER Corporation (CORPORATION; Korea, Republic of)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 50029904\" [checked=false, ref=e155]\n        - generic [ref=e45] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 50029904\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e156] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOOKIES CRAFT LLC\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"PENDING\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 026: Zippers; Crochet hooks; Knitting needles; Beads other than for...\"\n        - dialog \"Select for expanded goods and services\" [ref=e157] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"026\"\n        - StaticText \"Serial\"\n        - StaticText \"50029904\"\n        - StaticText \"Owners\"\n        - StaticText \"jing li (INDIVIDUAL; China)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 78691005\" [checked=false, ref=e158]\n        - generic [ref=e46] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 78691005\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e159] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"NBA ROOKIE PHOTO SHOOT\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 016: Publications and printed matter, namely, basketball trading...\"\n        - dialog \"Select for expanded goods and services\" [ref=e160] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"016\"\n        - StaticText \"Serial\"\n        - StaticText \"78691005\"\n        - StaticText \"Owners\"\n        - StaticText \"NBA Properties, Inc. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88151681\" [checked=false, ref=e161]\n        - generic [ref=e47] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88151681\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e162] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOK + VET\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 028: action target games; arm guards for athletic use; arm guards...\"\n        - dialog \"Select for expanded goods and services\" [ref=e163] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"028\"\n        - StaticText \"Serial\"\n        - StaticText \"88151681\"\n        - StaticText \"Owners\"\n        - StaticText \"Raphael Inc. (CORPORATION; CANADA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 78394228\" [checked=false, ref=e164]\n        - generic [ref=e48] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 78394228\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e165] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE COOK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 008: kitchen hand tools, namely kitchen shears and scissors, cheese...\"\n        - dialog \"Select for expanded goods and services\" [ref=e166] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"008, 009, 021\"\n        - StaticText \"Serial\"\n        - StaticText \"78394228\"\n        - StaticText \"Owners\"\n        - StaticText \"Progressive International Corporation (CORPORATION; DELAWARE, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 76585828\" [checked=false, ref=e167]\n        - generic [ref=e49] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 76585828\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e168] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIEBOY\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"CANCELLED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 028: [ Athletic equipment, namely, aerobic steps, aero-dynamic disk...\"\n        - dialog \"Select for expanded goods and services\" [ref=e169] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"028\"\n        - StaticText \"Serial\"\n        - StaticText \"76585828\"\n        - StaticText \"Owners\"\n        - StaticText \"The Embroidery Experts, Inc. (CORPORATION; MISSOURI, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88442121\" [checked=false, ref=e170]\n        - generic [ref=e50] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88442121\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e171] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKE CUSTOMS\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 006: Motorcycle parts, made of metal, namely, washers.; IC 007:...\"\n        - dialog \"Select for expanded goods and services\" [ref=e172] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"006, 007, 009, 012, 016, 025, 040\"\n        - StaticText \"Serial\"\n        - StaticText \"88442121\"\n        - StaticText \"Owners\"\n        - StaticText \"Estate of Jesse Matthew Rooke (ESTATE; ARIZONA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88450518\" [checked=false, ref=e173]\n        - generic [ref=e51] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88450518\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e174] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKE CUSTOMS\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 006: Motorcycle parts, made of metal, namely, washers.; IC 007:...\"\n        - dialog \"Select for expanded goods and services\" [ref=e175] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"006, 007, 009, 012, 016, 025, 040\"\n        - StaticText \"Serial\"\n        - StaticText \"88450518\"\n        - StaticText \"Owners\"\n        - StaticText \"Estate of Jesse Matthew Rooke (ESTATE; ARIZONA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88470920\" [checked=false, ref=e176]\n        - generic [ref=e52] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88470920\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e177] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"R\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"CANCELLED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 006: [ Motorcycle parts, made of metal, namely, washers ].; IC 007:...\"\n        - dialog \"Select for expanded goods and services\" [ref=e178] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"006, 007, 009, 012, 016, 025\"\n        - StaticText \"Serial\"\n        - StaticText \"88470920\"\n        - StaticText \"Owners\"\n        - StaticText \"Estate of Jesse Matthew Rooke (ESTATE; ARIZONA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 79203329\" [checked=false, ref=e179]\n        - generic [ref=e53] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 79203329\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e180] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"WREN & ROOK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: Computer software including software downloadable from the...\"\n        - dialog \"Select for expanded goods and services\" [ref=e181] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009, 016, 041\"\n        - StaticText \"Serial\"\n        - StaticText \"79203329\"\n        - StaticText \"Owners\"\n        - StaticText \"Hodder & Stoughton Limited (Registered Company; UNITED KINGDOM)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 87205732\" [checked=false, ref=e182]\n        - generic [ref=e54] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 87205732\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e183] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"BEAUTIFUL LOTUS \\\"ROOK\\\" DUNBAR\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"CANCELLED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: [ Downloadable electronic publications in the nature of...\"\n        - dialog \"Select for expanded goods and services\" [ref=e184] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009, 016, 041\"\n        - StaticText \"Serial\"\n        - StaticText \"87205732\"\n        - StaticText \"Owners\"\n        - StaticText \"Rhatigan, Scott J. (INDIVIDUAL; USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99558040\" [checked=false, ref=e185]\n        - generic [ref=e55] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99558040\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e186] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: Sports duffel bags for young athletes; athletic gear bags for...\"\n        - dialog \"Select for expanded goods and services\" [ref=e187] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018\"\n        - StaticText \"Serial\"\n        - StaticText \"99558040\"\n        - StaticText \"Owners\"\n        - StaticText \"Rookie Performance LLC (LIMITED LIABILITY COMPANY; Delaware, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88049932\" [checked=false, ref=e188]\n        - generic [ref=e56] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88049932\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e189] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 035: Retail stores, online ordering services, online retail stores,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e190] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"035\"\n        - StaticText \"Serial\"\n        - StaticText \"88049932\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 85544250\" [checked=false, ref=e191]\n        - generic [ref=e57] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 85544250\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e192] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKCASE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"CANCELLED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: [ Book-style protective cases for electronic readers and...\"\n        - dialog \"Select for expanded goods and services\" [ref=e193] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009\"\n        - StaticText \"Serial\"\n        - StaticText \"85544250\"\n        - StaticText \"Owners\"\n        - StaticText \"Rookcase, LLC (LIMITED LIABILITY COMPANY; GEORGIA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99711708\" [checked=false, ref=e194]\n        - generic [ref=e58] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99711708\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e195] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"RIUORKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"PENDING\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 009: Altimeters; Bags adapted for cell phones; Bags adapted for...\"\n        - dialog \"Select for expanded goods and services\" [ref=e196] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"009\"\n        - StaticText \"Serial\"\n        - StaticText \"99711708\"\n        - StaticText \"Owners\"\n        - StaticText \"Xin Liu (INDIVIDUAL; China)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 99857834\" [checked=false, ref=e197]\n        - generic [ref=e59] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 99857834\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e198] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE SKATEBOARDS\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"PENDING\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 025: Clothing, namely, t-shirts, shirts, long-sleeved shirts, tops,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e199] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"025, 028\"\n        - StaticText \"Serial\"\n        - StaticText \"99857834\"\n        - StaticText \"Owners\"\n        - StaticText \"Rookie Skateboards, LLC (LIMITED LIABILITY COMPANY; New York, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88811777\" [checked=false, ref=e200]\n        - generic [ref=e60] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88811777\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e201] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE USA\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 035: Retail stores, online ordering services, online retail stores,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e202] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"035\"\n        - StaticText \"Serial\"\n        - StaticText \"88811777\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 97598942\" [checked=false, ref=e203]\n        - generic [ref=e61] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 97598942\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e204] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 006: Bath accessories, namely, metal robe hooks, metal drawer...\"\n        - dialog \"Select for expanded goods and services\" [ref=e205] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"006, 011, 021\"\n        - StaticText \"Serial\"\n        - StaticText \"97598942\"\n        - StaticText \"Owners\"\n        - StaticText \"DELTA FAUCET COMPANY (CORPORATION; INDIANA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 77872102\" [checked=false, ref=e206]\n        - generic [ref=e62] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 77872102\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e207] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"THE ROOKIE SIDEKICK\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 007: power operated metal hose and cable reel and retractor.\"\n        - StaticText \"Class\"\n        - StaticText \"007\"\n        - StaticText \"Serial\"\n        - StaticText \"77872102\"\n        - StaticText \"Owners\"\n        - StaticText \"ALTINEX, INC. (CORPORATION; CALIFORNIA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 77943274\" [checked=false, ref=e208]\n        - generic [ref=e63] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 77943274\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e209] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"NXT ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 028: Toys, namely, action figures and accessories therefor; cases...\"\n        - dialog \"Select for expanded goods and services\" [ref=e210] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"028\"\n        - StaticText \"Serial\"\n        - StaticText \"77943274\"\n        - StaticText \"Owners\"\n        - StaticText \"World Wrestling Entertainment, Inc. (CORPORATION; DELAWARE, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 98231881\" [checked=false, ref=e211]\n        - generic [ref=e64] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 98231881\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e212] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"THE ROOKIE SEWCIALITE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 018: Backpacks, book bags, sports bags, bum bags, wallets and...\"\n        - dialog \"Select for expanded goods and services\" [ref=e213] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"018\"\n        - StaticText \"Serial\"\n        - StaticText \"98231881\"\n        - StaticText \"Owners\"\n        - StaticText \"garrido, keila c (SOLE PROPRIETORSHIP; CALIFORNIA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 85237040\" [checked=false, ref=e214]\n        - generic [ref=e65] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 85237040\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e215] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 035: Retail store and on-line retail store services featuring...\"\n        - dialog \"Select for expanded goods and services\" [ref=e216] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"035\"\n        - StaticText \"Serial\"\n        - StaticText \"85237040\"\n        - StaticText \"Owners\"\n        - StaticText \"JLS Rookie, LLC. (LIMITED LIABILITY COMPANY; ILLINOIS, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 86108171\" [checked=false, ref=e217]\n        - generic [ref=e66] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 86108171\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e218] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE VILLA\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"DEAD\"\n          - StaticText \"ABANDONED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 035: retail stores, online ordering services, online retail stores,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e219] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"035\"\n        - StaticText \"Serial\"\n        - StaticText \"86108171\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88941538\" [checked=false, ref=e220]\n        - generic [ref=e67] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88941538\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e221] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIESTAR\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 021: Baking mats; Barbecue mitts; Beer jugs; Beer mugs;...\"\n        - dialog \"Select for expanded goods and services\" [ref=e222] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"021\"\n        - StaticText \"Serial\"\n        - StaticText \"88941538\"\n        - StaticText \"Owners\"\n        - StaticText \"Zhejiang L'novo Houseware Co.,Ltd. (limited company (ltd.); CHINA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 90882517\" [checked=false, ref=e223]\n        - generic [ref=e68] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 90882517\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e224] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKITCHEN\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 021: Bath brushes; Ceramic sculptures, vases, vessels, bowls,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e225] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"021\"\n        - StaticText \"Serial\"\n        - StaticText \"90882517\"\n        - StaticText \"Owners\"\n        - StaticText \"METENE LIMITED (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 88049936\" [checked=false, ref=e226]\n        - generic [ref=e69] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 88049936\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e227] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 035: Retail stores, online ordering services, online retail stores,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e228] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"035\"\n        - StaticText \"Serial\"\n        - StaticText \"88049936\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 98485066\" [checked=false, ref=e229]\n        - generic [ref=e70] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 98485066\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e230] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKER SPORTS\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"PENDING\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 028: Baseball Batting Gloves; Weighted Trainer Balls being exercise...\"\n        - dialog \"Select for expanded goods and services\" [ref=e231] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"028\"\n        - StaticText \"Serial\"\n        - StaticText \"98485066\"\n        - StaticText \"Owners\"\n        - StaticText \"ROOKER SPORTS LLC (LIMITED LIABILITY COMPANY; Georgia, USA)\"\n      - generic\n        - generic\n          - checkbox \"Check to tag for 97871704\" [checked=false, ref=e232]\n        - generic [ref=e71] clickable [cursor:pointer, tabindex]\n          - image \"Trademark image for 97871704\"\n        - StaticText \"Wordmark\"\n        - generic [ref=e233] clickable [cursor:pointer, tabindex]\n          - StaticText \"wordmark\"\n          - StaticText \"ROOKIE KIDS\"\n        - StaticText \"Status\"\n        - paragraph\n          - StaticText \"LIVE\"\n          - StaticText \"REGISTERED\"\n        - StaticText \"Goods & services\"\n        - StaticText \"IC 035: retail stores, online ordering services, online retail stores,...\"\n        - dialog \"Select for expanded goods and services\" [ref=e234] clickable [cursor:pointer, tabindex]\n          - StaticText \"outbound\"\n        - StaticText \"Class\"\n        - StaticText \"035\"\n        - StaticText \"Serial\"\n        - StaticText \"97871704\"\n        - StaticText \"Owners\"\n        - StaticText \"The Haddad Apparel Group, Ltd. (CORPORATION; NEW YORK, USA)\"\n    - navigation \"Page navigation\" [ref=e4]\n      - list\n        - listitem [level=1]\n          - button \"50 per page\" [expanded=false, ref=e248]\n            - StaticText \"50 per page\"\n      - list\n        - listitem [level=1]\n          - link \"first_page\" [ref=e235]\n            - StaticText \"first_page\"\n        - listitem [level=1]\n          - link \"navigate_before\" [ref=e236]\n            - StaticText \"navigate_before\"\n        - listitem [level=1]\n          - StaticText \"Page 1 of 2\"\n        - listitem [level=1]\n          - link \"navigate_next\" [ref=e237]\n            - StaticText \"navigate_next\"\n        - listitem [level=1]\n          - link \"last_page\" [ref=e238]\n            - StaticText \"last_page\"\n      - list\n        - listitem [level=1]\n          - link \"arrow_upward\" [ref=e239]\n            - StaticText \"arrow_upward\"\n  - contentinfo\n    - generic\n      - paragraph\n        - StaticText \"Receive updates from the USPTO\"\n      - form\n        - LabelText\n          - StaticText \"Enter your email to subscribe or update your preferences\"\n        - generic\n          - textbox \"Enter your email to subscribe or update your preferences\" [ref=e249]\n          - button \"Subscribe\" [ref=e250]\n    - generic\n      - generic\n        - link \"About the USPTO\" [ref=e240]\n        - StaticText \" • \"\n        - link \"Search for patents\" [ref=e241]\n        - StaticText \" • \"\n        - link \"Search for trademarks\" [ref=e242]\n      - generic\n        - link \"US Department of Commerce\" [ref=e251]\n        - link \"Accessibility\" [ref=e252]\n        - link \"Privacy Policy\" [ref=e253]\n        - link \"Terms of Use\" [ref=e254]\n        - link \"Financial and Performance Data\" [ref=e255]\n      - generic\n        - link \"Freedom of Information Act\" [ref=e256]\n        - link \"Inspector General\" [ref=e257]\n        - link \"NoFEAR Act\" [ref=e258]\n        - link \"USA.gov\" [ref=e259]\n    - link \"United States Patent and Trademark Office - An Agency of the Department of Commerce USPTO - United States Patent and Trademark Office\" [ref=e72]\n      - image \"United States Patent and Trademark Office - An Agency of the Department of Commerce\"\n      - StaticText \"USPTO - United States Patent and Trademark Office\"\n    - generic\n      - StaticText \"Follow us\"\n      - link \"Facebook USPTO Facebook page\" [ref=e73]\n        - image \"Facebook\"\n        - StaticText \"USPTO Facebook page\"\n      - link \"Instagram USPTO Instagram page\" [ref=e74]\n        - image \"Instagram\"\n        - StaticText \"USPTO Instagram page\"\n      - link \"Linkedin USPTO Linkedin page\" [ref=e75]\n        - image \"Linkedin\"\n        - StaticText \"USPTO Linkedin page\"\n      - link \"X USPTO X page\" [ref=e76]\n        - image \"X\"\n        - StaticText \"USPTO X page\"\n      - link \"Youtube USPTO Youtube page\" [ref=e77]\n        - image \"Youtube\"\n        - StaticText \"USPTO Youtube page\"\n  - button \"Virtual Assistant avatar Need help? Ask the USPTO Virtual Assistant!\" [ref=e243]\n    - generic\n      - image \"Virtual Assistant avatar\"\n      - strong\n        - StaticText \"Need help? Ask the\"\n        - LineBreak \"\\n\"\n        - StaticText \"USPTO Virtual Assistant!\"\n  - button \"Feedback\" [ref=e1]\n    - generic\n      - StaticText \"Feedback\"",
+    "browserPageId": "1eccf4cf-c27f-4c5c-9002-9e70882834e2"
+  },
+  "_meta": {
+    "runtimeId": "797f96e2-9d5c-496a-858d-608ddbe5e2e0"
+  }
+}

@@ -1,0 +1,1231 @@
+US10731391B2 - Suction-security system 
+ - Google Patents
+US10731391B2 - Suction-security system 
+ - Google Patents
+ Suction-security system 
+ Download PDF
+Info
+ Publication number
+ US10731391B2
+ US10731391B2
+ US16/143,299
+ US201816143299A
+ US10731391B2
+ US 10731391 B2
+ US10731391 B2
+ US 10731391B2
+ US 201816143299 A
+ US201816143299 A
+ US 201816143299A
+ US 10731391 B2
+ US10731391 B2
+ US 10731391B2
+ Authority
+ US
+ United States
+ Prior art keywords
+ swing arm
+ suction
+ adhesion membrane
+ membrane
+ post
+ Prior art date
+ 2017-09-27
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Expired - Fee Related
+ Application number
+ US16/143,299
+ Other versions
+ US20190093400A1
+ (en
+ Inventor
+ James E. Lucari
+ Don D. McCracken, JR.
+ Nicole A. Reading
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Individual
+ Original Assignee
+ Individual
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2017-09-27
+ Filing date
+ 2018-09-26
+ Publication date
+ 2020-08-04
+ 2018-09-26
+ Application filed by Individual
+ filed
+ Critical
+ Individual
+ 2018-09-26
+ Priority to US16/143,299
+ priority
+ Critical
+ patent/US10731391B2/en
+ 2018-09-27
+ Priority to PCT/US2018/053159
+ priority
+ patent/WO2019067742A1/en
+ 2019-03-28
+ Publication of US20190093400A1
+ publication
+ Critical
+ patent/US20190093400A1/en
+ 2020-08-04
+ Application granted
+ granted
+ Critical
+ 2020-08-04
+ Publication of US10731391B2
+ publication
+ Critical
+ patent/US10731391B2/en
+ Status
+ Expired - Fee Related
+ legal-status
+ Critical
+ Current
+ 2038-09-26
+ Anticipated expiration
+ legal-status
+ Critical
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+Images
+Classifications
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05C—BOLTS OR FASTENING DEVICES FOR WINGS, SPECIALLY FOR DOORS OR WINDOWS
+ E05C19/00—Other devices specially designed for securing wings, e.g. with suction cups
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05B—LOCKS; ACCESSORIES THEREFOR; HANDCUFFS
+ E05B51/00—Operating or controlling locks or other fastening devices by other non-mechanical means
+ E05B51/02—Operating or controlling locks or other fastening devices by other non-mechanical means by pneumatic or hydraulic means
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05B—LOCKS; ACCESSORIES THEREFOR; HANDCUFFS
+ E05B13/00—Devices preventing the key or the handle or both from being used
+ E05B13/002—Devices preventing the key or the handle or both from being used locking the handle
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05B—LOCKS; ACCESSORIES THEREFOR; HANDCUFFS
+ E05B35/00—Locks for use with special keys or a plurality of keys ; keys therefor
+ E05B35/008—Locks for use with special keys or a plurality of keys ; keys therefor for simple tool-like keys
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05B—LOCKS; ACCESSORIES THEREFOR; HANDCUFFS
+ E05B47/00—Operating or controlling locks or other fastening devices by electric or magnetic means
+ E05B47/0038—Operating or controlling locks or other fastening devices by electric or magnetic means using permanent magnets
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05B—LOCKS; ACCESSORIES THEREFOR; HANDCUFFS
+ E05B65/00—Locks or fastenings for special use
+ E05B65/52—Other locks for chests, boxes, trunks, baskets, travelling bags, or the like
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05B—LOCKS; ACCESSORIES THEREFOR; HANDCUFFS
+ E05B73/00—Devices for locking portable objects against unauthorised removal; Miscellaneous locking devices
+ E—FIXED CONSTRUCTIONS
+ E05—LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+ E05B—LOCKS; ACCESSORIES THEREFOR; HANDCUFFS
+ E05B47/00—Operating or controlling locks or other fastening devices by electric or magnetic means
+ E05B47/0038—Operating or controlling locks or other fastening devices by electric or magnetic means using permanent magnets
+ E05B47/0045—Operating or controlling locks or other fastening devices by electric or magnetic means using permanent magnets keys with permanent magnets
+ F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ F16—ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL
+ F16B—DEVICES FOR FASTENING OR SECURING CONSTRUCTIONAL ELEMENTS OR MACHINE PARTS TOGETHER, e.g. NAILS, BOLTS, CIRCLIPS, CLAMPS, CLIPS OR WEDGES; JOINTS OR JOINTING
+ F16B47/00—Suction cups for attaching purposes; Equivalent means using adhesives
+ F16B47/006—Suction cups for attaching purposes; Equivalent means using adhesives the suction cups being activated by the rotation of a cranked lever arm
+Definitions
+ Some security or antitheft systems
+ secure items by making the items difficult to move.
+ a bicycle
+ may be attached to an anchor such as a tree or a bicycle rack using locks and chains or cables, making the bicycle difficult to move away from the anchor. Similar cables and locks have been used to security electronic devices such as computers.
+ Such security systems
+ generally required specific types of immobile anchors that may be unavailable or inconvenient to use in many locations.
+ a portable security attachment system
+ would ideally be usable in a wide variety of different environments, would be simple to activate, would be secure against unauthorized removal, and yet simple for an authorized user to release.
+ a suction-security system
+ may be built into or otherwise attached to an item such as a purse, a suitcase, a briefcase, a laptop case, backpack, or other item needing to be secured.
+ the suction-security system
+ may be deployed on any sufficiently smooth surface and activated to create suction that prevents the removal or movement of the item from the surface.
+ the suction-security system
+ may, for example, adhere to any relatively smooth surface such as a table or a tiled or wood floor.
+ Use of the suction-security system
+ may thus be widely available without need for an anchor specifically designed for security and may be available where and when an attachment point for a traditional cable or chain is unavailable or will not work.
+ An activation/deactivation mechanism of the suction-security system
+ may be inside an enclosure defined by the item, and the enclosure, suction-security system, or both may be lockable to prevent unauthorized deactivation. The suction-security system may thus prevent theft.
+ a portable suction-security system
+ can provide a low-profile suction mechanism that may be quickly activated for a secure or stable attachment that an authorized user may quickly release.
+ a suction-security system
+ may particularly include a swing arm coupled to an adhesion membrane via a post, and rotation of the swing arm in a horizontal plane, i.e., about an axis extending through the post, lifts the post and lifts a central portion of the adhesion membrane to create or release suction.
+ the swing arm and the rotations of the swing arm for activation or deactivation
+ are compact and may have minimized height for a low profile mechanism.
+ the swing arm
+ may optionally include a lock mechanism such as a removable key or a magnetically activated locking pin.
+ a shield or anti-pry structure surrounding an adhesion membrane in a suction-security system
+ may be attached to the adhesion membrane using a bushing that permits rotation of the shield relative to the adhesion membrane.
+ the bushing connection
+ may thwart attempts to rotate the adhesion membrane to break suction.
+ rotation of accessible portions of a suction-security system
+ e.g., the shield, the anti-pry structure, or any external components affixed to shield, do not rotate the adhesion membrane, allowing the adhesion membrane to maintain secure adhesion to an anchor surface.
+ the shield
+ may optionally include a wall ring that presses on a perimeter of the adhesion membrane during activation of suction, and the wall ring may be rotatable relative to external portions of the shield so that the wall ring does not apply torque to the adhesion membrane when the shield is rotated.
+ FIG. 1A
+ is a cross-sectional view of an embodiment of a suction-security system when security suction is disengaged.
+ FIG. 1B
+ is a cross-sectional view of the suction-security system of FIG. 1A when a rotational ramp swing arm is rotated to engage suction.
+ FIG. 1C
+ is an exploded view of the suction-security system of FIG. 1A .
+ FIG. 2
+ is a cross-sectional view of an embodiment of a suction-security system with a rotatable depression wall ring.
+ FIG. 3A
+ is a side view of a rotational ramp swing arm.
+ FIG. 3B
+ is the front view of the rotational ramp swing arm of FIG. 3A .
+ FIG. 4
+ shows a magnetic key fob for use with a suction-security system having magnetically keyed activation mechanism.
+ FIG. 5
+ shows an exploded view of an example keyed swing arm for use in a suction-security system.
+ FIG. 6
+ shows an example of a backpack including a suction-security system with an activation mechanism inside an enclosure of the backpack.
+ FIG. 7
+ shows an example of the case including a suction-security system with an activation mechanism inside an enclosure of the case.
+ a low-profile high-adhesion suction-security system
+ can create a suitable vacuum for adhesion of the suction-security system to a less moveable anchor surface.
+ the suction-security system
+ may have a low profile that is compact and permits use in applications having minimal vertical clearance.
+ One particular embodiment
+ employs a rotational ramp swing arm that aids in providing the low-profile required for use inside thin enclosures such as in a briefcase while still providing lift of a membrane to create or activate high-adhesion suction.
+ the suction-security system
+ is thus ideal for low-profile applications where an enclosure or platform requires attachment to a less moveable anchor surface, but the suction-security systems is also applicable for security where a low profile is not required.
+ FIGS. 1A, 1B, and 1C
+ show a suction-security system 100 in accordance with one embodiment of the invention.
+ FIG. 1A
+ particularly shows a cross-section of suction-security system 100 on an anchor surface 150 before adhesion is activated.
+ FIG. 1B
+ shows a cross-section of suction-security system 100 after adhesion is activated to adhered suction-security system 100 to anchor surface 150 .
+ FIG. 1C
+ shows an exploded view illustrating components of suction-security system 100 .
+ Suction-security system 100
+ particularly includes an adhesion membrane 101 , a lift mechanism 140 attached to adhesion membrane 101 , and a shield or anti-pry structure 130 surrounding membrane 101 .
+ Adhesion membrane 101
+ may be a disk or otherwise shaped membrane of a flexible material such as a semi-firm rubber or silicone material with a shape that matches a depression wall 104 that may be part of anti-pry structure 130 surrounding adhesion membrane 101 .
+ adhesion membrane 101
+ is circular and about 3 inches in diameter, but adhesion membrane 101 can alternatively be sized and shaped to meet an application's requirements, e.g., having a size and shape matching those of an object being secured or to provide a desired force of adhesive.
+ the material used in adhesion membrane 101
+ may be selected for flexibility, tackiness, and strength.
+ the size or diameter of membrane 101
+ may be selected so that the external air pressure on adhesion membrane 101 when suction is activated is sufficient to provide a desired force of adhesion to resist movement of suction-security system 100 .
+ the thickness of membrane 101
+ may be selected to provide sufficient strength to resist tearing or warping when an expected level of external force is applied to move suction-security system 100 .
+ the thickness of membrane 101
+ may also be related to the geometry of depression walls 104 that press the perimeter of membrane 101 against anchor surface 150 during engagement of suction-security system 100 .
+ Shield or anti-pry structure 130
+ includes a central portion 102 that surrounds the top surface of membrane 101 and may further include an optional extension 103 .
+ Anti-pry structure 130
+ may be made of a hardened polyvinyl chloride (PVC) or other ridged and sturdy lightweight material. With the illustrated implementation of suction-security system 100 , anti-pry structure 130 may be molded form one-piece structure including central portion 102 , extension 103 , and depression wall 104 . Alternatively, as shown in FIG.
+ a suction-security system 200
+ can include an alternative shield or anti-pry structure 135 in which central portion 102 and optional extension 103 are parts of a one-piece structure that is a separate component from a depression wall ring 105 , and depression wall ring 105 may be free to rotate relative to central portion 102 and optional extension 103 . Accordingly, comparing suction security systems 100 and 200 , depression wall ring 105 used in suction-security device 200 of FIG. 2 replaces depression wall 104 of suction-security system 100 .
+ Depression wall ring 105
+ may ride firmly yet easily within a channel in an external portion of anti-pry structure 135 allowing adhesion membrane wall ring 105 to rotate within the external portion of anti-pry structure 135 , mitigating the chance of suction loss during an attempt to twist or rotate suction-security system 200 .
+ suction-security device 100 or 200
+ can use or omit optional extension 103 .
+ an enclosure, container, platform, backpack or similar object
+ can attach to suction-security system 100 or 200 particularly by attaching to extension 103 .
+ extension 103
+ is not required, and an enclosure, container, platform, backpack or similar object can attach directly to the central portion 102 of anti-pry structure 130 or 135 .
+ Holes
+ can be drilled to provide for rivets or bolts to hold an enclosure, container, platform, backpack, or other object to central portion 102 or extension 103 depending upon security requirements.
+ Attachments that are formed within central portion 102 or depression wall 104 or 105 of anti-pry structure 130 or 135
+ may be sealed to help avoid loss of vacuum under adhesion membrane 101 .
+ Anchor surface 150
+ is not part of suction-security system 100 but may be a surface of any convenient relatively immobile object such as a table, a wall, or a floor. More generally, anchor surface 150 may be any surface suitable for sealing against adhesion membrane 101 and allowing creation of the suitable vacuum required for operation. Surface types may be, but are not limited to, glass, tile, vinyl, linoleum, marble, fiberglass, PVC, varnished wood, or other such surfaces that are without irregularities that allow leakages through the seal between adhesion membrane 101 and surface 150 .
+ FIG. 1A
+ shows suction-security system 100 before lift mechanism 140 is activated to attach or adhere suction-security system 100 to anchor surface 150 .
+ Lift mechanism 140
+ when activated, lifts a central area of membrane 101 as shown in FIG. 1B , while a perimeter of membrane 101 may be held or pressed against anchor surface 150 , e.g., by depression walls 104 of suction-security system 100 or by depression wall ring 105 for suction-security system 200 .
+ the lifting of the central area of membrane 101
+ creates suction, e.g., a suitable vacuum, in a volume 145 between membrane 101 and anchor surface 150 so that membrane 101 , suction-security system 100 , and any object attached to suction-security system 100 adheres to anchor surface 150 and is difficult to move.
+ Lift mechanism 140 in suction-security system 100
+ employs a membrane lifting post 113 , which may be molded into adhesion membrane 101 or may otherwise be attached to a central area of membrane 101 .
+ Membrane lifting post 113
+ needs to lift the center of adhesion membrane 101 in a manner that keeps a seal for the vacuum created in volume 145 when the center of adhesion membrane 101 is lifted.
+ Membrane lifting post 113
+ may be constructed out of a strong material such as a hard aluminum or steel as membrane lifting post 113 may be stressed during a lifting of adhesion membrane 101 .
+ membrane lifting post 113
+ is spring loaded with an adhesion membrane relaxer spring 115 .
+ Adhesion membrane relaxer spring 115
+ may be a resilient helical spring, and in some applications, spring 115 should be able to support no less than about 40,000 cycles. The number of cycles more generally depends on the application or expected use and useful life of suction-security system 100 .
+ Adhesion membrane lifting post 113
+ fits and extends through the center of the adhesion membrane relaxer helical spring 115 and through the center hole of a reinforcement bushing 106 mounted in anti-pry structure 130 .
+ Reinforcement bushing 106
+ may particularly be molded into anti-pry structure 130 and may be constructed of a strong material such as a hard aluminum or steel as reinforcement bushing 106 may be stressed by the movement of adhesion membrane lifting post 113 and by rotational ramp swing arm 107 , particularly where rotational ramp swing arm 107 meets the top of adhesion membrane lifting post 113 . Whether or not reinforcement bushing 106 is molded into anti-pry structure 130 , reinforcement bushing 106 may, in some implementations, be knurled or may have other or additional features to hold bushing 106 firmly to anti-pry structure 130 .
+ Reinforcement bushing 106
+ may have a channel or hole drilled and used as a security locking pin reinforcement bushing channel 112 .
+ the diameter of channel 112
+ may be only slightly larger than that of a security locking pin 110 to allow for non-binding movement of locking pin 110 into or out of channel 112 , and channel 112 may be deep enough for full inclusion of pin 110 within channel 112 .
+ reinforcement bushing 106
+ may be made of a non-ferrous material, for example, if an implementation requires security locking pin 110 to be magnetized as described below.
+ Membrane lifting post 113
+ which extends through reinforcement bushing 106 , connects to an activation mechanism that lifts membrane lifting post 113 .
+ the activation mechanism
+ includes a rotational ramp swing arm 107 , which is rotatable about an axis of membrane lifting post 113 .
+ FIGS. 3A and 3B
+ show side and front views of one implementation of rotational ramp swing arm 107 and particularly show a helically inclined ramp surface 109 that may be formed in a hub of rotational ramp swing arm 107 .
+ Implementations using optional security locking pin 110
+ may have security locking pin swing arm channel 111 provided in rotational ramp swing arm 107 during manufacturing of rotational ramp swing arm 107 .
+ Locking pin swing arm channel 111
+ may have a diameter and depth only slightly larger than the diameter and length of locking pin 110 to allow for non-binding movement of locking pin 110 into channel 111 , and full inclusion of locking pin 110 in channel 111 when locking pin 110 is not engaged with reinforcement bushing channel 112 .
+ a portion of membrane lifting post 113
+ extends into or through the hub of rotational ramp swing arm 107 .
+ a pin 114 in the portion of membrane lifting post 113 extending into rotational ramp swing arm 104
+ slides on helically inclined ramp surface 109 , so that rotation of rotational ramp swing arm 107 from the position shown in FIG. 1A to the position shown in FIG. 1B lifts pin 114 , membrane lifting post 113 , and the central portion of membrane 101 .
+ Suction-security system 100
+ may be mechanically to an item defining an enclosure so that lift mechanism 140 is inside the enclosure and membrane 101 and at least a portion, e.g., extension 103 , of anti-pry structure 130 is outside the enclosure. The bottom surfaces of membrane 101 and anti-pry structure 130 can then be placed on anchor surface 150 .
+ Rotation of rotational ramp swing arm 107
+ causes swing arm lifting ramp surface 109 to lift pin 114 and therefore lifting post 113 vertically, i.e., along the axis of rotation of swing arm 107 .
+ the rotation necessary to activate lift mechanism 140
+ may be less than a full turn, e.g., about 180° of rotation, which allows for quick and easy application to adhere suction-security device 100 to anchor surface 150 .
+ lifting post 113 and swing arm 107
+ may respectively have coarse male and female threading that similarly lifts lifting post 113 when swing arm 107 rotates, but pin 114 and ramp surface 109 may provide a stronger or more durable mechanism for rapid lift within a 180° rotation.
+ the rotation of ramp swing arm 107
+ is in a plane parallel to anchor surface 150 and allows a much lower profile for suction-security system 100 than would a lever mechanism activated by movement in the lift direction.
+ Rotational ramp swing arm 107
+ may also be implemented as a one-piece structure, which may reduce manufacturing costs when compared to a more complex lift structure, e.g., using multiple screw type mechanisms or lifts requiring high vertical clearance.
+ Rotational ramp swing arm 107
+ is stressed primarily at the fulcrum of handle 108 , and on the surface of swing arm lifting ramp surface 109 as ramp surface 109 lifts lifting post pin 114 and pin 114 rides up ramp surface 109 during lifting of adhesion membrane 101 .
+ swing arm lifting ramp surface 109
+ may be manufactured so that the ramp profile maintains contact with the entire engaged length of the adhesion membrane lifting post ramp pin 114 .
+ Rotational ramp swing arm 107 and adhesion membrane lifting post ramp pin 114
+ may be designed to be resilient over many use, e.g., no less than about 40,000 cycles; a number that is only suggested and depends on the overall use model of the suction-security system.
+ rotational ramp swing arm 107
+ may be made of stainless steel, hardened aluminum, or hardened polymer, depending upon desired life expectancy, weight, cost, and other factors depended on the intended use of suction-security device 100 .
+ a non-ferrous material
+ would be used in an implementation that employs a locking pin 110 and related components.
+ Ramp pin 114
+ may be fit in a hole through adhesion membrane lifting post 113 .
+ the hole through adhesion membrane lifting post 113 for ramp pin 114
+ may be above the security locking pin channel 112 to allow the lowest part of the swing arm lifting ramp surface 109 to fit under lifting post ramp pin 114 .
+ Lifting post ramp pin 114
+ may extend the width of the top of adhesion membrane lifting post 113 plus the width of the swing arm lifting ramp surface 109 , so that one end of lifting post ramp pin 114 is flush with the exterior of swing arm lifting ramp surface 109 and the other end of lifting post ramp pin 114 is flush with the exterior of the adhesion membrane lifting post 113 .
+ Lifting post ramp pin 114
+ should be a suitably strong and inflexible material to accommodate stress during the lifting process along the swing arm lifting ramp surface 109 and at the junction of adhesion membrane lifting post 113 .
+ a user when beginning to activate lift mechanism 140 to create suction and attachment of suction-security system 100 to anchor surface 150
+ may apply downward pressure at the top of anti-pry structure 130 , e.g., apply pressure near or on rotational ramp swing arm 107 , so that anti-pry external structure 130 contacts anchor surface 150 and adhesion membrane depression wall 104 of anti-pry structure 130 contacts the top of adhesion membrane 101 around the perimeter of adhesion membrane 101 .
+ Membrane relaxer spring 115
+ may be under partial tension at this point. Rotation of rotational ramp swing arm 107 by about 180° provides lift of adhesion membrane lifting post 113 through the external structure of reinforcement bushing 106 as swing arm lifting ramp surface 109 forces adhesion membrane lifting post ramp pin 114 vertically upward.
+ Anti-pry structure 130
+ may prevent unauthorized release of the vacuum by shielding adhesion membrane 101 , e.g., preventing undesired lifting of the outer edge of adhesion membrane 101 .
+ a base portion of anti-pry structure 130
+ may contact (or be in close proximity) with anchor surface 150 to prevent insertion of a pry bar or tool under anti-pry structure 130 .
+ anti-pry structure 130
+ may include extension 103 , extending well beyond the edges of central portion 102 surrounding membrane 101 .
+ adhesion membrane 101 and the central portion of anti-pry structure 130
+ may be about 4 inches in diameter, and optional extension 103 may extend about 2 inches beyond the perimeter of membrane 101 .
+ Extension 103
+ may be shorter, e.g., about 1 ⁇ 2 inch tall, than central portion 102 , e.g., about 3 ⁇ 4 inch tall, since extension 103 does not need to be tall enough to contain adhesion membrane 101 . Extension 103 may further inhibit access to membrane 101 and provide large moment arm to resist prying at the edges of anti-pry structure 130 .
+ the size of the optional anti-pry structure extension 103
+ may depend on the application in which suction-security system 100 is employed. For example, suction-security system 100 may be employed in an enclosure such as a briefcase that is large enough that the extent of the briefcase sufficiently inhibits access to membrane 101 , in which case anti-pry extension 103 may not be required.
+ Anti-pry structure 130
+ may also help prevent an attempt to break adhesion through attempted lateral or rotational movement of suction-security system 100 .
+ reinforcement bushing 106
+ may permit externally accessible portions of anti-pry structure 130 to rotate about lifting post 113 and adhesion membrane 101 .
+ some implementations
+ such as suction-security system 200 of FIG. 2 replace membrane depression wall 104 , which may contact adhesion membrane 101 , with rotatable depression wall ring 105 .
+ Depression wall ring 105
+ may be a ring that resides inside of the remainder of anti-pry external structure 135 of suction-security system 200 .
+ Suction-security system 200
+ can remain attached to anchor surface 150 even when rotated.
+ Suction-security system 200 of FIG. 2
+ may otherwise be identical to suction-security system 100 of FIGS. 1A, 1B, and 1C as described herein.
+ Suction-security system 100
+ may further employ a security mechanism to prevent unauthorized rotation of swing arm 107 .
+ the illustrated embodiment of suction-security system 100
+ employs locking pin 110 that fits in swing arm channel 111 in swing arm 107 and is able to at least partially slip into bushing channel 112 in reinforcement bushing 106 when rotation ramp swing arm 107 is in the locked position shown in FIG. 1B . (The locked position corresponds to the adhered position.)
+ Swing arm channel 111 in rotational ramp swing arm 107 , locking pin 110 , and bushing channel 112 in bushing 106
+ may be reinforced or made of strong material to resist sheering if rotation of arm 107 is attempted while locking pin 110 bridges both swing arm channel 111 and bushing channel 112 .
+ locking pin 110
+ is iron or another ferromagnetic material and may be magnetically lifted out of bushing channel 112 using a magnet to unlock rotation. In another implementation, locking pin 110 is magnetized and may be magnetically lifted out of or pushed into bushing channel 112 using a magnet to lock or unlock rotation of rotational ramp swing arm 107 .
+ FIG. 4
+ shows an optional magnetic key fob 116 that may be used to move locking pin 110 between swing arm channel 111 and bushing channel 112 .
+ optional magnetic key fob 116
+ is used to both engage and disengage the rotational ramp swing arm optional security locking pin 110 .
+ Magnetic key fob 116
+ may be formed of a polymer or other suitable material with a Neodymium or Rare Earth magnet 126 imbedded in fob 116 .
+ locking pin 110
+ may also be magnetized to allow magnetic key fob 116 to be turned so that the side of the magnet in fob 116 facing the hub of swing arm 101 attracts locking pin 110 or be turned so that the opposite side of the magnet in fob 116 faces the hub of swing arm 101 and repels locking pin 110 .
+ magnetic key fob 116
+ may be used to push locking pin 110 to bridge swing arm channel 111 and bushing channel 112 to lock rotational swing arm 107 when suction has been activated or may be used to lift (or push) locking pin 110 free of one of swing arm channel 111 and bushing channel 112 to unlock rotational arm 107 and permit rotation to release the suction.
+ FIG. 5
+ particularly shows an exploded view of one implementation of a mechanically keyed rotational ramp swing arm 142 .
+ Mechanically keyed rotational ramp swing arm 142
+ includes a removable rotational ramp swing arm keyed socket 117 that a user can separate from the remainder of keyed rotational ramp swing arm 142 to thereby prevent the rotation of swing arm lifting ramp surface 109 .
+ swing arm lifting ramp surface 109
+ is within a swing arm lifting ramp keyed nut 118 , which is turned by coupling rotational ramp swing arm keyed socket 117 to swing arm lifting ramp keyed nut 118 and rotating rotational ramp swing arm keyed socket 117 .
+ Swing arm lifting ramp keyed nut 118
+ rides on a thrust washer 119 and a needle bearing 120 through which membrane lift post 113 passes.
+ a rotational ramp swing arm key guard 121
+ surrounds swing arm lifting ramp keyed nut 118 to prevent or inhibit use of a tool, other than rotational ramp swing arm keyed socket 117 , from engaging with and rotating swing arm lifting ramp keyed nut 118 .
+ FIG. 5
+ only shows one example of a key pattern, but a sufficient number of alternative patterns may be provided in different suction-security systems to reduce duplications of the same key patter potentially being utilized in close proximity to each other.
+ Mechanically keyed rotational ramp swing arm 142
+ can be used in place of rotational ramp swing arm 107 in suction-security system 100 or 200 .
+ Rotational ramp swing arm keyed socket 117 and swing arm lifting ramp keyed nut 118
+ may be made of a stainless steel, hardened aluminum, or hardened polymer, depending upon desired life expectancy, weight, cost, and other factors.
+ the thrust washer 119
+ is a common load bearing element and can be made of the same materials.
+ Thrust needle bearing 120
+ is typically a hardened chrome steel and should be able to handle a minimum of 40,000 cycles; a number that is only suggested and should be validated within the overall use model of the suction-security system.
+ the rotational ramp swing arm key guard 121
+ may be stainless steel so as to resist breaking with common hand tools.
+ the rotational ramp swing arm optional security locking pin 110 , swing arm channel 111 , and bushing channel 112
+ are not required or used in implementations using mechanically keyed rotational ramp swing arm 142 .
+ Suction-security systems
+ such as disclosed herein may be employed to secure any desired object, e.g., through attachment cables or other structures that connect a suction-security device to the object being secured.
+ a suction-security system
+ may be built into the object being secured.
+ FIG. 6
+ shows an example of a low-profile suction-security system integrated into a backpack 600 .
+ suction-security system 610
+ may be mounted through and attached to a wall of an enclosure 620 of backpack 600 .
+ Suction-security system 610
+ may be in accordance with any of the implementations disclosed herein and is mounted so that an activation control 612 of a lift mechanism of suction security system 610 is located in the interior of enclosure 620 .
+ Activation portion 612
+ may particularly include a rotational ramp swing arm as described above.
+ An adhesion membrane (not visible in FIG. 6 ) of suction-security system 610
+ is located outside of enclosure 620 .
+ Backpack 600
+ may be secured by pressing the external adhesion membrane and external portions of an anti-pry structure against a suitable anchor surface and rotating activation control 612 to activate suction.
+ suction-security system 610
+ may be magnetically lockable or mechanically lockable as described above to prevent unauthorized removal or movement of backpack 600 .
+ Suction security systems
+ may similarly be applied in other types of flexible material enclosures such as a purse.
+ the suction security system
+ may still prevent “snatch and go” thefts of the purses, backpacks, and other flexible material enclosures by preventing movement of the enclosure from an anchor surface.
+ FIG. 7
+ shows a case 700 incorporating a low-profile suction-security system 710 mounted in a wall of an enclosure 720 of case 700 .
+ Case 700
+ may be a hard-walled structure such as a briefcase, a laptop case, or a suitcase.
+ Suction-security system 710
+ may be a low-profile suction-security system of minimized height so that the remaining space in enclosure 720 is sufficient to secure desired contents of case 720 .
+ Suction-security system 710
+ may be in accordance with any of the implementations disclosed herein and is mounted so that an activation control 712 of a lift mechanism of suction-security system 710 is located in the interior of enclosure 720 .
+ An adhesion membrane
+ (not visible in FIG.
+ suction-security system 710
+ is located outside of enclosure 720 .
+ Case 700
+ may be secured by pressing the external adhesion membrane and external portions of an anti-pry structure of suction-security system 710 against a suitable anchor surface, rotating activation control 712 to activate suction, and then closing enclosure 720 so that activation control 712 is enclosed within briefcase 700 .
+ Briefcase 700
+ further has a lock 722 that may be locked to prevent unauthorized access to activation control 712 .
+ suction-security system 710
+ does not need to be lockable but may optionally be magnetically lockable or mechanically lockable as described above to prevent unauthorized removal or movement of briefcase 700 .
+ suction-security system 710
+ is identical to suction-security system 100 , and central portion 102 of anti-pry structure 130 suction-security system 100 extends through a hole in a wall of enclosure 720 .
+ Fasteners 714
+ e.g., bolts or rivets, also extend through respective holes in the wall of enclosure 720 and fasten to extension 103 of anti-pry structure 130 of suction-security system 100 .
+ the portion of suction-security system 100 inside enclosure 720
+ may be about 1.5 inches tall or less.
+ a clear or windowed case with an integrated suction security system
+ can be employed in a store such as a jewelry store or other commercial environment that sells items that may need to be secured while being displayed.
+ case 700
+ may have a transparent or windowed top, so that enclosure 720 can provide a secure semi-portable display case for expensive items.
+ Case 700
+ may be moved and secured as needed for potential buyers to observe items in case 700 , for example, during a side-by-side comparisons with items in another case.
+ the securable mobility of case 700
+ may be more convenient than having items separated and secured at great distance from each other inside of large glass cases.
+ the suction-security systems as disclosed herein
+ may be used to secure items against theft as described above and may also be used to secure items for use.
+ an item
+ may be secured to an anchor surface in a moving environment to prevent shifting of the item.
+ the anchor surface
+ In an automobile or a plane, for example, the anchor surface may be a tray table or the back of a seat, or in a boat on open and rough seas, the anchor surface may be the deck of the boat.
+ the suction-security systems
+ may also be used to provide a stable working platform in working environments, for example, where technicians may hold equipment in place by attaching a suction system of the equipment to smooth surfaces such as the surfaces of junction boxes or panels.
+ the anchor surface
+ may be horizontal, inclined, or even horizontal, and the suction may still fix the item in place.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Hooks, Suction Cups, And Attachment By Adhesive Means
+ (AREA)
+Abstract
+A suction-security system includes an adhesion membrane coupled to a swing arm. Rotation of the swing arm lifts a center portion of the adhesion membrane, creating suction and adhesion of the suction-security system to an anchor surface. The swing arm may have a low profile enabling use of the suction security system in an enclosure with minimal loss of available interior space. The system may include a shield protecting the adhesion membrane, and a bushing in the shield permits rotation of a portion of the shield without disturbing adhesion of the adhesion membrane to the anchor surface. The suction-security system may be used in consumer items such as purses, backpacks, briefcases, and suitcases.
+Description
+ CROSS-REFERENCE TO RELATED APPLICATIONS
+This patent document is a claims benefit of the earlier filing date of U.S. provisional Pat. App. No. 62/564,166, filed Sep. 27, 2017, which is hereby incorporated by reference in its entirety.
+ BACKGROUND
+Some security or antitheft systems secure items by making the items difficult to move. For example, a bicycle may be attached to an anchor such as a tree or a bicycle rack using locks and chains or cables, making the bicycle difficult to move away from the anchor. Similar cables and locks have been used to security electronic devices such as computers. Such security systems generally required specific types of immobile anchors that may be unavailable or inconvenient to use in many locations.
+Many techniques have been used to attach items together, but few of the known attachment techniques have been suitable and convenient for portable security or antitheft systems. In particular, a portable security attachment system would ideally be usable in a wide variety of different environments, would be simple to activate, would be secure against unauthorized removal, and yet simple for an authorized user to release.
+ SUMMARY
+In accordance with an aspect of the invention, a suction-security system may be built into or otherwise attached to an item such as a purse, a suitcase, a briefcase, a laptop case, backpack, or other item needing to be secured. The suction-security system may be deployed on any sufficiently smooth surface and activated to create suction that prevents the removal or movement of the item from the surface. The suction-security system may, for example, adhere to any relatively smooth surface such as a table or a tiled or wood floor. Use of the suction-security system may thus be widely available without need for an anchor specifically designed for security and may be available where and when an attachment point for a traditional cable or chain is unavailable or will not work. An activation/deactivation mechanism of the suction-security system may be inside an enclosure defined by the item, and the enclosure, suction-security system, or both may be lockable to prevent unauthorized deactivation. The suction-security system may thus prevent theft.
+In accordance with another aspect of the invention, a portable suction-security system can provide a low-profile suction mechanism that may be quickly activated for a secure or stable attachment that an authorized user may quickly release. A suction-security system may particularly include a swing arm coupled to an adhesion membrane via a post, and rotation of the swing arm in a horizontal plane, i.e., about an axis extending through the post, lifts the post and lifts a central portion of the adhesion membrane to create or release suction. The swing arm and the rotations of the swing arm for activation or deactivation are compact and may have minimized height for a low profile mechanism. The swing arm may optionally include a lock mechanism such as a removable key or a magnetically activated locking pin.
+In accordance with yet another aspect of the invention, a shield or anti-pry structure surrounding an adhesion membrane in a suction-security system may be attached to the adhesion membrane using a bushing that permits rotation of the shield relative to the adhesion membrane. The bushing connection may thwart attempts to rotate the adhesion membrane to break suction. In particular, rotation of accessible portions of a suction-security system, e.g., the shield, the anti-pry structure, or any external components affixed to shield, do not rotate the adhesion membrane, allowing the adhesion membrane to maintain secure adhesion to an anchor surface. The shield may optionally include a wall ring that presses on a perimeter of the adhesion membrane during activation of suction, and the wall ring may be rotatable relative to external portions of the shield so that the wall ring does not apply torque to the adhesion membrane when the shield is rotated.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+ FIG. 1A is a cross-sectional view of an embodiment of a suction-security system when security suction is disengaged.
+ FIG. 1B is a cross-sectional view of the suction-security system of FIG. 1A when a rotational ramp swing arm is rotated to engage suction.
+ FIG. 1C is an exploded view of the suction-security system of FIG. 1A.
+ FIG. 2 is a cross-sectional view of an embodiment of a suction-security system with a rotatable depression wall ring.
+ FIG. 3A is a side view of a rotational ramp swing arm.
+ FIG. 3B is the front view of the rotational ramp swing arm of FIG. 3A.
+ FIG. 4 shows a magnetic key fob for use with a suction-security system having magnetically keyed activation mechanism.
+ FIG. 5 shows an exploded view of an example keyed swing arm for use in a suction-security system.
+ FIG. 6 shows an example of a backpack including a suction-security system with an activation mechanism inside an enclosure of the backpack.
+ FIG. 7 shows an example of the case including a suction-security system with an activation mechanism inside an enclosure of the case.
+The drawings illustrate examples for the purpose of explanation and are not of the invention itself. Use of the same reference symbols in different figures indicates similar or identical items.
+ DETAILED DESCRIPTION
+A low-profile high-adhesion suction-security system can create a suitable vacuum for adhesion of the suction-security system to a less moveable anchor surface. The suction-security system may have a low profile that is compact and permits use in applications having minimal vertical clearance. One particular embodiment employs a rotational ramp swing arm that aids in providing the low-profile required for use inside thin enclosures such as in a briefcase while still providing lift of a membrane to create or activate high-adhesion suction. The suction-security system is thus ideal for low-profile applications where an enclosure or platform requires attachment to a less moveable anchor surface, but the suction-security systems is also applicable for security where a low profile is not required.
+The following discussion is directed to various embodiments. Although one or more of these embodiments may be discussed in detail, the embodiments disclosed should not be interpreted or otherwise used as a limit to the scope of the disclosure including the claims. One skilled in the art will understand that the following description has broad application, and the discussion of any embodiment is meant only to be an example and is not intended to suggest that the scope of the disclosure, including the claims, is limited to that example.
+ FIGS. 1A, 1B, and 1C show a suction-security system 100 in accordance with one embodiment of the invention. FIG. 1A particularly shows a cross-section of suction-security system 100 on an anchor surface 150 before adhesion is activated. FIG. 1B shows a cross-section of suction-security system 100 after adhesion is activated to adhered suction-security system 100 to anchor surface 150. FIG. 1C shows an exploded view illustrating components of suction-security system 100. Suction-security system 100 particularly includes an adhesion membrane 101, a lift mechanism 140 attached to adhesion membrane 101, and a shield or anti-pry structure 130 surrounding membrane 101.
+ Adhesion membrane 101 may be a disk or otherwise shaped membrane of a flexible material such as a semi-firm rubber or silicone material with a shape that matches a depression wall 104 that may be part of anti-pry structure 130 surrounding adhesion membrane 101. In an example implementation, adhesion membrane 101 is circular and about 3 inches in diameter, but adhesion membrane 101 can alternatively be sized and shaped to meet an application's requirements, e.g., having a size and shape matching those of an object being secured or to provide a desired force of adhesive. In general, the material used in adhesion membrane 101 may be selected for flexibility, tackiness, and strength. The size or diameter of membrane 101 may be selected so that the external air pressure on adhesion membrane 101 when suction is activated is sufficient to provide a desired force of adhesion to resist movement of suction-security system 100. The thickness of membrane 101 may be selected to provide sufficient strength to resist tearing or warping when an expected level of external force is applied to move suction-security system 100. The thickness of membrane 101 may also be related to the geometry of depression walls 104 that press the perimeter of membrane 101 against anchor surface 150 during engagement of suction-security system 100.
+Shield or anti-pry structure 130 includes a central portion 102 that surrounds the top surface of membrane 101 and may further include an optional extension 103. Anti-pry structure 130 may be made of a hardened polyvinyl chloride (PVC) or other ridged and sturdy lightweight material. With the illustrated implementation of suction-security system 100, anti-pry structure 130 may be molded form one-piece structure including central portion 102, extension 103, and depression wall 104. Alternatively, as shown in FIG. 2, a suction-security system 200 can include an alternative shield or anti-pry structure 135 in which central portion 102 and optional extension 103 are parts of a one-piece structure that is a separate component from a depression wall ring 105, and depression wall ring 105 may be free to rotate relative to central portion 102 and optional extension 103. Accordingly, comparing suction security systems 100 and 200, depression wall ring 105 used in suction-security device 200 of FIG. 2 replaces depression wall 104 of suction-security system 100. Depression wall ring 105 may ride firmly yet easily within a channel in an external portion of anti-pry structure 135 allowing adhesion membrane wall ring 105 to rotate within the external portion of anti-pry structure 135, mitigating the chance of suction loss during an attempt to twist or rotate suction-security system 200.
+Various applications of suction- security device 100 or 200 can use or omit optional extension 103. In some implementations, an enclosure, container, platform, backpack or similar object can attach to suction- security system 100 or 200 particularly by attaching to extension 103. In other implementations, extension 103 is not required, and an enclosure, container, platform, backpack or similar object can attach directly to the central portion 102 of anti-pry structure 130 or 135. Holes can be drilled to provide for rivets or bolts to hold an enclosure, container, platform, backpack, or other object to central portion 102 or extension 103 depending upon security requirements. Attachments that are formed within central portion 102 or depression wall 104 or 105 of anti-pry structure 130 or 135 may be sealed to help avoid loss of vacuum under adhesion membrane 101.
+ Anchor surface 150 is not part of suction-security system 100 but may be a surface of any convenient relatively immobile object such as a table, a wall, or a floor. More generally, anchor surface 150 may be any surface suitable for sealing against adhesion membrane 101 and allowing creation of the suitable vacuum required for operation. Surface types may be, but are not limited to, glass, tile, vinyl, linoleum, marble, fiberglass, PVC, varnished wood, or other such surfaces that are without irregularities that allow leakages through the seal between adhesion membrane 101 and surface 150.
+ FIG. 1A shows suction-security system 100 before lift mechanism 140 is activated to attach or adhere suction-security system 100 to anchor surface 150. Lift mechanism 140, when activated, lifts a central area of membrane 101 as shown in FIG. 1B, while a perimeter of membrane 101 may be held or pressed against anchor surface 150, e.g., by depression walls 104 of suction-security system 100 or by depression wall ring 105 for suction-security system 200. The lifting of the central area of membrane 101 creates suction, e.g., a suitable vacuum, in a volume 145 between membrane 101 and anchor surface 150 so that membrane 101, suction-security system 100, and any object attached to suction-security system 100 adheres to anchor surface 150 and is difficult to move.
+ Lift mechanism 140 in suction-security system 100 employs a membrane lifting post 113, which may be molded into adhesion membrane 101 or may otherwise be attached to a central area of membrane 101. Membrane lifting post 113 needs to lift the center of adhesion membrane 101 in a manner that keeps a seal for the vacuum created in volume 145 when the center of adhesion membrane 101 is lifted. Membrane lifting post 113 may be constructed out of a strong material such as a hard aluminum or steel as membrane lifting post 113 may be stressed during a lifting of adhesion membrane 101.
+In the illustrated implementations, membrane lifting post 113 is spring loaded with an adhesion membrane relaxer spring 115. Adhesion membrane relaxer spring 115 may be a resilient helical spring, and in some applications, spring 115 should be able to support no less than about 40,000 cycles. The number of cycles more generally depends on the application or expected use and useful life of suction-security system 100. Adhesion membrane lifting post 113 fits and extends through the center of the adhesion membrane relaxer helical spring 115 and through the center hole of a reinforcement bushing 106 mounted in anti-pry structure 130. Reinforcement bushing 106 may particularly be molded into anti-pry structure 130 and may be constructed of a strong material such as a hard aluminum or steel as reinforcement bushing 106 may be stressed by the movement of adhesion membrane lifting post 113 and by rotational ramp swing arm 107, particularly where rotational ramp swing arm 107 meets the top of adhesion membrane lifting post 113. Whether or not reinforcement bushing 106 is molded into anti-pry structure 130, reinforcement bushing 106 may, in some implementations, be knurled or may have other or additional features to hold bushing 106 firmly to anti-pry structure 130.
+ Reinforcement bushing 106 may have a channel or hole drilled and used as a security locking pin reinforcement bushing channel 112. The diameter of channel 112 may be only slightly larger than that of a security locking pin 110 to allow for non-binding movement of locking pin 110 into or out of channel 112, and channel 112 may be deep enough for full inclusion of pin 110 within channel 112. Additionally, in some implementations, reinforcement bushing 106 may be made of a non-ferrous material, for example, if an implementation requires security locking pin 110 to be magnetized as described below.
+ Membrane lifting post 113, which extends through reinforcement bushing 106, connects to an activation mechanism that lifts membrane lifting post 113. In the embodiment of suction-security system 100, the activation mechanism includes a rotational ramp swing arm 107, which is rotatable about an axis of membrane lifting post 113. FIGS. 3A and 3B show side and front views of one implementation of rotational ramp swing arm 107 and particularly show a helically inclined ramp surface 109 that may be formed in a hub of rotational ramp swing arm 107. Implementations using optional security locking pin 110 may have security locking pin swing arm channel 111 provided in rotational ramp swing arm 107 during manufacturing of rotational ramp swing arm 107. Locking pin swing arm channel 111 may have a diameter and depth only slightly larger than the diameter and length of locking pin 110 to allow for non-binding movement of locking pin 110 into channel 111, and full inclusion of locking pin 110 in channel 111 when locking pin 110 is not engaged with reinforcement bushing channel 112.
+A portion of membrane lifting post 113 extends into or through the hub of rotational ramp swing arm 107. A pin 114 in the portion of membrane lifting post 113 extending into rotational ramp swing arm 104 slides on helically inclined ramp surface 109, so that rotation of rotational ramp swing arm 107 from the position shown in FIG. 1A to the position shown in FIG. 1B lifts pin 114, membrane lifting post 113, and the central portion of membrane 101.
+Suction-security system 100 may be mechanically to an item defining an enclosure so that lift mechanism 140 is inside the enclosure and membrane 101 and at least a portion, e.g., extension 103, of anti-pry structure 130 is outside the enclosure. The bottom surfaces of membrane 101 and anti-pry structure 130 can then be placed on anchor surface 150. Rotation of rotational ramp swing arm 107 causes swing arm lifting ramp surface 109 to lift pin 114 and therefore lifting post 113 vertically, i.e., along the axis of rotation of swing arm 107. The rotation necessary to activate lift mechanism 140 may be less than a full turn, e.g., about 180° of rotation, which allows for quick and easy application to adhere suction-security device 100 to anchor surface 150. As an alternative to using pin 114 and helical ramp surface 109, lifting post 113 and swing arm 107 may respectively have coarse male and female threading that similarly lifts lifting post 113 when swing arm 107 rotates, but pin 114 and ramp surface 109 may provide a stronger or more durable mechanism for rapid lift within a 180° rotation. The rotation of ramp swing arm 107 is in a plane parallel to anchor surface 150 and allows a much lower profile for suction-security system 100 than would a lever mechanism activated by movement in the lift direction. Rotational ramp swing arm 107 may also be implemented as a one-piece structure, which may reduce manufacturing costs when compared to a more complex lift structure, e.g., using multiple screw type mechanisms or lifts requiring high vertical clearance.
+Rotational ramp swing arm 107 is stressed primarily at the fulcrum of handle 108, and on the surface of swing arm lifting ramp surface 109 as ramp surface 109 lifts lifting post pin 114 and pin 114 rides up ramp surface 109 during lifting of adhesion membrane 101. To more evenly accommodate this load, swing arm lifting ramp surface 109 may be manufactured so that the ramp profile maintains contact with the entire engaged length of the adhesion membrane lifting post ramp pin 114. Rotational ramp swing arm 107 and adhesion membrane lifting post ramp pin 114 may be designed to be resilient over many use, e.g., no less than about 40,000 cycles; a number that is only suggested and depends on the overall use model of the suction-security system. In some specific implementations, rotational ramp swing arm 107 may be made of stainless steel, hardened aluminum, or hardened polymer, depending upon desired life expectancy, weight, cost, and other factors depended on the intended use of suction-security device 100. A non-ferrous material would be used in an implementation that employs a locking pin 110 and related components.
+ Ramp pin 114 may be fit in a hole through adhesion membrane lifting post 113. In implementations employing a locking pin 110, the hole through adhesion membrane lifting post 113 for ramp pin 114 may be above the security locking pin channel 112 to allow the lowest part of the swing arm lifting ramp surface 109 to fit under lifting post ramp pin 114. Lifting post ramp pin 114 may extend the width of the top of adhesion membrane lifting post 113 plus the width of the swing arm lifting ramp surface 109, so that one end of lifting post ramp pin 114 is flush with the exterior of swing arm lifting ramp surface 109 and the other end of lifting post ramp pin 114 is flush with the exterior of the adhesion membrane lifting post 113. Lifting post ramp pin 114 should be a suitably strong and inflexible material to accommodate stress during the lifting process along the swing arm lifting ramp surface 109 and at the junction of adhesion membrane lifting post 113.
+A user when beginning to activate lift mechanism 140 to create suction and attachment of suction-security system 100 to anchor surface 150 may apply downward pressure at the top of anti-pry structure 130, e.g., apply pressure near or on rotational ramp swing arm 107, so that anti-pry external structure 130 contacts anchor surface 150 and adhesion membrane depression wall 104 of anti-pry structure 130 contacts the top of adhesion membrane 101 around the perimeter of adhesion membrane 101. Membrane relaxer spring 115 may be under partial tension at this point. Rotation of rotational ramp swing arm 107 by about 180° provides lift of adhesion membrane lifting post 113 through the external structure of reinforcement bushing 106 as swing arm lifting ramp surface 109 forces adhesion membrane lifting post ramp pin 114 vertically upward. A suitable vacuum thus created between adhesion membrane 101 and anchor surface 150 securely attaches suction-security system 100 to anchor surface 150, and contact between the perimeter of membrane 101 and a sufficiently smooth anchor surface 150 will maintain adequate vacuum and secure attachment for an extended time, e.g., up to a few days or more.
+ Anti-pry structure 130 may prevent unauthorized release of the vacuum by shielding adhesion membrane 101, e.g., preventing undesired lifting of the outer edge of adhesion membrane 101. In general, a base portion of anti-pry structure 130 may contact (or be in close proximity) with anchor surface 150 to prevent insertion of a pry bar or tool under anti-pry structure 130. Further, anti-pry structure 130 may include extension 103, extending well beyond the edges of central portion 102 surrounding membrane 101. In one specific implementation, adhesion membrane 101 and the central portion of anti-pry structure 130 may be about 4 inches in diameter, and optional extension 103 may extend about 2 inches beyond the perimeter of membrane 101. Extension 103 may be shorter, e.g., about ½ inch tall, than central portion 102, e.g., about ¾ inch tall, since extension 103 does not need to be tall enough to contain adhesion membrane 101. Extension 103 may further inhibit access to membrane 101 and provide large moment arm to resist prying at the edges of anti-pry structure 130. The size of the optional anti-pry structure extension 103 may depend on the application in which suction-security system 100 is employed. For example, suction-security system 100 may be employed in an enclosure such as a briefcase that is large enough that the extent of the briefcase sufficiently inhibits access to membrane 101, in which case anti-pry extension 103 may not be required.
+ Anti-pry structure 130 may also help prevent an attempt to break adhesion through attempted lateral or rotational movement of suction-security system 100. In particular, reinforcement bushing 106 may permit externally accessible portions of anti-pry structure 130 to rotate about lifting post 113 and adhesion membrane 101. Further, some implementations such as suction-security system 200 of FIG. 2 replace membrane depression wall 104, which may contact adhesion membrane 101, with rotatable depression wall ring 105. Depression wall ring 105 may be a ring that resides inside of the remainder of anti-pry external structure 135 of suction-security system 200. As a result, if an unauthorized person manages to rotate an external portion of anti-pry structure 135, wall ring 105 and membrane lifting post 113 do not rotate with the external portion of anti-pry structure 135 and do not transfer the rotation to adhesion membrane 101. Suction-security system 200 can remain attached to anchor surface 150 even when rotated. Suction-security system 200 of FIG. 2 may otherwise be identical to suction-security system 100 of FIGS. 1A, 1B, and 1C as described herein.
+Suction-security system 100 may further employ a security mechanism to prevent unauthorized rotation of swing arm 107. The illustrated embodiment of suction-security system 100 employs locking pin 110 that fits in swing arm channel 111 in swing arm 107 and is able to at least partially slip into bushing channel 112 in reinforcement bushing 106 when rotation ramp swing arm 107 is in the locked position shown in FIG. 1B. (The locked position corresponds to the adhered position.) Swing arm channel 111 in rotational ramp swing arm 107, locking pin 110, and bushing channel 112 in bushing 106 may be reinforced or made of strong material to resist sheering if rotation of arm 107 is attempted while locking pin 110 bridges both swing arm channel 111 and bushing channel 112. In one implementation, locking pin 110 is iron or another ferromagnetic material and may be magnetically lifted out of bushing channel 112 using a magnet to unlock rotation. In another implementation, locking pin 110 is magnetized and may be magnetically lifted out of or pushed into bushing channel 112 using a magnet to lock or unlock rotation of rotational ramp swing arm 107.
+ FIG. 4 shows an optional magnetic key fob 116 that may be used to move locking pin 110 between swing arm channel 111 and bushing channel 112. In some implementations, optional magnetic key fob 116 is used to both engage and disengage the rotational ramp swing arm optional security locking pin 110. Magnetic key fob 116 may be formed of a polymer or other suitable material with a Neodymium or Rare Earth magnet 126 imbedded in fob 116. Depending on the application, locking pin 110 may also be magnetized to allow magnetic key fob 116 to be turned so that the side of the magnet in fob 116 facing the hub of swing arm 101 attracts locking pin 110 or be turned so that the opposite side of the magnet in fob 116 faces the hub of swing arm 101 and repels locking pin 110. With a magnetized locking pin 110, magnetic key fob 116 may be used to push locking pin 110 to bridge swing arm channel 111 and bushing channel 112 to lock rotational swing arm 107 when suction has been activated or may be used to lift (or push) locking pin 110 free of one of swing arm channel 111 and bushing channel 112 to unlock rotational arm 107 and permit rotation to release the suction.
+Another optional modification to a rotational ramp swing arm is shown in FIG. 5. FIG. 5 particularly shows an exploded view of one implementation of a mechanically keyed rotational ramp swing arm 142. Mechanically keyed rotational ramp swing arm 142 includes a removable rotational ramp swing arm keyed socket 117 that a user can separate from the remainder of keyed rotational ramp swing arm 142 to thereby prevent the rotation of swing arm lifting ramp surface 109. In FIG. 5, swing arm lifting ramp surface 109 is within a swing arm lifting ramp keyed nut 118, which is turned by coupling rotational ramp swing arm keyed socket 117 to swing arm lifting ramp keyed nut 118 and rotating rotational ramp swing arm keyed socket 117. Swing arm lifting ramp keyed nut 118 rides on a thrust washer 119 and a needle bearing 120 through which membrane lift post 113 passes. A rotational ramp swing arm key guard 121 surrounds swing arm lifting ramp keyed nut 118 to prevent or inhibit use of a tool, other than rotational ramp swing arm keyed socket 117, from engaging with and rotating swing arm lifting ramp keyed nut 118. FIG. 5 only shows one example of a key pattern, but a sufficient number of alternative patterns may be provided in different suction-security systems to reduce duplications of the same key patter potentially being utilized in close proximity to each other. Mechanically keyed rotational ramp swing arm 142 can be used in place of rotational ramp swing arm 107 in suction- security system 100 or 200.
+Rotational ramp swing arm keyed socket 117 and swing arm lifting ramp keyed nut 118 may be made of a stainless steel, hardened aluminum, or hardened polymer, depending upon desired life expectancy, weight, cost, and other factors. The thrust washer 119 is a common load bearing element and can be made of the same materials. Thrust needle bearing 120 is typically a hardened chrome steel and should be able to handle a minimum of 40,000 cycles; a number that is only suggested and should be validated within the overall use model of the suction-security system. The rotational ramp swing arm key guard 121 may be stainless steel so as to resist breaking with common hand tools. In general, the rotational ramp swing arm optional security locking pin 110, swing arm channel 111, and bushing channel 112 are not required or used in implementations using mechanically keyed rotational ramp swing arm 142.
+Suction-security systems such as disclosed herein may be employed to secure any desired object, e.g., through attachment cables or other structures that connect a suction-security device to the object being secured. In some implementations, a suction-security system may be built into the object being secured. FIG. 6 shows an example of a low-profile suction-security system integrated into a backpack 600. In particular, suction-security system 610 may be mounted through and attached to a wall of an enclosure 620 of backpack 600. Suction-security system 610 may be in accordance with any of the implementations disclosed herein and is mounted so that an activation control 612 of a lift mechanism of suction security system 610 is located in the interior of enclosure 620. Activation portion 612 may particularly include a rotational ramp swing arm as described above. An adhesion membrane (not visible in FIG. 6) of suction-security system 610 is located outside of enclosure 620. Backpack 600 may be secured by pressing the external adhesion membrane and external portions of an anti-pry structure against a suitable anchor surface and rotating activation control 612 to activate suction. For a backpack 600 in which enclosure 620 may not be lockable, suction-security system 610 may be magnetically lockable or mechanically lockable as described above to prevent unauthorized removal or movement of backpack 600.
+Suction security systems may similarly be applied in other types of flexible material enclosures such as a purse. In such uses, whether the suction-security system is lockable or not, the suction security system may still prevent “snatch and go” thefts of the purses, backpacks, and other flexible material enclosures by preventing movement of the enclosure from an anchor surface.
+ FIG. 7 shows a case 700 incorporating a low-profile suction-security system 710 mounted in a wall of an enclosure 720 of case 700. Case 700 may be a hard-walled structure such as a briefcase, a laptop case, or a suitcase. Suction-security system 710 may be a low-profile suction-security system of minimized height so that the remaining space in enclosure 720 is sufficient to secure desired contents of case 720. Suction-security system 710 may be in accordance with any of the implementations disclosed herein and is mounted so that an activation control 712 of a lift mechanism of suction-security system 710 is located in the interior of enclosure 720. An adhesion membrane (not visible in FIG. 7) of suction-security system 710 is located outside of enclosure 720. Case 700 may be secured by pressing the external adhesion membrane and external portions of an anti-pry structure of suction-security system 710 against a suitable anchor surface, rotating activation control 712 to activate suction, and then closing enclosure 720 so that activation control 712 is enclosed within briefcase 700. Briefcase 700 further has a lock 722 that may be locked to prevent unauthorized access to activation control 712. Accordingly, suction-security system 710 does not need to be lockable but may optionally be magnetically lockable or mechanically lockable as described above to prevent unauthorized removal or movement of briefcase 700.
+In one implementation, suction-security system 710 is identical to suction-security system 100, and central portion 102 of anti-pry structure 130 suction-security system 100 extends through a hole in a wall of enclosure 720. Fasteners 714, e.g., bolts or rivets, also extend through respective holes in the wall of enclosure 720 and fasten to extension 103 of anti-pry structure 130 of suction-security system 100. With a low profiled system, the portion of suction-security system 100 inside enclosure 720 may be about 1.5 inches tall or less.
+In another implementation, a clear or windowed case with an integrated suction security system can be employed in a store such as a jewelry store or other commercial environment that sells items that may need to be secured while being displayed. For example, case 700 may have a transparent or windowed top, so that enclosure 720 can provide a secure semi-portable display case for expensive items. Case 700 may be moved and secured as needed for potential buyers to observe items in case 700, for example, during a side-by-side comparisons with items in another case. The securable mobility of case 700 may be more convenient than having items separated and secured at great distance from each other inside of large glass cases.
+The suction-security systems as disclosed herein may be used to secure items against theft as described above and may also be used to secure items for use. In particular, an item may be secured to an anchor surface in a moving environment to prevent shifting of the item. In an automobile or a plane, for example, the anchor surface may be a tray table or the back of a seat, or in a boat on open and rough seas, the anchor surface may be the deck of the boat. The suction-security systems may also be used to provide a stable working platform in working environments, for example, where technicians may hold equipment in place by attaching a suction system of the equipment to smooth surfaces such as the surfaces of junction boxes or panels. For such attachments, the anchor surface may be horizontal, inclined, or even horizontal, and the suction may still fix the item in place.
+Although suction-security systems have been explained in specific uses, there are many other use cases, modifications, and variations possible further implementations within the scope of the following claims.
+Claims (17)
+ What is claimed is:
+1. A suction-security system comprising:
+an adhesion membrane;
+a shield surrounding a top of the adhesion membrane;
+a post coupled to a central portion of the adhesion membrane, the post extending through the shield;
+a pin set in the post; and
+a swing arm including a hub through which a portion of the post extends, the hub including a helical inclined surface on which the pin rides such that rotation of the swing arm by less than a full turn about an axis extending through the post lifts the post in a direction along the axis and lifts the central portion of the adhesion membrane sufficiently to adhere the adhesion membrane to an anchor surface in contact with a portion of the adhesion membrane.
+2. The system of claim 1, wherein the swing arm comprises:
+a keyed nut including the helical inclined surface; and
+a socket shaped to detachably engage the keyed nut during the rotation of the swing arm.
+3. The system of claim 1, further comprising a locking pin, wherein:
+when the swing arm is in a position lifting the central portion of the adhesion membrane, the locking pin is movable between a first channel in the swing arm and a second channel in the shield; and
+the locking pin extending simultaneously into both the first channel and the second channel prevents rotation of swing arm.
+4. The system of claim 3, wherein the locking pin is ferromagnetic and movable out of the second channel using a magnet above the swing arm.
+5. The system of claim 3, wherein the locking pin is magnetized and responds to a magnet above the swing arm by moving in a first direction into the first channel or moving in a second direction into the second channel depending on an orientation of the magnet.
+6. The system of claim 1, wherein the shield comprises a wall positioned to contact a top surface of the adhesion membrane adjacent to a perimeter of the adhesion membrane.
+7. The system of claim 6, wherein the wall is sized and positioned to press on the perimeter of the adhesion membrane when the shield and membrane are pressed against a flat surface.
+8. The system of claim 6, wherein the wall comprises a ring positioned to contact the top surface of the adhesion membrane adjacent to the perimeter of the adhesion membrane, the ring being rotatable relative to other portions of the shield.
+9. The system of claim 1, wherein the shield comprises a bushing through which the post extends, the bushing making at least a portion of the shield rotatable about the post.
+10. The system of claim 1, wherein the shield comprises:
+a central portion surrounding the top of the adhesion membrane; and
+an extension extending from the central portion.
+11. The system of claim 10, wherein the extension comprises mounting structure for attachment of the suction security system to an enclosure with the extension being outside the enclosure and the central portion extending into an interior of the enclosure.
+12. The system of claim 1, further comprising an enclosure, wherein the shield is attached to the enclosure and positioned so that the adhesion membrane is outside the enclosure and the swing arm is inside the enclosure.
+13. The system of claim 12, wherein the enclosure is selected from a display case, a briefcase, a laptop case, a suitcase, or a backpack.
+14. The system of claim 12, wherein when adhered to the anchor surface, the suction system provides the enclosure with stability from shifting.
+15. A suction-security system comprising:
+an adhesion membrane;
+a shield surrounding a top of the adhesion membrane;
+a post coupled to a central portion of the adhesion membrane, the post extending through the shield;
+a swing arm coupled to the post such that rotation of the swing arm about an axis extending through the post lifts the post in a direction along the axis and lifts the central portion of the adhesion membrane in the direction along the axis; and
+a locking pin, wherein:
+when the swing arm is in a position lifting the central portion of the adhesion membrane, the locking pin is movable between a first channel in the swing arm and a second channel in the shield; and
+the locking pin extending simultaneously into both the first channel and the second channel prevents rotation of swing arm.
+16. The system of claim 15, wherein the locking pin is movable out of the second channel using a magnet adjacent to the swing arm.
+17. The system of claim 1, wherein engagement of the pin with the inclined surface limits rotation of the swing arm to less than a full turn about the axis extending through the post.
+ US16/143,299
+ 2017-09-27
+ 2018-09-26
+ Suction-security system 
+ Expired - Fee Related
+ US10731391B2
+ (en)
+Priority Applications (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ US16/143,299
+ US10731391B2
+ (en)
+ 2017-09-27
+ 2018-09-26
+ Suction-security system 
+ PCT/US2018/053159
+ WO2019067742A1
+ (en)
+ 2017-09-27
+ 2018-09-27
+ Suction-security system 
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ US201762564166P
+ 2017-09-27
+ 2017-09-27
+ US16/143,299
+ US10731391B2
+ (en)
+ 2017-09-27
+ 2018-09-26
+ Suction-security system 
+Publications (2)
+ Publication Number
+ Publication Date
+ US20190093400A1
+ US20190093400A1
+ (en)
+ 2019-03-28
+ US10731391B2
+ true
+ US10731391B2
+ (en)
+ 2020-08-04
+Family
+ID=65808820
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US16/143,299
+ Expired - Fee Related
+ US10731391B2
+ (en)
+ 2017-09-27
+ 2018-09-26
+ Suction-security system 
+Country Status (2)
+ Country
+ Link
+ US
+ (1)
+ US10731391B2
+ (en)
+ WO
+ (1)
+ WO2019067742A1
+ (en)
+Cited By (4)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US11019910B2
+ (en)
+ *
+ 2019-01-24
+ 2021-06-01
+ bLkPiNa, LLC
+ Perspective adjustable viewing apparatus with base suction device for locking to surfaces 
+ US20210215193A1
+ (en)
+ *
+ 2020-01-10
+ 2021-07-15
+ Olson Ip Technologies, Inc.
+ Suction Mount and Brackets and Accessories Therefor 
+ USD1005084S1
+ (en)
+ 2020-01-21
+ 2023-11-21
+ Olson Ip Technologies, Inc.
+ Suction cup mount 
+ USD1007287S1
+ (en)
+ *
+ 2023-09-12
+ 2023-12-12
+ Xiaocan Zheng
+ Suction cup hook 
+Families Citing this family (1)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN112196369A
+ (en)
+ *
+ 2020-10-10
+ 2021-01-08
+ 衡阳智电客车有限责任公司
+ Anti-theft battery lock for ST pure electric pilgrimage onself vehicle 
+Citations (24)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US2233870A
+ (en)
+ *
+ 1940-02-06
+ 1941-03-04
+ Muter Company
+ Suction type fastener 
+ US2420811A
+ (en)
+ *
+ 1946-03-19
+ 1947-05-20
+ Brewster Sol
+ Glass-lifting or carrying device 
+ US2940713A
+ (en)
+ 1956-05-07
+ 1960-06-14
+ Dusen Engineering Company Van
+ Vacuum cup attachment device 
+ US3736779A
+ (en)
+ 1971-04-26
+ 1973-06-05
+ E Pratt
+ Lock 
+ FR2318996A2
+ (en)
+ 1975-07-25
+ 1977-02-18
+ Ziegel Olivier
+ TRANSPORTABLE BOX TO PROTECT A SMALL VOLUME OF VALUES FROM THEFT
+ US4029370A
+ (en)
+ 1974-10-02
+ 1977-06-14
+ Olivier Ziegel
+ Portable safe 
+ US4133575A
+ (en)
+ 1975-11-28
+ 1979-01-09
+ Ever-Clean Gmbh H.W. Nixdorf
+ Vibration damping means for windshield 
+ US5348168A
+ (en)
+ 1989-08-01
+ 1994-09-20
+ Better Sleep Mfg.
+ Releasably mountable caddy devices 
+ US5961087A
+ (en)
+ *
+ 1997-08-28
+ 1999-10-05
+ Lee; Yoo-Sun
+ Suction-type fixing mechanism of a flagpole for advertisement 
+ US5970860A
+ (en)
+ *
+ 1999-01-08
+ 1999-10-26
+ Yip; Chung Lun
+ Food processor 
+ US6045111A
+ (en)
+ 1998-08-10
+ 2000-04-04
+ Chien Lu Hardware Co., Ltd.
+ Fixing sucker structure 
+ US6170894B1
+ (en)
+ 1999-06-10
+ 2001-01-09
+ Rhonda Baker
+ Glass pane lifter apparatus 
+ US6478271B1
+ (en)
+ *
+ 2001-08-07
+ 2002-11-12
+ Free-Free Industrial Corporation
+ Mounting sucker 
+ EP1338808B1
+ (en)
+ 2002-02-21
+ 2004-10-27
+ Free- Free Industrial Corp.
+ Mounting sucker 
+ US20060284043A1
+ (en)
+ 2005-06-16
+ 2006-12-21
+ Paradise Charles S
+ Suction device and bases for kitchenware, small appliances, and other applications 
+ WO2006138335A2
+ (en)
+ 2005-06-16
+ 2006-12-28
+ Lifetime Brands, Inc.
+ Suction devise and bases for kitchenware, small appliances, and other applications 
+ US7226026B2
+ (en)
+ *
+ 2005-06-22
+ 2007-06-05
+ Christina Lin
+ Suction device 
+ US7338020B2
+ (en)
+ *
+ 2004-02-28
+ 2008-03-04
+ Edward Magid
+ Attachment device for non-porous surfaces 
+ US20080217826A1
+ (en)
+ 2007-02-28
+ 2008-09-11
+ Lg Electronics Inc.
+ Suction plate and cradle for an automobile having the same 
+ WO2008123692A1
+ (en)
+ 2007-04-05
+ 2008-10-16
+ Airfix Co., Ltd.
+ Vacuum suction apparatus 
+ US20090050758A1
+ (en)
+ *
+ 2007-08-22
+ 2009-02-26
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+ JP2010121664A
+ (en)
+ 2008-11-18
+ 2010-06-03
+ Design Network Co Ltd
+ Suction device 
+ US8079557B2
+ (en)
+ 2010-01-08
+ 2011-12-20
+ Tu Tsung-Tzong
+ Suction cup device 
+ US20150369276A1
+ (en)
+ 2014-06-23
+ 2015-12-24
+ Daymen Us, Inc.
+ High Stiffness Suction Cup Device 
+ 2018
+ 2018-09-26
+ US
+ US16/143,299
+ patent/US10731391B2/en
+ not_active
+ Expired - Fee Related
+ 2018-09-27
+ WO
+ PCT/US2018/053159
+ patent/WO2019067742A1/en
+ not_active
+ Ceased
+Patent Citations (25)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US2233870A
+ (en)
+ *
+ 1940-02-06
+ 1941-03-04
+ Muter Company
+ Suction type fastener 
+ US2420811A
+ (en)
+ *
+ 1946-03-19
+ 1947-05-20
+ Brewster Sol
+ Glass-lifting or carrying device 
+ US2940713A
+ (en)
+ 1956-05-07
+ 1960-06-14
+ Dusen Engineering Company Van
+ Vacuum cup attachment device 
+ US3736779A
+ (en)
+ 1971-04-26
+ 1973-06-05
+ E Pratt
+ Lock 
+ US4029370A
+ (en)
+ 1974-10-02
+ 1977-06-14
+ Olivier Ziegel
+ Portable safe 
+ FR2318996A2
+ (en)
+ 1975-07-25
+ 1977-02-18
+ Ziegel Olivier
+ TRANSPORTABLE BOX TO PROTECT A SMALL VOLUME OF VALUES FROM THEFT
+ US4133575A
+ (en)
+ 1975-11-28
+ 1979-01-09
+ Ever-Clean Gmbh H.W. Nixdorf
+ Vibration damping means for windshield 
+ US5348168A
+ (en)
+ 1989-08-01
+ 1994-09-20
+ Better Sleep Mfg.
+ Releasably mountable caddy devices 
+ US5961087A
+ (en)
+ *
+ 1997-08-28
+ 1999-10-05
+ Lee; Yoo-Sun
+ Suction-type fixing mechanism of a flagpole for advertisement 
+ US6045111A
+ (en)
+ 1998-08-10
+ 2000-04-04
+ Chien Lu Hardware Co., Ltd.
+ Fixing sucker structure 
+ US5970860A
+ (en)
+ *
+ 1999-01-08
+ 1999-10-26
+ Yip; Chung Lun
+ Food processor 
+ US6170894B1
+ (en)
+ 1999-06-10
+ 2001-01-09
+ Rhonda Baker
+ Glass pane lifter apparatus 
+ US6478271B1
+ (en)
+ *
+ 2001-08-07
+ 2002-11-12
+ Free-Free Industrial Corporation
+ Mounting sucker 
+ EP1338808B1
+ (en)
+ 2002-02-21
+ 2004-10-27
+ Free- Free Industrial Corp.
+ Mounting sucker 
+ US7338020B2
+ (en)
+ *
+ 2004-02-28
+ 2008-03-04
+ Edward Magid
+ Attachment device for non-porous surfaces 
+ US20060284043A1
+ (en)
+ 2005-06-16
+ 2006-12-21
+ Paradise Charles S
+ Suction device and bases for kitchenware, small appliances, and other applications 
+ WO2006138335A2
+ (en)
+ 2005-06-16
+ 2006-12-28
+ Lifetime Brands, Inc.
+ Suction devise and bases for kitchenware, small appliances, and other applications 
+ WO2006138335A3
+ (en)
+ 2005-06-16
+ 2007-05-24
+ Design For Living L L C
+ Suction devise and bases for kitchenware, small appliances, and other applications 
+ US7226026B2
+ (en)
+ *
+ 2005-06-22
+ 2007-06-05
+ Christina Lin
+ Suction device 
+ US20080217826A1
+ (en)
+ 2007-02-28
+ 2008-09-11
+ Lg Electronics Inc.
+ Suction plate and cradle for an automobile having the same 
+ WO2008123692A1
+ (en)
+ 2007-04-05
+ 2008-10-16
+ Airfix Co., Ltd.
+ Vacuum suction apparatus 
+ US20090050758A1
+ (en)
+ *
+ 2007-08-22
+ 2009-02-26
+ Carnevali Jeffrey D
+ Suction cup having compact axial installation and release mechanism 
+ JP2010121664A
+ (en)
+ 2008-11-18
+ 2010-06-03
+ Design Network Co Ltd
+ Suction device 
+ US8079557B2
+ (en)
+ 2010-01-08
+ 2011-12-20
+ Tu Tsung-Tzong
+ Suction cup device 
+ US20150369276A1
+ (en)
+ 2014-06-23
+ 2015-12-24
+ Daymen Us, Inc.
+ High Stiffness Suction Cup Device 
+Cited By (5)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US11019910B2
+ (en)
+ *
+ 2019-01-24
+ 2021-06-01
+ bLkPiNa, LLC
+ Perspective adjustable viewing apparatus with base suction device for locking to surfaces 
+ US20210215193A1
+ (en)
+ *
+ 2020-01-10
+ 2021-07-15
+ Olson Ip Technologies, Inc.
+ Suction Mount and Brackets and Accessories Therefor 
+ US12031565B2
+ (en)
+ *
+ 2020-01-10
+ 2024-07-09
+ Olson Ip Technologies, Inc.
+ Suction mount and brackets and accessories therefor 
+ USD1005084S1
+ (en)
+ 2020-01-21
+ 2023-11-21
+ Olson Ip Technologies, Inc.
+ Suction cup mount 
+ USD1007287S1
+ (en)
+ *
+ 2023-09-12
+ 2023-12-12
+ Xiaocan Zheng
+ Suction cup hook 
+Also Published As
+ Publication number
+ Publication date
+ US20190093400A1
+ (en)
+ 2019-03-28
+ WO2019067742A1
+ (en)
+ 2019-04-04
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US20190093400A1
+ (en)
+ 2019-03-28
+ Suction-security system 
+ US7866713B2
+ (en)
+ 2011-01-11
+ Locker structure 
+ US10443274B2
+ (en)
+ 2019-10-15
+ Locking assembly for electronic tablet and other devices 
+ US20110100073A1
+ (en)
+ 2011-05-05
+ Anti-theft device for laptop computer or portable electronic product 
+ US9593523B1
+ (en)
+ 2017-03-14
+ System and method for preventing/mitigating theft from a container, such as a safe 
+ US8479543B2
+ (en)
+ 2013-07-09
+ Door locking system with an idle handle 
+ US20120272693A1
+ (en)
+ 2012-11-01
+ Locking assembly for electronic tablet and other devices 
+ US20110252838A1
+ (en)
+ 2011-10-20
+ Handle 
+ CA2455096A1
+ (en)
+ 2005-05-10
+ Portable computer and docking station locking structure 
+ US9216697B1
+ (en)
+ 2015-12-22
+ Vehicle vault assembly 
+ US11203473B1
+ (en)
+ 2021-12-21
+ Cooler device 
+ US9575506B2
+ (en)
+ 2017-02-21
+ Protecting casing for a portable electronic device 
+ US9598883B1
+ (en)
+ 2017-03-21
+ Security device for portable objects 
+ JP5154376B2
+ (en)
+ 2013-02-27
+ Adsorption device
+ US20210054665A1
+ (en)
+ 2021-02-25
+ Locking assembly for electronic tablet and devices 
+ GB2423922A
+ (en)
+ 2006-09-13
+ A security box assembly with a rotatably mounted elongate securing portion 
+ US20130269401A1
+ (en)
+ 2013-10-17
+ Deadbolt latch lock 
+ US20180238079A1
+ (en)
+ 2018-08-23
+ Security Key Hasp 
+ US20070125137A1
+ (en)
+ 2007-06-07
+ Security device for a computer system 
+ GB2468690A
+ (en)
+ 2010-09-22
+ Security case and base member 
+ US6341510B1
+ (en)
+ 2002-01-29
+ Locking device for computer 
+ US6883274B2
+ (en)
+ 2005-04-26
+ Device and method for opening a door 
+ GB2483919A
+ (en)
+ 2012-03-28
+ Portable door lock 
+ US20250034911A1
+ (en)
+ 2025-01-30
+ Device and method for storing a lock 
+ CN2404975Y
+ (en)
+ 2000-11-08
+ storage padlock
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2018-09-26
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2018-10-17
+ FEPP
+ Fee payment procedure
+ Free format text:
+ ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2019-01-07
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ DOCKETED NEW CASE - READY FOR EXAMINATION
+ 2019-09-16
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ NON FINAL ACTION MAILED
+ 2019-12-20
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+ 2020-03-17
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ FINAL REJECTION MAILED
+ 2020-06-29
+ STPP
+ Information on status: patent application and granting procedure in general
+ Free format text:
+ PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+ 2020-07-15
+ STCF
+ Information on status: patent grant
+ Free format text:
+ PATENTED CASE
+ 2024-03-25
+ FEPP
+ Fee payment procedure
+ Free format text:
+ MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2024-09-09
+ LAPS
+ Lapse for failure to pay maintenance fees
+ Free format text:
+ PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+ 2024-09-09
+ STCH
+ Information on status: patent discontinuation
+ Free format text:
+ PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+ 2024-10-01
+ FP
+ Lapsed due to failure to pay maintenance fee
+ Effective date:
+ 20240804

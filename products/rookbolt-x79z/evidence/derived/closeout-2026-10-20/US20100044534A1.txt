@@ -1,0 +1,881 @@
+US20100044534A1 - Resizable device stand 
+ - Google Patents
+US20100044534A1 - Resizable device stand 
+ - Google Patents
+ Resizable device stand 
+ Download PDF
+Info
+ Publication number
+ US20100044534A1
+ US20100044534A1
+ US12/427,708
+ US42770809A
+ US2010044534A1
+ US 20100044534 A1
+ US20100044534 A1
+ US 20100044534A1
+ US 42770809 A
+ US42770809 A
+ US 42770809A
+ US 2010044534 A1
+ US2010044534 A1
+ US 2010044534A1
+ Authority
+ US
+ United States
+ Prior art keywords
+ gear
+ clamps
+ stand
+ locking
+ housing
+ Prior art date
+ 2008-08-22
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+ Abandoned
+ Application number
+ US12/427,708
+ Inventor
+ Meng-Hua He
+ Gang Cheng
+ Chun-Che Yen
+ Yu-Tao Chen
+ Te-Sheng Jan
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+ Hongfujin Precision Industry Shenzhen Co Ltd
+ Hon Hai Precision Industry Co Ltd
+ Original Assignee
+ Hongfujin Precision Industry Shenzhen Co Ltd
+ Hon Hai Precision Industry Co Ltd
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+ 2008-08-22
+ Filing date
+ 2009-04-21
+ Publication date
+ 2010-02-25
+ 2009-04-21
+ Application filed by Hongfujin Precision Industry Shenzhen Co Ltd, Hon Hai Precision Industry Co Ltd
+ filed
+ Critical
+ Hongfujin Precision Industry Shenzhen Co Ltd
+ 2009-04-21
+ Assigned to HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD., HON HAI PRECISION INDUSTRY CO., LTD.
+ reassignment
+ HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD.
+ ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+ Assignors: JAN, TE-SHENG, CHEN, Yu-tao, YEN, CHUN-CHE, CHENG, GANG, HE, Meng-hua
+ 2010-02-25
+ Publication of US20100044534A1
+ publication
+ Critical
+ patent/US20100044534A1/en
+ Status
+ Abandoned
+ legal-status
+ Critical
+ Current
+Links
+ USPTO
+ USPTO PatentCenter
+ USPTO Assignment
+ Espacenet
+ Global Dossier
+ Discuss
+ 239000012528
+ membrane
+ Substances
+ 0.000
+ description
+ 8
+ 239000002699
+ waste material
+ Substances
+ 0.000
+ description
+ 1
+Images
+Classifications
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B60R11/0241—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof for telephones
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B60R11/0252—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof for personal computers, e.g. laptops, notebooks
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R11/02—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof
+ B60R11/0258—Arrangements for holding or mounting articles, not otherwise provided for for radio sets, television sets, telephones, or the like; Arrangement of controls thereof for navigation systems
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R2011/0042—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means
+ B60R2011/0049—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means for non integrated articles
+ B60R2011/005—Connection with the vehicle part
+ B60R2011/0056—Connection with the vehicle part using suction cups
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R2011/0042—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means
+ B60R2011/0049—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means for non integrated articles
+ B60R2011/0064—Connection with the article
+ B60R2011/0071—Connection with the article using latches, clips, clamps, straps or the like
+ B—PERFORMING OPERATIONS; TRANSPORTING
+ B60—VEHICLES IN GENERAL
+ B60R—VEHICLES, VEHICLE FITTINGS, OR VEHICLE PARTS, NOT OTHERWISE PROVIDED FOR
+ B60R11/00—Arrangements for holding or mounting articles, not otherwise provided for
+ B60R2011/0042—Arrangements for holding or mounting articles, not otherwise provided for characterised by mounting means
+ B60R2011/008—Adjustable or movable supports
+Definitions
+ the present disclosure
+ relates to a device stand.
+ a motor vehicle
+ may be used by different drivers who each have their mobile device they would like it to be supported by a stand in the vehicle, or a single driver may used different devices at different times. Because stands are usually adapted for a specific device type and size, many different stands must be available in the vehicle, which can be unsightly and waste space.
+ FIG. 1
+ is a schematic, isometric view of a stand according to an exemplary embodiment, the stand including a suction base and a load-supporting module.
+ FIG. 2
+ is a exploded view of the load-supporting module of FIG. 1 .
+ FIG. 3
+ is a top plan view of the load-supporting module of FIG. 1 , with a top cover removed.
+ FIG. 4
+ is a schematic, isometric view of the suction base of FIG. 1 .
+ FIG. 5
+ is an exploded view of the suction base of FIG. 4 .
+ FIG. 6
+ is a section view of the suction base of FIG. 4 without a vacuum seal created.
+ FIG. 7
+ is a section view of the suction base of FIG. 4 with a vacuum seal created.
+ the stand 10
+ includes a suction base 20 and a load-supporting module 70 mounted on a top of the suction base 20 .
+ the load-supporting module 70
+ includes a housing 71 .
+ the housing 71
+ is rectangular, and includes a top cover 72 and a bottom cover 75 .
+ the top cover 72
+ defines a groove 73 therein.
+ the housing 71
+ is configured to house a pair of clamps 80 , a gear 91 , a torsion spring 92 , and a locking structure 95 .
+ Each of the clamps 80
+ is L-shaped, and includes a vertical part 81 and a horizontal part 82 .
+ the horizontal part 82
+ includes a rack gear 83 .
+ the rack gear 83
+ defines a plurality of locking grooves 84 on outer sidewalls thereof.
+ the horizontal part 82
+ is received by the groove 73 of the top cover 72 .
+ the vertical parts 81
+ are positioned upwardly from the opposite sites of the housing 71 .
+ the gear 91
+ is rotatably mounted in the housing 71 and meshes with the rack gears 83 .
+ the torsion spring 92
+ fits over a shaft of the gear 91 .
+ the torsion spring 92
+ causes the gear 91 to rotate, and causes the clamps 80 meshing with the gear 91 to move away from each other.
+ the locking structure 95
+ is used to lock the clamps 80 to fix the clamps 80 at a position, or to unlock the clamps 80 to allow the clamps 80 to move.
+ the locking structure 95
+ includes a locking pin 96 , a spring 97 , and an elastic piece 98 .
+ the locking pin 96
+ is slidably mounted in the housing 71 .
+ the spring 97
+ fits over the locking pin 96 and causes the locking pin 96 to engage with a locking groove 84 in one of the clamps 80 to lock the clamps 80 .
+ the elastic piece 98
+ is rotatably mounted in the housing 71 .
+ One end of the elastic piece 98
+ is fixed to the locking pin 96 .
+ the other end of the elastic piece 98
+ stays in an opening 74 of the housing 71 .
+ the locking structure 95
+ can be a wedge slideably mounted in the housing 71 .
+ the wedge
+ can plug into gaps between teeth of the gear 91 , thus locking the gear 91 and the clamps 80 , or move away from the gear 91 , thus unlocking the gear 91 and the clamps 80 .
+ a device
+ (not shown) is placed on the housing 71 .
+ the clamps 80
+ are pushed to move towards each other and to clamp the device.
+ the locking structure 95
+ locks the clamps 80 .
+ the device
+ is fixed on the load-supporting module 70 .
+ the distance between the clamps 80
+ can be varied for clamping different sized devices.
+ the elastic piece 98 of the locking structure 95
+ is pressed down and the clamps 80 are unlocked.
+ the torsion spring 92
+ causes the clamps 80 to move away from each other. Then, the device can be unloaded from the load-supporting module 70 .
+ the suction base 20
+ includes a suction piece 30 , a spring 56 , a fixing structure 40 for fitting over the suction piece 30 , pins 55 , a face cam 50 , a rotatable sleeve 57 , and a fixing cap 60 .
+ the suction piece 30
+ includes a membrane 31 and a shaft 32 extending upwardly from the membrane 31 .
+ the fixing structure 40
+ includes a shaft housing 41 and a sleeve 43 extending upwardly from the shaft housing 41 , and lower edge of the housing 41 forms a flange 45 .
+ the sleeve 43
+ defines axial running slots 42 .
+ An upper end of the sleeve 43
+ is closed.
+ the face cam 50
+ is ring-shaped and has a face 51 which includes grooves 53 defined therein.
+ the face cam 50
+ further includes axial rails 52 projected from an outer circumferential surface thereof.
+ the sleeve 43
+ receives the spring 56 , then is fit over the shaft 32 .
+ the spring 56
+ is positioned between the upper end of the sleeve 43 and the shaft 32 .
+ the face cam 50
+ is fit over the sleeve 43 .
+ One end of each of the pins 55
+ engages with the face 51 of the face cam 55 .
+ the other end of each of the pins 55
+ extends through the running slots 42 defined in the sleeve 43 and enters into holes 33 defined in the shaft 32 .
+ the rotatable sleeve 57
+ fits over the face cam 50 , and grooves (not shown) defined in an inner surface of the rotatable sleeve 57 engage with the rails 52 of the face cam 50 , thus to connect the rotatable sleeve 57 to the face cam 50 .
+ the fixing cap 60
+ is fixed to the upper end of the sleeve 43 by screws (not shown).
+ the suction base 20
+ is put on a flat surface, so as to ensure the membrane 31 is flush against the surface, and the pins 55 are initially at a lowest position on the face 51 . Then, the rotatable sleeve 57 is grasped and rotated, while holding the base 20 against the surface. During rotation of the sleeve 57 , which causes the face cam 50 to rotate, the pins 55 are driven along the face 51 until engaging in the grooves 53 .
+ the shaft 32
+ driven to move up by the pins 55 , pulls only a central portion of the membrane 31 away from the contacting surface, as the edge of the membrane 31 is limited by the flange 45 of the shaft housing 41 , thereby forming a vacuum seal between the membrane 31 and the contact surface.
+ the suction base 20
+ is fixed on the surface.
+ the suction base 20
+ can be easily removed from the flat surface by rotating the rotatable sleeve 57 . In this way, the membrane 31 is driven to move down, the vacuum between the membrane 31 and the surface of the flat surface is eliminated, and the suction base 20 is no longer fixed on the flat surface.
+Landscapes
+ Engineering & Computer Science
+ (AREA)
+ Mechanical Engineering
+ (AREA)
+ Hooks, Suction Cups, And Attachment By Adhesive Means
+ (AREA)
+ Manipulator
+ (AREA)
+Abstract
+A stand includes a suction base and a load-supporting module mounted on the suction base. The load-supporting module includes a housing to house a pair of clamps, a gear, and a locking structure. The house defines a groove therein. Each clamp includes a vertical part and a horizontal part. The horizontal part includes a rack gear, and is received by the groove. The vertical parts are positioned upwardly from opposite sides of the housing respectively. The gear is rotatably mounted in the housing and meshes with the rack gears respectively. The locking structure is used for locking or unlocking the clamps. The stand is adapted for supporting different types and sizes of devices.
+Description
+ BACKGROUND
+1. Technical Field
+The present disclosure relates to a device stand.
+2. Description of Related Art
+A motor vehicle may be used by different drivers who each have their mobile device they would like it to be supported by a stand in the vehicle, or a single driver may used different devices at different times. Because stands are usually adapted for a specific device type and size, many different stands must be available in the vehicle, which can be unsightly and waste space.
+What is needed is a resizable stand adapted for supporting different types and sizes of devices.
+ BRIEF DESCRIPTION OF THE DRAWINGS
+Many aspects of the embodiments can be better understood with reference to the following drawings. The components in the drawings are not necessarily drawn to scale, the emphasis instead being placed upon clearly illustrating the principles of the present disclosure. Moreover, in the drawings, like reference numerals designate corresponding parts throughout the several views.
+ FIG. 1 is a schematic, isometric view of a stand according to an exemplary embodiment, the stand including a suction base and a load-supporting module.
+ FIG. 2 is a exploded view of the load-supporting module of FIG. 1.
+ FIG. 3 is a top plan view of the load-supporting module of FIG. 1, with a top cover removed.
+ FIG. 4 is a schematic, isometric view of the suction base of FIG. 1.
+ FIG. 5 is an exploded view of the suction base of FIG. 4.
+ FIG. 6 is a section view of the suction base of FIG. 4 without a vacuum seal created.
+ FIG. 7 is a section view of the suction base of FIG. 4 with a vacuum seal created.
+ DETAILED DESCRIPTION
+Referring to FIG. 1, a stand 10 according to an exemplary embodiment is disclosed. The stand 10 includes a suction base 20 and a load-supporting module 70 mounted on a top of the suction base 20.
+Referring to FIGS. 2 and 3, the load-supporting module 70 includes a housing 71. The housing 71 is rectangular, and includes a top cover 72 and a bottom cover 75. The top cover 72 defines a groove 73 therein. The housing 71 is configured to house a pair of clamps 80, a gear 91, a torsion spring 92, and a locking structure 95.
+Each of the clamps 80 is L-shaped, and includes a vertical part 81 and a horizontal part 82. The horizontal part 82 includes a rack gear 83. The rack gear 83 defines a plurality of locking grooves 84 on outer sidewalls thereof. The horizontal part 82 is received by the groove 73 of the top cover 72. Referring to FIG. 1, the vertical parts 81 are positioned upwardly from the opposite sites of the housing 71.
+The gear 91 is rotatably mounted in the housing 71 and meshes with the rack gears 83. The torsion spring 92 fits over a shaft of the gear 91. The torsion spring 92 causes the gear 91 to rotate, and causes the clamps 80 meshing with the gear 91 to move away from each other.
+The locking structure 95 is used to lock the clamps 80 to fix the clamps 80 at a position, or to unlock the clamps 80 to allow the clamps 80 to move.
+In the exemplary embodiment, the locking structure 95 includes a locking pin 96, a spring 97, and an elastic piece 98. The locking pin 96 is slidably mounted in the housing 71. The spring 97 fits over the locking pin 96 and causes the locking pin 96 to engage with a locking groove 84 in one of the clamps 80 to lock the clamps 80. The elastic piece 98 is rotatably mounted in the housing 71. One end of the elastic piece 98 is fixed to the locking pin 96. The other end of the elastic piece 98 stays in an opening 74 of the housing 71. When the elastic piece 98 is pressed at the end in the opening 74, the elastic piece 98 disengages the locking pin 96 from the locking groove 84, thus unlocking the clamps 80.
+In other embodiments, the locking structure 95 can be a wedge slideably mounted in the housing 71. The wedge can plug into gaps between teeth of the gear 91, thus locking the gear 91 and the clamps 80, or move away from the gear 91, thus unlocking the gear 91 and the clamps 80.
+Referring also to FIG. 1, when loading, a device (not shown) is placed on the housing 71. The clamps 80 are pushed to move towards each other and to clamp the device. The locking structure 95 locks the clamps 80. In this way, the device is fixed on the load-supporting module 70. The distance between the clamps 80 can be varied for clamping different sized devices. When unloading a device, the elastic piece 98 of the locking structure 95 is pressed down and the clamps 80 are unlocked. The torsion spring 92 causes the clamps 80 to move away from each other. Then, the device can be unloaded from the load-supporting module 70.
+Referring to FIGS. 4, 5 and 6, the suction base 20 includes a suction piece 30, a spring 56, a fixing structure 40 for fitting over the suction piece 30, pins 55, a face cam 50, a rotatable sleeve 57, and a fixing cap 60.
+The suction piece 30 includes a membrane 31 and a shaft 32 extending upwardly from the membrane 31.
+The fixing structure 40 includes a shaft housing 41 and a sleeve 43 extending upwardly from the shaft housing 41, and lower edge of the housing 41 forms a flange 45. The sleeve 43 defines axial running slots 42. An upper end of the sleeve 43 is closed.
+The face cam 50 is ring-shaped and has a face 51 which includes grooves 53 defined therein. The face cam 50 further includes axial rails 52 projected from an outer circumferential surface thereof.
+During assembly of the suction base 20, first, the sleeve 43 receives the spring 56, then is fit over the shaft 32. The spring 56 is positioned between the upper end of the sleeve 43 and the shaft 32. Second, the face cam 50 is fit over the sleeve 43. One end of each of the pins 55 engages with the face 51 of the face cam 55. The other end of each of the pins 55 extends through the running slots 42 defined in the sleeve 43 and enters into holes 33 defined in the shaft 32. Third, the rotatable sleeve 57 fits over the face cam 50, and grooves (not shown) defined in an inner surface of the rotatable sleeve 57 engage with the rails 52 of the face cam 50, thus to connect the rotatable sleeve 57 to the face cam 50. Finally, the fixing cap 60 is fixed to the upper end of the sleeve 43 by screws (not shown).
+Referring to FIGS. 6 and 7, in use, the suction base 20 is put on a flat surface, so as to ensure the membrane 31 is flush against the surface, and the pins 55 are initially at a lowest position on the face 51. Then, the rotatable sleeve 57 is grasped and rotated, while holding the base 20 against the surface. During rotation of the sleeve 57, which causes the face cam 50 to rotate, the pins 55 are driven along the face 51 until engaging in the grooves 53. Meanwhile, the shaft 32, driven to move up by the pins 55, pulls only a central portion of the membrane 31 away from the contacting surface, as the edge of the membrane 31 is limited by the flange 45 of the shaft housing 41, thereby forming a vacuum seal between the membrane 31 and the contact surface. In this way, the suction base 20 is fixed on the surface.
+The suction base 20 can be easily removed from the flat surface by rotating the rotatable sleeve 57. In this way, the membrane 31 is driven to move down, the vacuum between the membrane 31 and the surface of the flat surface is eliminated, and the suction base 20 is no longer fixed on the flat surface.
+Moreover, it is to be understood that the invention may be embodied in other forms without departing from the spirit thereof. Thus, the present examples and embodiments are to be considered in all respects as illustrative and not restrictive, and the invention is not to be limited to the details given herein.
+Claims (6)
+ 1. A resizable device stand comprising:
+a suction base; and 
+a load-supporting module mounted on the suction base, the load-supporting module comprising:
+a housing defining a groove therein;
+a pair of clamps, each clamp comprising a vertical part and a horizontal part, wherein the horizontal part comprises a rack gear, and is received by the groove, the vertical parts being positioned upwardly from opposite sides of the housing, respectively;
+a gear rotatably mounted in the housing and meshing with the rack gears of the clamps, respectively; and
+a locking structure for locking or unlocking the clamps.
+ 2. The stand of claim 1, further comprising a torsion spring configured for causing the gear to rotate, and thus for causing the clamps to move away from each other.
+ 3. The stand of claim 2, wherein the torsion spring is fit over a shaft of the gear.
+ 4. The stand of claim 1, wherein the rack gear define a plurality of locking grooves, the locking structure comprises a locking pin, a spring for causing the locking pin engage with the locking grooves of the rack gear, and an elastic piece configured for causing the locking pin to move away from the locking grooves when received a pressure.
+ 5. The stand of claim 1, wherein the locking structure is a wedge slideably mounted in the housing, the wedge is able to plug into gaps between teeth of the gear or move away from the gear.
+ 6. The stand of claim 1, wherein the clamps are L-shaped. 
+ US12/427,708
+ 2008-08-22
+ 2009-04-21
+ Resizable device stand 
+ Abandoned
+ US20100044534A1
+ (en)
+Applications Claiming Priority (2)
+ Application Number
+ Priority Date
+ Filing Date
+ Title
+ CN200810304149A
+ CN101654078A
+ (en)
+ 2008-08-22
+ 2008-08-22
+ Instrument base capable of being applied to instruments of different specifications 
+ CN200810304149.3
+ 2008-08-22
+Publications (1)
+ Publication Number
+ Publication Date
+ US20100044534A1
+ true
+ US20100044534A1
+ (en)
+ 2010-02-25
+Family
+ID=41695461
+Family Applications (1)
+ Application Number
+ Title
+ Priority Date
+ Filing Date
+ US12/427,708
+ Abandoned
+ US20100044534A1
+ (en)
+ 2008-08-22
+ 2009-04-21
+ Resizable device stand 
+Country Status (2)
+ Country
+ Link
+ US
+ (1)
+ US20100044534A1
+ (en)
+ CN
+ (1)
+ CN101654078A
+ (en)
+Cited By (15)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ GB2479393A
+ (en)
+ *
+ 2010-04-08
+ 2011-10-12
+ Ronald Keith Packman
+ Vacuum mounted anchor for roof 
+ US20110303804A1
+ (en)
+ *
+ 2009-08-14
+ 2011-12-15
+ Cristina Rodrigues
+ Stand for a musical instrument 
+ US20120153098A1
+ (en)
+ *
+ 2010-12-20
+ 2012-06-21
+ Jeffrey Riach
+ Portable Table Support 
+ CN102980003A
+ (en)
+ *
+ 2011-09-02
+ 2013-03-20
+ 英业达股份有限公司
+ Expansion seat 
+ GB2501330A
+ (en)
+ *
+ 2012-04-16
+ 2013-10-23
+ David Shekoni
+ Hands free cradle for smart phone, PDA, satellite navigation device 
+ CN105034967A
+ (en)
+ *
+ 2015-07-31
+ 2015-11-11
+ 北京联合大学
+ Vehicle-mounted mobile phone support 
+ USD846622S1
+ (en)
+ *
+ 2016-12-21
+ 2019-04-23
+ 1317442 Alberta Ltd.
+ Spray bulb cleaner for digital camera sensors 
+ CN110371036A
+ (en)
+ *
+ 2019-08-05
+ 2019-10-25
+ 团团网约车(杭州)有限公司
+ Intelligent network with detachable base about vehicle invoice machinery 
+ USD896877S1
+ (en)
+ 2019-01-29
+ 2020-09-22
+ 1317442 Alberta Ltd.
+ Cleaning blower nozzle for digital camera sensor 
+ US10788857B2
+ (en)
+ 2018-09-05
+ 2020-09-29
+ ACCO Brands Corporation
+ Dock for a portable electronic device 
+ USD901507S1
+ (en)
+ 2018-09-05
+ 2020-11-10
+ ACCO Brands Corporation
+ Electronic dock 
+ CN112936652A
+ (en)
+ *
+ 2021-02-07
+ 2021-06-11
+ 钟蔚传
+ Plastic raw material cooling device based on rotary soaking cooling 
+ US20230122895A1
+ (en)
+ *
+ 2021-10-20
+ 2023-04-20
+ Custom Accessories Inc.
+ Stand for compact device 
+ CN117190016A
+ (en)
+ *
+ 2023-09-13
+ 2023-12-08
+ 立讯精密工业股份有限公司
+ fixed bracket
+ US20250333132A1
+ (en)
+ *
+ 2024-04-30
+ 2025-10-30
+ Dongguan Meiluodi Electronics Co., Ltd.
+ Bicycle bag with phone holder 
+Families Citing this family (9)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ CN104015666B
+ (en)
+ *
+ 2013-02-28
+ 2016-04-13
+ 比亚迪股份有限公司
+ A kind of rack device and vehicle thereof 
+ CN104385995B
+ (en)
+ *
+ 2014-07-09
+ 2016-04-13
+ 延锋汽车饰件系统有限公司
+ A kind of mounting system and lockable mechanism thereof and holding device 
+ CN104918450A
+ (en)
+ *
+ 2015-07-02
+ 2015-09-16
+ 深圳市大疆创新科技有限公司
+ Locking structure and clamping device using same 
+ CN105090692A
+ (en)
+ *
+ 2015-07-02
+ 2015-11-25
+ 深圳市大疆创新科技有限公司
+ Self-locking structure and clamping device using self-locking structure 
+ CN106764285B
+ (en)
+ *
+ 2017-01-16
+ 2020-06-23
+ 深圳一电航空技术有限公司
+ Clamping structure and head
+ CN107191748A
+ (en)
+ *
+ 2017-06-09
+ 2017-09-22
+ 国网吉林省电力有限公司电力科学研究院
+ The air sampler bracket and application method of a kind of anti-imbibition of integrated-type 
+ CN108016374A
+ (en)
+ *
+ 2017-12-28
+ 2018-05-11
+ 张城
+ A kind of automobile mounted foldable handset bracket 
+ CN112550169B
+ (en)
+ *
+ 2020-12-02
+ 2022-08-19
+ 华南理工大学广州学院
+ Working method of vehicle support with better stability during vehicle shaking 
+ CN114033927A
+ (en)
+ *
+ 2021-11-02
+ 2022-02-11
+ 江苏玖典电子安防技术有限公司
+ Monitoring and installing device of safety power utilization monitoring system 
+Citations (4)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US5457745A
+ (en)
+ *
+ 1994-07-11
+ 1995-10-10
+ Wang; Chin-Yang
+ Adjustable mobile phone holder 
+ US6354552B1
+ (en)
+ *
+ 1999-03-18
+ 2002-03-12
+ Posiflex Business Machines, Inc.
+ Tilt angle adjustable stand for LCD display 
+ US20060278788A1
+ (en)
+ *
+ 2005-05-27
+ 2006-12-14
+ Eagle Fan
+ Fixing seat 
+ US20070262217A1
+ (en)
+ *
+ 2006-05-15
+ 2007-11-15
+ Leland Wang
+ Sucking disc apparatus 
+ 2008
+ 2008-08-22
+ CN
+ CN200810304149A
+ patent/CN101654078A/en
+ active
+ Pending
+ 2009
+ 2009-04-21
+ US
+ US12/427,708
+ patent/US20100044534A1/en
+ not_active
+ Abandoned
+Patent Citations (4)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US5457745A
+ (en)
+ *
+ 1994-07-11
+ 1995-10-10
+ Wang; Chin-Yang
+ Adjustable mobile phone holder 
+ US6354552B1
+ (en)
+ *
+ 1999-03-18
+ 2002-03-12
+ Posiflex Business Machines, Inc.
+ Tilt angle adjustable stand for LCD display 
+ US20060278788A1
+ (en)
+ *
+ 2005-05-27
+ 2006-12-14
+ Eagle Fan
+ Fixing seat 
+ US20070262217A1
+ (en)
+ *
+ 2006-05-15
+ 2007-11-15
+ Leland Wang
+ Sucking disc apparatus 
+Cited By (17)
+ * Cited by examiner, † Cited by third party
+ Publication number
+ Priority date
+ Publication date
+ Assignee
+ Title
+ US20110303804A1
+ (en)
+ *
+ 2009-08-14
+ 2011-12-15
+ Cristina Rodrigues
+ Stand for a musical instrument 
+ US8636255B2
+ (en)
+ *
+ 2009-08-14
+ 2014-01-28
+ Cristina Rodrigues
+ Stand for a musical instrument 
+ GB2479393A
+ (en)
+ *
+ 2010-04-08
+ 2011-10-12
+ Ronald Keith Packman
+ Vacuum mounted anchor for roof 
+ US20120153098A1
+ (en)
+ *
+ 2010-12-20
+ 2012-06-21
+ Jeffrey Riach
+ Portable Table Support 
+ CN102980003A
+ (en)
+ *
+ 2011-09-02
+ 2013-03-20
+ 英业达股份有限公司
+ Expansion seat 
+ GB2501330A
+ (en)
+ *
+ 2012-04-16
+ 2013-10-23
+ David Shekoni
+ Hands free cradle for smart phone, PDA, satellite navigation device 
+ CN105034967A
+ (en)
+ *
+ 2015-07-31
+ 2015-11-11
+ 北京联合大学
+ Vehicle-mounted mobile phone support 
+ USD846622S1
+ (en)
+ *
+ 2016-12-21
+ 2019-04-23
+ 1317442 Alberta Ltd.
+ Spray bulb cleaner for digital camera sensors 
+ US11487325B2
+ (en)
+ 2018-09-05
+ 2022-11-01
+ ACCO Brands Corporation
+ Dock for a portable electronic device 
+ US10788857B2
+ (en)
+ 2018-09-05
+ 2020-09-29
+ ACCO Brands Corporation
+ Dock for a portable electronic device 
+ USD901507S1
+ (en)
+ 2018-09-05
+ 2020-11-10
+ ACCO Brands Corporation
+ Electronic dock 
+ USD896877S1
+ (en)
+ 2019-01-29
+ 2020-09-22
+ 1317442 Alberta Ltd.
+ Cleaning blower nozzle for digital camera sensor 
+ CN110371036A
+ (en)
+ *
+ 2019-08-05
+ 2019-10-25
+ 团团网约车(杭州)有限公司
+ Intelligent network with detachable base about vehicle invoice machinery 
+ CN112936652A
+ (en)
+ *
+ 2021-02-07
+ 2021-06-11
+ 钟蔚传
+ Plastic raw material cooling device based on rotary soaking cooling 
+ US20230122895A1
+ (en)
+ *
+ 2021-10-20
+ 2023-04-20
+ Custom Accessories Inc.
+ Stand for compact device 
+ CN117190016A
+ (en)
+ *
+ 2023-09-13
+ 2023-12-08
+ 立讯精密工业股份有限公司
+ fixed bracket
+ US20250333132A1
+ (en)
+ *
+ 2024-04-30
+ 2025-10-30
+ Dongguan Meiluodi Electronics Co., Ltd.
+ Bicycle bag with phone holder 
+Also Published As
+ Publication number
+ Publication date
+ CN101654078A
+ (en)
+ 2010-02-24
+Similar Documents
+ Publication
+ Publication Date
+ Title
+ US7913963B2
+ (en)
+ 2011-03-29
+ Device stand with suction base 
+ US20100155562A1
+ (en)
+ 2010-06-24
+ Adjustable device stand 
+ CN101654078A
+ (en)
+ 2010-02-24
+ Instrument base capable of being applied to instruments of different specifications 
+ CN101746324A
+ (en)
+ 2010-06-23
+ Instrument pedestal 
+ CN203237165U
+ (en)
+ 2013-10-16
+ Fixing device of vehicle-mounted navigator or vehicle-mounted mobile phone 
+ US7140586B2
+ (en)
+ 2006-11-28
+ Apparatus capable of holding an object 
+ KR101542196B1
+ (en)
+ 2015-08-05
+ Cradle of the portable device 
+ US10352072B2
+ (en)
+ 2019-07-16
+ Snap set door handle and lock knob assembly 
+ US20130270850A1
+ (en)
+ 2013-10-17
+ Holder and support apparatus 
+ JP2013016743A
+ (en)
+ 2013-01-24
+ Substrate storage container 
+ CN105682987B
+ (en)
+ 2018-06-12
+ Supporting equipment
+ KR20180080744A
+ (en)
+ 2018-07-13
+ Mobility container apparatus of vehicle 
+ CN108698545A
+ (en)
+ 2018-10-23
+ Holder for flat, roughly rectangular devices such as tablets or smartphones
+ JP5017672B2
+ (en)
+ 2012-09-05
+ Monitor attachment / detachment mechanism
+ KR20190024562A
+ (en)
+ 2019-03-08
+ Battery cover structure for portable optical communication equipment and optical communication equipment 
+ CN104608705B
+ (en)
+ 2017-02-01
+ Concealed clamping device for mobile equipment 
+ CN201317327Y
+ (en)
+ 2009-09-30
+ Instrument base capable of adapting to instruments with different specifications 
+ KR20130125196A
+ (en)
+ 2013-11-18
+ Hands free kit 
+ US9341202B2
+ (en)
+ 2016-05-17
+ Support device 
+ CN106423335A
+ (en)
+ 2017-02-22
+ Locking device used for locking sample stand to sample stage 
+ KR20190054485A
+ (en)
+ 2019-05-22
+ Handle device 
+ US8256804B2
+ (en)
+ 2012-09-04
+ Electronic apparatus and latching device thereof 
+ KR20100130807A
+ (en)
+ 2010-12-14
+ Door Lock Safety Handle
+ JP6510238B2
+ (en)
+ 2019-05-08
+ Locking device for portable terminal in car
+ KR20160020070A
+ (en)
+ 2016-02-23
+ Attachment type handy locker on bicycle 
+Legal Events
+ Date
+ Code
+ Title
+ Description
+ 2009-04-21
+ AS
+ Assignment
+ Owner name:
+ HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HE, MENG-HUA;CHENG, GANG;YEN, CHUN-CHE;AND OTHERS;SIGNING DATES FROM 20090410 TO 20090415;REEL/FRAME:022577/0158
+ Owner name:
+ HON HAI PRECISION INDUSTRY CO., LTD.,TAIWAN
+ Free format text:
+ ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HE, MENG-HUA;CHENG, GANG;YEN, CHUN-CHE;AND OTHERS;SIGNING DATES FROM 20090410 TO 20090415;REEL/FRAME:022577/0158
+ 2011-09-01
+ STCB
+ Information on status: application discontinuation
+ Free format text:
+ ABANDONED -- FAILURE TO RESPOND TO AN OFFICE ACTION

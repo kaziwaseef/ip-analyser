@@ -1,0 +1,64 @@
+Claims (
+8
+)
+What is claimed is:
+1
+. A magnetic component assembly for a mobile device comprising:
+a structure comprising:
+a top and a bottom; and
+an attachment interface comprising:
+a substantially annular or arcuate magnetic array of one or more arcuate or wedge-shaped magnetic attachment elements centered about an axis and configured to magnetically attach along and rotatably about the axis; and wherein
+the magnetic array is enclosed in the structure within one or more corresponding recesses axially formed in the top or bottom of the structure.
+2
+. A magnetic component assembly for a mobile device comprising:
+a structure extending about an axis and comprising:
+a top and a bottom; and
+an attachment interface attached to the structure and comprising:
+a substantially annular magnetic array of one or more annular, arcuate, polygonal, or wedge-shaped magnetic attachment elements centered about the axis and configured to magnetically attach along and rotatably about the axis; and wherein
+the magnetic attachment elements are enclosed between the top and bottom of the structure within one or more corresponding recesses disposed between two concentric faces of the structure extending along the axis.
+3
+. A magnetic component assembly for a mobile device comprising:
+a structure extending about an axis and comprising:
+a top and a bottom; and
+an attachment interface attached to the structure and comprising:
+a substantially annular magnetic array of one or more annular, arcuate, polygonal, or wedge-shaped magnetic attachment elements centered about the axis and embedded within one or more corresponding recesses disposed in the structure around a perimeter of one or more centrally disposed structural protrusions extending along the axis; wherein
+the magnetic array is configured to magnetically attach along and continuously couple about the axis; and wherein
+the magnetic array circumscribes a non-magnetized central region of the attachment interface.
+4
+. A magnetic component assembly for a mobile device comprising:
+a structure extending about an axis and comprising:
+a top and a bottom; and
+an attachment interface attached to the structure and comprising:
+a substantially annular or arcuate magnetic array of one or more arcuate, polygonal, or wedge-shaped magnetic attachment elements centered about the axis and embedded between the top and bottom of the structure within one or more corresponding recesses disposed between one or more structural protrusions extending along the axis; wherein
+the magnetic array is configured to magnetically attach along and rotatably couple about the axis; and wherein
+the magnetic array surrounds a non-magnetic region of the attachment interface.
+5
+. A magnetic component assembly for a mobile device comprising:
+a structure extending about an axis and comprising:
+a top and a bottom; and
+an attachment interface attached to the structure and comprising:
+a plurality of arcuate, polygonal, or wedge-shaped magnets arranged in a substantially continuous shape about the axis and embedded between the top and bottom of the structure within one or more corresponding recesses axially formed in the structure around one or more structural protrusions extending along the axis; and wherein
+the magnets are configured to magnetically attach along the axis and disposed around a perimeter of a central region of the assembly configured for inductive power transfer.
+6
+. A magnetic component assembly for a mobile device comprising:
+a structure extending about an axis and comprising:
+a top and a bottom; and
+an attachment interface attached to the structure and comprising:
+a substantially annular or arcuate magnetic array of one or more annular, arcuate, polygonal, or wedge-shaped magnetic attachment elements centered about the axis and adhesively embedded between the top and bottom of the structure within one or more corresponding recesses axially formed in the structure around one or more centrally disposed structural protrusions; wherein
+the magnetic array is configured to magnetically attach along and rotatably couple about the axis; and wherein
+the magnetic array surrounds a perimeter of a central region of the assembly configured for transfer of one or both of power and data.
+7
+. A magnetic component assembly for a mobile device comprising:
+a structure extending about an axis and comprising:
+a top and a bottom; and
+an attachment interface configured to attach to the structure and comprising:
+a first magnetic array of one or more annular, arcuate, polygonal, or wedge-shaped magnetic attachment elements centered about the axis and arranged in a substantially annular or arcuate shape, the magnetic attachment elements configured to magnetically attach along and continuously couple about the axis; and
+a second magnetic array of one or more magnetic attachment elements disposed about the axis around a perimeter of the first magnetic array and configured to magnetically attach along the axis; wherein
+the first and second magnetic arrays are spaced apart and separated by a non-magnetic region disposed therebetween; and wherein
+the first and second magnetic arrays are enclosed within one or more corresponding recesses formed in the top or bottom of the structure.
+8
+. A magnetic component assembly for a mobile device comprising:
+a first magnetic array of one or more magnetic attachment elements centered about an axis and arranged in a substantially annular or arcuate shape, the magnetic attachment elements configured to magnetically attach along and rotatably couple about the axis; and
+a second magnetic array of one or more magnetic attachment elements disposed about the axis with the first magnetic array and configured to magnetically attach along the axis; wherein
+the first and second magnetic arrays are spaced apart and separated by a non-magnetic region disposed therebetween; and wherein
+the first and second magnetic arrays are embedded within one or more corresponding recesses of an enclosing structure.

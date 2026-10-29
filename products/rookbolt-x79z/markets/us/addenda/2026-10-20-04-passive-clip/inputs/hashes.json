@@ -1,0 +1,42 @@
+[
+  {
+    "path": "inputs/S-086-passive-clip-statement.md",
+    "sha256": "9f5d1d37b53169809a69ab8aeab91b38d3b82f913a037ab004503e8790e36f14"
+  },
+  {
+    "path": "inputs/US11796126B2.txt",
+    "sha256": "bf69c2b1e13451dfd859bb8635dd16cfc82ff8a601e85b1a947824d0b39a7316"
+  },
+  {
+    "path": "inputs/US12395201B2.txt",
+    "sha256": "a0041b8159b7d6c47cee691d3dadbfc821ad643e77732d1bcc9f0ef17644977b"
+  },
+  {
+    "path": "inputs/US12442483B2.txt",
+    "sha256": "7912b78638db9be49fd4f704ca872137f9d247dc6a2ba00ec045ce8190420629"
+  },
+  {
+    "path": "inputs/US20230291234A1.txt",
+    "sha256": "42f042c88bf356f53a98b32460352196c9799226d1acdadc3cb1c1e2003e7394"
+  },
+  {
+    "path": "inputs/US20250323990A1.txt",
+    "sha256": "00c79f350005ecd41f7c56f03caa52ba7a8f2d27f30c39f13f520263708856b9"
+  },
+  {
+    "path": "inputs/features.md",
+    "sha256": "977395bf22a89d34e6697d70b293657236bb9ba7347c278face7cff2122085b7"
+  },
+  {
+    "path": "inputs/intake.md",
+    "sha256": "2daba432e34730ff6080a70fefb6388333552c34b454055f7a0867f6b66ea15a"
+  },
+  {
+    "path": "inputs/product.md",
+    "sha256": "d4f95eb32ee5b0a125c4c67944b4393e80ab5a8af1d587f32a504195847efe24"
+  },
+  {
+    "path": "inputs/source-snapshot.json",
+    "sha256": "117b02c128de75f392fb618c08eb88ac44326fa69b0c866bc7c40b339ff319b6"
+  }
+]

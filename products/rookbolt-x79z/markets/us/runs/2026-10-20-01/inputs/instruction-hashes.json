@@ -1,0 +1,67 @@
+[
+  {
+    "repository_source": "prompts/05-copyright-and-adjacent.md",
+    "exact_copy": "inputs/exact-instructions/prompts--05-copyright-and-adjacent.txt",
+    "sha256": "f0bdcd58da48dcc8022bd66fc74c56b67a6f89765964c28c8346f04446bd9bd0"
+  },
+  {
+    "repository_source": "prompts/external-patent-search.md",
+    "exact_copy": "inputs/exact-instructions/prompts--external-patent-search.txt",
+    "sha256": "3f94527119bf07ce7e1702a3aca0787e55a7f0f30770d63f57ca1cf8479708cd"
+  },
+  {
+    "repository_source": "prompts/07-report.md",
+    "exact_copy": "inputs/exact-instructions/prompts--07-report.txt",
+    "sha256": "7f1b1a4845443f43fc0f7639fdd4fedfbdf7d6f686d54c2f84d13e2f4fad7442"
+  },
+  {
+    "repository_source": "prompts/00-research-plan.md",
+    "exact_copy": "inputs/exact-instructions/prompts--00-research-plan.txt",
+    "sha256": "25e3943261669b800729b170e5c06bfad7a9f946f645419517c3037363818373"
+  },
+  {
+    "repository_source": "prompts/02-patent-claims.md",
+    "exact_copy": "inputs/exact-instructions/prompts--02-patent-claims.txt",
+    "sha256": "5b97583807e07cb7743984c2dd2fcf43a20b206e319eb40aae1e11bb5f34e3d5"
+  },
+  {
+    "repository_source": "prompts/04-trademarks.md",
+    "exact_copy": "inputs/exact-instructions/prompts--04-trademarks.txt",
+    "sha256": "5dbd6bbfd1262e1ddf58a33ae04c9088113a3d6af835e0d0c46985ecb76ab6ae"
+  },
+  {
+    "repository_source": "prompts/03-designs.md",
+    "exact_copy": "inputs/exact-instructions/prompts--03-designs.txt",
+    "sha256": "06750e2158742cafaaecc4ba5aea3f6f5fa7e29643d8e6c7127097da16720534"
+  },
+  {
+    "repository_source": "prompts/06-challenge.md",
+    "exact_copy": "inputs/exact-instructions/prompts--06-challenge.txt",
+    "sha256": "c563c3e4584f9020a064778df37341f1d3ab84ea50ae7c0dee9c40ca8914b644"
+  },
+  {
+    "repository_source": "prompts/README.md",
+    "exact_copy": "inputs/exact-instructions/prompts--README.txt",
+    "sha256": "a9ad4883b3d37c17f763a387b64f28bddd9c42f662127f002815086f5f66b81b"
+  },
+  {
+    "repository_source": "prompts/01-scope-and-evidence.md",
+    "exact_copy": "inputs/exact-instructions/prompts--01-scope-and-evidence.txt",
+    "sha256": "2eb17d288bd8253869f68f48e9176e65f9d748e46b7a1bdb7740512fda3a7006"
+  },
+  {
+    "repository_source": "workflows/assurance-and-decisions.md",
+    "exact_copy": "inputs/exact-instructions/workflows--assurance-and-decisions.txt",
+    "sha256": "3e29ac1d64eb48bac19c46387144c57c834477eacb89a1746b9e79d52e616c6f"
+  },
+  {
+    "repository_source": "workflows/run-analysis.md",
+    "exact_copy": "inputs/exact-instructions/workflows--run-analysis.txt",
+    "sha256": "9b5764cb47396f13d9297b1bfbb39eb9610907e69db6be58c39d54e9b50fc6f5"
+  },
+  {
+    "repository_source": "workflows/rate-risk.md",
+    "exact_copy": "inputs/exact-instructions/workflows--rate-risk.txt",
+    "sha256": "8b15f5d80f3a49144a4555c2e8a9effa0fe1d60a9a96a5e2db04f665232c38cc"
+  }
+]
